@@ -1,4 +1,4 @@
-## O repositório com desenvolvimento completo de JavaScript para seu aprendizado e Full-Stack dev
+### O repositório com desenvolvimento completo de JavaScript para seu aprendizado e Full-Stack dev
 
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif"/><br>
 
