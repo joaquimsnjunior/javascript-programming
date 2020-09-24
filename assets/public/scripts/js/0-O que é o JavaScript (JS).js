@@ -1,6 +1,6 @@
 /* ------------------------ Servidor e Cliente ------------------------
 
-A internet é uma rede de computadores e obtemos arquivos através da Web.
+A internet é a maior rede de computadores do mundo e obtemos arquivos através da Web.
 Em desenvolvimento para a Web sempre separamos dois setores: Servidor e a Cliente. 
 
 O cliente é o computador do usuário, assim como o seu. É utilizado pelas pessoas para 
@@ -18,11 +18,21 @@ Os clientes, que podem ser qualquer dispositivo conectado à Internet como smart
 notebooks, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de front-end.
 
 Atualmente, o JavaScript domina as duas partes, front-end e back-end! Ou seja dá pra desenvolver muita coisa com apenas uma linguagem! O que é bastante produtivo e eficiente.
+
 */
 
 /* --------------------- A História do JavaScript ----------------------
 
 Em maio de 1995, Brendan Eich, que trabalhava na Netscape, desenvolveu uma linguagem de programação em apenas 10 dias. A linguagem era bem simples, com o intuito de atrair novos
-programadores para ela. O nome dessa linguagem inicialmente era "Mocha", 
+programadores para ela. O nome dessa linguagem inicialmente era "Mocha", que é o nome de um tipo de café. Logo esse nome foi alterado para LiveScript.
+
+Para aproveitar o marketing, o LiveScript teve seu nome alterado para JavaScript em 4 de dezembro de 1995. Isso causou confusões que existem até hoje para quem está começando no
+mundo da programação, pois pela semelhança do nome, muitos pensam que é a mesma coisa, ou que o JavaScript é uma versão mais simples do Java. Porém, foi apenas uma jogada de Marketing.
+
+*/
+
+/* -------------------- O que é JavaScript (JS)? -------------------------
+
+
 
 */

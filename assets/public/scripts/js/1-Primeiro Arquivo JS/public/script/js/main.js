@@ -1,0 +1,2 @@
+alert('Olá, mundo!'); // alert(); serve para exibir a mensagem em uma janela com ok e cancel na página
+console.log('Olá, mundo!'); // console.log(); serve para exibir a mensagem no console do navegador

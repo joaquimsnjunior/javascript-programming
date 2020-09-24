@@ -112,15 +112,15 @@
           break;
 
           case 'isaac':
-            window.alert('Ele é lindo 😍🥰❤️💝💕😘');
+            window.alert('Ele é lindo 😍');
           break;
 
           case 'Isaac':
-            window.alert('Ele é lindo 😍🥰❤️💝💕😘');
+            window.alert('Ele é lindo 😍');
           break;
 
           case 'ISAAC':
-            window.alert('Ele é lindo 😍🥰❤️💝💕😘');
+            window.alert('Ele é lindo 😍');
           break;
         } // inserindo letras e o Easter Egg
 
