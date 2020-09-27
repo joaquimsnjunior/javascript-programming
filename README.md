@@ -1,6 +1,6 @@
 ## O repositório completo de JavaScript para seu aprendizado Full-Stack.
 
-<img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif"/><br>
+<img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS"/><br>
 
 ## Dicionários JS
 <img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg"/>
