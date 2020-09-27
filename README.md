@@ -9,3 +9,6 @@
 
 ## Poo JS
 <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3"/>
+
+## ES6
+<img src="https://media.vlpt.us/images/sangminnn/post/3b3e7fc8-d255-46df-92fb-71e91bcf2408/real%20es6.png"/>
