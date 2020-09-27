@@ -4,6 +4,9 @@
 ## Olá, mundo! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 
+## Condições JS
+<img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
+
 ## Loops JS
 <img src="https://www.north-47.com/wp-content/uploads/2020/06/1_JA57AArvHLn3tulDxJKzEg.jpeg" width="1000"/>
 
