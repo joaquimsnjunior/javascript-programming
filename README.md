@@ -4,6 +4,9 @@
 ## Olá, mundo! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 
+## Arrays JS
+<img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1000"/>
+
 ## Dicionários JS
 <img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg"/>
 
