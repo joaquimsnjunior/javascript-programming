@@ -23,7 +23,9 @@
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 
 <pre>
-  <code>console.log('Hello, World!');</code>
+<ol>
+  <li><code>console.log('Hello, World!');</code></ol>
+</ol>
 </pre>
 
 ## JS Conditionals
