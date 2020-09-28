@@ -1,6 +1,17 @@
 ## O repositório completo de JavaScript para seu aprendizado Full-Stack JS
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS"/><br>
 
+# Introdução - Visão geral sobre a linguagem JavaScript (JS)
+<strong>Conteúdos: </strong>
+<ul>
+  <li>Histórico da Linguagem JavaScript.</li>
+  <li></li>
+  <li></li>
+  <li>Palavras de uso interno e restrito.</li>
+  <li>Conhecendo o ambiente de desenvolvimento Visual Studio: Toolbox, Solution Explorer, Controles, Janela de Propriedades, Janelas.</li>
+  <li>Console Application versus Windows Forms.</li>
+</ul>
+
 ## Olá, mundo! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 
