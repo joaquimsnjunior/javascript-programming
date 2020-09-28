@@ -1,15 +1,15 @@
-# O repositório de JavaScript para o aprendizado Full-Stack
+# It's a repository of JavaScript for Full-Stack learning
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS"/><br>
 
-## Introdução - Visão geral sobre a linguagem JavaScript (JS)
-<strong>Conteúdos: </strong>
+## Introduction - Overview about the JavaScript (JS) language
+<strong>Contents: </strong>
 <ul>
-  <li>Histórico da Linguagem JavaScript (JS).</li>
+  <li>The history of JavaScript (JS).</li>
   <li></li>
   <li></li>
-  <li>Palavras de uso interno e restrito.</li>
-  <li>Conhecendo o ambiente de desenvolvimento Visual Studio: Toolbox, Solution Explorer, Controles, Janela de Propriedades, Janelas.</li>
-  <li>Console Application versus Windows Forms.</li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 
 ## Hello, world! JS
