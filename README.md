@@ -24,6 +24,9 @@
 ## Arrays JS
 <img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1000"/>
 
+## Date JS
+<img src="https://www.utep.edu/extendeduniversity/utepconnect/blog/january-2018/schedule-1.jpg" width="1000"/>
+
 ## Dicionários JS
 <img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg"/>
 
