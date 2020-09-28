@@ -4,7 +4,7 @@
 ## Introdução - Visão geral sobre a linguagem JavaScript (JS)
 <strong>Conteúdos: </strong>
 <ul>
-  <li>Histórico da Linguagem JavaScript.</li>
+  <li>Histórico da Linguagem JavaScript (JS).</li>
   <li></li>
   <li></li>
   <li>Palavras de uso interno e restrito.</li>
