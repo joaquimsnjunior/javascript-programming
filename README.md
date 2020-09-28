@@ -33,7 +33,7 @@
 ## Funções JS
 <img src="https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15687/comprehensive-guide-javascript-design-patterns-cf0c7c0e69d51d97044a8431da9175e3.png" height="450" width="1070"/>
 
-## Poo JS
+## JS OOP
 <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3" width="1700"/>
 
 ## EcmaScript 6 (ES6)
