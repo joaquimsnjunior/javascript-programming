@@ -22,14 +22,11 @@
 ## Hello, world! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 
-
-<ol>
  <pre>
-  <li><code>console.log('Hello, World!');</code></li>
-  <li><code>console.log('Hello, World!');</code></li>
-  <li><code>console.log('Hello, World!');</code></li>
+  <code>console.log('Hello, World!');</code>
+  <code>alert(Hello, World!);</code>
+  <code>console.log('Hello, World!');</code>
  </pre>
-</ol>
 
 
 ## JS Conditionals
