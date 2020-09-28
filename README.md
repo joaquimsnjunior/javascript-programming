@@ -2,7 +2,7 @@
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
 
 ## Introduction - Overview about the JavaScript (JS) language
-<strong>Contents: </strong>
+<strong>Topics: </strong>
 <ul>
   <li>The History of JavaScript (JS).</li>
   <li>What's the JavaScript language?</li>
