@@ -24,11 +24,17 @@
 
  <pre>
   <code>console.log('Hello, World!');</code>
-  <code>alert(Hello, World!);</code>
-  <code>console.log('Hello, World!');</code>
  </pre>
 
-
+ <pre>
+  <code>alert('Hello, World!');</code>
+ </pre>
+ 
+ 
+ <pre>
+  <code>console.log('Hello, World!');</code>
+ </pre>
+ 
 ## JS Conditionals
 <img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
 
