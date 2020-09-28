@@ -36,7 +36,7 @@
 ## EcmaScript 6 (ES6)
 <img src="https://media.vlpt.us/images/sangminnn/post/3b3e7fc8-d255-46df-92fb-71e91bcf2408/real%20es6.png" width="1700"/>
 
-## jQuery
+## Framework jQuery
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/512px-Logo_jQuery.svg.png" width="1000"/>
 
 ## Node.js
