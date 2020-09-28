@@ -5,7 +5,7 @@
 <strong>Contents: </strong>
 <ul>
   <li>The History of JavaScript (JS).</li>
-  <li>What's the JavaScript language?.</li>
+  <li>What's the JavaScript language?</li>
   <li>Procedural JavaScript.</li>
   <li>JavaScript OOP.</li>
   <li>Functional JavaScript.</li>
