@@ -24,7 +24,7 @@
 ## JS Arrays
 <img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1000"/>
 
-## Date JS
+## JS Date
 <div align="center"><img src="https://coffeeshopdeveloper.com/uploads/30-seconds-of-code.png" width="300"/></div>
 
 ## JS Dicionaries
