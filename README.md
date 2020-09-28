@@ -12,25 +12,25 @@
   <li>Console Application versus Windows Forms.</li>
 </ul>
 
-## Olá, mundo! JS
+## Hello, world! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 
-## Condições JS
+## JS Conditionals
 <img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
 
-## Loops JS
+## JS Loops
 <img src="https://www.north-47.com/wp-content/uploads/2020/06/1_JA57AArvHLn3tulDxJKzEg.jpeg" width="1000"/>
 
-## Arrays JS
+## JS Arrays
 <img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1000"/>
 
 ## Date JS
 <div align="center"><img src="https://coffeeshopdeveloper.com/uploads/30-seconds-of-code.png" width="300"/></div>
 
-## Dicionários JS
+## JS Dicionaries
 <img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg"/>
 
-## Funções JS
+## JS Functions
 <img src="https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15687/comprehensive-guide-javascript-design-patterns-cf0c7c0e69d51d97044a8431da9175e3.png" height="450" width="1070"/>
 
 ## JS OOP
