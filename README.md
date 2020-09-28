@@ -20,8 +20,8 @@
 <p>In 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a> that who worked at NetScape</p>
 
 ## Hello, world! JS
-<img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
-
+<img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/><br>
+<p>Abaixo é apresentado o comando console.log: </p>
  <pre>
   <code>console.log('Hello, World!');</code>
  </pre>
