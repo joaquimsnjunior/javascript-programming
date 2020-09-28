@@ -25,7 +25,7 @@
 <img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1000"/>
 
 ## Date JS
-<img src="https://coffeeshopdeveloper.com/uploads/30-seconds-of-code.png" width="700"/>
+<div align="center"><img src="https://coffeeshopdeveloper.com/uploads/30-seconds-of-code.png" width="400"/></div>
 
 ## Dicionários JS
 <img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg"/>
