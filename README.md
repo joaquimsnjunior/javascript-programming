@@ -24,7 +24,9 @@
 
 <pre>
 <ol>
-  <li><code>console.log('Hello, World!');</code></ol>
+  <li><code>console.log('Hello, World!');</code></li>
+  <li><code>console.log('Hello, World!');</code></li>
+  <li><code>console.log('Hello, World!');</code></li>
 </ol>
 </pre>
 
