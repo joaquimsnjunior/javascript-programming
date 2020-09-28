@@ -1,4 +1,4 @@
-# O repositório de JavaScript para o aprendizado Full-Stack
+# O repositório de JavaScript para o aprendizado Full-Stack JS
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS"/><br>
 
 ## Introdução - Visão geral sobre a linguagem JavaScript (JS)
@@ -35,6 +35,9 @@
 
 ## EcmaScript 6 (ES6)
 <img src="https://media.vlpt.us/images/sangminnn/post/3b3e7fc8-d255-46df-92fb-71e91bcf2408/real%20es6.png" width="1700"/>
+
+## jQuery
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/512px-Logo_jQuery.svg.png" width="1000"/>
 
 ## Node.js
 <img src="https://cdn1.vogel.de/unsafe/fit-in/1000x0/images.vogel.de/vogelonline/bdb/1368100/1368165/original.jpg"/>
