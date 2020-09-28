@@ -4,12 +4,14 @@
 ## Introduction - Overview about the JavaScript (JS) language
 <strong>Contents: </strong>
 <ul>
-  <li>The history of JavaScript (JS).</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>The History of JavaScript (JS).</li>
+  <li>Procedural JavaScript.</li>
+  <li>JavaScript OOP.</li>
+  <li>Functional JavaScript.</li>
+  <li>EcmaScript 6 (ES6).</li>
+  <li>Framework jQuery.</li>
+  <li>Node.js.</li>
+  
 </ul>
 
 ## The History of JavaScript (JS)
