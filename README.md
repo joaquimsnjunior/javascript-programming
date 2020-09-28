@@ -15,7 +15,7 @@
 </ul>
 
 ## The History of JavaScript (JS)
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="270"/></div>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="200"/></div><br>
 <p>In 1995, </p>
 
 ## Hello, world! JS
