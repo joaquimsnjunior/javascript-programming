@@ -19,14 +19,12 @@
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="200"/></div><br>
 <p>In 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a> that who worked at NetScape</p>
 
-<pre>
-  <code>pdkdpkd</code>
-</pre>
-
-
-
 ## Hello, world! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
+
+<pre>
+  <code>console.log('Hello, World!');</code>
+</pre>
 
 ## JS Conditionals
 <img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
