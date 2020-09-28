@@ -1,7 +1,7 @@
-## O repositório completo de JavaScript para seu aprendizado Full-Stack JS
+# O repositório completo de JavaScript para seu aprendizado Full-Stack JS
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS"/><br>
 
-# Introdução - Visão geral sobre a linguagem JavaScript (JS)
+## Introdução - Visão geral sobre a linguagem JavaScript (JS)
 <strong>Conteúdos: </strong>
 <ul>
   <li>Histórico da Linguagem JavaScript.</li>
