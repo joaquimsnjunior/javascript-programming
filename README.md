@@ -75,5 +75,11 @@
   <code><!Doctype html></code>
 </pre>
 
+### Dois arquivos:
+<pre>
+  <code>jquery.js</code>
+  <code>script_jquery.js</code>
+</pre>
+
 ## Node.js
 <img src="https://cdn1.vogel.de/unsafe/fit-in/1000x0/images.vogel.de/vogelonline/bdb/1368100/1368165/original.jpg"/>
