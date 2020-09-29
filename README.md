@@ -77,8 +77,8 @@
 
 ### Dois arquivos:
 <pre>
-  <code>jquery.js</code>
-  <code>script_jquery.js</code>
+  <code>📜 jquery.js</code>
+  <code>📜 script_jquery.js</code>
 </pre>
 
 ## Node.js
