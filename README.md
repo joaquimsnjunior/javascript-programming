@@ -68,7 +68,7 @@
 
 ## jQuery Framework 
 <img src="https://cdn1.vogel.de/kaNCYI0Lx-zrDezwq8BaF3cFGI8=/fit-in/1200x630/filters:format(png):quality(90)/images.vogel.de/vogelonline/bdb/1494700/1494776/original.jpg" width="1000"/>
-<p>Pode ser baixado no site oficial ou usado pelo CDN (Content Delivery Network), para isso basta copiar um dos códigos abaixo (escolha apenas uma versão) e colar no seu código HTML. Recomenda-se a versão 3 do CDN.</p>
+<p>Pode ser baixado no site oficial ou usado pelo <a href="">CDN</a> (<i>Content Delivery Network</i>), para isso basta copiar um dos códigos abaixo (escolha apenas uma versão) e colar no seu código HTML. Recomenda-se a versão 3 do CDN.</p>
 
 ### Modo de uso:
 <pre>
