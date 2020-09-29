@@ -76,8 +76,8 @@
 
 ### Dois arquivos:
 <pre>
-  <code>📜 jquery.js</code>
-  <code>📜 script_jquery.js</code>
+  <code><span style="color: red">📜 jquery.js</span></code>
+  <code><span style="color: red">📜 script_jquery.js</span></code>
 </pre>
 
 ## Node.js
