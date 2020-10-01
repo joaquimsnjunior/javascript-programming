@@ -15,7 +15,7 @@
 </ol>
 
 ## The History of JavaScript (JS)
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="200"/></div><br>
+<div align="center"><img src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png" height="200"/></div><br>
 <p>In 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a> that who worked at NetScape</p>
 
 ### JavaScript (JS) Timeline
