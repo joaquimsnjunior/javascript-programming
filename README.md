@@ -135,9 +135,15 @@
 </pre>
 
 ### Alterando o CSS
+<p>Da pra alterar o estilo do elemento.</p>
+
 <pre>
+<h2>📜 main.js</h2>
 <code>$(function() { 
-$</code>
+ $('button'.click(function(){
+  $('h1').css("color","red");
+   });
+  });</code>
 </pre>
 
 ## Node.js
