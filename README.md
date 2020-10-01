@@ -100,6 +100,7 @@
 
 
 <pre>
+<h2>📝 index.html</h2>
 <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html&gt;</code>
 <code>&lt;head&gt;</code>
