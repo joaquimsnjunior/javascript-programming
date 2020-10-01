@@ -70,6 +70,8 @@
 <p>Pode ser baixado no site oficial ou usado pelo <a href="">CDN</a> (<i>Content Delivery Network</i>), para isso basta copiar um dos códigos abaixo (escolha apenas uma versão) e colar no seu código HTML. Recomenda-se a versão 3 do CDN.</p>
 
 ### Modo de uso:
+<p>Pode-se usar os scripts tanto no &lt;head&gt; como no &lt;body&gt;.</p>
+
 <pre>
 <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html&gt;</code>
@@ -85,9 +87,10 @@
 </pre>
 
 ### Dois arquivos:
+<p>O script "jquery.js" é a biblioteca, já o arquivo "main.js" é o script que iremos desenvolver a partir da biblioteca adicionada no projeto.</p>
 <pre>
   <code>📜 jquery.js</span></code>
-  <code>📜 jquery_script.js</code>
+  <code>📜 main.js</code>
 </pre>
 
 ## Node.js
