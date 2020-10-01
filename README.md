@@ -182,15 +182,15 @@
 <p></p>
 <pre><code>$('').fadeIn();</code></pre>
 
-### Gravando mensagens
+### Gravando mensagens (methods)
 <p></p>
 <pre><code>$('mensagem').text("texto");</code></pre>
 
-### Declarações multiplas do CSS
+### Declarações multiplas do CSS (methods)
 <p></p>
 <pre><code>.css({color:'red', border:'1px solid red', backgroundColor:'red'});</code></pre>
 
-### Adicionando e removendo Classes
+### Adicionando e removendo Classes (methods)
 <p>Insira a classe no css e chame pelo js.</p>
 <pre><code>.addClass('.classe');</code></pre>
 <pre><code>.removeClass('.classe');</code></pre>
