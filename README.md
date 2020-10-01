@@ -76,7 +76,7 @@
 <code>&lt;head&gt;</code>
   <code>&lt;meta charset="utf-8"&gt;</code>
   <code>&lt;link rel="" &gt;</code>
-  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
+  <code>&lt;title&gt;jQueryL&lt;/title&gt;</code>
 <code>&lt;/head&gt;</code>
 <code>&lt;body&gt;</code>
    <code>&lt;script src="jquery.js"&gt;&lt;/script&gt;</code>
