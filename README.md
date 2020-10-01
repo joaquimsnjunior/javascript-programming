@@ -110,14 +110,19 @@
   <code>&lt;title&gt;Esconder mensagem&lt;/title&gt;</code>
 <code>&lt;/head&gt;</code>
 <code>&lt;body&gt;</code>
+   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
+   <code>&lt;button&gt;Esconder o título&lt;/button&gt;</code>
    <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
 
 <pre>
- <h1>📜 main.js</h1>
+ <h2>📜 main.js</h2>
  <code>$(document).ready(function(){
+  $('button').click(function(){
+   $('h1').hide();
+  });
  });</code>
 </pre>
 
