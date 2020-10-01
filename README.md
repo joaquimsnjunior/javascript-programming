@@ -65,6 +65,9 @@
 ## JS OOP
 <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3" width="1700"/>
 
+## JS Validations
+<img src="https://www.islamzatary.com/wp-content/uploads/2017/09/advanced_js.jpg" height="410" width="1070"/>
+
 ## EcmaScript 6 (ES6)
 <img src="https://media.vlpt.us/images/sangminnn/post/3b3e7fc8-d255-46df-92fb-71e91bcf2408/real%20es6.png" width="1700"/>
 
