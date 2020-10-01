@@ -73,6 +73,7 @@
 <p>Pode-se usar os scripts tanto no &lt;head&gt; como no &lt;body&gt;.</p>
 
 <pre>
+<h2>📝 index.html</h2>
 <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html&gt;</code>
 <code>&lt;head&gt;</code>
