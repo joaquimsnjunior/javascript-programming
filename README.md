@@ -146,5 +146,41 @@
   });</code>
 </pre>
 
+### Mudando a cor individual
+<pre>
+<h2>📝 index.html</h2>
+<code>&lt;!Doctype html&gt;</code>
+<code>&lt;html&gt;</code>
+<code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;script src="jquery.js"&gt;&lt;/script&gt;</code>
+  <code>&lt;title&gt;Esconder mensagem&lt;/title&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
+   <code>&lt;h1 id="new_h1"&gt;Hello, World! Again!&lt;/h1&gt;</code>
+   <code>&lt;button&gt;Esconder o título&lt;/button&gt;</code>
+   <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
+<code>&lt;/body&gt;</code>
+<code>&lt;/html&gt;</code>
+</pre>
+
+<pre>
+<h2>📜 main.js</h2>
+<code>$(function() { 
+ $('button'.click(function(){
+  $('#new_h1').css("color","red");
+   });
+  });</code>
+</pre>
+
+### Efeito Fade (methods)
+<p></p>
+<pre><code>$('').fadeOut();</code></pre>
+<p></p>
+<pre><code>$('').delay(1000);</code></pre>
+<p></p>
+<pre><code>$('').fadeIn();</code></pre>
+
 ## Node.js
 <img src="https://cdn1.vogel.de/unsafe/fit-in/1000x0/images.vogel.de/vogelonline/bdb/1368100/1368165/original.jpg"/>
