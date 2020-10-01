@@ -124,6 +124,14 @@
    $('h1').hide();
   });
  });</code>
+ 
+ <h1>Simplificando...</h1>
+ <h2>📜 main.js</h2>
+ <code>$(function(){
+  $('button').click(function(){
+   $('h1').hide();
+  });
+ });</code>
 </pre>
 
 ## Node.js
