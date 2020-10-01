@@ -98,7 +98,7 @@
 ## Primeiros Passos com o jQuery:
 
 ### Esconder mensagem
-
+<p>Veja como é fácil desenvolver com o Framework jQuery, pois foram utilizadas poucas linhas de código para esconder o título.</p>
 
 <pre>
 <h2>📝 index.html</h2>
