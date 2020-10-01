@@ -182,5 +182,18 @@
 <p></p>
 <pre><code>$('').fadeIn();</code></pre>
 
+### Gravando mensagens
+<p></p>
+<pre><code>$('mensagem').text("texto");</code></pre>
+
+### Declarações multiplas do CSS
+<p></p>
+<pre><code>.css({color:'red', border:'1px solid red', backgroundColor:'red'});</code></pre>
+
+### Adicionando e removendo Classes
+<p>Insira a classe no css e chame pelo js.</p>
+<pre><code>.addClass('.classe');</code></pre>
+<pre><code>.removeClass('.classe');</code></pre>
+
 ## Node.js
 <img src="https://cdn1.vogel.de/unsafe/fit-in/1000x0/images.vogel.de/vogelonline/bdb/1368100/1368165/original.jpg"/>
