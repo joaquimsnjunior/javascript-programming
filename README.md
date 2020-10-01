@@ -71,7 +71,17 @@
 
 ### Modo de uso:
 <pre>
-  <code><!Doctype html></code>
+<code>&lt;!Doctype html&gt;</code>
+<code>&lt;html&gt;</code>
+<code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;link rel="" &gt;</code>
+  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
+<code>&lt;/body&gt;</code>
+<code>&lt;/html&gt;</code>
 </pre>
 
 ### Dois arquivos:
