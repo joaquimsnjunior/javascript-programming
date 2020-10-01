@@ -81,7 +81,7 @@
   <code>&lt;title&gt;jQuery&lt;/title&gt;</code>
 <code>&lt;/head&gt;</code>
 <code>&lt;body&gt;</code>
-   <code>&lt;script src="jquery_script.js"&gt;&lt;/script&gt;</code>
+   <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
@@ -108,7 +108,7 @@
   <code>&lt;title&gt;Esconder mensagem&lt;/title&gt;</code>
 <code>&lt;/head&gt;</code>
 <code>&lt;body&gt;</code>
-   <code>&lt;script src="jquery_script.js"&gt;&lt;/script&gt;</code>
+   <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
