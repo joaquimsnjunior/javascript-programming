@@ -86,11 +86,31 @@
 <code>&lt;/html&gt;</code>
 </pre>
 
-### Dois arquivos:
-<p>O script "jquery.js" é a biblioteca, já o arquivo "main.js" é o script que iremos desenvolver a partir da biblioteca adicionada no projeto.</p>
+### Preparando arquivos:
+<p>Começando pelo "index.html" para processar a página. O script "jquery.js" é a biblioteca, já o arquivo "main.js" é o script que iremos desenvolver a partir da biblioteca adicionada no projeto.</p>
 <pre>
+  <code>📝 index.html</span></code>
   <code>📜 jquery.js</span></code>
   <code>📜 main.js</code>
+</pre>
+
+## Primeiros Passos com o jQuery:
+
+### Esconder mensagem
+
+
+<pre>
+<code>&lt;!Doctype html&gt;</code>
+<code>&lt;html&gt;</code>
+<code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;script src="jquery.js"&gt;&lt;/script&gt;</code>
+  <code>&lt;title&gt;Esconder mensagem&lt;/title&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+   <code>&lt;script src="jquery_script.js"&gt;&lt;/script&gt;</code>
+<code>&lt;/body&gt;</code>
+<code>&lt;/html&gt;</code>
 </pre>
 
 ## Node.js
