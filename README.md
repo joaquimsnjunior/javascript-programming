@@ -133,7 +133,7 @@
   });
  });</code>
  
- <h1>Simplificando...</h1>
+ <h3>Simplificando...</h3>
  <h2>📜 main.js</h2>
  <code>$(function(){
   $('button').click(function(){
