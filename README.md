@@ -15,8 +15,8 @@
   <li>jQuery Framework.</li>
   <li>Node.js.</li>
 </ol>
-
-<div align="center"><h1>2. Client-side and Server-side</h1></div>
+<hr>
+<div align="center"><h1>1. Client-side and Server-side</h1></div>
 <p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
   
 Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor e a parte do cliente.
@@ -29,6 +29,7 @@ O <strong>cliente</strong> é o computador do usuário, assim como o seu. É uti
 Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de <b>front-end</b>.</p>
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 <p>Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.</p>
+
 ## The History of JavaScript (JS)
 <div align="left"><img src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png" width="1000"/></div><br>
 <p>In 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a> that who worked at NetScape</p>
