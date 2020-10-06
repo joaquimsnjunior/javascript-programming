@@ -52,7 +52,7 @@ Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet com
   <code>alert('Hello, World!');</code>
  </pre>
  
- 
+ ## JavaScript no Console do Navegador
  <pre>
   <code>console.log('Hello, World!');</code>
  </pre>
