@@ -143,6 +143,190 @@ Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet com
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 <p>Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.</p>
 
+<div align="center"><h1>3. HTML5 and CSS3</h1></div>
+<div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="200"/></div><br>
+<p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.</p>
+<p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
+
+## HTML5 - Hypertext Makup Language 5
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div>
+<p>A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
+
+In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
+</p>
+
+### HTML Timeline
+<ol>
+  <li>HTML é tornado público - 1989</li>
+  <li>HTML - 1991</li>
+  <li>Primeira especificação - 1992</li>
+  <li>HTML 2.0 é publicado e é criado o JavaScript (JS)- 1995</li>
+  <li>Inclusão de novos elementos e a apresentação do CSS 1 - 1996</li>
+  <li>HTML 3.2 - 1997</li>
+  <li>HTML 4 é publicado - 1998</li>
+  <li>HTML 4.01	- 1999</li>
+  <li>Norma ISO para o HTML e o XHTML 1 - 2000</li>
+  <li>HTML5 é publicado - 2008</li>
+  <li>W3C parou de trabalhar no XHTML e a desviou recursos para HTML5 - 2009</li>
+  <li>HTML5	- 2014</li>
+  <li>HTML5.1	- 2016 e 2017 (2nd ed.)</li>
+  <li>HTML5.2	- 2017/(Atualmente)</li>
+</ol>
+<p>Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XML. Então o HTML foi congelado na versão 4.01 e uma especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XML, exigindo regras de sintaxe como atributos com aspas, algumas tags com fechamento, enquanto outras eram autocontidas.</p>
+<p>Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.</p>
+<p>Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.</p>
+
+## CSS3 - Cascading Style Sheets 3
+<div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
+<p><b>CSS</b> (<i>Cascading Style Sheets</i>), is a "Stylesheets" composta for "camadas" and used to define the presentation (aparence) in internet pages that adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
+de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
+
+Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos (:). Cada declaração de propriedade é separada por um ponto e vírgula (;).
+
+### Tipos de CSS
+<ul>
+<li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
+<br><b>Exemplo de CSS interno:</b><br>
+<pre>&lt;style&gt; * { margin: 0; padding: 0;} &lt;/style&gt;</pre>
+<li><b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML.</li>
+<br><b>Exemplo de CSS externo:</b><br>
+<pre>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</pre>
+<li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada.</li>
+<br><b>Exemplo de CSS inline:</b><br>
+<pre>&lt;p style="color:olive;font-size:19px;background-color:black"&gt;&lt;/p&gt;</pre>
+</ul>
+</p>
+
+## JS - JavaScript
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Repositório do JavaScript"/></a><br></div><br>
+<p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
+
+Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários.
+
+O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
+
+Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
+
+É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
+
+## DOM - Document Object Model
+<div align="center"><img src="https://www.kirupa.com/html5/images/DOM_js_72.png"/></div><br>
+<p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of language for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
+
+The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
+
+## API's
+<p>Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
+estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto,
+sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades.
+O HTML5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento),
+que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
+
+Essas novas APIs ajudam a arrastar e soltar objetos enviados pelo servidor, tais como, desenho, vídeos e similares.
+
+Essas novas interfaces que as páginas HTML expõem ao JavaScript via objetos na DOM tornam mais fácil escrever as aplicações,
+utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-documentadas.
+
+Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
+Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
+
+Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  &lt;font&gt;, &lt;center&gt; e outras novas, pois milhões de páginas web as utilizam.</p>
+<hr>
+
+<div align="center"><h1>4. TAGs HTML</h1></div>
+<p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: &lt;meta&gt;, &lt;h1&gt;, &lt;img&gt; etc. 
+
+Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <b>&lt;meta&gt;</b> e <b>&lt;link&gt;</b>.
+
+Além disso, são divididas em categorias conforme a seguir:
+<ul>
+  <li>Metadados</li>
+  <li>O elemento root</li>
+  <li>Agrupamento de conteúdo</li>
+  <li>Seções</li>
+  <li>Script</li>
+  <li>Edições</li>
+  <li>Semânticas de nível de texto</li>
+  <li>Conteúdo incorporado</li>
+  <li>Tabelas</li>
+  <li>Formulários</li>
+  <li>Interativo</li>
+</ul>
+
+Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
+
+Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
+</p>
+
+## Atributos de uma TAG
+<p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
+
+Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <b>&lt;link&gt;</b>:
+<pre>
+&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
+</pre>
+Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
+
+### Lista de Atributos Específicos de uma TAG
+<ul>
+  <li><b>rel=""</b> especifica o relacionamento entre o documento atual e o documento linkado.</li>
+  <li><b>src=""</b> especifica a URL do arquivo de mídia.</li>
+  <li><b>type=""</b> especifica o tipo do documento.</li>
+  <li><b>alt=""</b> mostra o texto quando a aparência não renderiza.</li>
+  <li><b>target=""</b> especifica o modo de abrir o link em janela.</li>
+  <li><b>width=""</b> especifica a largura do elemento.</li> 
+  <li><b>height=""</b> especifica a altura do elemento.</li>
+  <li><b>name=""</b> especifica o nome do elemento.</li>
+  <li><b>value=""</b> especifica o valor do elemento.</li>
+</ul>
+
+### Lista de Atributos Globais de uma TAG
+<ul>
+  <li><b>title=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>  
+  <li><b>class=""</b> especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS).</li>  
+  <li><b>id=""</b> especifica uma unica id para um elemento (referência de id para o CSS).</li>  
+</ul>
+
+
+### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript)
+<ul>
+  <li><b>onclick=""</b> script roda quando o elemento é clicado.</li>  
+  <li><b>onabort=""</b> script roda no abortar.</li>  
+  <li><b>onchange=""</b> script roda quando o valor do elemento é mudado.</li>  
+</ul>
+
+## Estrutura do HTML
+
+<p>Tudo começa com o diretório <b>assets</b>, e dentro dele as pastas <b>public</b> e <b>src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
+<pre>
+<code><h2>📂 /assets....</h2></code>
+  <code><b>📂 /public...</b></code>
+  <code><b>📂 images</b></code>
+  <code><b>📂 scripts</b></code>
+  <code><b>📂 /styles..</b></code>
+  <code><b>📂 /css.</b></code>
+  <code><p>📝 style.css</p></code>
+  <code><b>📂 /src..</b></code>
+  <code><b>📂 /pages.</b></code>
+  <code><p>📝 index.html</p></code>
+</pre>
+<p> O <b>index.html</b> é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o <b>style.css</b> é o padrão para editar um ou mais arquivos HTML.</p>
+
+<pre>
+<h2>📝 index.html</h2>
+<code>&lt;!Doctype html&gt;</code>
+<code>&lt;html lang="pt-br"&gt;</code>
+<code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
+  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
+<code>&lt;/body&gt;</code>
+<code>&lt;/html&gt;</code>
+</pre>
+
 ## The History of JavaScript (JS)
 <div align="left"><img src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png" width="1000"/></div><br>
 <p>In 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a> that who worked at NetScape</p>
