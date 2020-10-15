@@ -376,7 +376,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conex√£o, que no caso √
 <img src="https://www.islamzatary.com/wp-content/uploads/2017/09/advanced_js.jpg" height="410" width="1070"/>
 
 ## JS Validations
-<img src="https://cdn-media-1.freecodecamp.org/images/1*tBXQMulrsKL21K66SVQ5jA.png"/>
+<img src="https://cdn-media-1.freecodecamp.org/images/1*tBXQMulrsKL21K66SVQ5jA.png" width="1070"/>
 
 ## EcmaScript 6 (ES6)
 <img src="https://media.vlpt.us/images/sangminnn/post/3b3e7fc8-d255-46df-92fb-71e91bcf2408/real%20es6.png" width="1700"/>
