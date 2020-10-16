@@ -1,4 +1,4 @@
-# It's a repository of JavaScript for the Full-Stack learning
+# It's a repository of JavaScript (JS) programming 
 <p>Criei esse repositório para meu aprendizado no desenvolvimento JavaScript Full-Stack. Obs: É importante instalar cada um dos componentes apresentados e executar os códigos na sua própria máquina. Além disso, vale lembrar que esse repositório é somente focado no desenvolvimento JavaScript, se quer aprender sobre HTML e CSS recomendo acessar o outro repositório pelo link abaixo!</p>
 
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
