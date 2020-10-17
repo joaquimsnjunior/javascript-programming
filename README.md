@@ -381,6 +381,25 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conex√£o, que no caso √
 
 ## JS Validations
 <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt2-light_1200x303.png?sfvrsn=cc305226_2" width="1070"/>
+<img src="https://becode.com.br/wp-content/uploads/2018/04/frameworks-js2-1.png" width="1070"/>
+<img src="https://miro.medium.com/max/2732/1*BPSx-c--z6r7tY29L19ukQ.png" width="1070"/>
+<img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/08/teste-de-performance-javascript.png" width="1070"/>
+<img src="https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/seleccionar-elementos-con-queryselector-t1.png" width="1070"/>
+<img src="https://www.desarrollolibre.net/public/images/example/javascript/portapapeles_javascript.png" width="1070"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtTR_qc3VZrY4xPzLStpmYDXLT66ZdqLPkYw&usqp=CAU" width="1070"/>
+<img src="https://cutewallpaper.org/21/javascript-wallpaper/JavaScript-Promises-JS.MD.png" width="1070"/>
+<img src="https://bloggeek.me/wp-content/uploads/2017/09/201709-javascript-king.jpg" width="1070"/>
+
+
+
+
+
+
+
+
+
+
+
 
 ## JS Validations
 <img src="https://techonria.files.wordpress.com/2016/07/arrow.png?w=785" width="1070"/>
