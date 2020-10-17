@@ -389,6 +389,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conex√£o, que no caso √
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtTR_qc3VZrY4xPzLStpmYDXLT66ZdqLPkYw&usqp=CAU" width="1070"/>
 <img src="https://cutewallpaper.org/21/javascript-wallpaper/JavaScript-Promises-JS.MD.png" width="1070"/>
 <img src="https://bloggeek.me/wp-content/uploads/2017/09/201709-javascript-king.jpg" width="1070"/>
+<img src="https://miro.medium.com/max/600/0*fPG6D58K9s_2l3kK.png" width="1070"/>
 
 
 
