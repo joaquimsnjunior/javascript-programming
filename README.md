@@ -548,3 +548,5 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 ## Node.js
 <img src="https://cdn1.vogel.de/unsafe/fit-in/1000x0/images.vogel.de/vogelonline/bdb/1368100/1368165/original.jpg"/>
+
+# Vanilla JS 📒📜🍦
