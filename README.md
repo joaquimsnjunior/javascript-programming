@@ -2,6 +2,7 @@
 <p>Criei esse repositório para meu aprendizado no desenvolvimento JavaScript Full-Stack.</p>
 <blockquote>Obs: É importante instalar cada um dos componentes apresentados e executar os códigos na sua própria máquina. Além disso, vale lembrar que esse repositório é somente focado no desenvolvimento JavaScript, se quer aprender sobre HTML e CSS recomendo acessar o outro repositório pelo link abaixo!</blockquote>
 <li>https://github.com/IsaacAlves7/html5-and-css3-development</li>
+&nbsp;
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
 
 ## Introduction - Overview about the JavaScript (JS) language 📜
