@@ -66,7 +66,7 @@ O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no in
 ## 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
 
 <div align="center"><img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-ajax/sta-je-ajax.jpg" height="270"/></div>
-Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
+Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (Asynchronous JavaScript And XML), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
 
 ## V8
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="270"/></div>
