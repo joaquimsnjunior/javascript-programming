@@ -47,7 +47,7 @@ Essa simplicidade esconde o quão poderoso podemos tornar nosso desenvolvimento,
 
 Por fim, que venha o JavaScript, uma linguagem flexível que consegue se aproximar de muitas outras, mas que em sua essência é completamente diferente. Sendo assim vamos aprender o que realmente ela tem a nos oferecer, e perceber quão poderosa ela pode se tornar dentro de nossas aplicações.
 
-Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos, isto significa que todos os elementos de uma página da Web são tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
+Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos, isto significa que <b>todos os elementos de uma página da Web são tratados como objetos</b>. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
  
 
 
