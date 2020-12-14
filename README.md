@@ -9,7 +9,7 @@
 <strong>All topics: </strong>
 <ol>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-01--the-history-of-javascript-js-">📜 The History of JavaScript (JS) 🔢</a></li>
-  <li><a href="#">📜 Primeiros comandos com JavaScript (JS) 🖥️</a></li>
+  <li><a href="#">📜 Primeiros comandos com JavaScript 🖥️</a></li>
   <li>Procedural JavaScript.</li>
   <li>JavaScript OOP.</li>
   <li>Functional JavaScript.</li>
