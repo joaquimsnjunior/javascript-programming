@@ -84,7 +84,13 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 <p>Cada vez mais o JavaScript começou a ganhar mais força. Hoje em dia temos várias bibliotecas, frameworks, plugins, etc. O JavaScript não é mais só uma pequena ferramenta para criar interação em sites.
   
 Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais poder com a linguagem, como acesso à câmera e microfone, leitura e edição de arquivos, edição de som e imagem, envio de notificações, modelagem 3D, geolocalização, etc. Grandes empresas usam JavaScript, até mesmo no back-end, como:</p>
-
+<ul>
+  <li>Google;</li>
+  <li>Microsoft;</li>
+  <li>IBM;</li>
+  <li>Netflix;</li>  
+  <li>Uber;</li>
+</ul>
 
 
 
