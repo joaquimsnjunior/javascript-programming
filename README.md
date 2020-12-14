@@ -2,8 +2,9 @@
 <p>I created this repository for my JavaScript Full-Stack Development learning.</p>
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, vale lembrar que esse repositório é somente focado no desenvolvimento JavaScript, se quer aprender sobre HTML e CSS ou os Frameworks recomendo acessar o outro repositório pelo link abaixo!</blockquote>
 
-[![Web](https://img.shields.io/badge/-wEBdev-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Web](https://img.shields.io/badge/-HTML5.and.css3.development-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react.js-programming)
+[![React Native](https://img.shields.io/badge/-React.Native-blue?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react-native-programming)
 [![Angular.js](https://img.shields.io/badge/-Angular.js-E23237?style=for-the-badge&logo=AngularJS&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
 [![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white)](https://github.com/IsaacAlves7/Ionic-programming)
