@@ -86,8 +86,7 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
   
 Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais poder com a linguagem, como acesso à câmera e microfone, leitura e edição de arquivos, edição de som e imagem, envio de notificações, modelagem 3D, geolocalização, etc. Grandes empresas usam JavaScript, até mesmo no back-end, como:</p>
 
-
-
+<!--
 ## Hello, world! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/><br>
 <p>Abaixo é apresentado o comando console.log: </p>
@@ -305,3 +304,4 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 <img src="https://cdn1.vogel.de/unsafe/fit-in/1000x0/images.vogel.de/vogelonline/bdb/1368100/1368165/original.jpg"/>
 
 # Vanilla JS 📒📜🍦
+-->
