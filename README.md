@@ -22,7 +22,12 @@
 
 <h1 align="center">Cap 01: 📜 The History of JavaScript (JS) 🔢</h1>
 <div align="left"><img src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png" width="1000"/></div><br>
-<p>Em maio de 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a>, que trabalhava na Netscape, desenvolveu uma linguagem de programação em apenas 10 dias. A linguagem era bem simples, com o intuito de atrair novos programadores para ela.</p>
+<p>Em maio de 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a>, que trabalhava na Netscape, desenvolveu uma linguagem de programação em apenas 10 dias. A linguagem era bem simples, com o intuito de atrair novos programadores para ela.
+
+O nome dessa linguagem inicialmente foi Mocha, que é o nome de um tipo de café. Logo esse nome foi alterado para LiveScript.
+Em maio de 1995 também estava surgindo uma nova linguagem de programação que prometia revolucionar o modo de programar: Java, da Sun MicroSystems. Seu objetivo era nos poupar do trabalho de programar para cada um dos sistemas operacionais. Escreva uma única vez, execute em qualquer lugar. O nome Java é uma homenagem à ilha de Java, segunda maior ilha da Indonésia, de onde vinha o café consumido pela equipe da Sun. 3 - O JavaScript teve dois nomes anteriores: Mocha e Livescript. 4 - Foi lançado junto com a versão beta do Netscape 2.0
+
+Para aproveitar o marketing, o LiveScript teve seu nome alterado para JavaScript em 4 de dezembro de 1995. Isso causou confusões que existem até hoje para quem está começando no mundo da programação, pois pela semelhança do nome, muitos pensam que é a mesma coisa, ou que o JavaScript é uma versão mais simples do Java. Porém, foi apenas uma jogada de Marketing.</p>
 
 ### JavaScript (JS) Timeline 📜🕓
 ![JS Timeline](https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg)
