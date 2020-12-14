@@ -25,11 +25,7 @@
 <p>In 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a> that who worked at NetScape</p>
 
 ### JavaScript (JS) Timeline
-<ol>
-  <li>LiveScript.</li>
-  <li>Mocha</li>
-  <li>JavaScript.</li>
-</ol>
+![JS Timeline](https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg)
 
 ## Hello, world! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/><br>
