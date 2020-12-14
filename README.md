@@ -336,14 +336,14 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 <img src="https://miro.medium.com/max/600/0*fPG6D58K9s_2l3kK.png" width="1070"/>
 
 
+https://miro.medium.com/max/921/1*T8OsgpwsHL8Lj6gGlyTOtw.png
 
 
 
 
-
-
-
-
+https://miro.medium.com/max/610/1*eSi3NuB9LTgO64VhWphnnw.png
+https://cdn-media-1.freecodecamp.org/images/1*ReeHV0eEsfmMskVUk1vVog.png
+https://es6.io/images/es6-sticker.png
 
 
 ## JS Validations
