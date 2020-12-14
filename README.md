@@ -58,7 +58,7 @@ Baseando-se nessas especificações, outras linguagens também surgiram, como o 
 <blockquote>👍 <b>Dica:</b> O nome JavaScript e ECMAScript definem a mesma linguagem, então podem ser usados livremente como sinônimos.</blockquote>
 
 ## 📜 A presença do JavaScript atualmente ⚛️
-<img src="https://blog.vulpi.com.br/wp-content/uploads/2018/03/JavaScript.png" width="197"/><img src=""/>
+<img src="https://blog.vulpi.com.br/wp-content/uploads/2018/03/JavaScript.png" width="270"/><img src=""/>
 <p>Hoje em dia, quando você visita uma página e vê elementos interagindo com você, seja uma modal aparecendo, uma janelinha abrindo, uma resposta ao clique do mouse, etc, pode ter certeza que há um código JavaScript sendo executado ali.
   
 O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no início dos anos 2000, várias bibliotecas com o intuito de facilitar o uso do JavaScript surgiram, como <b>jQuery</b> e <b>Prototype</b>.</b>
