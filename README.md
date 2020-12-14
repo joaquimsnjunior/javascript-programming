@@ -50,7 +50,7 @@ Por fim, que venha o JavaScript, uma linguagem flexível que consegue se aproxim
 Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos, isto significa que <b>todos os elementos de uma página da Web são tratados como objetos</b>. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
  
 ## 📜 ECMAScript (ES) 📒
-<div align="center"><img src="https://raw.githubusercontent.com/wingsuitist/ecmascript-logo/master/es-ecmascript-logo.png" height="177"/></div><br />
+<div align="center"><img src="https://raw.githubusercontent.com/wingsuitist/ecmascript-logo/master/es-ecmascript-logo.png" height="177"/></div>
 <p>Outro nome muito conhecido entre os desenvolvedores é o <b>ECMAScript (ES)</b>, derivado dos anos de 1996 e 1997 quando a organização European Computer Manufactures Association (ECMA) padronizou a linguagem, surgindo assim às versões de ECMAScript.
 
 Essa padronização define a estrutura da linguagem, seus comandos, como ela deve se comportar, etc. Baseando-se nessas especificações, os desenvolvedores dos navegadores sabem o que um interpretador de JavaScript deve ter e como deve responder aos comandos.
@@ -63,6 +63,7 @@ Baseando-se nessas especificações, outras linguagens também surgiram, como o 
   
 O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no início dos anos 2000, várias bibliotecas com o intuito de facilitar o uso do JavaScript surgiram, como <b>jQuery</b> e <b>Prototype</b>.
 
+<img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-ajax/sta-je-ajax.jpg"/>
 Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
 
 
