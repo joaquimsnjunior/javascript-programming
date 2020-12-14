@@ -56,7 +56,20 @@ Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação
 Essa padronização define a estrutura da linguagem, seus comandos, como ela deve se comportar, etc. Baseando-se nessas especificações, os desenvolvedores dos navegadores sabem o que um interpretador de JavaScript deve ter e como deve responder aos comandos.
 Baseando-se nessas especificações, outras linguagens também surgiram, como o JScript, ActionScript e TypeScript.</p>
 <blockquote>👍 <b>Dica:</b> O nome JavaScript e ECMAScript definem a mesma linguagem, então podem ser usados livremente como sinônimos.</blockquote>
+
+## 📜 A presença do JavaScript atualmente ⚛️
+<p>Hoje em dia, quando você visita uma página e vê elementos interagindo com você, seja uma modal aparecendo, uma janelinha abrindo, uma resposta ao clique do mouse, etc, pode ter certeza que há um código JavaScript sendo executado ali.
   
+O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no início dos anos 2000, várias bibliotecas com o intuito de facilitar o uso do JavaScript surgiram, como jQuery e Prototype.</b>
+
+
+
+
+
+
+
+
+
 ## Hello, world! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/><br>
 <p>Abaixo é apresentado o comando console.log: </p>
