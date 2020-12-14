@@ -106,7 +106,22 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
   <li>Sony;</li>
 </ul>
 <p>Hoje ele é utilizado nos mais diversos lugares, como:</p>
-
+<ul>
+  <li>Websites;</li>
+  <li>Aplicações Web;</li>
+  <li>Desenvolvimento de Jogos;</li>
+  <li>Servidores;</li>  
+  <li>Bancos de Dados;</li>
+  <li>Aplicativos Mobile;</li>
+  <li>Sistemas Operacionais de SmartTvs;</li>
+  <li>Automação de Tarefas;</li>
+  <li>Automação de Testes;</li>
+  <li>Softwares Desktop;</li>
+  <li>Controle de Hardware;</li>  
+  <li>IoT - Internet das Coisas;</li>  
+  <li>Desenvolvimento Mobile Multiplataforma (Apps Híbridos);</li>
+  <li>Plugins para programas, como Photoshop.</li>
+</ul>
 
 
 
