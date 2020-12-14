@@ -76,7 +76,7 @@ O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript 
 
 
 ## Node.js
-<div align="center"><img src="" height="270"/></div>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270"/></div>
 
 
 
