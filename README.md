@@ -75,8 +75,11 @@ Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usav
 O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.</p>
 
 
-## Node.js
+## 🟩 Node.js 🟩
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270"/></div>
+<p>Em 2009, Ryan Dahl desenvolveu o Node.js. O Node usa o V8 fora do navegador, e possui muitas outras funcionalidades que nos permite programar com JavaScript no lado do servidor. Com o Node foi possível a criação de coisas como automatizadores de tarefas e criação de servidores em JavaScript.
+  
+Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
 
 
