@@ -20,7 +20,7 @@
 <hr>
 <!--Parte do repositório de html5 e css3 development-->
 
-## The History of JavaScript (JS)
+## Cap 01: 📜 The History of JavaScript (JS) 🔢
 <div align="left"><img src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png" width="1000"/></div><br>
 <p>In 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a> that who worked at NetScape</p>
 
