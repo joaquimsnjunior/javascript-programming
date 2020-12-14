@@ -29,7 +29,7 @@ Em maio de 1995 também estava surgindo uma nova linguagem de programação que 
 
 <blockquote>🔍 <b>Curiosidade:</b> O JavaScript foi lançado junto com a versão beta do Netscape 2.0.</blockquote>
 
-Para aproveitar o marketing, o LiveScript teve seu nome alterado para JavaScript em 4 de dezembro de 1995. Isso causou confusões que existem até hoje para quem está começando no mundo da programação, pois pela semelhança do nome, muitos pensam que é a mesma coisa, ou que o JavaScript é uma versão mais simples do Java. Porém, foi apenas uma jogada de Marketing.</p>
+Para aproveitar o marketing, o LiveScript teve seu nome alterado para <b>JavaScript</b> em 4 de dezembro de 1995. Isso causou confusões que existem até hoje para quem está começando no mundo da programação, pois pela semelhança do nome, muitos pensam que é a mesma coisa, ou que o JavaScript é uma versão mais simples do Java. Porém, foi apenas uma jogada de Marketing.</p>
 
 ### JavaScript (JS) Timeline 📜🕓
 ![JS Timeline](https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg)
