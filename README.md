@@ -1,5 +1,5 @@
 # It's a repository of JavaScript (JS) programming 📒📜🔢
-<p>Criei esse repositório para meu aprendizado no desenvolvimento JavaScript Full-Stack.</p>
+<p>I created this repository for my JavaScript Full-Stack Development learning.</p>
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, vale lembrar que esse repositório é somente focado no desenvolvimento JavaScript, se quer aprender sobre HTML e CSS recomendo acessar o outro repositório pelo link abaixo!</blockquote>
 <li>https://github.com/IsaacAlves7/html5-and-css3-development</li>
 &nbsp;
