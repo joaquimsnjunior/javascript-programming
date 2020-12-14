@@ -8,7 +8,7 @@
 ## Introduction - Overview about the JavaScript (JS) language 📜
 <strong>All topics: </strong>
 <ol>
-  <li><a href="">📜 The History of JavaScript (JS) 🔢</a></li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-01--the-history-of-javascript-js-">📜 The History of JavaScript (JS) 🔢</a></li>
   <li>What's the JavaScript language?</li>
   <li>Procedural JavaScript.</li>
   <li>JavaScript OOP.</li>
