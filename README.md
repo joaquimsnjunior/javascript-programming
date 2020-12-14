@@ -80,7 +80,7 @@ O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript 
   
 Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
-## 📜 A importância e a utilidade do JavaScript no mundo 🏆
+## 📜 A importância e a utilidade do JavaScript para o mundo 🏆
 <div align="center"><img src="https://www.mentorpitch.com/blog/wp-content/uploads/2016/02/Corporate-accelerators.jpg" width="407" height="367"/><img src="https://miro.medium.com/max/780/1*IivjRSnfzz6coQn8FcPp5A.jpeg" width="407" height="367"/></div>
 <p>Cada vez mais o JavaScript começou a ganhar mais força. Hoje em dia temos várias bibliotecas, frameworks, plugins, etc. O JavaScript não é mais só uma pequena ferramenta para criar interação em sites.
   
@@ -94,10 +94,10 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
   <li>Paypal;</li>
   <li>Linkedin;</li>
   <li>New York Times;</li>
-  <li>Walmart</li>
-  <li>Sony</li>
+  <li>Walmart;</li>
+  <li>Sony;</li>
 </ul>
-
+<p>Hoje ele é utilizado nos mais diversos lugares, como:</p>
 
 
 
