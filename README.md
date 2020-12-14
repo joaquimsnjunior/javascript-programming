@@ -31,8 +31,24 @@ Em maio de 1995 também estava surgindo uma nova linguagem de programação que 
 
 Para aproveitar o marketing, o LiveScript teve seu nome alterado para <b>JavaScript</b> em 4 de dezembro de 1995. Isso causou confusões que existem até hoje para quem está começando no mundo da programação, pois pela semelhança do nome, muitos pensam que é a mesma coisa, ou que o JavaScript é uma versão mais simples do Java. Porém, foi apenas uma jogada de Marketing.</p>
 
-### JavaScript (JS) Timeline 📜🕓
+## 📜 JavaScript (JS) Timeline 🕓
 ![JS Timeline](https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg)
+
+## 📜 O que é JavaScript (JS)? 📜
+<p>O <b>JavaScript</b> (JS) é uma linguagem de programação dinâmica, que é comumente utilizada como parte dos navegadores, criada para esse propósito, manipular elementos no HTML. Mas acabou crescendo, e atualmente podemos ver diversos ambientes que rodam JavaScript, além de desenvolver para os mais variados fins, como extensões para aplicações, desenvolvimento desktop e até mesmo códigos back-end. 
+  
+Quando falamos de linguagens de programação, percebemos que estas se parecem com religiões ou times de futebol, cada desenvolvedor gosta de uma e acredita na qualidade que ela oferece, mas nenhuma delas consegue assumir uma característica que JavaScript assumiu: a onipresença. Amando ou odiando, ele está em todos os lugares, é difícil escapar. Uma linguagem que muitas vezes é julgada como simples brinquedo de front-end, criando firulas para os olhos de usuários leigos, na verdade, é uma grande ferramenta.
+A web atualmente está infestada de códigos JavaScript. Os recursos oferecidos por muitos dos sites que acessamos são controlados por ele, desde a mais simples interação com formulários, até mesmo grandes plataformas como Google Docs, foram desenvolvidas com base nos recursos dessa linguagem. Aprender esta linguagem se torna essencial, uma grande ferramenta para auxiliar o desenvolvimento.
+
+Além disso, a linguagem apresenta características incomuns à maioria dos desenvolvedores que estão acostumados com Java ou C#. O JavaScript não apresenta classes do mesmo modo que as outras linguagens e funções estão em todos os lugares, fazendo todos os serviços possíveis, desde criar novos objetos até retornarem novas funções.
+A linguagem apresenta uma sintaxe simples que facilita o aprendizado, mas também apresenta um comportamento diferenciado das demais, afinal, um objeto que pode ter atributos adicionados ou removidos em tempo de execução de forma simples não é algo comum ao dia a dia de desenvolvedores de outras linguagens.
+Essa simplicidade esconde o quão poderoso podemos tornar nosso desenvolvimento, e a primeira vista, muitos desenvolvedores olham e acreditam que a linguagem é defeituosa ou esquisita, mas não compreendem o real poder que se esconde por trás desta simplicidade.
+
+Por fim, que venha o JavaScript, uma linguagem flexível que consegue se aproximar de muitas outras, mas que em sua essência é completamente diferente. Sendo assim vamos aprender o que realmente ela tem a nos oferecer, e perceber quão poderosa ela pode se tornar dentro de nossas aplicações.
+
+Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos, isto significa que todos os elementos de uma página da Web são tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
+ 
+
 
 ## Hello, world! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/><br>
