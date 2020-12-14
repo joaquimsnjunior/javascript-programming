@@ -2,7 +2,7 @@
 <p>I created this repository for my JavaScript Full-Stack Development learning.</p>
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, vale lembrar que esse repositório é somente focado no desenvolvimento JavaScript, se quer aprender sobre HTML e CSS recomendo acessar o outro repositório pelo link abaixo!</blockquote>
 
-[![Web](https://img.shields.io/badge/-Html5andCss3development-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Web](https://img.shields.io/badge/-wEBdev-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
 
