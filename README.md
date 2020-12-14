@@ -68,9 +68,9 @@ O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no in
 <div align="center"><img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-ajax/sta-je-ajax.jpg" height="270"/></div>
 Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (Asynchronous JavaScript And XML), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
 
-## V8
+## 🚘 V8 ✈️
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="270"/></div>
-
+<p>Em setembro de 2008 a Google lançou seu navegador, o Google Chrome. O Chrome tem um interpretador de JavaScript muito poderoso, o <b>V8</b>. Esse nome é baseado no motor de combustão V8, que tem esse nome por ter 8 cilindros unidos na parte de baixo, formando um "V". São normalmente usados em automóveis de grande porte, embarcações marítimas, aeronáuticas, etc.</p>
 
 
 
