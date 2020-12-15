@@ -148,7 +148,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 <p>Agora, existem duas maneiras de criar um documento JS:</p>
 
 ### No body
-
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/102246346-6ea60280-3edd-11eb-8b36-7a12df64ec2e.jpg)
 
 
 
