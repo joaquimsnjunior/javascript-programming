@@ -16,6 +16,7 @@
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)](https://github.com/IsaacAlves7/electron-programming)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/IsaacAlves7/ionic-programming)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
 
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
