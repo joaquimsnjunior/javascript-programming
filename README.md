@@ -5,6 +5,8 @@
 [![Web](https://img.shields.io/badge/-HTML5.and.css3.dev-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react.js-programming)
 [![React Native](https://img.shields.io/badge/-React.Native-blue?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react-native-programming)
 [![Angular.js](https://img.shields.io/badge/-Angular.js-E23237?style=for-the-badge&logo=AngularJS&logoColor=white)](https://github.com/IsaacAlves7/angular.js-programming)
