@@ -166,7 +166,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 
 <p>Dessa forma, é possível diminuir a quantidade de linhas de código no seu arquivo HTML, porém deixa o seu website mais pesado com a quantidade de scripts. 
   
-Próximo passo, execute o documento index.html.</p>
+Próximo passo, execute o documento index.html. Resultado:</p>
 
 
 
