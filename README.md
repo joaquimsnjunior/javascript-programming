@@ -156,7 +156,11 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 <blockquote><b>Obs:</b> Carrega o script primeiro antes do body, o que é mais ideal!</blockquote>
 
 ### Opcional (No arquivo)
-<p> Outra maneira válida é criar um documento com a extensão <b>.js</b>, é separando ele e linkar-lo no documento HTML. Dessa forma, é possível diminuir a quantidade de linhas de código no seu arquivo HTML, porém deixa o seu website mais pesado com a quantidade de scripts.</p>
+<p> Outra maneira válida é criar um documento com a extensão <b>.js</b>, é separando ele e linkar-lo no documento HTML.</p>
+
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/102266935-e7b25380-3ef7-11eb-973b-0d8bab186f95.jpg)
+
+<p>Dessa forma, é possível diminuir a quantidade de linhas de código no seu arquivo HTML, porém deixa o seu website mais pesado com a quantidade de scripts.</p>
 
 
 
