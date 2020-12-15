@@ -151,7 +151,8 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/102247838-3dc6cd00-3edf-11eb-8302-f77de2b3348d.jpg)
 
 ### No head
-![Sem Título-2](https://user-images.githubusercontent.com/61624336/102253566-3ce56980-3ee6-11eb-8106-128e7d70cdf8.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/102253843-a2d1f100-3ee6-11eb-9d1b-016921aae815.jpg)
+
 
 
 
