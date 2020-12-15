@@ -130,7 +130,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
   <li>Plugins para programas, como Photoshop.</li>
 </ul>
 <div align="center"><h1>Cap 02: 📜 Primeiros comandos com JavaScript 🖥️</h1></div>
-
+<img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 
 
 
@@ -307,8 +307,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 
 
 <!--
-## Hello, world! JS
-<img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/><br>
+
 <p>Abaixo é apresentado o comando console.log: </p>
  <pre>
   <code>console.log('Hello, World!');</code>
