@@ -124,6 +124,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
   <li>Softwares Desktop;</li>
   <li>Controle de Hardware;</li>  
   <li>IoT - Internet das Coisas;</li>  
+  <li>Inteligência Artificial;</li>
   <li>Desenvolvimento Mobile Multiplataforma (Apps Híbridos);</li>
   <li>Plugins para programas, como Photoshop.</li>
 </ul>
