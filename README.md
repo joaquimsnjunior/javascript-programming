@@ -168,7 +168,9 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
   
 Próximo passo, execute o documento index.html. Resultado:</p>
 
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/102268834-8cce2b80-3efa-11eb-9e41-71f1ac458d69.jpg)
 
+<blockquote>O script funcionou perfeitamente!</blockquote>
 
 
 
