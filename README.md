@@ -153,8 +153,9 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 ### No head
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/102253843-a2d1f100-3ee6-11eb-9d1b-016921aae815.jpg)
 
+<blockquote><b>Obs:</b> Carrega o script primeiro antes do body, o que é mais ideal!</blockquote>
 
-
+### Opcional
 
 
 
