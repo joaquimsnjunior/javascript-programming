@@ -160,7 +160,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 
 ![Sem Título-3](https://user-images.githubusercontent.com/61624336/102267944-5e038580-3ef9-11eb-89bb-4191481918f6.jpg)
 
-<p>o código <code>alert();</code> serve para gerar uma janela de alerta ao navegador, nele podemos inserir textos, números, variáveis etc.</p>
+<p>o comando <code>alert();</code> exibe uma janela pop-up no navegador que revela o conteúdo inserido dentro do parêntese, pode ser uma variável ou um texto (entre aspas).</p>
 
 ![Sem Título-5](https://user-images.githubusercontent.com/61624336/102268266-dec28180-3ef9-11eb-9183-e3654f1f982b.jpg)
 
@@ -172,6 +172,7 @@ Próximo passo, execute o documento index.html. Resultado:</p>
 
 <blockquote>O script funcionou perfeitamente!</blockquote>
 
+<p>Para acessar o console, pressione a tecla <b>F12</b> do seu teclado, você será redirecionado as ferramentas de desenvolvedor do seu navegador, vá até console, lá você poderá fazer alterações ou até programar.</p>
 
 
 
