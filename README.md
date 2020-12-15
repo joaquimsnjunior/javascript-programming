@@ -3,7 +3,7 @@
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, vale lembrar que esse repositório é somente focado no desenvolvimento JavaScript, se quer aprender sobre HTML e CSS ou os Frameworks recomendo acessar o outro repositório pelo link abaixo!</blockquote>
 
 [![Web](https://img.shields.io/badge/-HTML5.and.css3.dev-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
