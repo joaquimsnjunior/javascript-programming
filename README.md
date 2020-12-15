@@ -158,7 +158,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 ### Opcional (No arquivo)
 <p> Outra maneira válida é criar um documento com a extensão <b>.js</b>, é separando ele e linkar-lo no documento HTML.</p>
 
-![Sem Título-2](https://user-images.githubusercontent.com/61624336/102266935-e7b25380-3ef7-11eb-973b-0d8bab186f95.jpg)
+![Sem Título-3](https://user-images.githubusercontent.com/61624336/102267944-5e038580-3ef9-11eb-89bb-4191481918f6.jpg)
 
 <p>Dessa forma, é possível diminuir a quantidade de linhas de código no seu arquivo HTML, porém deixa o seu website mais pesado com a quantidade de scripts. 
   
