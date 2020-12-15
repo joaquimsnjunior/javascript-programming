@@ -3,6 +3,7 @@
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, vale lembrar que esse repositório é somente focado no desenvolvimento JavaScript, se quer aprender sobre HTML e CSS ou os Frameworks recomendo acessar o outro repositório pelo link abaixo!</blockquote>
 
 [![Web](https://img.shields.io/badge/-HTML5.and.css3.dev-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![JS](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react.js-programming)
 [![React Native](https://img.shields.io/badge/-React.Native-blue?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react-native-programming)
 [![Angular.js](https://img.shields.io/badge/-Angular.js-E23237?style=for-the-badge&logo=AngularJS&logoColor=white)](https://github.com/IsaacAlves7/angular.js-programming)
