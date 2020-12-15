@@ -140,6 +140,8 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 ## 🖥️ Hello, World! 🔡
 <p>Primeiramente, crie um documento HTML, nomeie-o como “index.html”. Agora, existem duas maneiras de criar um documento JS:</p>
 
+### No body
+
 
 
 
