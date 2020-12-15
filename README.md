@@ -144,7 +144,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 <p>Primeiramente, crie um documento HTML, nomeie-o como “index.html”. Agora, existem duas maneiras de criar um documento JS:</p>
 
 ### No body
-
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/102241134-64810580-3ed7-11eb-9686-6ec2dde4c61a.jpg)
 
 
 
