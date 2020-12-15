@@ -138,7 +138,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 <blockquote>👍 <b>Dica:</b> Caso já tenha familiaridade com editores de texto ou IDE’s mais robustas, sinta-se à vontade para utilizá-los, pois o JavaScript é independente do editor. Somente certifique-se de que o navegador utilizado lhe dará o devido suporte.</blockquote>
 
 ## 🖥️ Hello, World! 🔡
-<p>Primeiramente, crie um documento HTML, nomeie-o como “index.html”.</p>
+<p>Primeiramente, crie um documento HTML, nomeie-o como “index.html”. Agora, existem duas maneiras de criar um documento JS:</p>
 
 
 
