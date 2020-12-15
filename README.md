@@ -160,6 +160,10 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 
 ![Sem Título-3](https://user-images.githubusercontent.com/61624336/102267944-5e038580-3ef9-11eb-89bb-4191481918f6.jpg)
 
+<p>o código <code>alert();</code> serve para gerar uma janela de alerta ao navegador, nele podemos inserir textos, números, variáveis etc.</p>
+
+![Sem Título-5](https://user-images.githubusercontent.com/61624336/102268266-dec28180-3ef9-11eb-9183-e3654f1f982b.jpg)
+
 <p>Dessa forma, é possível diminuir a quantidade de linhas de código no seu arquivo HTML, porém deixa o seu website mais pesado com a quantidade de scripts. 
   
 Próximo passo, execute o documento index.html.</p>
