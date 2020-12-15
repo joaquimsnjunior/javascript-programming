@@ -179,13 +179,14 @@ Nesse caso, para exibir resultados ou mensagens no console do navegador utilize 
 
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/102270246-8ccf2b00-3efc-11eb-8654-99d6a6171eeb.jpg)
 
+</div>
 <p>Outros comandos para serem executados em janela:</p>
 <ul>
-  <li><code></code></li>
-  <li><code></code></li>
-  <li><code></code></li>
+  <li><code>window.alert()</code></li>
+  <li><code>window.confirm()</code></li>
+  <li><code>window.prompt()</code></li>
 </ul>
-</div>
+
 
 
 
