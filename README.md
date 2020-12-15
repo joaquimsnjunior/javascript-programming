@@ -177,7 +177,7 @@ Próximo passo, execute o documento index.html. Resultado:</p>
 Nesse caso, para exibir resultados ou mensagens no console do navegador utilize o comando <code>console.log()</code>, ele possui uma função semelhante ao <code>alert</code>, porém somente exibe no console, enquanto o <code>alert</code> exibe ao usuário.</p>
 <div align="center">
 
-![Sem Título-2](https://user-images.githubusercontent.com/61624336/102269922-16322d80-3efc-11eb-945f-62b86a99bc1c.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/102270246-8ccf2b00-3efc-11eb-8654-99d6a6171eeb.jpg)
 
 </div>
 
