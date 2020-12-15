@@ -128,7 +128,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
   <li>Desenvolvimento Mobile Multiplataforma (Apps Híbridos);</li>
   <li>Plugins para programas, como Photoshop.</li>
 </ul>
-
+<div align="center"><h1>Cap 02: 📜 Primeiros comandos com JavaScript 🖥️</h1></div>
 
 
 
