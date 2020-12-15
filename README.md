@@ -4,6 +4,7 @@
 
 [![Web](https://img.shields.io/badge/-HTML5.and.css3.dev-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react.js-programming)
 [![React Native](https://img.shields.io/badge/-React.Native-blue?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react-native-programming)
 [![Angular.js](https://img.shields.io/badge/-Angular.js-E23237?style=for-the-badge&logo=AngularJS&logoColor=white)](https://github.com/IsaacAlves7/angular.js-programming)
@@ -11,6 +12,7 @@
 [![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white)](https://github.com/IsaacAlves7/ionic-programming)
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)](https://github.com/IsaacAlves7/electron-programming)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
 
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
 
