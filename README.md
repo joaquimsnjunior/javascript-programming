@@ -109,7 +109,6 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
   <li>New York Times;</li>
   <li>Walmart;</li>
   <li>Sony;</li>
-  <li>Facebook;</li>
 </ul>
 <p>Hoje ele é utilizado nos mais diversos lugares, como:</p>
 <ul>
