@@ -226,7 +226,7 @@ Isso significa que a sequência 00001101 equivale ao valor 13 em binário. É de
 Mas isso é só uma curiosidade. Com JavaScript e outras linguagens modernas você não precisará se preocupar com o sistema binário.
 As linguagens hoje em dia nos fornecem várias funcionalidades que, com um simples comando, fazem operações mais complexas.</p>
 
-
+<blockquote><b>Dica:</b>Curiosidade: 128+64+32+16+8+4+2+1 = 255. E se tivermos todos os campos "desligados", teremos o valor 0, o que nos dá um total de 256 possíveis valores. Você já deve ter visto esse número por aí no mundo da informática, não é mesmo? Como os antigos pendrives de 256MB, 512MB e 1024MB que é igual a 1GB.</blockquote>
 
 
 
