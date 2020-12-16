@@ -221,8 +221,10 @@ Lembra que esses bits podem ter o valor 1 e 0 como se fosse um interruptor de li
 
 Então temos os valores 1, 4 e 8 ligados, certo? 1+4+8 = 13.
 
-Isso significa que a sequência 00001101 equivale ao valor 13 em binário. É dessa maneira que dados são armazenados e interpretados pelas máquinas.</p>
+Isso significa que a sequência 00001101 equivale ao valor 13 em binário. É dessa maneira que dados são armazenados e interpretados pelas máquinas.
 
+Mas isso é só uma curiosidade. Com JavaScript e outras linguagens modernas você não precisará se preocupar com o sistema binário.
+As linguagens hoje em dia nos fornecem várias funcionalidades que, com um simples comando, fazem operações mais complexas.</p>
 
 
 
