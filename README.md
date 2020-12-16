@@ -200,8 +200,10 @@ Essa sequência de zeros e uns fazem o computador conseguir armazenar e interpre
 Sim, computadores são grandes e caras calculadoras. Tudo o que fazem são cálculos. Quando você está assistindo um vídeo ou escutando uma música, tudo está armazenado em vários zeros e uns, e para reproduzir isso em forma de imagens e sons, cálculos são feitos.
 
 Mas se tudo é feito por 0 e 1, como outros valores são formados?
+
 Bom, abaixo temos um exemplo simples.</p>
 
+![image](https://user-images.githubusercontent.com/61624336/102372658-2f8bb600-3f9e-11eb-9593-e147e8367efe.png)
 
 
 
