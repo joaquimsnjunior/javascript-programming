@@ -184,7 +184,7 @@ Nesse caso, para exibir resultados ou mensagens no console do navegador utilize 
 <ul>
   <li><code>window.alert()</code> janela ok;</li>
   <li><code>window.confirm()</code> janela ok e cancel;</li>
-  <li><code>window.prompt()</code> janela interativa com ok.</li>
+  <li><code>window.prompt()</code> janela com textbox e ok.</li>
 </ul>
 
 
