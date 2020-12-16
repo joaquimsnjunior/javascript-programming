@@ -190,7 +190,17 @@ Nesse caso, para exibir resultados ou mensagens no console do navegador utilize 
 ## Comentários
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102369729-0ae20f00-3f9b-11eb-94c3-d33c143605b9.jpg)
 
+## O que são dados?
+<p>Tudo o que existe no mundo dos computadores são dados. Os dados podem ser criados, modificados e apagados.
 
+Os dados são armazenados no que conhecemos como bits. Cada bit pode ter um valor 0 ou 1, que podemos imaginar como um interruptor que pode estar ligado ou desligado. Por ter 2 possíveis valores, chamamos isso de sistema binário.
+
+Essa sequência de zeros e uns fazem o computador conseguir armazenar e interpretar valores. Esses valores serão usados para algum cálculo.
+
+Sim, computadores são grandes e caras calculadoras. Tudo o que fazem são cálculos. Quando você está assistindo um vídeo ou escutando uma música, tudo está armazenado em vários zeros e uns, e para reproduzir isso em forma de imagens e sons, cálculos são feitos.
+
+Mas se tudo é feito por 0 e 1, como outros valores são formados?
+Bom, abaixo temos um exemplo simples.</p>
 
 
 
