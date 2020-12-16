@@ -215,6 +215,13 @@ Na computação, todas as contagens começam no 0, e não no 1.</p>
   <li>2 elevado a 2 é igual a 4;</li>
   <li>etc...</li>
 </ul>
+<p>E com isso nós vamos obtendo os valores da linha de baixo, de 1 a 128.
+  
+Lembra que esses bits podem ter o valor 1 e 0 como se fosse um interruptor de liga e desliga? Repare então na linha de cima, onde temos apenas 0 e 1. Os 0 são o "desligado", e o 1, "ligado".
+
+Então temos os valores 1, 4 e 8 ligados, certo? 1+4+8 = 13.
+
+Isso significa que a sequência 00001101 equivale ao valor 13 em binário. É dessa maneira que dados são armazenados e interpretados pelas máquinas.</p>
 
 
 
