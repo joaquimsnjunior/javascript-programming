@@ -187,6 +187,8 @@ Nesse caso, para exibir resultados ou mensagens no console do navegador utilize 
   <li><code>window.prompt()</code> janela com textbox e ok.</li>
 </ul>
 
+## Comentários
+
 
 
 
