@@ -191,9 +191,9 @@ Nesse caso, para exibir resultados ou mensagens no console do navegador utilize 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102369729-0ae20f00-3f9b-11eb-94c3-d33c143605b9.jpg)
 
 ## O que são dados?
-<p>Tudo o que existe no mundo dos computadores são dados. Os dados podem ser criados, modificados e apagados.
+<p>Tudo o que existe no mundo dos computadores são <b>dados</b>. Os dados podem ser criados, modificados e apagados.
 
-Os dados são armazenados no que conhecemos como bits. Cada bit pode ter um valor 0 ou 1, que podemos imaginar como um interruptor que pode estar ligado ou desligado. Por ter 2 possíveis valores, chamamos isso de sistema binário.
+Os dados são armazenados no que conhecemos como <b>bits</b>. Cada bit pode ter um valor 0 ou 1, que podemos imaginar como um interruptor que pode estar ligado ou desligado. Por ter 2 possíveis valores, chamamos isso de <b>sistema binário</b>.
 
 Essa sequência de zeros e uns fazem o computador conseguir armazenar e interpretar valores. Esses valores serão usados para algum cálculo.
 
