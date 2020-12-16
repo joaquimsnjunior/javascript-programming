@@ -30,7 +30,7 @@
 <ol>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-01--the-history-of-javascript-js-">📜 The History of JavaScript (JS) 🔢</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-02--primeiros-comandos-com-javascript-%EF%B8%8F">📜 Primeiros comandos com JavaScript 🖥️</a></li>
-  <li>Tipos Primitivos</li>
+  <li>🐵 Tipos Primitivos 🔢</li>
   <li>JavaScript OOP.</li>
   <li>Functional JavaScript.</li>
   <li>EcmaScript 6 (ES6).</li>
