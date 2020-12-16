@@ -182,9 +182,9 @@ Nesse caso, para exibir resultados ou mensagens no console do navegador utilize 
 </div>
 <p>Outros comandos para serem executados em janela:</p>
 <ul>
-  <li><code>window.alert()</code></li>
-  <li><code>window.confirm()</code></li>
-  <li><code>window.prompt()</code></li>
+  <li><code>window.alert()</code> janela ok</li>
+  <li><code>window.confirm()</code> janela ok e cancel</li>
+  <li><code>window.prompt()</code> janela interativa com ok</li>
 </ul>
 
 
