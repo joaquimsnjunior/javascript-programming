@@ -33,7 +33,7 @@
   <li>📜 Tipos Primitivos 🐵</li>
   <li>📜 JavaScript OOP ⚽</li>
   <li>📜 Functional JavaScript 🔣</li>
-  <li>📜 EcmaScript 6 (ES6) 📒</li>
+  <li>📜 ECMAScript 6 (ES6) 📒</li>
   <li>📜 jQuery Framework ☄️</li>
   <li>📜 Node.js 🟩</li>
 </ol>
