@@ -205,15 +205,9 @@ Bom, abaixo temos um exemplo simples.</p>
 
 ![image](https://user-images.githubusercontent.com/61624336/102372658-2f8bb600-3f9e-11eb-9593-e147e8367efe.png)
 
-
-
-
-
-
-
-
-
-
+<p>Veja a linha de baixo, a qual tem valores 128, 64, 32, etc. Tudo é lido da direita para a esquerda. Lembra que Bits podem ter valor 1 ou 0? Então temos dois valores possíveis, o que nos faz ter um número de base 2.
+  
+Na computação, todas as contagens começam no 0, e não no 1.</p>
 
 
 
