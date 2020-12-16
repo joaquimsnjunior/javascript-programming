@@ -208,6 +208,17 @@ Bom, abaixo temos um exemplo simples.</p>
 <p>Veja a linha de baixo, a qual tem valores 128, 64, 32, etc. Tudo é lido da direita para a esquerda. Lembra que Bits podem ter valor 1 ou 0? Então temos dois valores possíveis, o que nos faz ter um número de base 2.
   
 Na computação, todas as contagens começam no 0, e não no 1.</p>
+<ul>
+  <li>2 elevado a 0 é igual a 1;</li>
+  <li>2 elevado a 1 é igual a 2;</li>
+  <li>2 elevado a 2 é igual a 4;</li>
+  <li>etc...</li>
+</ul>
+
+
+
+
+
 
 
 
