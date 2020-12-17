@@ -261,6 +261,12 @@ Assim como os bits, eles também só armazenam 2 possíveis valores: <b>true</b>
 
 Esse tipo é muito importante, pois ele tem um valor lógico para que a gente faça o computador tomar decisões.</p>
 
+## ❓ Undefined e Null 🕳️
+<p>Há dois tipos especiais de valores, <b>undefined</b> e <b>null</b>. Eles indicam a ausência de valor.
+  
+Imagine que você tenha um formulário que pergunta a idade de uma pessoa, e ela não respondeu ainda. Não podemos dizer que a idade dessa pessoa é 0. O melhor seria indicar que um valor não foi dado, e nesse caso, usaríamos undefined ou null.
+
+Há uma diferença bem pequena entre undefined e null. Na verdade a existência de ambos para definir um valor inexistente foi devido a um acidente no projeto do desenvolvimento do JavaScript. Em outras linguagens de programação, normalmente existe apenas o Null.
 
 
 
