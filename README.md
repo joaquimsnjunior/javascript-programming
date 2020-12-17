@@ -394,9 +394,26 @@ O sinal "+" é um operador, o qual podemos usar para somar dois valores numéric
 
 Há vários tipos de operadores para as mais diversas operações. Nos próximos capítulos nós veremos vários grupos com seus operadores mais comuns e suas respectivas funções.</p>
 
+## Operadores Lógicos (&&,||)
+<p>Chamamos de Operadores Lógicos aqueles que nos ajudam a trabalhar com o tipo Boolean (verdadeiro ou falso).
 
+O "&&" indica uma condição "e", e o "||" indica uma condição "ou". Basicamente servem para juntar dois valores do tipo Boolean e ver se o resultado é algo verdadeiro ou falso.
 
+Exemplo: Copo azul</p>
 
+### Operador && (E)
+<p>Se tivermos duas verdades, o resultado só pode ser verdadeiro, correto?
+  
+Se eu disser que esse objeto é um copo E é azul, são duas verdades, o que resulta em true.
+
+E se tivermos duas mentiras, o resultado só pode ser falso.
+
+Se eu disser que esse objeto é um garfo E é vermelho, são duas mentiras, o que resulta em false.
+
+Agora, se eu disser algo falso e algo verdadeiro (ou verdadeiro e falso, não importa a ordem), isso fará com que minha frase seja falsa.
+
+Se eu disser que é um copo E é laranja, uma simples parte falsa torna a frase inteira falsa.
+</p>
 
 
 
