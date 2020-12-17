@@ -314,7 +314,7 @@ Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase)
 ## 🐱‍👤 Escape de Caracteres 🔣
 <p>Como as strings são descritas entre aspas, o JavaScript não entenderá a string de fora delas.</p>
 
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/102540262-87edb100-408d-11eb-9018-ff3681325d89.jpg)
 
 
 
