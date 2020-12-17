@@ -339,6 +339,26 @@ O caractere de escape de barra invertida “\” torna caracteres especiais em c
     <td>\b</td>
     <td>Retrocesso</td>
   </tr>
+  <tr>
+    <td>\f</td>
+    <td>Formulário voluntário</td>
+  </tr>
+    <tr>
+    <td>\n</td>
+    <td>Nova linha</td>
+  </tr>
+    <tr>
+    <td>\r</td>
+    <td>Retorno de transporte</td>
+  </tr>
+    <tr>
+    <td>\t</td>
+    <td>Tabulador horizontal</td>
+  </tr>
+    <tr>
+    <td>\v</td>
+    <td>Tabulador vertical</td>
+  </tr>
 </table>
 
 
