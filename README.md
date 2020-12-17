@@ -368,11 +368,19 @@ O caractere de escape de barra invertida “\” torna caracteres especiais em c
 </div>
 <p>Outros valores no JavaScript possuem valores equivalentes ao true e false.
   
-Um exemplo é o número 0. Ele representa tanto o número zero quanto o valor false. Isso significa que fazer uma comparação com ele seria o equivalente a fazer uma comparação com false. Observe o meme do Bob Esponja a respeito desse valor, é notável que existe uma diferença entre esses valores.
+Um exemplo é o número 0. Ele representa tanto o número zero quanto o valor false. Isso significa que fazer uma comparação com ele seria o equivalente a fazer uma comparação com false. Observe o meme do Bob Esponja a respeito desse valor, é notável que existe uma diferença entre esses valores e o tipo primitivo deles.
 
 Os seguintes valores são considerados falsos no JavaScript:</p>
-
-
+<ul>
+  <li>0;</li>
+  <li>-0;</li>
+  <li>null;</li>  
+  <li>false;</li>
+  <li>NaN;</li>
+  <li>undefined;</li>
+  <li>"" (string vazia).</li>
+</ul>
+<p>Qualquer outro valor é considerado true, até mesmo a String "false" e "0", pois não são Strings vazias.</p>
 
 
 
