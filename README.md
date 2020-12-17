@@ -305,7 +305,8 @@ Porém, se você precisar usar aspas simples em um texto, é mais fácil criar a
   <li><code>'Mc Donald's'</code> Após o "d", a aspa simples fechou a string, deixando o "s" e a outra aspa soltos. Isso irá resultar em um erro.</li>
 </ul>
 Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase) ao invés de aspas. Mais para frente veremos melhor sobre como trabalhar com Strings e a importância desse novo tipo de String.
-<br/ >
+</br >
+
 Para descobrir o tamanho de uma string é usado a propriedade <b>length</b>:
 </p>
 
