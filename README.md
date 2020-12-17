@@ -42,6 +42,8 @@
   <li>📜 AJAX 🔃</li>
   <li>📜 jQuery Framework ☄️</li>
   <li>📜 Node.js 🟩</li>
+  <li>📜 Inteligência Artificial em JavaScript 🧠</li>
+  <li>📜 Tensorflow.js 🤖📚</li>
 </ol>
 <hr>
 <!--Parte do repositório de html5 e css3 development-->
