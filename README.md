@@ -233,7 +233,7 @@ As linguagens hoje em dia nos fornecem várias funcionalidades que, com um simpl
 <h1 align="center">Cap 03: 📜 Tipos Primitivos 🐵</h1>
 <div align="center">
 
-![best-js-meme-to-date-2](https://user-images.githubusercontent.com/61624336/102435082-c4210300-3ff4-11eb-8250-14947f241915.png)
+![Meme do JavaScript sobre tipos primitivos](https://user-images.githubusercontent.com/61624336/102435082-c4210300-3ff4-11eb-8250-14947f241915.png)
 
 </div>
 <p>Como vimos anteriormente, os computadores armazenam e entendem dados na forma binária (0 e 1).
