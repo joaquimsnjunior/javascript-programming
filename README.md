@@ -281,11 +281,16 @@ Podemos ter números inteiros (sem casas decimais) e números flutuantes (com ca
 </ul>
 </p>
 
-## Números Especiais
+## ♾️ Números Especiais ♾️
+<p>Também temos três valores especiais no JavaScript que são considerados do tipo Number, mas não são números comuns.
 
+Os dois primeiros são o Infinity e -Infinity, que indicam valores infinitos positivos e negativos.
 
+O último é o NaN (not a number). Esse valor do tipo Number indica que um valor não é um número. Por exemplo, se você tentar multiplicar a letra "a" pelo número 5, o resultado não pode ser um número, então resultará em NaN.
+</p>
 
-
+## 🔠 Strings 🔣
+<p></p>
 
 
 
