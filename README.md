@@ -414,8 +414,10 @@ Agora, se eu disser algo falso e algo verdadeiro (ou verdadeiro e falso, não im
 
 Se eu disser que é um <code>copo E é laranja</code>, uma simples parte falsa torna a frase inteira <b>falsa</b>.
 </p>
+<blockquote><b>👍 Dica:</b> Resumindo, o resultado do operador <b>&&</b> só será verdadeiro se tudo na operação também for verdadeira. Basta apenas um elemento ser falso que o resultado se tornará falso.</blockquote>
 
-
+### Operador || (OU)
+<p>
 
 
 
