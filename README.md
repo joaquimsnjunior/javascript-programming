@@ -35,7 +35,7 @@
   <li>📜 JavaScript OOP ⚽</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
-  <li>📜 ES6 OOP 📒</li>
+  <li>📜 ES6 OOP 🪀</li>
   <li>📜 Design Patterns 🌺</li>
   <li>📜 jQuery Framework ☄️</li>
   <li>📜 Node.js 🟩</li>
