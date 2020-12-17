@@ -257,7 +257,7 @@ O <b>JavaScript</b> possui 6 tipos primitivos no momento, os quais veremos com m
 </p>
 
 ## ✔️ Boolean ❌
-<p><b>Boolean</b> (também chamado em português como tipo Booleano) é o tipo mais básico existente nas linguagens de programação.
+<p><b>Boolean</b> (também chamado em português como tipo Booleano ou a sigla "bool") é o tipo mais básico existente nas linguagens de programação.
 
 Assim como os bits, eles também só armazenam 2 possíveis valores: <b>true</b> ou <b>false</b> (verdadeiro ou falso).
 
@@ -275,8 +275,8 @@ Há uma diferença bem pequena entre undefined e null. Na verdade a existência 
   
 Podemos ter números inteiros (sem casas decimais) e números flutuantes (com casas decimais, a qual é indicada por um ponto). As linguagens de programação normalmente têm vários tipos de valores numéricos, mas <b>no JavaScript tudo é Number</b>.
 <ul>
-  <li>Número inteiro: 5</li>
-<li>Número flutuante: 5.3157</li>
+  <li>Número inteiro (int): 5</li>
+<li>Número flutuante (float): 5.3157</li>
 <li>Para números muito grandes, podemos usar a notação científica, adicionando um "e" seguido pelo expoente do número.
   2.998e8</li>
   <li>Isso é o mesmo que 2,998 x 10^8, que é igual a 299.800.000</li>
@@ -286,9 +286,9 @@ Podemos ter números inteiros (sem casas decimais) e números flutuantes (com ca
 ## ♾️ Números Especiais ♾️
 <p>Também temos três valores especiais no JavaScript que são considerados do tipo Number, mas não são números comuns.
 
-Os dois primeiros são o Infinity e -Infinity, que indicam valores infinitos positivos e negativos.
+Os dois primeiros são o <b>Infinity</b> e <b>-Infinity</b>, que indicam valores infinitos positivos e negativos.
 
-O último é o NaN (not a number). Esse valor do tipo Number indica que um valor não é um número. Por exemplo, se você tentar multiplicar a letra "a" pelo número 5, o resultado não pode ser um número, então resultará em NaN.
+O último é o <b>NaN</b> (not a number). Esse valor do tipo Number indica que um valor não é um número. Por exemplo, se você tentar multiplicar a letra "a" pelo número 5, o resultado não pode ser um número, então resultará em NaN.
 </p>
 
 ## 🔠 Strings 🔣
