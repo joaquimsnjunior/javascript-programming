@@ -33,7 +33,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-03--tipos-primitivos-">📜 Tipos Primitivos 🐵</a></li>
   <li>📜 Procedural JavaScript 📜</li>
   <li>📜 JavaScript OOP ⚽</li>
-  <li>📜 Functional JavaScript λ</li>
+  <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
   <li>📜 jQuery Framework ☄️</li>
   <li>📜 Node.js 🟩</li>
