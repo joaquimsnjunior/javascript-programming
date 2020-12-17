@@ -268,8 +268,8 @@ Imagine que você tenha um formulário que pergunta a idade de uma pessoa, e ela
 
 Há uma diferença bem pequena entre undefined e null. Na verdade a existência de ambos para definir um valor inexistente foi devido a um acidente no projeto do desenvolvimento do JavaScript. Em outras linguagens de programação, normalmente existe apenas o Null.
 
-
-
+## 🔢 Number 🔟
+<p></p>
 
 
 
