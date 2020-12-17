@@ -323,11 +323,11 @@ Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase)
 O caractere de escape de barra invertida “\” torna caracteres especiais em caracteres de string:</p>
 
 ### \’ aspas simples
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/102544565-c1c1b600-4093-11eb-9539-3b339a50b0d4.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/102550356-78299900-409c-11eb-975c-9b1b491afdd8.jpg)
 
 <h3>\" aspas duplas</h3>
 
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/102544837-2aa92e00-4094-11eb-8824-9d1303dfcb92.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/102550361-79f35c80-409c-11eb-8b3d-b2864b43aa49.jpg)
 
 <h3>\\ barras invertidas</h3>
 
@@ -335,6 +335,18 @@ O caractere de escape de barra invertida “\” torna caracteres especiais em c
 
 <p>Outras seis sequências escapes são válidas em JavaScript:</p>
 <table></table>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
