@@ -311,8 +311,8 @@ Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase)
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102538561-30e6dc80-408b-11eb-8bae-1a59295efe0e.jpg)
 
-
-
+## 🐱‍👤 Escape de Caracteres 🔣
+<p></p>
 
 
 
