@@ -404,15 +404,15 @@ Exemplo: Copo azul</p>
 ### Operador && (E)
 <p>Se tivermos duas verdades, o resultado só pode ser verdadeiro, correto?
   
-Se eu disser que esse objeto é um copo E é azul, são duas verdades, o que resulta em true.
+Se eu disser que esse objeto é um <code>copo E é azul</code>, são duas verdades, o que resulta em <b>true</b>.
 
-E se tivermos duas mentiras, o resultado só pode ser falso.
+E se tivermos duas mentiras, o resultado só pode ser <b>falso</b>.
 
-Se eu disser que esse objeto é um garfo E é vermelho, são duas mentiras, o que resulta em false.
+Se eu disser que esse objeto é um <code>garfo E é vermelho</code>, são duas mentiras, o que resulta em <b>false</b>.
 
-Agora, se eu disser algo falso e algo verdadeiro (ou verdadeiro e falso, não importa a ordem), isso fará com que minha frase seja falsa.
+Agora, se eu disser algo falso e algo verdadeiro (ou verdadeiro e falso, não importa a ordem), isso fará com que minha frase seja <b>falsa</b>.
 
-Se eu disser que é um copo E é laranja, uma simples parte falsa torna a frase inteira falsa.
+Se eu disser que é um <code>copo E é laranja</code>, uma simples parte falsa torna a frase inteira <b>falsa</b>.
 </p>
 
 
