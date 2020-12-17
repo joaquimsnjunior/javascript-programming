@@ -302,6 +302,7 @@ As aspas servem para definir onde um texto começa e onde ele termina. Em JavaSc
 Porém, se você precisar usar aspas simples em um texto, é mais fácil criar a String com aspas duplas, ou sua String será fechada:
 <ul>
   <li><code>"Mc Donald's"</code> A aspa simples pôde ser usada normalmente dentro desta String;</li>
+  <li><code>'Mc Donald's'</code> Após o "d", a aspa simples fechou a string, deixando o "s" e a outra aspa soltos. Isso irá resultar em um erro.</li>
 </ul>
 </p>
 
