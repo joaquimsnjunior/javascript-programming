@@ -334,7 +334,12 @@ O caractere de escape de barra invertida “\” torna caracteres especiais em c
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102549993-d6a24780-409b-11eb-9814-fffb47e86f0f.jpg)
 
 <p>Outras seis sequências escapes são válidas em JavaScript:</p>
-<table></table>
+<table>
+  <tr>
+    <td>\b</td>
+    <td>Retrocesso</td>
+  </tr>
+</table>
 
 
 
