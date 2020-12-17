@@ -321,7 +321,8 @@ Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase)
 O caractere de escape de barra invertida “\” torna caracteres especiais em caracteres de string:</p>
 
 ### \’ aspas simples
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/102544565-c1c1b600-4093-11eb-9539-3b339a50b0d4.jpg)
+### \" aspas duplas
 
 
 
