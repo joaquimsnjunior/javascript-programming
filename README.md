@@ -306,9 +306,8 @@ Porém, se você precisar usar aspas simples em um texto, é mais fácil criar a
 </ul>
 Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase) ao invés de aspas. Mais para frente veremos melhor sobre como trabalhar com Strings e a importância desse novo tipo de String.
 </br >
-
-Para descobrir o tamanho de uma string é usado a propriedade <b>length</b>:
 </p>
+<p>Para descobrir o tamanho de uma string é usado a propriedade <b>length</b>:</p>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102538561-30e6dc80-408b-11eb-8bae-1a59295efe0e.jpg)
 
