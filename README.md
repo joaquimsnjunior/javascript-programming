@@ -237,6 +237,11 @@ As linguagens de programação possuem vários tipos de dados diferente do biná
 
 Com números podemos fazer cálculos, e com textos podemos guardar um texto e fazer uma pesquisa por uma palavra do seu interesse.
 Os tipos mais simples que uma linguagem possui são chamados de <b>Tipos Primitivos</b>.
+
+O <b>JavaScript</b> possui 6 tipos primitivos no momento, os quais veremos com mais detalhes depois. São eles:</p>
+<ul>
+  <li><b>Boolean</b> - possuem apenas dois valores: verdadeiro ou falso;</li>
+</ul>
 </p>
 
 
