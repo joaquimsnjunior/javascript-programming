@@ -148,15 +148,15 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 
 <p>Agora, existem duas maneiras de criar um documento JS:</p>
 
-### No body
+### 📜 No body 🥼
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/102247838-3dc6cd00-3edf-11eb-8302-f77de2b3348d.jpg)
 
-### No head
+### 📜 No head 🥽
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/102253843-a2d1f100-3ee6-11eb-9d1b-016921aae815.jpg)
 
 <blockquote><b>Obs:</b> Carrega o script primeiro antes do body, o que é mais ideal!</blockquote>
 
-### Opcional (No arquivo)
+### 📜 Opcional (No arquivo) 📜
 <p> Outra maneira válida é criar um documento com a extensão <b>.js</b>, é separando ele e linkar-lo no documento HTML. A fonte do link pode ser chamada tanto no &lt;head&gt; como no &lt;body&gt;.</p>
 
 ![Sem Título-3](https://user-images.githubusercontent.com/61624336/102267944-5e038580-3ef9-11eb-89bb-4191481918f6.jpg)
@@ -188,7 +188,7 @@ Nesse caso, para exibir resultados ou mensagens no console do navegador utilize 
   <li><code>window.prompt()</code> janela com textbox e ok.</li>
 </ul>
 
-## 🗒️ Comentários 🗒️
+## 📜 Comentários 🗒️
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102369729-0ae20f00-3f9b-11eb-94c3-d33c143605b9.jpg)
 
 ## 🎲 O que são dados? 🎲
