@@ -278,6 +278,7 @@ Podemos ter números inteiros (sem casas decimais) e números flutuantes (com ca
 <li>Para números muito grandes, podemos usar a notação científica, adicionando um "e" seguido pelo expoente do número.
   2.998e8</li>
   <li>Isso é o mesmo que 2,998 x 10^8, que é igual a 299.800.000</li>
+</ul>
 </p>
 
 
