@@ -246,11 +246,20 @@ Os tipos mais simples que uma linguagem possui são chamados de <b>Tipos Primiti
 O <b>JavaScript</b> possui 6 tipos primitivos no momento, os quais veremos com mais detalhes depois. São eles:</p>
 <ul>
   <li><b>Boolean</b> - possuem apenas dois valores: verdadeiro ou falso;</li>
+  <li><b>Undefined</b> - indica que não foi definido um valor;</li>
+  <li><b>Null</b> - indica que um valor é nulo;</li>
+  <li><b>Number</b> - armazena valores numéricos;</li>
+  <li><b>String</b> - armazena textos;</li>
+  <li><b>Symbol</b> - armazena símbolos.</li>
 </ul>
 </p>
 
+## ✔️ Boolean ❌
+<p><b>Boolean</b> (também chamado em português como tipo Booleano) é o tipo mais básico existente nas linguagens de programação.
 
+Assim como os bits, eles também só armazenam 2 possíveis valores: <b>true</b> ou <b>false</b> (verdadeiro ou falso).
 
+Esse tipo é muito importante, pois ele tem um valor lógico para que a gente faça o computador tomar decisões.</p>
 
 
 
