@@ -361,8 +361,8 @@ O caractere de escape de barra invertida “\” torna caracteres especiais em c
   </tr>
 </table>
 
-
-
+### 🔣 Symbols 🔣
+<p>O <b>Symbol</b> é um novo tipo primitivo do JavaScript. Ele é um tipo de dado que é único e imutável. Podemos usá-los como identificadores de propriedades de objetos, que conheceremos melhor mais para frente.</p>
 
 
 
