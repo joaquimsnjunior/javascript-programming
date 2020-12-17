@@ -290,7 +290,18 @@ O último é o NaN (not a number). Esse valor do tipo Number indica que um valor
 </p>
 
 ## 🔠 Strings 🔣
-<p></p>
+<p>As Strings são usadas para representar textos. Sempre que quisermos um texto teremos que incluir aspas entre o texto, duplas ou simples.
+<ul>
+  <li>"Olá, sou uma string"</li>
+  <li>'Eu também sou'</li>
+</ul>
+As aspas servem para definir onde um texto começa e onde ele termina. Em JavaScript, para manter um padrão de código, é recomendado usar as aspas simples.
+
+Porém, se você precisar usar aspas simples em um texto, é mais fácil criar a String com aspas duplas, ou sua String será fechada:
+<ul>
+  <li><code>"Mc Donald's"</code> A aspa simples pôde ser usada normalmente dentro desta String;</li>
+</ul>
+</p>
 
 
 
