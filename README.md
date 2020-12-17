@@ -381,7 +381,16 @@ Os seguintes valores são considerados falsos no JavaScript:</p>
   <li>"" (string vazia).</li>
 </ul>
 <p>Qualquer outro valor é considerado true, até mesmo a String "false" e "0", pois não são Strings vazias.</p>
+<h1 align="center">Cap 04: 📜 O que são operadores? ➗</h1>
+<p>Até agora só vimos valores soltos que não fazem nada.
+Para fazermos alguma operação com esses valores, usamos os chamados "operadores".
+  
+Um exemplo bem simples:
+7 + 10
 
+O sinal "+" é um operador, o qual podemos usar para somar dois valores numéricos.
+
+Há vários tipos de operadores para as mais diversas operações. Nos próximos capítulos nós veremos vários grupos com seus operadores mais comuns e suas respectivas funções.</p>
 
 
 
