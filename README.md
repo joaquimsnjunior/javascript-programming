@@ -316,7 +316,9 @@ Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase)
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102540262-87edb100-408d-11eb-9018-ff3681325d89.jpg)
 
-<p>A solução para resolver esse problema é com o uso de caractere de escape de barra invertida.</p>
+<p>A solução para resolver esse problema é com o uso de caractere de escape de barra invertida.
+
+O caractere de escape de barra invertida “\” torna caracteres especiais em caracteres de string:</p>
 
 
 
