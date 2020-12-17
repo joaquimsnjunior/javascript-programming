@@ -320,7 +320,7 @@ Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase)
 
 O caractere de escape de barra invertida “\” torna caracteres especiais em caracteres de string:</p>
 
-
+### \’ aspas simples
 
 
 
