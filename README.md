@@ -230,8 +230,8 @@ As linguagens hoje em dia nos fornecem várias funcionalidades que, com um simpl
 
 <blockquote><b>👍 Dica:</b> Veja que nessa cadeia há 8 números. 1 Byte é igual a 8 bits. Então temos aí 8 bits, que resultam em 1 Byte.</blockquote>
 
-<h1 align="center">Cap 02: 📜 Tipos Primitivos 🐵</h1>
-
+<h1 align="center">Cap 03: 📜 Tipos Primitivos 🐵</h1>
+<p></p>
 
 
 
