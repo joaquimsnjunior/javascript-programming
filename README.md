@@ -37,6 +37,8 @@
   <li>📜 ECMAScript 6 (ES6) 📒</li>
   <li>📜 ES6 OOP 🪀</li>
   <li>📜 Design Patterns 🌺</li>
+  <li>📜 JSON 📋</li>
+  <li>📜 AJAX 🔃</li>
   <li>📜 jQuery Framework ☄️</li>
   <li>📜 Node.js 🟩</li>
 </ol>
