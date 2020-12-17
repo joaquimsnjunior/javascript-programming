@@ -231,7 +231,13 @@ As linguagens hoje em dia nos fornecem várias funcionalidades que, com um simpl
 <blockquote><b>👍 Dica:</b> Veja que nessa cadeia há 8 números. 1 Byte é igual a 8 bits. Então temos aí 8 bits, que resultam em 1 Byte.</blockquote>
 
 <h1 align="center">Cap 03: 📜 Tipos Primitivos 🐵</h1>
-<p></p>
+<p>Como vimos anteriormente, os computadores armazenam e entendem dados na forma binária (0 e 1).
+  
+As linguagens de programação possuem vários tipos de dados diferente do binário, os quais facilitam com que a gente trabalhe com diferentes tipos de dados. Um exemplo bem simples são números e textos. São tipos de dados diferentes.
+
+Com números podemos fazer cálculos, e com textos podemos guardar um texto e fazer uma pesquisa por uma palavra do seu interesse.
+Os tipos mais simples que uma linguagem possui são chamados de <b>Tipos Primitivos</b>.
+</p>
 
 
 
