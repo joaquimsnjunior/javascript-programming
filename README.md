@@ -479,7 +479,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 ## Concatenação de Strings (+)
 <p>O Operador "+" também tem outra função além de somar números: ele concatena Strings.</p>
-
+<p>Isso significa que podemos usá-lo para juntar duas ou mais Strings em uma só:</p>
 
 
 
