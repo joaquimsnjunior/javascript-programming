@@ -454,9 +454,8 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
   <li>"!=": serve para verificarmos se dois valores são <b>diferentes</b>.</li>
 </ul>
 <blockquote><b>Obs:</b> O operador "<b>=</b>" é somente usado para atribuir um valor e não para verificar os dois valores como os operadores "==" ou "!=".</blockquote>
-
-
-
+<blockquote><b>👍 Dica:</b> "!" é um operador que indica negação. Então "!=" seria o equivalente que dizer que algo é "não igual".</blockquote>
+<p>Usar esses comparadores pode causar alguns problemas, pois eles vão pelo valor, ignorando o tipo do valor. Vamos entender melhor:</p>
 
 
 
