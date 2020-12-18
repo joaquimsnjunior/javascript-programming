@@ -487,7 +487,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Isso pode ser muito útil quando você possui um texto padrão para exibir e deve inserir dados do seu usuário, como o nome, no meio do texto.</p>
 
 ## Operadores Unários (-, !, typeof, etc)
-<p>Até agora vimos operadores que precisam de dois elementos para funcionar, como é o caso da soma (5 + 3), onde passamos dois números. Esses operadores são chamados de Operadores Binários.</p>
+<p>Até agora vimos operadores que precisam de dois elementos para funcionar, como é o caso da soma (5 + 3), onde passamos dois números. Esses operadores são chamados de <b>Operadores Binários</b>.</p>
 
 
 
