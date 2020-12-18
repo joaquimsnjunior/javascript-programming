@@ -461,7 +461,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Porém, se fizermos a comparação <code>3 == "3"</code>, a String será convertida automaticamente para o tipo Number, e a comparação retornará true.</p>
 <p>Isso pode causar algumas inconsistências em certos casos. Por isso que é muito recomendado sempre fazer comparações com valores do mesmo tipo. Para garantir que estamos fazendo comparações com valores e tipos iguais, acrescentamos um "=" a mais na comparação.</p>
 <p>Isso significa que a comparação <code>3 == "3"</code> retorna true, mas a comparação <code>3 === "3"</code> retorna false, pois "<b>===</b>" também leva em consideração o tipo do valor.</p>
-
+<blockquote><b>👍 Dica:</b> "===" é um operador que é usado para extrema igualdade.</blockquote>
 
 
 
