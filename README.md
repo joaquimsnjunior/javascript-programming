@@ -499,10 +499,12 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Como vimos antes, esse operador serve para negação. Ele inverte os valores do tipo Boolean. Então um valor true se torna false e um false se torna true.</p>
 <pre>!true</pre>
 
+### Operador "typeof"
+<p>Nem todos os operadores são símbolos. Um exemplo deles é o "typeof". Ele nos ajuda a descobrir o tipo de algum valor, se é String, Number, etc.</p>
+<pre>typeof 3</pre>
 
-
-
-
+## Operador Ternário (?:)
+<p>Vimos os operadores binários e unários. Vamos ver agora o Operador Ternário Condicional.</p>
 
 
 
