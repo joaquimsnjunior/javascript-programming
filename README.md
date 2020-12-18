@@ -458,8 +458,8 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Usar esses comparadores pode causar alguns problemas, pois eles vão pelo valor, ignorando o tipo do valor. Vamos entender melhor:</p>
 <p>Lembra que foi dito que o <b>0</b> tem valor <b>false</b>? Então se compararmos <code>0 == false</code> será retornado <b>true</b>.</p>
 <p>Se tivermos um número 3 e uma String "3", ambos são diferentes, certo? Pois o primeiro é um número e o segundo é um texto.</p>
-<p>Porém, se fizermos a comparação 3 == "3", a String será convertida automaticamente para o tipo Number, e a comparação retornará true.</b>
-
+<p>Porém, se fizermos a comparação 3 == "3", a String será convertida automaticamente para o tipo Number, e a comparação retornará true.</p>
+<p>Isso pode causar algumas inconsistências em certos casos. Por isso que é muito recomendado sempre fazer comparações com valores do mesmo tipo. Para garantir que estamos fazendo comparações com valores e tipos iguais, acrescentamos um "=" a mais na comparação.</p>
 
 
 
