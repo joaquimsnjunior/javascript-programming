@@ -364,14 +364,9 @@ O caractere de escape de barra invertida “\” torna caracteres especiais em c
 <p>O <b>Symbol</b> é um novo tipo primitivo do JavaScript. Ele é um tipo de dado que é único e imutável. Podemos usá-los como identificadores de propriedades de objetos, que conheceremos melhor mais para frente.</p>
 
 ## ✔️ Valores verdadeiros e falsos ❌
-<div align="center">
-
-![Meme do JavaScript sobre tipos primitivos](https://user-images.githubusercontent.com/61624336/102435082-c4210300-3ff4-11eb-8250-14947f241915.png)
-
-</div>
 <p>Outros valores no JavaScript possuem valores equivalentes ao true e false.
   
-Um exemplo é o número 0. Ele representa tanto o número zero quanto o valor false. Isso significa que fazer uma comparação com ele seria o equivalente a fazer uma comparação com false. Observe o meme do Bob Esponja a respeito desse valor, é notório que existe uma diferença entre esses valores e o tipo primitivo deles.
+Um exemplo é o número 0. Ele representa tanto o número zero quanto o valor false. Isso significa que fazer uma comparação com ele seria o equivalente a fazer uma comparação com false.
 
 Os seguintes valores são considerados falsos no JavaScript:</p>
 <ul>
@@ -448,6 +443,11 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
   O operador <b>--</b> diminui o valor em 1 unidade, ou seja, se colocarmos com o valor 3, seu valor se tornará 2. Veremos melhor sobre esses operadores mais para frente.</p>
 
 ## Operadores de Igualdade (==, ===, !=, !==)
+<div align="center">
+
+![Meme do JavaScript sobre tipos primitivos](https://user-images.githubusercontent.com/61624336/102435082-c4210300-3ff4-11eb-8250-14947f241915.png)
+
+</div>
 <p>Os operadores de Igualdade servem para compararmos se dois valores são iguais ou diferentes. A operação da comparação retornará um valor true ou false.</p>
 <ul>
   <li>"==": serve para verificarmos se dois valores são <b>iguais</b>.</li>
