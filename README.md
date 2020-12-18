@@ -504,9 +504,9 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <pre>typeof 3</pre>
 
 ## Operador Ternário (?:)
-<p>Vimos os operadores binários e unários. Vamos ver agora o Operador Ternário Condicional.</p>
+<p>Vimos os operadores binários e unários. Vamos ver agora o <b>Operador Ternário Condicional</b>.</p>
 <p>Ele recebe três valores e serve para verificarmos uma condição.</p>
-
+<pre>3 > 1 ? 'É maior' : 'É menor' // retorna a String "É maior"</pre>
 
 
 
