@@ -453,14 +453,14 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
   <li>"==": serve para verificarmos se dois valores são <b>iguais</b>.</li>
   <li>"!=": serve para verificarmos se dois valores são <b>diferentes</b>.</li>
 </ul>
-<blockquote><b>Obs:</b> O operador "<b>=</b>" é somente usado para atribuir um valor e não para verificar os dois valores como os operadores "==" ou "!=". Ele é muito usado em variáveis, que veremos mais pra frente!</blockquote>
+<blockquote><b>Obs:</b> O operador "<b>=</b>" é somente usado para atribuir um valor e não para verificar os dois valores como os operadores "==" ou "!=". Ele é muito usado em <strong>variáveis</strong>, que veremos mais pra frente!</blockquote>
 <blockquote><b>👍 Dica:</b> "!" é um operador que indica negação. Então "!=" seria o equivalente que dizer que algo é "não igual".</blockquote>
 <p>Usar esses comparadores pode causar alguns problemas, pois eles vão pelo valor, ignorando o tipo do valor. Vamos entender melhor:</p>
 <p>Lembra que foi dito que o <b>0</b> tem valor <b>false</b>? Então se compararmos <code>0 == false</code> será retornado <b>true</b>.</p>
 <p>Se tivermos um número 3 e uma String "3", ambos são diferentes, certo? Pois o primeiro é um número e o segundo é um texto.</p>
-<p>Porém, se fizermos a comparação 3 == "3", a String será convertida automaticamente para o tipo Number, e a comparação retornará true.</p>
+<p>Porém, se fizermos a comparação <code>3 == "3"</code>, a String será convertida automaticamente para o tipo Number, e a comparação retornará true.</p>
 <p>Isso pode causar algumas inconsistências em certos casos. Por isso que é muito recomendado sempre fazer comparações com valores do mesmo tipo. Para garantir que estamos fazendo comparações com valores e tipos iguais, acrescentamos um "=" a mais na comparação.</p>
-
+<p>Isso significa que a comparação <code>3 == "3"</code> retorna true, mas a comparação <code>3 === "3"</code> retorna false, pois "<b>===</b>" também leva em consideração o tipo do valor.</p>
 
 
 
