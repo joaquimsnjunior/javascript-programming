@@ -41,6 +41,7 @@
   <li>📜 Design Patterns 🌺</li>
   <li>📜 JSON 📋</li>
   <li>📜 AJAX 🔃</li>
+  <li>📜 Vanilla JavaScript 🍦</li>
   <li>📜 jQuery Framework ☄️</li>
   <li>📜 Node.js 🟩</li>
   <li>📜 Express 🌹</li>
