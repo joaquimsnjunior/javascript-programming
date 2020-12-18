@@ -441,6 +441,9 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
   <li><b>%</b> (módulo) = resto da divisão</li>
   <li><b>**</b> (potenciação)</li>
 </ul>
+<p>Também temos os operadores de incremento <b>(++)</b> e decremento <b>(--)</b>.
+  O operador <b>++</b> aumenta o valor em 1 unidade, ou seja, se colocarmos com o valor 2, seu valor se tornará 3.
+  O operador <b>--</b> diminui o valor em 1 unidade, ou seja, se colocarmos com o valor 3, seu valor se tornará 2. Veremos melhor sobre esses operadores mais para frente.</p>
 
 
 
