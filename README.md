@@ -509,7 +509,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <pre>3 > 1 ? 'É maior' : 'É menor' // retorna a String "É maior"</pre>
 <p>Podemos dividir então em três partes:</p>
 <pre>(3 > 1) ? ('É maior') : ('É menor')</pre>
-
+<p>A primeira parte é uma condição, a qual deve ter um valor true ou false. Nós comparamos se 3 é maior que 1. Veja que é como se perguntássemos "3 é maior que 1?"</p>
 
 
 
