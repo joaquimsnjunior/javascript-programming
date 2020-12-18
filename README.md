@@ -534,7 +534,9 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 <h1 align="center">Cap 05: 📜 O que são variáveis? 📥</h1>
 <p>Até agora só escrevemos simples códigos que não servem para nada. Simplesmente escrevemos um valor e no máximo fizemos algumas operações com os valores que digitamos.</p>
-
+<p>Como você deve imaginar, um programa não fica pedindo dados toda hora para o usuário. Ele armazena esses dados e pode fazer várias operações com esse valor.</p>
+<p>Mas se escrevermos um valor, como acessá-lo novamente em outro lugar? Se escrevemos um valor "5" no comando, como alterá-lo depois ou gerar novos valores?</p>
+<p>É aí que entram em cena as chamadas <b>variáveis</b>.</p>
 
 
 
