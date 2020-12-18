@@ -467,7 +467,10 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 ## Operadores Relacionais &lt;=, &gt;=,  &lt;, &gt;
 <p>Os Operadores Relacionais servem para compararmos valores, verificando se algo é maior ou menor.</p>
-
+<p>São mais usados com valores numéricos, mas também podem ser usados com Strings. Eles sempre retornam um valor true ou false.</p>
+<ul>
+  <li></li>
+</ul>
 
 
 
