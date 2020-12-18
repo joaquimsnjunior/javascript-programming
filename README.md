@@ -450,8 +450,8 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ## Operadores de Igualdade (==, ===, !=, !== )
 <p>Os operadores de Igualdade servem para compararmos se dois valores são iguais ou diferentes. A operação da comparação retornará um valor true ou false.</p>
 <ul>
-  <li>"==": serve para verificarmos se dois valores são iguais.</li>
-  <li>"!=": serve para verificarmos se dois valores são diferentes.</li>
+  <li>"==": serve para verificarmos se dois valores são <b>iguais</b>.</li>
+  <li>"!=": serve para verificarmos se dois valores são <b>diferentes</b>.</li>
 </ul>
 <blockquote><b>Obs:</b> O operador "<b>=</b>" é somente usado para atribuir um valor e não para verificar os dois valores como os operadores "==" ou "!=".</blockquote>
 
