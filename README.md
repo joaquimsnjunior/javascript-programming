@@ -490,8 +490,8 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Até agora vimos operadores que precisam de dois elementos para funcionar, como é o caso da soma (5 + 3), onde passamos dois números. Esses operadores são chamados de <b>Operadores Binários</b>.</p>
 <p>Também temos os <b>Operadores Unários</b>, que são aqueles que só recebem um valor para funcionar.</p>
 
-
-
+### Operador "-"
+<p>O primeiro é o "-". Além de ser usado como operador de subtração, ele pode ser usado para inverter o sinal de um número. Então um número positivo se torna negativo e um negativo se torna positivo.</p>
 
 
 
