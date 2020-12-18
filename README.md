@@ -907,7 +907,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 
 <!--
-
+https://miro.medium.com/max/1436/0*ILZZpnli_R1FU3p4.gif
 <p>Abaixo é apresentado o comando console.log: </p>
  <pre>
   <code>console.log('Hello, World!');</code>
