@@ -32,7 +32,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-02--primeiros-comandos-com-javascript-%EF%B8%8F">📜 Primeiros comandos com JavaScript 🖥️</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-03--tipos-primitivos-">📜 Tipos Primitivos 🐵</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-04--o-que-s%C3%A3o-operadores-">📜 O que são operadores? ➗</a></li>
-  <li>📜 O que são variáveis? 📥</li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-05--o-que-s%C3%A3o-vari%C3%A1veis-">📜 O que são variáveis? 📥</a></li>
   <li>📜 Procedural JavaScript 📜</li>
   <li>📜 JavaScript OOP ⚽</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
