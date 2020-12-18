@@ -514,8 +514,8 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Se a resposta for falsa, o terceiro elemento que passamos será retornado, no caso, a String "É menor".</p>
 <pre>3 > 8 ? 'É maior' : 'É menor' // retorna a String "É menor"</pre>
 
-
-
+## Conversão automática de tipos
+<p>
 
 
 
