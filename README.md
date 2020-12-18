@@ -532,7 +532,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Podemos aninhar expressões para gerar códigos mais complexos, assim como podemos juntar várias palavras e frases para formar grandes textos para passar ideias para outras pessoas.</p>
 <p>Um programa é feito de linhas de códigos cheios de comandos, que em outras palavras, é uma lista de expressões.</p>
 
-<h1 align="center">Cap 04: 📜 O que são variáveis? 📥</h1>
+<h1 align="center">Cap 05: 📜 O que são variáveis? 📥</h1>
 <p>Até agora só escrevemos simples códigos que não servem para nada. Simplesmente escrevemos um valor e no máximo fizemos algumas operações com os valores que digitamos.</p>
 
 
