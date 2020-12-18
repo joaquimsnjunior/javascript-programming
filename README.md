@@ -505,7 +505,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 ## Operador Ternário (?:)
 <p>Vimos os operadores binários e unários. Vamos ver agora o Operador Ternário Condicional.</p>
-
+<p>Ele recebe três valores e serve para verificarmos uma condição.</p>
 
 
 
