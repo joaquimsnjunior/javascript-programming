@@ -447,7 +447,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
   
   O operador <b>--</b> diminui o valor em 1 unidade, ou seja, se colocarmos com o valor 3, seu valor se tornará 2. Veremos melhor sobre esses operadores mais para frente.</p>
 
-## Operadores de Igualdade (==, ===, !=, !== )
+## Operadores de Igualdade (==, ===, !=, !==)
 <p>Os operadores de Igualdade servem para compararmos se dois valores são iguais ou diferentes. A operação da comparação retornará um valor true ou false.</p>
 <ul>
   <li>"==": serve para verificarmos se dois valores são <b>iguais</b>.</li>
