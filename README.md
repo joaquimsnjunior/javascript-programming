@@ -495,8 +495,9 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>O primeiro é o "-". Além de ser usado como operador de subtração, ele pode ser usado para inverter o sinal de um número. Então um número positivo se torna negativo e um negativo se torna positivo.</p>
 <pre>-3</pre>
 
-
-
+### Operador "!"
+<p>Como vimos antes, esse operador serve para negação. Ele inverte os valores do tipo Boolean. Então um valor true se torna false e um false se torna true.</p>
+<pre>!true</pre>
 
 
 
