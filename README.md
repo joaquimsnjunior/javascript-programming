@@ -465,7 +465,8 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Para ter certeza que algo é diferente, incluindo o tipo, temos o operador "!==".</p>
 <blockquote><b>👍 Dica:</b> "!==" é um operador que é usado para extrema diferença.</blockquote>
 
-
+## Operadores Relacionais &lt;=, &gt;=,  &lt;, &gt;
+<p>Os Operadores Relacionais servem para compararmos valores, verificando se algo é maior ou menor.</p>
 
 
 
