@@ -503,12 +503,12 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Nem todos os operadores são símbolos. Um exemplo deles é o "typeof". Ele nos ajuda a descobrir o tipo de algum valor, se é String, Number, etc.</p>
 <pre>typeof 3</pre>
 
-## Operador Ternário (?:)
+## Operador Ternário (?, :)
 <p>Vimos os operadores binários e unários. Vamos ver agora o <b>Operador Ternário Condicional</b>.</p>
 <p>Ele recebe três valores e serve para verificarmos uma condição.</p>
 <pre>3 > 1 ? 'É maior' : 'É menor' // retorna a String "É maior"</pre>
-
-
+<p>Podemos dividir então em três partes:</p>
+<pre>(3 > 1) ? ('É maior') : ('É menor')</pre>
 
 
 
