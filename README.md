@@ -457,7 +457,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <blockquote><b>👍 Dica:</b> "!" é um operador que indica negação. Então "!=" seria o equivalente que dizer que algo é "não igual".</blockquote>
 <p>Usar esses comparadores pode causar alguns problemas, pois eles vão pelo valor, ignorando o tipo do valor. Vamos entender melhor:</p>
 <p>Lembra que foi dito que o <b>0</b> tem valor <b>false</b>? Então se compararmos <code>0 == false</code> será retornado <b>true</b>.</p>
-
+<p>Se tivermos um número 3 e uma String "3", ambos são diferentes, certo? Pois o primeiro é um número e o segundo é um texto.</p>
 
 
 
