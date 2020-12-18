@@ -433,7 +433,14 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 ## Operadores Aritméticos (+, -, *, /, %, ++, --, **)
 <p>Os Operadores Aritméticos são bem simples de se entender. Eles são usados com números para que possamos fazer cálculos.</p>
-
+<ul>
+  <li><b>+</b> (adição)</li>
+  <li><b>-</b> (subtração)</li>
+  <li><b>*</b> (multiplicação)</li>
+  <li><b>/</b> (divisão)</li>
+  <li><b>%</b> (módulo) = resto da divisão</li>
+  <li><b>**</b> (potenciação)</li>
+</ul>
 
 
 
