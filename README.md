@@ -563,7 +563,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102698306-28bda700-421b-11eb-9430-c432e875cf0b.jpg)
 <blockquote><b>Obs:</b> Também funciona com a concatenação.</blockquote>
 
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/102699060-a7691300-4220-11eb-8543-6e7593c01795.jpg)
 
 
 
