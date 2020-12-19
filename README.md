@@ -48,7 +48,7 @@
   <li>📜 Node.js 🟩</li>
   <li>📜 MongoDB 🍃</li>
   <li>📜 Express 🌹</li>
-  <li>📜 Restful API x Rest API 🔁</li>
+  <li>📜 RESTful API x REST API 🔁</li>
   <li>📜 Inteligência Artificial em JavaScript 🧠</li>
   <li>📜 Tensorflow.js 🤖📚</li>
 </ol>
