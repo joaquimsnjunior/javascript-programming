@@ -20,6 +20,7 @@
 [![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white)](https://github.com/IsaacAlves7/ionic-programming)
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)](https://github.com/IsaacAlves7/electron-programming)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![ReactiveX](https://img.shields.io/badge/-ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
 [![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/IsaacAlves7/gulp-programming)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
@@ -38,6 +39,7 @@
   <li>📜 Procedural JavaScript 📜</li>
   <li>📜 JavaScript OOP ⚽</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
+  <li>📜 Reactive programming JavaScript with ReactiveX 🐉</li
   <li>📜 ECMAScript 6 (ES6) 📒</li>
   <li>📜 ES6 OOP 🪀</li>
   <li>📜 Design Patterns 🌺</li>
