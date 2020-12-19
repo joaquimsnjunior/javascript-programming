@@ -27,7 +27,7 @@
 
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
 
-## Menu - Overview about the JavaScript (JS) language 📜
+## Main menu - Overview about the JavaScript (JS) language 📜
 <strong>All topics: </strong>
 <ol>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-01--the-history-of-javascript-js-">📜 The History of JavaScript (JS) 🔢</a></li>
