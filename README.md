@@ -557,7 +557,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 <blockquote>Bem uniforme e fácil de compreensão para todos!</blockquote>
 
-
+## 📥 Declarando variáveis com operadores de atribuição 📤
 
 
 
