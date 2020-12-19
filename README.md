@@ -553,9 +553,9 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ### Exemplo:
 <blockquote><b>👍 Dica:</b> O nome da variável <b>Idade</b> substitua para <b>Old</b> ou <b>yearOld</b>.</blockquote>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/102696882-6b2db680-4210-11eb-80b8-7dc0048c8f15.jpg)
 
-
-
+<blockquote>Bem uniforme e fácil de compreensão para todos!</blockquote>
 
 
 
