@@ -550,7 +550,8 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 <blockquote><b>👍 Dica:</b> É opcional, mas se possível crie variáveis em inglês para deixar o seu código mais uniforme, facilitará muito mais no entendimento.</blockquote>
 
-
+### Exemplo:
+<blockquote><b>👍 Dica:</b> O nome da variável <b>Idade</b> substitua para <b>Old</b> ou <b>yearOld</b>.</blockquote>
 
 
 
