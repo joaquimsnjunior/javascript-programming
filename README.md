@@ -570,8 +570,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ## Incremento e decremento de valores
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102705242-f97f5800-4263-11eb-8d96-4f5e3319ec4e.jpg)
 
-
-
+## 📥 Variáveis locais e globais 🌎
 
 
 
