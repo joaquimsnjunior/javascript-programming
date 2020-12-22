@@ -579,7 +579,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102937044-0bd9db80-4488-11eb-9861-500df9186e5e.jpg)
 
 ## 📥 Variáveis locais e globais 🌎
-
+<p>As variáveis podem ser classificadas em duas categorias:</p>
 
 
 
