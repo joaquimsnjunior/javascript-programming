@@ -3,6 +3,14 @@
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/IsaacAlves7/css3-programming)
+[![Python](https://img.shields.io/badge/-Python-339AF0?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/IsaacAlves7/python-programming)
+[![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/IsaacAlves7/java-programming)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
+[![WordPress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/IsaacAlves7/javascript-programming)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
+[![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=for-the-badge&logo=SVG&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=GreenSock&logoColor=black)](https://github.com/IsaacAlves7/jQuery-programming)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
