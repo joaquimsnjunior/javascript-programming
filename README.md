@@ -586,7 +586,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 </ul>
 
 ### 📥 let, const e var 📥
-<p>A diferença entre eles é algo bastante notório</p>
+<p>A diferença entre eles é algo bastante notório:</p>
 <ul></ul>
 
 
