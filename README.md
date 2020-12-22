@@ -580,7 +580,10 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 ## 📥 Variáveis locais e globais 🌎
 <p>As variáveis podem ser classificadas em duas categorias:</p>
-
+<ul>
+  <li><b>Variáveis locais</b> são as variáveis que estão dentro do escopo de um programa / função / procedimento.</li>
+  <li><b>Variáveis globais</b> são as variáveis que estão no escopo para o tempo de execução do programa. Elas podem ser recuperadas por qualquer parte do programa.</li>
+</ul>
 
 
 
