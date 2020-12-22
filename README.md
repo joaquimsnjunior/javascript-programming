@@ -576,7 +576,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102699060-a7691300-4220-11eb-8543-6e7593c01795.jpg)
 
 ## Incremento e decremento de valores
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/102705242-f97f5800-4263-11eb-8d96-4f5e3319ec4e.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/102937044-0bd9db80-4488-11eb-9861-500df9186e5e.jpg)
 
 ## 📥 Variáveis locais e globais 🌎
 
