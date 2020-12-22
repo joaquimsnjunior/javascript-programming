@@ -594,8 +594,10 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 </ul>
 
 ### 📥 let, const e var 📥
-<p>A diferença entre eles é algo bastante notório:</p>
-<ul></ul>
+<p>A diferença entre eles é algo bastante notório no escopo:</p>
+<ul>
+  <li><b>var</b> é uma variável global, ou seja, funciona em qualquer lugar do programa independente de onde foi declarado.</li>
+</ul>
 
 
 
