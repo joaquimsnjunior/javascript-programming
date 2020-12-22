@@ -585,7 +585,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
   <li><b>Variáveis globais</b> são as variáveis que estão no escopo para o tempo de execução do programa. Elas podem ser recuperadas por qualquer parte do programa.</li>
 </ul>
 
-
+### let, const e var
 
 
 
