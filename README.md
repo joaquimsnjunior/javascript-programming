@@ -566,7 +566,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ## 📥 Declarando e nomeando variáveis 🔤
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102696091-8ac1e080-420a-11eb-9553-477915979001.jpg)
 
-<blockquote><b>Obs:</b> A sintaxe <b>var</b> é um padrão para declarar uma variável no JS. Além disso, o JS é <em>Case Sensitive</em>, ou seja, as letras maiúsculas e minúsculas fazem diferença na declaração de variáveis. Ademais, as variáveis no JS são declaradas no topo do código para baixo, por isso o valor é definido corretamente.</blockquote>
+<blockquote><b>Obs:</b> O JS é <em>Case Sensitive</em>, ou seja, as letras maiúsculas e minúsculas fazem diferença na declaração de variáveis. Ademais, as variáveis no JS são declaradas no topo do código para baixo, por isso o valor é definido corretamente. Além disso, as variáveis não podem conter acentos, espaços ou caracteres especiais.No entanto, números são permitidos desde que sejam precedidos de uma ou mais letras.</blockquote>
 
 <blockquote><b>👍 Dica:</b> É opcional, mas se possível crie variáveis em inglês para deixar o seu código mais uniforme, facilitará muito mais no entendimento.</blockquote>
 
