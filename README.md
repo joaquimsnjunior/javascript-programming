@@ -47,6 +47,8 @@
   <li>📜 Estrutura condicional 👍👎</li>
   <li>📜 Laços de Repetição 🔁</li>
   <li>📜 Arrays (Vetores) 🛒</li>
+  <li>📜 Valores em JS 💛</li>
+  <li>📜 Data e horário em JS 🕒📅</li>
   <li>📜 Procedural JavaScript 📜</li>
   <li>📜 JavaScript OOP ⚽</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
