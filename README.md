@@ -60,7 +60,7 @@
 
 ## 🧩⚔️ Para simulações de programação recomendo esses jogos educacionais:
 <ul>
-  <li>code.org</li>
+  <li>https://www.code.org</li>
   <li>https://developers.google.com/blockly</li>
   <li>https://br.codecombat.com/</li>
 </ul>
