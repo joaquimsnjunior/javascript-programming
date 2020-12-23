@@ -41,6 +41,9 @@
 
 ## Links de Apoio:
 [![Codepen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=CodePen&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-orangered?style=for-the-badge&logo=HTML5&logoColor=white)]()
+[![Css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)]()
+
 
 ## Main menu - Overview about the JavaScript (JS) language 📜
 <strong>All topics: </strong>
