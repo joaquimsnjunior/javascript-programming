@@ -54,6 +54,7 @@
   <li>📜 Procedural JavaScript 📜</li>
   <li>📜 Validações em JavaScript ✅</li>
   <li>📜 JavaScript OOP ⚽</li>
+  <li>📜 BOM (Browser Object Model) ⚽</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
