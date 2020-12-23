@@ -696,7 +696,7 @@ Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 ## 👍👎 Comparando valores com o switch 🎛️🎚️
 <p>Para um grande número de condições é necessário um comando mais especializado do que somente o "if", "else" ou "else if", o comando <code>switch</code> é ideal para essa proposta. Observe a imagem abaixo:</p>
 
-![Sem Título-2](https://user-images.githubusercontent.com/61624336/103044652-2089a280-4560-11eb-9365-be36b329e4c3.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/103044820-e10f8600-4560-11eb-8151-4bf9cccd3e48.jpg)
 
 <blockquote><b>Obs:</b> O <code>break</code> serve para pausar a execução por cada <code>case</code>, pois senão ele executa todas de uma só vez.</blockquote>
 
