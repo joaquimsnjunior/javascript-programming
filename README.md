@@ -676,8 +676,8 @@ Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103040686-f978a400-4552-11eb-8781-42c3f58802d3.jpg)
 
 
-
-
+## 👍👎 Comparando valores com o switch 🎛️🎚️
+<p></p>
 
 
 
