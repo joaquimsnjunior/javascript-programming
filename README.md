@@ -612,7 +612,10 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <blockquote><b>Obs:</b> const e let só funcionam dentro do escopo do bloco <b>{ }</b>.</blockquote>
 
 ### 📥 Alguns tipos de variáveis globais 🌎
-<p></p>
+<p>Existe mais de um tipo de variável global, como:</p>
+<ul>
+  <li></li>
+</ul>
 
 
 
