@@ -615,7 +615,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Existe mais de um tipo de variável global, como:</p>
 <ul>
   <li><p>Não é muito recomendado, pois pode gerar conflitos com outras variáveis dependendo do escopo.</p><img src="https://user-images.githubusercontent.com/61624336/103024474-ad1b6d00-452e-11eb-9110-9ae03ebaada0.jpg"/></li>
-  <li><p>variável local e global, muito recomendada para ambos os escopos!</p><img src=""/></li>
+  <li><p>variável local e global, muito recomendada para ambos os escopos!</p><img src="https://user-images.githubusercontent.com/61624336/103024858-68dc9c80-452f-11eb-823b-29b790892a67.jpg"/></li>
 </ul>
 
 
