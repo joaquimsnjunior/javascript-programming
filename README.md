@@ -640,7 +640,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <h1 align="center">Cap 06: 📜 Estrutura condicional 👍👎</h1>
 
 ## 👍 O que são condições? 👎
-<p><b>Condições</p> são expressões que retornam um valor true ou false.</p>
+<p><b>Condições</b> são expressões que retornam um valor true ou false.</p>
 
 
 
