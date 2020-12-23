@@ -598,7 +598,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <ul>
   <li><b>var</b> é uma variável global, ou seja, funciona em qualquer lugar do programa independente de onde foi declarado. Além disso, pode ser alterada e renovada.
   
-  ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102960801-81ae6900-44c1-11eb-8afa-2aaac6a8088a.jpg)
+  ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102960938-dbaf2e80-44c1-11eb-95eb-5e87dee0f451.jpg)
 
   </li>
   <li><b>let</b> é uma variável local, ou seja, funciona em apenas um determinado bloco do programa. Não permite que use a mesma variável de novo.</li>
