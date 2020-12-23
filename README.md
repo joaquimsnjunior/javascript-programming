@@ -58,6 +58,11 @@
 [![Css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)]()
 [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)]()
 
+## 🧩
+<ul>
+  <li>https://developers.google.com/blockly</li>
+</ul>
+
 ## Main menu - Overview about the JavaScript (JS) language 📜
 <strong>All topics: </strong>
 <ol>
