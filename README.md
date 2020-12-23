@@ -619,8 +619,8 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
   <li><p>Esse tipo de variável está dizendo explicitamente que a variável é global na janela</p><img src="https://user-images.githubusercontent.com/61624336/103025149-f4eec400-452f-11eb-8e4f-cc9df377fe09.jpg"/></li>
 </ul>
 
-
-
+### 📞 Outra forma de chamar uma variável 📥
+<p>Usando as crases e o cifrão com as chaves, esse placeholder concatena a frase com a variável sem a realização dos operadores aritméticos.</p>
 
 
 
