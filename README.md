@@ -627,6 +627,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ### 💬 Perguntar e recolher dados de uma variável 📥
 <p>O método <code>prompt()</code> exibe a mensagem para o usuário e recolhe o valor para aplicar na variável.</p>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103028368-603b9480-4536-11eb-99dc-0219aeead300.jpg)
 
 
 
