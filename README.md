@@ -698,7 +698,7 @@ Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103044652-2089a280-4560-11eb-9365-be36b329e4c3.jpg)
 
-
+<blockquote><b>Obs:</b> O <code>break</code> serve para pausar a execução por cada <code>case</code>, pois senão ele executa todas de uma só vez.</blockquote>
 
 
 
