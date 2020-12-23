@@ -629,10 +629,11 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103028368-603b9480-4536-11eb-99dc-0219aeead300.jpg)
 
-<p>O segundo passo é chamar o script no documento HTML, somente assim exibe na janela do navegador!</p>
+<p>O segundo passo é chamar o script no documento HTML, somente assim exibe a janela no navegador!</p>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103028814-43539100-4537-11eb-96ec-beaf6610f93b.jpg)
 
+<p>Executando o documento percebe-se que há um textbox que dá pra inserir</p>
 
 
 
