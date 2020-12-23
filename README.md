@@ -596,7 +596,11 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ### 📥 let, const e var 📥
 <p>A diferença entre eles é algo bastante notório no escopo:</p>
 <ul>
-  <li><b>var</b> é uma variável global, ou seja, funciona em qualquer lugar do programa independente de onde foi declarado. Além disso, pode ser alterada e renovada.</li>
+  <li><b>var</b> é uma variável global, ou seja, funciona em qualquer lugar do programa independente de onde foi declarado. Além disso, pode ser alterada e renovada.
+  
+  ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102960801-81ae6900-44c1-11eb-8afa-2aaac6a8088a.jpg)
+
+  </li>
   <li><b>let</b> é uma variável local, ou seja, funciona em apenas um determinado bloco do programa. Não permite que use a mesma variável de novo.</li>
   <li><b>const</b> não deixa você alterar o dado atribuído.</li>
 </ul>
