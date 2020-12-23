@@ -614,7 +614,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ### 📥 Alguns tipos de variáveis globais 🌎
 <p>Existe mais de um tipo de variável global, como:</p>
 <ul>
-  <li><img src="https://user-images.githubusercontent.com/61624336/103024474-ad1b6d00-452e-11eb-9110-9ae03ebaada0.jpg"/><br /><p>Não é muito recomendado, pois pode gerar conflitos com outras variáveis dependendo do escopo.</p></li>
+  <li><p>Não é muito recomendado, pois pode gerar conflitos com outras variáveis dependendo do escopo.</p><br /><img src="https://user-images.githubusercontent.com/61624336/103024474-ad1b6d00-452e-11eb-9110-9ae03ebaada0.jpg"/></li>
 </ul>
 
 
