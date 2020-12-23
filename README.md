@@ -654,8 +654,10 @@ Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 <p>Ele escolhe o que irá retornar. Porém, tudo na mesma linha não é muito legível. O Operador Ternário é recomendado apenas para operações simples e curtas.
   Para a maioria dos casos, usaremos o comando "<b>if</b>".</p>
 
+### Exemplo 1:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103035247-ae0bc900-4545-11eb-869d-754711e7f96c.jpg)
 
+### Exemplo 2:
 
 
 
