@@ -549,7 +549,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Aqui ele verá a operação como uma concatenação de Strings. Então o 1 será convertido para String, resultando em "51".</p>
 <p>Por isso é importante conhecer bem o comportamento da linguagem, para não ter surpresas com o que ocorre automaticamente.</p>
 
-## O que são expressões?
+## ➕ O que são expressões? 🔟
 <p>Vimos até agora alguns comandos simples com os operadores. Vimos que eles produzem um valor quando executados, como é o caso de "5 + 3" que produz o valor "8".</p>
 <p>Até mesmo quando simplesmente digitamos 8 estamos gerando o valor 8. Todo fragmento de código que produz um valor é chamado de "expressão".</p>
 <p>Podemos aninhar expressões para gerar códigos mais complexos, assim como podemos juntar várias palavras e frases para formar grandes textos para passar ideias para outras pessoas.</p>
@@ -584,7 +584,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102699060-a7691300-4220-11eb-8543-6e7593c01795.jpg)
 
-## Incremento e decremento de valores
+## ➕➕ Incremento e decremento de valores ➖➖
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102937044-0bd9db80-4488-11eb-9861-500df9186e5e.jpg)
 
 ## 📥 Variáveis locais e globais 🌎
