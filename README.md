@@ -646,6 +646,8 @@ O valor true ou false é usado para que a máquina escolha se uma expressão dev
 Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 </p>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103034640-18bc0500-4544-11eb-8c4d-f3914652f0d4.jpg)
+
 <blockquote>retorna a String "É menor"</blockquote>
 
 
