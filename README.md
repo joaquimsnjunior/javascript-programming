@@ -677,7 +677,7 @@ Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 
 
 ## 👍👎 Comparando valores com o switch 🎛️🎚️
-<p></p>
+<p>Para um grande número de condições é necessário um comando mais especializado do que somente o "if", "else" ou "else if", o comando <code>switch</code> é ideal para essa proposta.</p>
 
 
 
