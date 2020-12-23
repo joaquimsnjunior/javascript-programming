@@ -635,7 +635,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 <p>Executando o documento percebe-se que há um textbox que dá pra inserir</p>
 
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/103029598-e6f17100-4538-11eb-90fb-51be6b108dd4.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/103035031-160ddf80-4545-11eb-8ce5-2470fe943edc.jpg)
 
 <h1 align="center">Cap 06: 📜 Estrutura condicional 👍👎</h1>
 <img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
