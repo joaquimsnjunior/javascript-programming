@@ -658,7 +658,7 @@ Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103035247-ae0bc900-4545-11eb-869d-754711e7f96c.jpg)
 
 ### Exemplo 2:
-
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/103038271-cfbc7e80-454c-11eb-9d5a-bd6a4bf9af67.jpg)
 
 
 
