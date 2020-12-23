@@ -631,7 +631,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 <p>O segundo passo é chamar o script no documento HTML, somente assim exibe na janela do navegador!</p>
 
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103028814-43539100-4537-11eb-96ec-beaf6610f93b.jpg)
 
 
 
