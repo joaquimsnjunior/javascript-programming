@@ -622,7 +622,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ### 📞 Outra forma de chamar uma variável 📥
 <p>Usando as crases e o cifrão com as chaves, esse placeholder concatena a frase com a variável sem a realização dos operadores aritméticos.</p>
 
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103025789-4e0b2780-4531-11eb-8448-7eb9415164d8.jpg)
 
 
 
