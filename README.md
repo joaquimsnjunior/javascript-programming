@@ -61,6 +61,7 @@
 ## 🧩 Para simulações de layout recomendo esses jogos educacionais:
 <ul>
   <li>https://developers.google.com/blockly</li>
+  <li>https://br.codecombat.com/</li>
 </ul>
 
 ## Main menu - Overview about the JavaScript (JS) language 📜
