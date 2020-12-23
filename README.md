@@ -638,8 +638,9 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103029598-e6f17100-4538-11eb-90fb-51be6b108dd4.jpg)
 
 <h1 align="center">Cap 06: 📜 Estrutura condicional 👍👎</h1>
-<p></p>
 
+## 👍 O que são condições? 👎
+<p><b>Condições</p> são expressões que retornam um valor true ou false.</p>
 
 
 
