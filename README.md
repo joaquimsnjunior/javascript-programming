@@ -600,6 +600,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
   <li><b>let</b> é uma variável local, ou seja, funciona em apenas um determinado bloco do programa. Não permite que use a mesma variável de novo.</li>
   <li><b>const</b> não deixa você alterar o dado atribuído.</li>
 </ul>
+<blockquote><b>Obs:</b> const e let só funcionam dentro do escopo do bloco <b>{ }</b>.</blockquote>
 
 ### 📥 Escopo 🌎
 
