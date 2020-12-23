@@ -44,7 +44,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-03--tipos-primitivos-">📜 Tipos Primitivos 🐵</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-04--o-que-s%C3%A3o-operadores-">📜 O que são operadores? ➗</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-05--o-que-s%C3%A3o-vari%C3%A1veis-">📜 O que são variáveis? 📥</a></li>
-  <li>📜 Estrutura condicional 👍👎</li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-06--estrutura-condicional-">📜 Estrutura condicional 👍👎</a></li>
   <li>📜 Laços de Repetição 🔁</li>
   <li>📜 Arrays (Vetores) 🛒</li>
   <li>📜 Valores em JS 💛</li>
