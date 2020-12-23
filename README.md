@@ -650,6 +650,8 @@ Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 
 <blockquote>retorna a String "É menor"</blockquote>
 
+<p>Ele escolhe o que irá retornar. Porém, tudo na mesma linha não é muito legível. O Operador Ternário é recomendado apenas para operações simples e curtas.
+  Para a maioria dos casos, usaremos o comando "<b>if</b>".</p>
 
 
 
