@@ -684,7 +684,7 @@ Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
   Para a maioria dos casos, usaremos o comando "<b>if</b>".</p>
 
 ### Exemplo 1:
-![Sem Título-2](https://user-images.githubusercontent.com/61624336/103035247-ae0bc900-4545-11eb-869d-754711e7f96c.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/103043802-f2569380-455c-11eb-86b6-36e46cb25496.jpg)
 
 ### Exemplo 2:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103038271-cfbc7e80-454c-11eb-9d5a-bd6a4bf9af67.jpg)
