@@ -700,9 +700,16 @@ Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 
 <blockquote><b>Obs:</b> O <code>break</code> serve para pausar a execução por cada <code>case</code>, pois senão ele executa todas de uma só vez.</blockquote>
 
+<h1 align="center">Cap 07: 📜 Laços de Repetição 🔁</h1>
 
+## 🔁 O que são laços de repetição 🔂
+<p>Uma das vantagens das máquinas sobre as pessoas é que elas podem executar várias tarefas repetitivas sem se cansar e de maneira muito mais rápida.
 
+Após a tomada de decisões, outra parte básica no aprendizado da programação é a execução de repetição de comandos, os quais chamamos de Laços de Repetição.
 
+Imagine que você queira imprimir na tela a soma de todos os números de 1 a 100. Daria muito trabalho digitar tudo.
+
+E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples comando podemos fazer essa conta em um piscar de olhos com os laços de repetição.</p>
 
 
 
