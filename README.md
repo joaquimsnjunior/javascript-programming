@@ -669,9 +669,11 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103028814-43539100-4537-11eb-96ec-beaf6610f93b.jpg)
 
-<p>Executando o documento percebe-se que há um textbox que dá pra inserir</p>
+<p>Executando o documento percebe-se que há um textbox que dá pra inserir o valor.</p>
 
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103035031-160ddf80-4545-11eb-8ce5-2470fe943edc.jpg)
+
+<blockquote>Logo, a variável receberá o seu valor.</blockquote>
 
 <h1 align="center">Cap 06: 📜 Estrutura condicional 👍👎</h1>
 <img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
