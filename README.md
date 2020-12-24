@@ -735,7 +735,9 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 <blockquote><b>Utilidade:</b> Podemos ler ou modificar todos os itens de um vetor.</blockquote>
 
-![Sem Título-2](https://user-images.githubusercontent.com/61624336/103059201-3197db00-4583-11eb-8bcd-2a552be7a89c.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/103059359-a5d27e80-4583-11eb-81eb-45260edda8a9.jpg)
+
+
 
 
 
