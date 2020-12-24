@@ -586,7 +586,8 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 
 <h1 align="center">Cap 05: 📜 O que são variáveis? 📥</h1>
 <div align="left"><img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="270"/></div>
-<p align="right">Até agora só escrevemos simples códigos que não servem para nada. Simplesmente escrevemos um valor e no máximo fizemos algumas operações com os valores que digitamos.
+
+Até agora só escrevemos simples códigos que não servem para nada. Simplesmente escrevemos um valor e no máximo fizemos algumas operações com os valores que digitamos.
 
 Como você deve imaginar, um programa não fica pedindo dados toda hora para o usuário. Ele armazena esses dados e pode fazer várias operações com esse valor.
 
@@ -598,7 +599,7 @@ Imagine as variáveis como caixinhas onde podemos armazenar um valor e depois ir
 
 Em muitas linguagens de programação, como Java e C#, precisamos indicar qual o tipo que a variável irá armazenar, como Boolean ou String. Dizemos que a linguagem possui "Tipagem Estática".
 
-O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamos declarar o tipo da variável. Se passarmos um número para uma variável, o JavaScript já saberá que aquela variável será do tipo Number. Isso também ocorre em linguagens como PHP, Python, Ruby e C# (sim, o C# também aceita inferência de tipos). Nesse caso, dizemos que a linguagem possui uma "Tipagem Dinâmica". Além disso, as variáveis do JS se organizam de cima para baixo.</p>
+O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamos declarar o tipo da variável. Se passarmos um número para uma variável, o JavaScript já saberá que aquela variável será do tipo Number. Isso também ocorre em linguagens como PHP, Python, Ruby e C# (sim, o C# também aceita inferência de tipos). Nesse caso, dizemos que a linguagem possui uma "Tipagem Dinâmica". Além disso, as variáveis do JS se organizam de cima para baixo.
 
 ## 📥 Declarando e nomeando variáveis 🔤
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102696091-8ac1e080-420a-11eb-9553-477915979001.jpg)
