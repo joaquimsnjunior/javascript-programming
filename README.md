@@ -1038,7 +1038,7 @@ https://miro.medium.com/max/1436/0*ILZZpnli_R1FU3p4.gif
  <pre>
   <code>console.log('Hello, World!');</code>
  </pre>
-
+document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
  <pre>
   <code>alert('Hello, World!');</code>
  </pre>
