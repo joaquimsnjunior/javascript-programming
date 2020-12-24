@@ -585,7 +585,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Um programa é feito de linhas de códigos cheios de comandos, que em outras palavras, é uma lista de expressões.</p>
 
 <h1 align="center">Cap 05: 📜 O que são variáveis? 📥</h1>
-<img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="200" width="1000"/>
+<img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="400" width="1000"/>
 <p>Até agora só escrevemos simples códigos que não servem para nada. Simplesmente escrevemos um valor e no máximo fizemos algumas operações com os valores que digitamos.</p>
 <p>Como você deve imaginar, um programa não fica pedindo dados toda hora para o usuário. Ele armazena esses dados e pode fazer várias operações com esse valor.</p>
 <p>Mas se escrevermos um valor, como acessá-lo novamente em outro lugar? Se escrevemos um valor "5" no comando, como alterá-lo depois ou gerar novos valores?</p>
