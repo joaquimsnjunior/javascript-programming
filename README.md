@@ -585,7 +585,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Um programa é feito de linhas de códigos cheios de comandos, que em outras palavras, é uma lista de expressões.</p>
 
 <h1 align="center">Cap 05: 📜 O que são variáveis? 📥</h1>
-<div align="right"><img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="270"/></div>
+<div align="center"><img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="270"/></div>
 
 Até agora só escrevemos simples códigos que não servem para nada. Simplesmente escrevemos um valor e no máximo fizemos algumas operações com os valores que digitamos.
 
