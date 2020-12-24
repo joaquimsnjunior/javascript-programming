@@ -724,6 +724,8 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 <p>Executa X vezes uma ação seguindo a forma como foi definido para ele faze-la. A instrução do laço <code>for</code> é separada por ponto e vírgula em três partes.</p>
 <ol type="I">
   <li>Normalmente é a criação de uma variável de controle.</li>
+  <li>A condição para encerrar o for. Neste caso, ele executará enquanto i for menor do que 10, ou seja todos os números antecessores de 10 até 0. Caso essa condição nunca se torne “false”, teremos um loop infinito.</li>
+  <li>Final de cada repetição. Normalmente é o incremento ou decremento de 1 da variável.</li>
 </ol>
 
 
