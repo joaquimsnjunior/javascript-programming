@@ -747,7 +747,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103060597-758cdf00-4587-11eb-87e4-28aacbe5468a.jpg)
 
 ## 📜 Laços de repetição com o while 🔁
-
+<p>
 
 
 
