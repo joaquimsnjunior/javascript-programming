@@ -722,7 +722,9 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 ## 📜 Laços de repetição com o for 🔁
 <p>Executa X vezes uma ação seguindo a forma como foi definido para ele faze-la. A instrução do laço <code>for</code> é separada por ponto e vírgula em três partes.</p>
-
+<ol type="I">
+  <li>Normalmente é a criação de uma variável de controle.</li>
+</ol>
 
 
 
