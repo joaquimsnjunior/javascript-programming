@@ -710,7 +710,7 @@ Após a tomada de decisões, outra parte básica no aprendizado da programação
 
 Imagine que você queira imprimir na tela a soma de todos os números de 1 a 100. Daria muito trabalho digitar tudo.
 
-E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples comando podemos fazer essa conta em um piscar de olhos com os laços de repetição.</p>
+E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples comando podemos fazer essa conta em um piscar de olhos com os <b>laços de repetição</b>.</p>
 
 
 
