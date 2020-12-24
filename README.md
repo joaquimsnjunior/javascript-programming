@@ -742,7 +742,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ## 📜 For of 🔁
 <p>Este loop é específico para <b>iterar</b> entre os elementos de uma lista. Você pode ler ele como “Para cada item de uma lista”. No exemplo abaixo, o dia começará sendo com o valor “segunda” e o último loop será “sexta”. Ele é muito importante para percorrer a lista em ordem crescente. No entanto, caso você precise trabalhar com índices ou múltiplas posições da lista, talvez seja melhor usar o <code>for</code> normal.</p>
 
-
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/103060468-f39cb600-4586-11eb-8827-fb3508208e56.jpg)
 
 
 
