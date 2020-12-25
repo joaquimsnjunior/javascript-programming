@@ -584,7 +584,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Um programa é feito de linhas de códigos cheios de comandos, que em outras palavras, é uma lista de expressões.</p>
 
 <h1 align="center">Cap 05: 📜 O que são variáveis? 📥</h1>
-<div align="center"><img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="270"/></div>
+<img src="https://miro.medium.com/max/1152/1*SntGwD7Wfd2v0S7aPybdzg.png"/>
 
 Até agora só escrevemos simples códigos que não servem para nada. Simplesmente escrevemos um valor e no máximo fizemos algumas operações com os valores que digitamos.
 
@@ -631,6 +631,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 </ul>
 
 ### 📥 let, const e var 📥
+<div align="center"><img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="270"/></div>
 <p>A diferença entre eles é algo bastante notório no escopo:</p>
 <ul>
   <li><b>var</b> funciona em qualquer lugar do programa independente de onde foi declarado. Além disso, pode ser alterada e renovada.
