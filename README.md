@@ -631,7 +631,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 </ul>
 
 ### 📥 let, const e var 📥
-<div align="center"><img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="270"/></div>
+<div align="center"><img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="270"/><img src="https://miro.medium.com/max/2000/1*kZXDtoVrpI8Ynwjo2jtKSA.png"/></div>
 <p>A diferença entre eles é algo bastante notório no escopo:</p>
 <ul>
   <li><b>var</b> funciona em qualquer lugar do programa independente de onde foi declarado. Além disso, pode ser alterada e renovada.
