@@ -3,7 +3,7 @@
 
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
 
-## 🎒 Prerequisites:
+## 🎒 Prerequisites and repositories:
 <ul>
   <li>Bom domínio no inglês!</li>
   <li>Lógica de Programação</li>
