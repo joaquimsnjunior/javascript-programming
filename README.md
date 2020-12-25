@@ -722,7 +722,7 @@ Imagine que você queira imprimir na tela a soma de todos os números de 1 a 100
 
 E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples comando podemos fazer essa conta em um piscar de olhos com os <b>laços de repetição</b>.</p>
 
-## 📜 Laços de repetição com o for 🔂
+## 📜 For 🔂
 <p>Executa X vezes uma ação seguindo a forma como foi definido para ele faze-la. A instrução do laço <code>for</code> é separada por ponto e vírgula em três partes.</p>
 <ol type="I">
   <li>Normalmente é a criação de uma variável de controle.</li>
@@ -747,7 +747,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103060597-758cdf00-4587-11eb-87e4-28aacbe5468a.jpg)
 
-## 📜 Laços de repetição com o while 🔁
+## 📜 While 🔁
 <p>
 
 
