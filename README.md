@@ -750,9 +750,10 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 ## 📜 While 🔁
 <p>Laços de repetição podem executar um bloco de código longo se a condição específica for verdadeira.</p>
+<p>O laço de repetição <code>while</code> repete através de um bloco de código como longo com um especificada condição é verdadeira.</p>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103141057-c60e5480-46cd-11eb-84e4-31a79e7d1e84.jpg)
-<p>O laço de repetição <code>while</code> repete através de um bloco de código como longo com um especificada condição é verdadeira.</p>
+
 
 ## 📜 Do while 🔁
 
