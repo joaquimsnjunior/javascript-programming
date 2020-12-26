@@ -3,7 +3,7 @@
 
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
 
-## 🎒 Prerequisites and repositories:
+## 🎒 Prerequisites and repositories 📚:
 <ul>
   <li>Bom domínio no inglês!</li>
   <li>Lógica de Programação</li>
@@ -49,7 +49,7 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
 
-## 📚 Links de Apoio:
+## 🔗 Links de Apoio 📚:
 [![Codepen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=CodePen&logoColor=white)]()
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000000?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/learn/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-f9f9f9?style=for-the-badge&logo=StackOverflow&logoColor=orange)](https://pt.stackoverflow.com/)
