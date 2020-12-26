@@ -664,6 +664,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 ### 💬 Perguntar e recolher dados de uma variável 📥
 <p>O método <code>prompt()</code> exibe a mensagem para o usuário e recolhe o valor para aplicar na variável.</p>
 
+#### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103028368-603b9480-4536-11eb-99dc-0219aeead300.jpg)
 
 <p>O segundo passo é chamar o script no documento HTML, somente assim exibe a janela no navegador!</p>
@@ -686,6 +687,7 @@ O valor true ou false é usado para que a máquina escolha se uma expressão dev
 Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
 </p>
 
+### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103034640-18bc0500-4544-11eb-8c4d-f3914652f0d4.jpg)
 
 <blockquote>retorna a String "É menor"</blockquote>
@@ -707,6 +709,7 @@ Caso precise de uma segunda decisão oposta da primeira (if) utilize o <code>els
 ## 👍👎 Comparando valores com o switch 🎛️🎚️
 <p>Para um grande número de condições é necessário um comando mais especializado do que somente o <code>if</code>, <code>else</code> ou <code>else if</code>, o comando <code>switch</code> é ideal para essa proposta. Observe a imagem abaixo:</p>
 
+### Exemplo 1:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103044820-e10f8600-4560-11eb-8151-4bf9cccd3e48.jpg)
 
 <blockquote><b>Obs:</b> O <code>break</code> serve para pausar a execução por cada <code>case</code>, pois senão ele executa todas de uma só vez.</blockquote>
@@ -731,21 +734,26 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
   <li>Final de cada repetição. Normalmente é o incremento ou decremento de 1 da variável.</li>
 </ol>
 
+### Exemplo 1:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103056307-59834080-457b-11eb-9c50-ad2ce0646148.jpg)
 
 <blockquote><b>Utilidade:</b> O <code>for</code> é ótimo para ler vetores. Não se preocupe, aprenderemos o que são vetores mais pra frente.</blockquote>
 
+### Exemplo 2:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103058289-8a19a900-4580-11eb-82a4-396c2fa3f9d8.jpg)
 
 <blockquote><b>Utilidade:</b> Podemos ler ou modificar todos os itens de um vetor.</blockquote>
 
+### Exemplo 3:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103059359-a5d27e80-4583-11eb-81eb-45260edda8a9.jpg)
 
 ## 📜 For of 🔁
 <p>Este loop é específico para <b>iterar</b> entre os elementos de uma lista. Você pode ler ele como “Para cada item de uma lista”. No exemplo abaixo, o dia começará sendo com o valor “segunda” e o último loop será “sexta”. Ele é muito importante para percorrer a lista em ordem crescente. No entanto, caso você precise trabalhar com índices ou múltiplas posições da lista, talvez seja melhor usar o <code>for</code> normal.</p>
 
+### Exemplo 1:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103060468-f39cb600-4586-11eb-8827-fb3508208e56.jpg)
 
+### Exemplo 2:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103060597-758cdf00-4587-11eb-87e4-28aacbe5468a.jpg)
 
 ## 📜 While 🔁
@@ -759,7 +767,7 @@ while (condição) {
 }
 </pre>
 
-### Exemplo:
+### Exemplo 1:
 <p>Seguindo o exemplo, o código no laço de repetição vai rodar, os números de 0 a 9, enquanto (i) é menor do que 10:</p>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103141057-c60e5480-46cd-11eb-84e4-31a79e7d1e84.jpg)
