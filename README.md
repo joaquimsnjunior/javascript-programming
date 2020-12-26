@@ -759,9 +759,10 @@ while (condição) {
 }
 </pre>
 
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/103141057-c60e5480-46cd-11eb-84e4-31a79e7d1e84.jpg)
 ### Exemplo:
 <p>Seguindo o exemplo, o código no laço de repetição vai rodar, de novo e de novo novamente, enquanto (i) é menor do que 10:</p>
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103141057-c60e5480-46cd-11eb-84e4-31a79e7d1e84.jpg)
 
 ## 📜 Do while 🔁
 
