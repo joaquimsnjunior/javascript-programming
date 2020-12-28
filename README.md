@@ -716,7 +716,7 @@ Caso precise de uma segunda decisão oposta da primeira (if) utilize o <code>els
 <blockquote><b>Obs:</b> O <code>break</code> serve para pausar a execução por cada <code>case</code>, pois senão ele executa todas de uma só vez.</blockquote>
 
 <h1 align="center">Cap 07: 📜 Laços de Repetição 🔁</h1>
-<img src="https://www.north-47.com/wp-content/uploads/2020/06/1_JA57AArvHLn3tulDxJKzEg.jpeg" width="1000"/>
+<img src="https://i.ytimg.com/vi/Kn06785pkJg/maxresdefault.jpg" width="1000"/>
 
 ## 🔁 O que são laços de repetição 🔂
 <p>Uma das vantagens das máquinas sobre as pessoas é que elas podem executar várias tarefas repetitivas sem se cansar e de maneira muito mais rápida.
