@@ -630,7 +630,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
   <li><b>Variáveis globais</b> são as variáveis que estão no escopo para o tempo de execução do programa. Elas podem ser recuperadas por qualquer parte do programa.</li>
 </ul>
 
-### 📥 let, const e var 📥
+### 📥 let vs const vs var 📥
 <div align="center"><img src="https://miro.medium.com/max/320/0*2Iz9vcaOtPNivfen.png" height="270"/><img src="https://miro.medium.com/max/2000/1*kZXDtoVrpI8Ynwjo2jtKSA.png" height="270"/></div>
 <p>A diferença entre eles é algo bastante notório no escopo:</p>
 <ul>
