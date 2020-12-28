@@ -679,7 +679,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 <blockquote>Logo, a variável receberá o seu valor.</blockquote>
 
 <h1 align="center">Cap 06: 📜 Estrutura condicional 👍👎</h1>
-<img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
+<img src="https://p5.ssl.qhimg.com/t019058f235d658586e.jpg" width="1000"/>
 
 ## 👍 O que são condições? 👎
 <p><b>Condições</b> são expressões que retornam um valor true ou false.
