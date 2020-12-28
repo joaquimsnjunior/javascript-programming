@@ -682,7 +682,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 <img src="https://p5.ssl.qhimg.com/t019058f235d658586e.jpg" width="1000"/>
 
 ## 👍 O que são condições? 👎
-<p><b>Condições</b> são expressões que retornam um valor true ou false.
+<p><b>Condições</b> são expressões que retornam um valor true ou false. Podem ser usadas como previsões para algum valor ou evento acionado.
 
 O valor true ou false é usado para que a máquina escolha se uma expressão deve ou não ser executada. Chamamos isso de Execução Condicional.
 Um exemplo é o Operador Ternário Condicional que vimos anteriormente.
