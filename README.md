@@ -757,6 +757,8 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ### Exemplo 2:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103060597-758cdf00-4587-11eb-87e4-28aacbe5468a.jpg)
 
+## 📜 For in 🔁
+
 ## 📜 While 🔁
 <p>Laços de repetição podem executar um bloco de código longo se a condição específica for verdadeira.</p>
 <p>O laço de repetição <code>while</code> repete através de um bloco de código enquanto uma condição específica é verdadeira.</p>
