@@ -18,6 +18,7 @@
 [![Css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/IsaacAlves7/css3-programming)
 [![Python](https://img.shields.io/badge/-Python-339AF0?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/IsaacAlves7/python-programming)
 [![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/IsaacAlves7/java-programming)
+[![SQL](https://img.shields.io/badge/-SQL‍‍language-336791?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
 [![Composer](https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
