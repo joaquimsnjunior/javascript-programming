@@ -65,7 +65,7 @@
   <li>https://br.codecombat.com/</li>
 </ul>
 
-## Main menu - Overview about the JavaScript (JS) language 📜
+## 📜 Main menu - Overview about the JavaScript (JS) language 📜
 <strong>All topics: </strong>
 <ol>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-01--the-history-of-javascript-js-">📜 The History of JavaScript (JS) 🔢</a></li>
