@@ -14,8 +14,8 @@
 
 <blockquote><b>⚠️ Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
-[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Css3](https://img.shields.io/badge/-CSS3-FFFC00?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/IsaacAlves7/css3-programming)
+[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-FFFC00?style=for-the-badge&logo=HTML5&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Css3](https://img.shields.io/badge/-CSS3-FFFC00?style=for-the-badge&logo=CSS3&logoColor=black)](https://github.com/IsaacAlves7/css3-programming)
 [![Python](https://img.shields.io/badge/-Python-FFFC00?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/IsaacAlves7/python-programming)
 [![Java](https://img.shields.io/badge/-Java-FFFC00?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/IsaacAlves7/java-programming)
 [![SQL](https://img.shields.io/badge/-SQL‍‍language-FFFC00?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
