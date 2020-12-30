@@ -780,7 +780,7 @@ while (condição) {
 <p>Seguindo o exemplo, o código no laço de repetição vai rodar, de novo e de novo novamente, enquanto (i) é menor do que 10:</p>
 
 ## 📜 Do while 🔁
-
+<p></p>
 
 
 
