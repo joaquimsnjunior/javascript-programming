@@ -85,7 +85,7 @@
   <li>📜 JavaScript OOP ⚽</li>
   <li>📜 BOM (Browser Object Model) ⚽</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
-  <li>📜 Reactive programming JavaScript with ReactiveX 🐉</li>
+  <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
   <li>📜 ES6 OOP 🪀</li>
   <li>📜 Design Patterns 🌺</li>
