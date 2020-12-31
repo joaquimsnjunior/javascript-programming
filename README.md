@@ -753,7 +753,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 <p>Este loop serve para percorrer pelas propriedades de um objeto.</p>
 
 ### Exemplo 1:
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/103425692-e0937280-4b92-11eb-8d7e-921ca4720832.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103426737-59e29380-4b9a-11eb-9a15-8226eabdb357.jpg)
 <blockquote><b>Output:</b> John Doe 25</blockquote>
 
 ## 📜 For of 🔁
