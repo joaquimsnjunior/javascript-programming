@@ -753,7 +753,8 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 <p>Este loop serve para percorrer pelas propriedades de um objeto.</p>
 
 ### Exemplo 1:
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103425692-e0937280-4b92-11eb-8d7e-921ca4720832.jpg)
+<blockquote><b>Output:</b> John Doe 25</blockquote>
 
 ## 📜 For of 🔁
 <p>Este loop é específico para <b>iterar</b> entre os elementos de uma lista. Você pode ler ele como “Para cada item de uma lista”. No exemplo abaixo, o dia começará sendo com o valor “segunda” e o último loop será “sexta”. Ele é muito importante para percorrer a lista em ordem crescente. No entanto, caso você precise trabalhar com índices ou múltiplas posições da lista, talvez seja melhor usar o <code>for</code> normal.</p>
