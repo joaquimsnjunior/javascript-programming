@@ -775,6 +775,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ## 📜 For of 🔁
 <p>Este loop é específico para <b>iterar</b> entre os elementos de uma lista. Você pode ler ele como “Para cada item de uma lista”. No exemplo abaixo, o dia começará sendo com o valor “segunda” e o último loop será “sexta”. Ele é muito importante para percorrer a lista em ordem crescente. No entanto, caso você precise trabalhar com índices ou múltiplas posições da lista, talvez seja melhor usar o <code>for</code> normal.</p>
 
+### Sintaxe:
 <pre><b>for</b> (variável <b>of</b> interável) {
   // bloco de código a ser executado
 }</pre>
@@ -789,7 +790,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 <p>Laços de repetição podem executar um bloco de código longo se a condição específica for verdadeira.</p>
 <p>O laço de repetição <code>while</code> repete através de um bloco de código enquanto uma condição específica é verdadeira.</p>
 
-### Sintaxe
+## Sintaxe:
 <pre>
 <b>while</b> (condição) {
   // Bloco de código a ser executado
