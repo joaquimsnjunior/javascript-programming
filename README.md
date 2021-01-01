@@ -789,9 +789,13 @@ while (condição) {
 <p>Seguindo o exemplo, o código no laço de repetição vai rodar, de novo e de novo novamente, enquanto (i) é menor do que 10:</p>
 
 ## 📜 Do while 🔁
-<p></p>
+<p>Esse loop é um variante do <code>while</code>. Esse loop vai executar o bloco de código uma vez, antes chegando se a condição é verdadeira, então vai repetir o loop, enquanto a condição for verdadeira.</p>
 
-
+### Sintaxe:
+<pre>do {
+  <b>// code block to be executed</b>
+}
+while (condition);</pre>
 
 
 
