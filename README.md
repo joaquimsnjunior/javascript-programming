@@ -725,7 +725,7 @@ Caso precise de uma segunda decisão oposta da primeira (if) utilize o <code>els
 
 <blockquote><b>Obs:</b> O <code>break</code> serve para pausar a execução por cada <code>case</code>, pois senão ele executa todas de uma só vez.</blockquote>
 
-<h1 align="center">Cap 07: 📜 Laços de Repetição 🔁</h1>
+<h1 align="center">Cap 08: 📜 Laços de Repetição 🔁</h1>
 <img src="https://i.ytimg.com/vi/Kn06785pkJg/maxresdefault.jpg" width="1000"/>
 
 ## 🔁 O que são laços de repetição 🔂
