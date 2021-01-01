@@ -59,7 +59,7 @@
 [![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://www.w3schools.com/js/DEFAULT.asp)
 [![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-343434?style=for-the-badge&logo=React&logoColor=lime)](https://www.nodestudio.com.br/)
 
-## 🧩⚔️ Para simulações de programação recomendo esses jogos educacionais:
+## 🧩 Para simulações de programação recomendo esses jogos educacionais ⚔️:
 <ul>
   <li>https://www.code.org</li>
   <li>https://developers.google.com/blockly</li>
