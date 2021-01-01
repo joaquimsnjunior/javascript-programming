@@ -74,7 +74,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-03--tipos-primitivos-">📜 Tipos Primitivos 🐵</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-04--o-que-s%C3%A3o-operadores-">📜 O que são operadores? ➗</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-05--o-que-s%C3%A3o-vari%C3%A1veis-">📜 O que são variáveis? 📥</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-06--escopo-">📜 Escopo 🏠🌐</a></li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-06--escopo-">📜 Escopo 🏠🗾🌏</a></li>
   <li><a href="">📜 Estrutura condicional 👍👎</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-08--la%C3%A7os-de-repeti%C3%A7%C3%A3o-">📜 Laços de Repetição 🔁</a></li>
   <li>📜 Arrays (Vetores) 🛒</li>
@@ -692,8 +692,11 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 
 <blockquote>Logo, a variável receberá o seu valor.</blockquote>
 
-<h1 align="center">Cap 06: 📜 Escopo 🏠🌐</h1>
+<h1 align="center">Cap 06: 📜 Escopo 🏠🗾🌏</h1>
 <div align="center"><img src="https://www.stevethedev.com/storage/app/uploads/public/5aa/d54/a47/5aad54a47d2e0123286333.png"/></div>
+<p>É definido pela região ao qual variáveis e outros dados são visíveis (código). Existem três tipos de escopos:</p>
+
+## Escopo Global 🌏
 
 <h1 align="center">Cap 07: 📜 Estrutura condicional 👍👎</h1>
 <img src="https://p5.ssl.qhimg.com/t019058f235d658586e.jpg" width="1000"/>
