@@ -706,6 +706,13 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 
 ## Escopo Global 🌏
 <p>Uma variável declarada fora de uma função, torna-se global e todos os scripts e funções em uma página da Web podem acessá-la.</p>
+
+### Exemplo:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103448064-b0bb9c00-4c72-11eb-897f-ab8a697318ad.jpg)
+
+## Escopo de Função 🗾
+<p></p>
+
 <hr>
 
 <h1 align="center">Cap 07: 📜 Estrutura condicional 👍👎</h1>
