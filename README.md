@@ -88,7 +88,9 @@
   <li>📜 [DOM] getElementById | getElementsByClassName 💇‍♂️💇‍♀️</li>
   <li>📜 [DOM] getElementByTagName | querySelector 💆‍♀️💆‍♂️</li>
   <li>📜 [DOM] querySelectorAll 💆‍♂️👨‍👩‍👧‍👦</li>
-  <li>📜 [DOM] createElement | appendChild 👶🧒</li>
+  <li>📜 [DOM] createElement | appendChild / removeChild 👶🧒</li>
+  <li>📜 [DOM] innerHTML, Style e Atributos 🎈</li>
+  <li>📜 [DOM] childNodes 🚸</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
