@@ -692,7 +692,10 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 
 <blockquote>Logo, a variável receberá o seu valor.</blockquote>
 
-<h1 align="center">Cap 06: 📜 Estrutura condicional 👍👎</h1>
+<h1 align="center">Cap 06: 📜 Escopo 🏠🌐</h1>
+<div align="center"><img src="https://www.stevethedev.com/storage/app/uploads/public/5aa/d54/a47/5aad54a47d2e0123286333.png"/></div>
+
+<h1 align="center">Cap 07: 📜 Estrutura condicional 👍👎</h1>
 <img src="https://p5.ssl.qhimg.com/t019058f235d658586e.jpg" width="1000"/>
 
 ## 👍 O que são condições? 👎
