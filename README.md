@@ -777,7 +777,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 ### Sintaxe:
 <pre><b>for</b> (variável <b>of</b> interável) {
-  // bloco de código a ser executado
+  // bloco de código a ser executado 
 }</pre>
 
 ### Exemplo 1:
@@ -794,6 +794,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 <pre>
 <b>while</b> (condição) {
   // Bloco de código a ser executado
+  ++incremento / --decremento
 }
 </pre>
 
