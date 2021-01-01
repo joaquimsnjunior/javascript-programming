@@ -654,7 +654,11 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102961936-6d1fa000-44c4-11eb-82d5-4475c3d79687.jpg)
 
 </li>
-  <li><b>const</b> não deixa você alterar o dado atribuído. Só trabalha com valores fixos!</li>
+  <li><b>const</b> não deixa você alterar o dado atribuído. Só trabalha com valores fixos!
+
+  ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103446794-561a4400-4c62-11eb-8be2-7840e633ae6b.jpg)
+
+</li>
 </ul>
 <blockquote><b>Obs:</b> const e let só funcionam dentro do escopo do bloco <b>{ }</b>.</blockquote>
 
