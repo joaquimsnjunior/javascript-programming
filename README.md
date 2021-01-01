@@ -75,8 +75,8 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-04--o-que-s%C3%A3o-operadores-">📜 O que são operadores? ➗</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-05--o-que-s%C3%A3o-vari%C3%A1veis-">📜 O que são variáveis? 📥</a></li>
   <li><a href="">📜 Escopo 🏠🌐</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-06--estrutura-condicional-">📜 Estrutura condicional 👍👎</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-07--la%C3%A7os-de-repeti%C3%A7%C3%A3o-">📜 Laços de Repetição 🔁</a></li>
+  <li><a href="">📜 Estrutura condicional 👍👎</a></li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-08--la%C3%A7os-de-repeti%C3%A7%C3%A3o-">📜 Laços de Repetição 🔁</a></li>
   <li>📜 Arrays (Vetores) 🛒</li>
   <li>📜 Valores em JS 💛</li>
   <li>📜 Data e horário em JS 🕒📅</li>
