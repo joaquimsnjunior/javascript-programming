@@ -811,7 +811,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 <pre><b>do</b> {
   // bloco de código a ser executado
 }
-<b>while</b> (condition);</pre>
+<b>while</b> (condição);</pre>
 
 ### Exemplo 1:
 
