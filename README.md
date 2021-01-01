@@ -207,6 +207,8 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
   <li>Desenvolvimento Mobile Multiplataforma (Apps Híbridos);</li>
   <li>Plugins para programas, como Photoshop.</li>
 </ul>
+<hr>
+
 <div align="center"><h1>Cap 02: 📜 Primeiros comandos com JavaScript 🖥️</h1></div>
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 <p>Trabalhar com JavaScript é simples, não será necessário nenhuma ferramenta mirabolante ou difícil de conseguir. Basicamente iremos precisar de um editor de texto e de um navegador. Apesar de poder rodar JavaScript em outros locais, até mesmo no console, optaremos por utilizar o <a href="https://code.visualstudio.com/download">VSCode</a>, por ser um ambiente onde a maioria dos desenvolvedores já está familiarizado, seja por utilizar outras linguagens ou simplesmente por abrir um localhost no navegar na web (preview), e também por ser ter muitas ferramento para o desenvolvimento JavaScript.</p>
@@ -300,6 +302,7 @@ As linguagens hoje em dia nos fornecem várias funcionalidades que, com um simpl
 <blockquote><b>👍 Dica:</b> Curiosidade: 128+64+32+16+8+4+2+1 = 255. E se tivermos todos os campos "desligados", teremos o valor 0, o que nos dá um total de 256 possíveis valores. Você já deve ter visto esse número por aí no mundo da informática, não é mesmo? Como os antigos pendrives de 256MB, 512MB e 1024MB que é igual a 1GB.</blockquote>
 
 <blockquote><b>👍 Dica:</b> Veja que nessa cadeia há 8 números. 1 Byte é igual a 8 bits. Então temos aí 8 bits, que resultam em 1 Byte.</blockquote>
+<hr>
 
 <h1 align="center">Cap 03: 📜 Tipos Primitivos 🐵</h1>
 <p>Como vimos anteriormente, os computadores armazenam e entendem dados na forma binária (0 e 1).
@@ -442,6 +445,8 @@ Os seguintes valores são considerados falsos no JavaScript:</p>
   <li>"" (string vazia).</li>
 </ul>
 <p>Qualquer outro valor é considerado true, até mesmo a String "false" e "0", pois não são Strings vazias.</p>
+<hr>
+
 <h1 align="center">Cap 04: 📜 O que são operadores? ➗</h1>
 <p>Até agora só vimos valores soltos que não fazem nada.
 Para fazermos alguma operação com esses valores, usamos os chamados "operadores".
