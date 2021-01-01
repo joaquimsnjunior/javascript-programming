@@ -371,7 +371,7 @@ Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase)
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102538561-30e6dc80-408b-11eb-8bae-1a59295efe0e.jpg)
 
-## 🐱‍👤 Escape de Caracteres 🔣
+## 👤 Escape de Caracteres 🔣
 <p>Como as strings são descritas entre aspas, o JavaScript não entenderá a string de fora delas.</p>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102540262-87edb100-408d-11eb-9018-ff3681325d89.jpg)
@@ -772,7 +772,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ## 📜 For of 🔁
 <p>Este loop é específico para <b>iterar</b> entre os elementos de uma lista. Você pode ler ele como “Para cada item de uma lista”. No exemplo abaixo, o dia começará sendo com o valor “segunda” e o último loop será “sexta”. Ele é muito importante para percorrer a lista em ordem crescente. No entanto, caso você precise trabalhar com índices ou múltiplas posições da lista, talvez seja melhor usar o <code>for</code> normal.</p>
 
-<pre><b>for</b> (variável of interável) {
+<pre><b>for</b> (variável <b>of</b> interável) {
   // bloco de código a ser executado
 }</pre>
 
