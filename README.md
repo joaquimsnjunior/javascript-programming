@@ -597,6 +597,7 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 <p>Até mesmo quando simplesmente digitamos 8 estamos gerando o valor 8. Todo fragmento de código que produz um valor é chamado de "expressão".</p>
 <p>Podemos aninhar expressões para gerar códigos mais complexos, assim como podemos juntar várias palavras e frases para formar grandes textos para passar ideias para outras pessoas.</p>
 <p>Um programa é feito de linhas de códigos cheios de comandos, que em outras palavras, é uma lista de expressões.</p>
+<hr>
 
 <h1 align="center">Cap 05: 📜 O que são variáveis? 📥</h1>
 <img src="https://miro.medium.com/max/1152/1*SntGwD7Wfd2v0S7aPybdzg.png"/>
