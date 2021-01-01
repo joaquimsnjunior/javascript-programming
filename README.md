@@ -696,6 +696,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103035031-160ddf80-4545-11eb-8ce5-2470fe943edc.jpg)
 
 <blockquote>Logo, a variável receberá o seu valor.</blockquote>
+<hr>
 
 <h1 align="center">Cap 06: 📜 Escopo 🏠🗾🌏</h1>
 <div align="center"><img src="https://www.stevethedev.com/storage/app/uploads/public/5aa/d54/a47/5aad54a47d2e0123286333.png" width="500"/><img src="https://cdn-media-1.freecodecamp.org/images/1*YWPubaj-_gMWS4jEDVBUfA.png" width="500"/></div></br>
@@ -704,6 +705,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 
 ## Escopo Global 🌏
 <p>Uma variável declarada fora de uma função, torna-se global e todos os scripts e funções em uma página da Web podem acessá-la.</p>
+<hr>
 
 <h1 align="center">Cap 07: 📜 Estrutura condicional 👍👎</h1>
 <img src="https://p5.ssl.qhimg.com/t019058f235d658586e.jpg" width="1000"/>
@@ -741,6 +743,7 @@ Caso precise de uma segunda decisão oposta da primeira (if) utilize o <code>els
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103044820-e10f8600-4560-11eb-8151-4bf9cccd3e48.jpg)
 
 <blockquote><b>Obs:</b> O <code>break</code> serve para pausar a execução por cada <code>case</code>, pois senão ele executa todas de uma só vez.</blockquote>
+<hr>
 
 <h1 align="center">Cap 08: 📜 Laços de Repetição 🔁</h1>
 <img src="https://i.ytimg.com/vi/Kn06785pkJg/maxresdefault.jpg" width="1000"/>
