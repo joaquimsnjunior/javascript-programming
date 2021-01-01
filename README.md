@@ -794,7 +794,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 <pre>
 <b>while</b> (condição) {
   // Bloco de código a ser executado
-  ++incremento / --decremento
+  incremento++ / decremento--
 }
 </pre>
 
