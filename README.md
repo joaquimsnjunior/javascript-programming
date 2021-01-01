@@ -693,7 +693,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 <blockquote>Logo, a variável receberá o seu valor.</blockquote>
 
 <h1 align="center">Cap 06: 📜 Escopo 🏠🗾🌏</h1>
-<div align="center"><img src="https://www.stevethedev.com/storage/app/uploads/public/5aa/d54/a47/5aad54a47d2e0123286333.png" width="500"/><img src="https://cdn-media-1.freecodecamp.org/images/1*YWPubaj-_gMWS4jEDVBUfA.png" width="500"/></div>
+<div align="center"><img src="https://www.stevethedev.com/storage/app/uploads/public/5aa/d54/a47/5aad54a47d2e0123286333.png" width="500"/><img src="https://cdn-media-1.freecodecamp.org/images/1*YWPubaj-_gMWS4jEDVBUfA.png" width="500"/></div></br>
 
 <p>É definido pela região ao qual variáveis e outros dados são visíveis (código). Existem três tipos de escopos:</p>
 
