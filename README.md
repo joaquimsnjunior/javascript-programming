@@ -83,7 +83,7 @@
   <li>📜 Procedural JavaScript 📜</li>
   <li>📜 Validações em JavaScript ✅</li>
   <li>📜 JavaScript OOP ⚽</li>
-  <li>📜 BOM (Browser Object Model) 🎱</li>
+  <li>📜 BOM (Browser Object Model) 🧙‍♀️</li>
   <li>📜 DOM (Documento Object Model) 🧙‍♂️</li>
   <li>📜 [DOM] getElementById | getElementsByClassName 💇‍♂️💇‍♀️</li>
   <li>📜 [DOM] getElementByTagName | querySelector 💆‍♀️💆‍♂️</li>
