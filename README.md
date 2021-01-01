@@ -732,7 +732,7 @@ Imagine que você queira imprimir na tela a soma de todos os números de 1 a 100
 
 E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples comando podemos fazer essa conta em um piscar de olhos com os <b>laços de repetição</b>.</p>
 
-# 📜 For 🔂
+# 📜 For loop 🔂
 <p>Executa X vezes uma ação seguindo a forma como foi definido para ele faze-la. A instrução do laço <code>for</code> é separada por ponto e vírgula em três partes.</p>
 <ol type="I">
   <li>Normalmente é a criação de uma variável de controle.</li>
@@ -755,6 +755,9 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 ## 📜 For in 🔁
 <p>Este loop serve para percorrer pelas propriedades de um objeto.</p>
+<pre><b>for</b> (variável <b>in</b> interável) {
+  // bloco de código a ser executado
+}</pre>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103426737-59e29380-4b9a-11eb-9a15-8226eabdb357.jpg)
@@ -773,7 +776,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ### Exemplo 2:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103060597-758cdf00-4587-11eb-87e4-28aacbe5468a.jpg)
 
-# 📜 While 🔁
+# 📜 While loop 🔁
 <p>Laços de repetição podem executar um bloco de código longo se a condição específica for verdadeira.</p>
 <p>O laço de repetição <code>while</code> repete através de um bloco de código enquanto uma condição específica é verdadeira.</p>
 
@@ -796,10 +799,10 @@ while (condição) {
 <p>Esse loop é um variante do <code>while</code>. Esse loop vai executar o bloco de código uma vez, antes chegando se a condição é verdadeira, então vai repetir o loop, enquanto a condição for verdadeira.</p>
 
 ### Sintaxe:
-<pre>do {
-  <b>// code block to be executed</b>
+<pre><b>do</b> {
+  // code block to be executed
 }
-while (condition);</pre>
+<b>while</b> (condition);</pre>
 
 ### Exemplo 1:
 
