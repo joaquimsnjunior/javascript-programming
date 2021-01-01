@@ -776,7 +776,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ### Sintaxe
 <pre>
 while (condição) {
-  // Bloco de código a ser executado
+  <b>// Bloco de código a ser executado</b>
 }
 </pre>
 
