@@ -711,8 +711,9 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103448064-b0bb9c00-4c72-11eb-897f-ab8a697318ad.jpg)
 
 ## Escopo de Função 🗾
-<p></p>
+<p>Uma variável declarada dentro de uma função, torna-se parte somente da função que a página da Web pode acessá-la.</p>
 
+### Exemplo:
 <hr>
 
 <h1 align="center">Cap 07: 📜 Estrutura condicional 👍👎</h1>
