@@ -805,7 +805,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103141057-c60e5480-46cd-11eb-84e4-31a79e7d1e84.jpg)
 
 ## 📜 Do while 🔁
-<p>Esse loop é um variante do <code>while</code>. Esse loop vai executar o bloco de código uma vez, antes chegando se a condição é verdadeira, então vai repetir o loop, enquanto a condição for verdadeira.</p>
+<p>Esse loop é um variante do <code>while</code>. Esse loop vai executar o bloco de código uma vez, antes verificando se a condição é verdadeira, então vai repetir o loop, enquanto a condição for verdadeira.</p>
 
 ### Sintaxe:
 <pre><b>do</b> {
