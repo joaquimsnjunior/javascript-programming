@@ -740,6 +740,10 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
   <li>A condição para encerrar o <code>for</code>. Neste caso, ele executará enquanto <b>i</b> for menor do que <b>10</b>, ou seja todos os números antecessores de 10 até 0. Caso essa condição nunca se torne “false”, teremos um loop infinito. Tenha bastante cuidado com loops infinitos, podem sobrecarregar seu navegador ou sua máquina!</li>
   <li>Final de cada repetição. Normalmente é o incremento ou decremento de 1 da variável.</li>
 </ol>
+## Sintaxe:
+<pre><b>for</b> (declaração 1; declaração 2; declaração 3) {
+  // code block to be executed
+}</pre>
 
 ### Exemplo 1:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/103056307-59834080-457b-11eb-9c50-ad2ce0646148.jpg)
