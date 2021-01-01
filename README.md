@@ -839,7 +839,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 <hr>
 
 <h1 align="center">Cap 09: 📜 Arrays (Vetores) 🛒</h1>
-
+<img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1000"/>
 
 
 
