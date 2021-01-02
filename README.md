@@ -720,6 +720,8 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 <p>Variáveis declaradas dentro de um local cercado por <code>{ }</code>.</p>
 
 ### Exemplo:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103448946-7efd0200-4c7f-11eb-8cc7-c35fbbfa77b8.jpg)
+
 <hr>
 
 <h1 align="center">Cap 07: 📜 Estrutura condicional 👍👎</h1>
