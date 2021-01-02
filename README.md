@@ -888,6 +888,8 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 <p><b>Null</b>: O <code>null</code> é um tipo de dado especial, ele representa a falta de valor de qualquer outro tipo de dado.</p>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103467110-6990e200-4d2a-11eb-9fbb-68f39ed8d249.jpg)
+
 
 
 
