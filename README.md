@@ -5,7 +5,7 @@
 
 ## 🎒 Prerequisites and repositories 📚:
 <ul>
-  <li>Good dominions in English;</li>
+  <li>Good domains in English;</li>
   <li>Programming Logic;</li>
   <li>HTML and CSS;</li>
   <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
