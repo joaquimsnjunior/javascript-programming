@@ -717,7 +717,7 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103448597-8b329080-4c7a-11eb-9a9c-9240128b8a5b.jpg)
 
 ## Escopo Local 🏠
-<p>Variáveis declaradas dentro de um local cercado por { }.</p>
+<p>Variáveis declaradas dentro de um local cercado por <code>{ }</code>.</p>
 
 ### Exemplo:
 <hr>
