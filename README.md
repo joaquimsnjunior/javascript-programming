@@ -1,5 +1,5 @@
 # It's a repository of JavaScript (JS) programming 📒📜🔢
-<p>I created this repository for my JavaScript Full-Stack Development learning.</p>
+<p>I created this repository for my JavaScript Full-Stack development learning.</p>
 
 <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/><br>
 
