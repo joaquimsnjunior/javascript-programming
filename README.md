@@ -868,7 +868,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103465854-2df01b00-4d1e-11eb-9699-48ca48bba14f.jpg)
 
-
+<p><b>Acessando valores:</b> Os valores podem ser acessados através de seu índice.</p>
 
 
 
