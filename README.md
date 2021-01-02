@@ -6,7 +6,7 @@
 ## 🎒 Prerequisites and repositories 📚:
 <ul>
   <li>Good domains in English;</li>
-  <li>Programming Logic;</li>
+  <li>Programming logic;</li>
   <li>HTML and CSS;</li>
   <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
   <li>Desire to learn.</li>
@@ -898,6 +898,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 <p><b>Undefined !== Null</b>: <code>undefined</code> e <code>null</code> são diferentes.</p>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103467504-64359680-4d2e-11eb-833d-6dca7fe3531b.jpg)
 
 
 
