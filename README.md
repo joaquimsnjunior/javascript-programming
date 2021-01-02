@@ -861,19 +861,19 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103464102-20cc2f80-4d10-11eb-9a28-77e5bf085cb3.jpg)
 
-<p><b>Atribuindo valores:</b> Você pode criar um vetor com seus valores separados por vírgula.</p>
+## <b>Atribuindo valores:</b> Você pode criar um vetor com seus valores separados por vírgula.
 
-## Exemplo 1:
+### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103465773-91c61400-4d1d-11eb-941f-73130512b208.jpg)
 
-## Exemplo 2:
+### Exemplo 2:
 <p>Você pode adicionar valores de qualquer tipo no vetor.</p>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103465854-2df01b00-4d1e-11eb-9699-48ca48bba14f.jpg)
 
-<p><b>Acessando valores:</b> Os valores podem ser acessados através de seu índice.</p>
+## <b>Acessando valores:</b> Os valores podem ser acessados através de seu índice.
 
-## Exemplo 1:
+### Exemplo 1:
 
 
 
