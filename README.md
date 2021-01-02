@@ -5,11 +5,11 @@
 
 ## 🎒 Prerequisites and repositories 📚:
 <ul>
-  <li>Bom domínio no inglês;</li>
-  <li>Lógica de Programação;</li>
-  <li>HTML e CSS;</li>
-  <li>Banco de Dados, álgebra relacional e linguagem SQL;</li>
-  <li>Vontade de aprender.</li>
+  <li>Good dominions in English;</li>
+  <li>Programming Logic;</li>
+  <li>HTML and CSS;</li>
+  <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
+  <li>Desire to learn.</li>
 </ul>
 
 <blockquote><b>⚠️ Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
