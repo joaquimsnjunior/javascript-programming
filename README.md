@@ -886,7 +886,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103466456-2764a200-4d24-11eb-8021-fd5f974265c0.jpg)
 
-
+<p><b>Null</b>: O null é um tipo de dado especial, ele representa a falta de valor de qualquer outro tipo de dado.</p>
 
 
 
