@@ -878,7 +878,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 <p>Observe que o índice começa no 0. Então o primeiro item está na posição 0, o segundo na posição 1 e assim por diante.</p>
 
-
+## Alterando e atribuindo valores pelo índice: Com o índice, você pode:
 
 
 
