@@ -900,6 +900,9 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103467504-64359680-4d2e-11eb-833d-6dca7fe3531b.jpg)
 
+Resumidamente, isto ocorre pois null ainda é um valor e undefined é quando o JavaScript não sabe qual o tipo de dado.
+
+<b>Objeto</b>: é um tipo de dado composto pelos outros tipos. Com ele, podemos organizar informações relacionadas em uma variável. Os dados do objeto são acessados pelas propriedades desses objetos.
 
 
 
