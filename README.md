@@ -894,6 +894,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 <p><b>Undefined</b>: Este tipo de dado aparece quando criamos uma variável e tentamos acessar seu valor antes de ter atribuído algo a ela.</p>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103467297-8b8b6400-4d2c-11eb-852b-93ad43fe1136.jpg)
 
 
 
