@@ -714,6 +714,12 @@ O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamo
 <p>Uma variável declarada dentro de uma função, torna-se parte somente da função que a página da Web pode acessá-la.</p>
 
 ### Exemplo:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103448597-8b329080-4c7a-11eb-9a9c-9240128b8a5b.jpg)
+
+## Escopo Local 🏠
+<p>Variáveis declaradas dentro de um local cercado por { }.</p>
+
+### Exemplo:
 <hr>
 
 <h1 align="center">Cap 07: 📜 Estrutura condicional 👍👎</h1>
