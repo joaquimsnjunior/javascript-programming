@@ -54,9 +54,9 @@
 [![Codepen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=CodePen&logoColor=white)]()
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000000?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/learn/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-f9f9f9?style=for-the-badge&logo=StackOverflow&logoColor=orange)](https://pt.stackoverflow.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-orangered?style=for-the-badge&logo=HTML5&logoColor=white)]()
-[![Css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)]()
-[![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://www.w3schools.com/js/DEFAULT.asp)
+[![HTML5](https://img.shields.io/badge/-HTML5-89C967?style=for-the-badge&logo=HTML5&logoColor=white)]()
+[![Css3](https://img.shields.io/badge/-CSS3-89C967?style=for-the-badge&logo=CSS3&logoColor=white)]()
+[![JS](https://img.shields.io/badge/-JavaScript-89C967?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.w3schools.com/js/DEFAULT.asp)
 [![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-343434?style=for-the-badge&logo=React&logoColor=lime)](https://www.nodestudio.com.br/)
 
 ## 🧩 Para simulações de programação recomendo esses jogos educacionais ⚔️:
