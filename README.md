@@ -908,9 +908,9 @@ Resumidamente, isto ocorre pois null ainda é um valor e undefined é quando o J
 
 <b>Criação</b>: Um objeto vazio é bem simples de criar.
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103467820-c9d75200-4d31-11eb-9676-04e0a7b7f2f9.jpg)
 
-
-
+No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 
 
