@@ -862,6 +862,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 <p><b>Atribuindo valores:</b> Você pode criar um vetor com seus valores separados por vírgula.</p>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103465773-91c61400-4d1d-11eb-941f-73130512b208.jpg)
 
 
 
