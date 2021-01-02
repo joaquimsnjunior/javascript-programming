@@ -904,8 +904,9 @@ Resumidamente, isto ocorre pois null ainda é um valor e undefined é quando o J
 
 <b>Objeto</b>: é um tipo de dado composto pelos outros tipos. Com ele, podemos organizar informações relacionadas em uma variável. Os dados do objeto são acessados pelas propriedades desses objetos.
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103467659-030ec280-4d30-11eb-9ab5-9fe4ab065691.jpg)
 
-
+<b>Criação</b>: Um objeto vazio é bem simples de criar.
 
 
 
