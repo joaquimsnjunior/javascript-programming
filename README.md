@@ -12,7 +12,7 @@
   <li>Desire to learn.</li>
 </ul>
 
-<blockquote><b>⚠️ Warning:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
+<blockquote><b>⚠️ Warning:</b> It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-FFE800?style=for-the-badge&logo=HTML5&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Css3](https://img.shields.io/badge/-CSS3-FFE800?style=for-the-badge&logo=CSS3&logoColor=black)](https://github.com/IsaacAlves7/css3-programming)
