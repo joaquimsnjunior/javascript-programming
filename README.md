@@ -1030,6 +1030,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491028-d9709c80-4dfe-11eb-9e25-7c50dd69fca2.jpg)
 
+<p>Note que para fazer a função executar, você precisa chama-la com os parênteses. Também é possível passar valores para a função acessar.</p>
 
 
 
