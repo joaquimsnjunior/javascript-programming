@@ -1011,12 +1011,14 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <h1 align="center">Cap 12: 📜 Dicionários em JS 📖</h1>
 <img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg"/>
-<p>Existe outra forma de inserir variáveis de uma só vez e chamar elas de uma vez, com os dicionários do JS, veja o exemplo abaixo:</p>
+<p>Existe outra forma de inserir variáveis de uma só vez e chamar elas de uma vez, com os dicionários do JS que envolvem as variáveis entre <code>{ }</code>, veja o exemplo abaixo:</p>
 
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103489687-eab4ab80-4df4-11eb-8fd9-ca7e330d5c21.jpg)
 
+<p>Também funcionam com arrays!</p>
 
+## Exemplo 2:
 
 
 
