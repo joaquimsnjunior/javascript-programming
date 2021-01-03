@@ -1037,6 +1037,8 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <p>O <code>return</code> devolve um valor para a função.</p>
 
+## Exemplo 3:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491656-60744380-4e04-11eb-8ef0-ec8a76fcd102.jpg)
 
 
 
