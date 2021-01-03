@@ -965,7 +965,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103482623-9bed1e80-4dc0-11eb-857a-2c188babf60d.png"/></div>
 <p>Os métodos adiante definem o tempo no JavaScript:</p>
 
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103485348-66eac700-4dd4-11eb-86a3-f9999105e40f.jpg)
 
 
 
