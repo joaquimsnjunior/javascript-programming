@@ -949,6 +949,14 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
   <td>replace("", "")</td>
   <td>muda a String selecionada por outra string informada</td>
   </tr>
+  <tr>
+    <td>toUpperCase()</td>
+    <td>Todas as letras maiúsculas da String</td>
+  </tr>
+  <tr>
+    <td>toLowerCase()</td>
+    <td>Todas as letras minúsculas da String</td>
+  </tr>
 </table>
 
 
