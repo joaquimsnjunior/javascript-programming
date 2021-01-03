@@ -1016,12 +1016,12 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103489687-eab4ab80-4df4-11eb-8fd9-ca7e330d5c21.jpg)
 
-<p>Também funcionam com arrays!</p>
+<p>Também funcionam com arrays, dessa forma <code>[{ }]</code>:</p>
 
 ## Exemplo 2:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103489857-53505800-4df6-11eb-9a02-ef2c6d90a396.jpg)
 
-
+<hr>
 
 
 
