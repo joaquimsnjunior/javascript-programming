@@ -1025,9 +1025,9 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <h1 align="center">Cap 13: 📜 Funções em JS 🤹</h1>
 <img src="https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15687/comprehensive-guide-javascript-design-patterns-cf0c7c0e69d51d97044a8431da9175e3.png" height="450" width="1070"/>
+<p>São utilizadas para criarmos uma sequência de operações para serem executadas.</p>
 
-
-
+## Exemplo 1:
 
 
 
