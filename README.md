@@ -1028,6 +1028,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <p>São utilizadas para criarmos uma sequência de operações para serem executadas.</p>
 
 ## Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491028-d9709c80-4dfe-11eb-9e25-7c50dd69fca2.jpg)
 
 
 
