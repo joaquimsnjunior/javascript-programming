@@ -856,7 +856,10 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103446306-db025f00-4c5c-11eb-91a3-7522d3c1510b.jpg)
 
-## Continue x break
+## 📜 Continue x break 🔁↪️
+<p>Servem para loops e condições, porém a diferença entre eles é na sua funcionalidade, o <code>break</code> quebra a execução, já o <code>continue</code> continua até finalizar a execução.</p>
+
+### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103481609-d0f67280-4dba-11eb-99c4-be7be4bff65f.jpg)
 
 <hr>
