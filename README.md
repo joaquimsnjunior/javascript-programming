@@ -7,6 +7,7 @@
 <ul>
   <li>Good domains in English;</li>
   <li>Programming logic;</li>
+  <li>OOP;</li>
   <li>HTML and CSS;</li>
   <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
   <li>Desire to learn.</li>
