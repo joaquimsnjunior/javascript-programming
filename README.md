@@ -921,7 +921,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <p>Note que se você usar a segunda opção, precisa ter uma String dentro dos <code>[ ]</code>.</p>
 
-
+<p>A alteração de dados funciona da mesma forma.</p>
 
 
 
