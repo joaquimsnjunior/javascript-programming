@@ -927,7 +927,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <hr>
 
-<h1 align="center">Cap 10: </h1>
+<h1 align="center">Cap 10: 📜 Valores em JS 💛</h1>
 
 
 
