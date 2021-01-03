@@ -1178,6 +1178,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 
 <!--
+![Hierarquia de Objetos JS](https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png)
 https://miro.medium.com/max/1436/0*ILZZpnli_R1FU3p4.gif
 <p>Abaixo é apresentado o comando console.log: </p>
  <pre>
