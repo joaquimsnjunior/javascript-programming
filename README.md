@@ -925,6 +925,8 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103469746-77089500-4d47-11eb-87b7-8e5f07697e0d.jpg)
 
+## 📜 Array Mod 🧺🗑️🛒
+<p>Existem alguns atributos que mudam a funcionalidade de um array, tais como:</p>
 <hr>
 
 <h1 align="center">Cap 10: 📜 Valores em JS 💛</h1>
