@@ -967,7 +967,20 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103485348-66eac700-4dd4-11eb-86a3-f9999105e40f.jpg)
 
-
+<table>
+  <tr>
+    <td>getDay()</td>
+    <td>Define o dia</td>
+  </tr>
+  <tr>
+    <td>getHours()</td>
+    <td>Define as horas</td>
+  </tr>
+    <tr>
+    <td>getMonth()</td>
+    <td>Define os meses</td>
+  </tr>
+</table>
 
 
 
