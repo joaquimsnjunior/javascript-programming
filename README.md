@@ -962,6 +962,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <h1 align="center">Cap 11: 📜 Data e horário em JS 🕒📅</h1>
 
+![image](https://user-images.githubusercontent.com/61624336/103482623-9bed1e80-4dc0-11eb-857a-2c188babf60d.png)
 
 
 
