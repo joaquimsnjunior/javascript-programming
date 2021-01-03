@@ -917,6 +917,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <p>Caso você já tenha criado o objeto e queira adicionar um novo, você pode fazer de duas formas:</p>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103469652-47a55880-4d46-11eb-973f-07edec2c5571.jpg)
 
 
 
