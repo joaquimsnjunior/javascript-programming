@@ -945,10 +945,10 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 ### Tabela de Atributos para valores em JS
 <table>
-  <th>
+  <tr>
   <td>replace("", "")</td>
   <td>muda a String selecionada por outra string informada</td>
-  </th>
+  </tr>
 </table>
 
 
