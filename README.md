@@ -971,6 +971,10 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 ### Tabela de métodos que definem o tempo no JS:
 <table>
     <tr>
+    <td>getDate()</td>
+    <td>Define a data atual</td>
+  </tr>
+    <tr>
     <td>getFullYear()</td>
     <td>Define o ano atual e completo</td>
   </tr>
@@ -993,6 +997,10 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
   <tr>
     <td>getMinutes()</td>
     <td>Define os minutos</td>
+  </tr>
+  <tr>
+    <td>getMilliseconds()</td>
+    <td>Define os milisegundos</td>
   </tr>
     <tr>
     <td>getSeconds()</td>
