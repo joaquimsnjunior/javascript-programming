@@ -83,7 +83,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-10--valores-em-js-">📜 Valores em JS 💛</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-11--data-e-hor%C3%A1rio-em-js-">📜 Data e horário em JS 🕒📅</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-12--dicion%C3%A1rios-em-js-">📜 Dicionários em JS 📖</a></li>
-  <li>📜 Funções em JS 🤹</li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-13--fun%C3%A7%C3%B5es-em-js-">📜 Funções em JS 🤹</a></li>
   <li>📜 Procedural JavaScript 📜</li>
   <li>📜 Validações em JavaScript ✅</li>
   <li>📜 JavaScript OOP ⚽</li>
