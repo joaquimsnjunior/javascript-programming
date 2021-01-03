@@ -972,11 +972,11 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <table>
     <tr>
     <td>getFullYear()</td>
-    <td>Define o ano atual</td>
+    <td>Define o ano atual e completo</td>
   </tr>
   <tr>
     <td>getYear()</td>
-    <td>Define o ano</td>
+    <td>Define o ano e incompleto</td>
   </tr>
   <tr>
     <td>getMonth()</td>
