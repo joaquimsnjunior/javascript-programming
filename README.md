@@ -1002,7 +1002,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <hr>
 
 <h1 align="center">Cap 12: 📜 Dicionários em JS 📖</h1>
-
+<img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg"/>
 
 
 
