@@ -1279,6 +1279,7 @@ document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
 
 ## JS OOP
 <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3" width="1700"/>
+![image](https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png)
 
 ## JS Validations
 <img src="https://www.islamzatary.com/wp-content/uploads/2017/09/advanced_js.jpg" height="410" width="1070"/>
