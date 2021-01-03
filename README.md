@@ -913,6 +913,7 @@ Resumidamente, isto ocorre pois null ainda é um valor e undefined é quando o J
 
 No caso de um objeto com propriedades (variáveis), fazemos assim:
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103469613-dd8cb380-4d45-11eb-833c-7eee28591f69.jpg)
 
 
 
