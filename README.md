@@ -999,7 +999,9 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
     <td>Define os segundos</td>
   </tr>
 </table>
+<hr>
 
+<h1 align="center">Cap 12: 📜 Dicionários em JS 📖</h1>
 
 
 
