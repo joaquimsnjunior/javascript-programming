@@ -928,6 +928,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <hr>
 
 <h1 align="center">Cap 10: 📜 Valores em JS 💛</h1>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/103469784-031abc80-4d48-11eb-972d-a6d3aac2dd88.png"/></div>
 
 
 
