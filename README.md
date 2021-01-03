@@ -57,6 +57,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-6DB33F?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/default.asp)
 [![Css3](https://img.shields.io/badge/-CSS3-6DB33F?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 [![JS](https://img.shields.io/badge/-JavaScript-6DB33F?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.w3schools.com/js/DEFAULT.asp)
+[![JSON](https://img.shields.io/badge/-JSON-6DB33F?style=for-the-badge&logo=JSON&logoColor=black)]()
 [![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-343434?style=for-the-badge&logo=React&logoColor=lime)](https://www.nodestudio.com.br/)
 
 ## 🧩 Para simulações de programação recomendo esses jogos educacionais ⚔️:
