@@ -963,7 +963,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <h1 align="center">Cap 11: 📜 Data e horário em JS 🕒📅</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103482623-9bed1e80-4dc0-11eb-857a-2c188babf60d.png"/></div>
-<p>Os métodos adiante definem o tempo no JavaScript:</p>
+<p>Toda linguagem de programação moderna possui contadores de tempo. O JavaScript é ótimo para manipular o tempo através de seus métodos, os métodos adiante definem o tempo no JavaScript:</p>
 
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103485348-66eac700-4dd4-11eb-86a3-f9999105e40f.jpg)
