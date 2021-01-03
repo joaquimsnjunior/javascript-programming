@@ -1014,7 +1014,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <p>Existe outra forma de inserir variáveis de uma só vez e chamar elas de uma vez, com os dicionários do JS, veja o exemplo abaixo:</p>
 
 ## Exemplo 1:
-![image](https://user-images.githubusercontent.com/61624336/103489623-9e696b80-4df4-11eb-952a-77e804c92758.png)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103489687-eab4ab80-4df4-11eb-8fd9-ca7e330d5c21.jpg)
 
 
 
