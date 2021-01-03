@@ -857,7 +857,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103446306-db025f00-4c5c-11eb-91a3-7522d3c1510b.jpg)
 
 ## 📜 Continue x break 🔁↪️
-<p>Servem para loops e condições, porém a diferença entre eles é na sua funcionalidade, o <code>break</code> quebra a execução, já o <code>continue</code> continua até finalizar a execução.</p>
+<p>Servem para loops e condições, porém a diferença entre eles é na sua funcionalidade, o <code>break</code> quebra no final da execução e assim o compilador executa outra etapa do código, já o <code>continue</code> continua até finalizar a execução.</p>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103481609-d0f67280-4dba-11eb-99c4-be7be4bff65f.jpg)
@@ -938,13 +938,18 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <h1 align="center">Cap 10: 📜 Valores em JS 💛</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103469784-031abc80-4d48-11eb-972d-a6d3aac2dd88.png"/></div>
-<p>Já vimos como alterar o valor de uma variável ou de um item no array no JavaScript, mas posso mudar o nome de uma String no JS? Como faço para mudar o nome de uma string no JavaScript? A resposta para essa pergunta é uma série de atributos que alteram os valores das variáveis, veja o exemplo abaixo:</p>
+<p>Já vimos como alterar o valor de uma variável ou de um item no array no JavaScript, mas posso mudar o nome de uma String no JS? Como faço para mudar o nome de uma string no JavaScript? A resposta para essa pergunta é com uma série de atributos que alteram os valores das variáveis, veja o exemplo abaixo:</p>
 
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103482135-ba054f80-4dbd-11eb-9ca3-d78279efb6a9.jpg)
 
-
-
+### Tabela de Atributos para valores em JS
+<table>
+  <th>
+  <td>replace("", "")</td>
+  <td>muda a String selecionada por outra string informada</td>
+  </th>
+</table>
 
 
 
