@@ -1043,6 +1043,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <blockquote><b>Curiosidade:</b> Caso você não coloque o <code>return</code>, por padrão as funções devolvem <code>undefined</code>.</blockquote>
 
 ## Exemplo 4:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103492431-91a34280-4e09-11eb-88b2-35e526530318.jpg)
 
 
 
