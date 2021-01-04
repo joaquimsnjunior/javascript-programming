@@ -1142,8 +1142,9 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
   elementos que suportam eventos do tipo Event através dos <b>atributos onEvent</b>.</p>
 
 ## Exemplo 1: Executando um evento
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103590963-92051180-4ecd-11eb-8db0-e7a8cdce8a9f.jpg)
 
-## Exemplo 2: Chamada de evento
+## Exemplo 2: Chamada de função por evento
 
 ### 📜 Lista de Eventos 🎪
 <p>Funciona com quase todas as tags html, exceto: &lt;br&gt;, &lt;head&gt;, &lt;html&gt;, <script>, <style>, <title>.</p>
