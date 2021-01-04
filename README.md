@@ -1089,7 +1089,7 @@ funcao = () => {
 <hr>
 
 <h1 align="center">Cap 14: 📜 Procedural JavaScript 📜</h1>
-<div align="center"><img src="https://onsen.io/blog/content/images/2015/Nov/es6-webcomponents.png"/></div>
+<div align="center"><img src="https://miro.medium.com/max/700/1*g_md6pY90xurj3j_ApaaLA.jpeg"/></div>
 <p>Já que aprendemos todos os conceitos, funcionalidades e valores primordiais do JavaScript, está na hora de apresentar o primeiro paradigma da linguagem, a <b>procedural</b>. O JavaScript procedural funciona com todas as funcionalidades que já vimos de maneira organizada para a execução de um programa, vejamos o exemplo:
   
 ## Exemplo 1:
