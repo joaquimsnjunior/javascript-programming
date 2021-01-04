@@ -1136,20 +1136,25 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <hr>
 
 <h1 align="center">Cap 16: 📜 Eventos 📙🎪</h1>
-<p>São fatos que ocorrem durante a execução do sistema, a partir dos quais o programador pode definir ações a serem realizadas pelo programa.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103578048-a852a380-4eb4-11eb-9d65-5fb88a47469a.jpg"/></div>
+<p>São fatos que ocorrem durante a execução do sistema, a partir dos quais o programador pode definir ações a serem realizadas pelo programa.</p>
 <p>Um evento é gerado como resultado de uma ação: Um clique, um movimento do mouse, uma seleção de texto, o abandono da página etc. A <b>associação</b> é realizada em HTML nos
 elementos que suportam eventos do tipo Event através dos atributos onEvent.</p>
 
 ## Exemplo 1:
 
 ### 📜 Lista de Eventos 🎪
-<p>Exceto: <br>, <head>, <html>, <script>, <style>, <title></p>
+<p>Funciona com quase todas as tags html, exceto: &lt;br&gt;, &lt;head&gt;, &lt;html&gt;, <script>, <style>, <title></p>
 <table>
   <tr>
     <td><b>Evento</b></td>
     <td><b>Função</b></td>
     <td><b>Compatibilidade</b></td>
+  </tr>
+    <tr>
+    <td>onclick</td>
+    <td>Clique com botão esquerdo do mouse</td>
+    <td>Todos os elementos</td>
   </tr>
 </table>
 
