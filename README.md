@@ -1087,6 +1087,7 @@ funcao = () => {
   
 ## Exemplo 1:
 
+
 <hr>
 
 <h1 align="center">Cap 15: 📜 Validações em JavaScript ✅</h1>
