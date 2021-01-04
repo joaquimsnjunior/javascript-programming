@@ -1038,12 +1038,12 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <p>O <code>return</code> devolve um valor para a função.</p>
 
 ## Exemplo 3:
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491656-60744380-4e04-11eb-8ef0-ec8a76fcd102.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491947-56534480-4e06-11eb-9dfe-2bd57a0a8524.jpg)
 
 <blockquote><b>Curiosidade:</b> Caso você não coloque o <code>return</code>, por padrão as funções devolvem <code>undefined</code>.</blockquote>
 
 ## Exemplo 4:
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491947-56534480-4e06-11eb-9dfe-2bd57a0a8524.jpg)
+
 
 
 
