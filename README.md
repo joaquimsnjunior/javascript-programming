@@ -1104,7 +1104,7 @@ tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou fi
 
 ## 📜 Hierarquia de Objetos ⚽🏈
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png"/></div>
-
+<p>Seguindo a hierarquia de objetos da linguagem JavaScript, são criados os seguintes objetos ao ser carregada uma página:</p>
 
 
 
