@@ -1133,8 +1133,8 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 
 ### 2° Solução: 📜 Num arquivo a ser importado 📒
 
-
-
+## 📜 Eventos 📙🎪
+<p>São fatos que ocorrem durante a execução do sistema, a partir dos quais o programador pode definir ações a serem realizadas pelo programa.</p>
 
 
 
