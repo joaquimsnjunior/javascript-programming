@@ -1109,6 +1109,8 @@ tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou fi
 <p>Seguindo a hierarquia de objetos da linguagem JavaScript, são criados os seguintes objetos ao ser carregada uma página:</p>
 <ol>
   <li><code><b>window</b></code>: O objeto mais acima na hierarquia, contém propriedades que se aplicam a toda a janela. Há também um objeto desta classe para todas as "sub-janelas" de um documento com frames.</li>
+  <li><code><b>location</b></code>: Contém as propriedades da URL atual.</li>
+  <li><code><b>history</b></code>: Contém as propriedades das URLs visitadas anteriormente.</li>
 </ol>
 
 
