@@ -1380,6 +1380,29 @@ https://es6.io/images/es6-sticker.png
 <img src="https://media.vlpt.us/images/sangminnn/post/3b3e7fc8-d255-46df-92fb-71e91bcf2408/real%20es6.png" width="1700"/>
 <img src="https://learnworthy.net/wp-content/uploads/2019/08/How-To-Learn-JavaScript-Quickly.jpg" width="1700"/>
 <a href="https://jquery.com/"><img src="https://cdn1.vogel.de/kaNCYI0Lx-zrDezwq8BaF3cFGI8=/fit-in/1200x630/filters:format(png):quality(90)/images.vogel.de/vogelonline/bdb/1494700/1494776/original.jpg" width="1000"/></a>
+https://blog.jscrambler.com/content/images/2016/12/iot_js-min.png
+https://www.20i.com/blog/wp-content/uploads/2020/10/I-love-JavaScript-1920x500.png
+https://www.loginradius.com/blog/async/static/bfdcec92226d9dd465af598836dd28a4/701ee/callback.jpg
+https://media.proglib.io/wp-uploads/2018/11/1_hLSiwh3HW9Pqw0M3gLEMOg.png
+https://miro.medium.com/max/653/1*wMZnVAEei1xbY1v6sAbYxQ.png
+https://d23cpcfk0ihnyh.cloudfront.net/blog/posts/1-20-2018-async-await/async-await.png
+https://twilio-cms-prod.s3.amazonaws.com/images/asyncawait.width-808.png
+https://miro.medium.com/max/1570/1*TWVs8hNCI7B7t2Y4tA-u1A.png
+https://images.idgesg.net/images/article/2018/04/iwan_05-100755063-orig.jpg
+https://miro.medium.com/max/1117/0*X7Z0k20cwHHi8UOI.png
+https://lh3.googleusercontent.com/proxy/jyBQYND60pqwD9ly0Halj3B8Xj0o86fZWi_PTpd2e3MGkM6YmH6_fuj4GoBZn83gARwttM3Be3z0ekcYr_BBL3-KGrwzhxsl12YsHs7P3MDGMvOKM2LOuUW1CIVZ1nFqpoCWjox7DPx_1g
+https://www.sevenstarwebsolutions.com/wp-content/uploads/2018/02/nodejs.jpg
+https://www.mobiloitte.com/images/node-js-banner.png
+https://skeps.com/api/blog/content/uploads/2019/10/Node-JS-Banner.png
+https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/node-js-banner.png
+https://viitorcloud.com/blog/wp-content/uploads/2018/06/Node-JS-App-Development-for-Business-cover.jpg
+https://www.anques.com/wp-content/uploads/2019/07/node_js.png
+https://daynilgroup.com/resources/images/nodejs_banner.png
+https://miro.medium.com/max/2732/1*LyZcwuLWv2FArOumCxobpA.png
+https://i.ytimg.com/vi/sCAR8ZPM6ew/maxresdefault.jpg
+https://i.ytimg.com/vi/PyKZMY-_TI8/hqdefault.jpg
+https://res.cloudinary.com/practicaldev/image/fetch/s--SnVNfIdj--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/etfxkw4syies3pt35tny.png
+https://ian-says.com/articles/functional-javascript/thumbnail.png
 <p>Para ser mais preciso o jQuery é um Framework JavaScript para Front-end com uma grande facilidade de manipular o DOM e de código simples, muito usado para criar animações, eventos, chamadas AJAX e ainda cria plugins. Pode ser baixado no site oficial ou usado pelo <a href="">CDN</a> (<i>Content Delivery Network</i>), para isso basta copiar um dos códigos abaixo (escolha apenas uma versão) e colar no seu código HTML. Recomenda-se a versão 3 do CDN.</p>
 
 ### Modo de uso:
