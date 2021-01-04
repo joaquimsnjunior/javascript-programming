@@ -1074,6 +1074,7 @@ funcao = () => {
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103493496-78ea5b00-4e10-11eb-9e44-00e8e9648549.jpg)
 
+### Exemplo 2: com parâmetros
 
 
 
