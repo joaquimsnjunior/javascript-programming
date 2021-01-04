@@ -87,8 +87,8 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-14--procedural-javascript-">📜 Procedural JavaScript 📜</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-15--javascript-oop-">📜 JavaScript OOP ⚽</a></li>
   <li>📜 Validações em JavaScript ✅</li>
-  <li>📜 BOM (Browser Object Model) 🧙‍♀️</li>
-  <li>📜 DOM (Documento Object Model) 🧙‍♂️</li>
+  <li>📜 Browser Object Model (BOM) 🧙‍♀️</li>
+  <li>📜 Documento Object Model (DOM) 🧙‍♂️</li>
   <li>📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</li>
   <li>📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</li>
   <li>📜 [DOM] querySelectorAll 🧙‍♂️🎇</li>
@@ -98,8 +98,8 @@
   <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
-  <li>📜 ES6 OOP 🪀</li>
-  <li>📜 Design Patterns 🌺</li>
+  <li>📜 [ES6] OOP 🪀</li>
+  <li>📜 [ES6] Design Patterns 🌺</li>
   <li>📜 JSON 📋</li>
   <li>📜 AJAX 🔃</li>
   <li>📜 Vanilla JavaScript 🍦</li>
