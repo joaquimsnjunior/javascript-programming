@@ -1052,19 +1052,26 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103492529-5d7c5180-4e0a-11eb-8426-cda942129822.png"/></div>
 <p>Agora vamos conhecer outras maneiras de inserir funções no JavaScript. Com o <b>arrow function</b> a função possui uma forma bem mais enxuta de ser inserida com os arrows.</p>
 
-### Sintaxe (Função tradicional):
+### Sintaxe (Function):
 <pre>function funcao() {
    código;
 }
 </pre>
 
+### Sintaxe (Arrow Function)
+<pre>
+funcao = () => {
+  código;
+}
+</pre>
 
+### Sintaxe (auto-exec function with arrowfunction)
+<pre>((x, y) => {
+ console.log(x + y);
+})(10, 5);
+</pre>
 
-
-
-
-
-
+### Exemplo 1:
 
 
 
