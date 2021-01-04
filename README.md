@@ -1097,7 +1097,7 @@ funcao = () => {
 <hr>
 
 <h1 align="center">Cap 15: 📜 JavaScript OOP ⚽</h1>
-<iv align="center"><img src="https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png"/></div>
 
 
 
