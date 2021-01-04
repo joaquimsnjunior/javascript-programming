@@ -1151,9 +1151,14 @@ elementos que suportam eventos do tipo Event através dos atributos onEvent.</p>
     <td><b>Função</b></td>
     <td><b>Compatibilidade</b></td>
   </tr>
-    <tr>
+  <tr>
     <td>onclick</td>
     <td>Clique com botão esquerdo do mouse</td>
+    <td>Todos os elementos</td>
+  </tr>
+  <tr>
+    <td>ondblclick</td>
+    <td>Duplo clique com botão esquerdo do mouse</td>
     <td>Todos os elementos</td>
   </tr>
 </table>
@@ -1339,43 +1344,16 @@ elementos que suportam eventos do tipo Event através dos atributos onEvent.</p>
 <!--
 ![Hierarquia de Objetos JS](https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png)
 https://miro.medium.com/max/1436/0*ILZZpnli_R1FU3p4.gif
-<p>Abaixo é apresentado o comando console.log: </p>
- <pre>
-  <code>console.log('Hello, World!');</code>
- </pre>
 document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
- <pre>
-  <code>alert('Hello, World!');</code>
- </pre>
- 
- ## JavaScript no Console do Navegador
- <pre>
-  <code>console.log('Hello, World!');</code>
- </pre>
- 
-## JS Conditionals
+ https://lh3.googleusercontent.com/proxy/j0oeG2ZkrtKivG2T_lS5nTTacmzZuMrkM4uYHQpSZjAIAfutP62Ua3RS6H7GFDp7t0OGD9HRTpRt4oEA2l7PXPYKb4bmlTQlEeHtjAbeVDsYv6IvHvR_i6gEyO9gYGxhQPAHV0rZGuNhZHPaud0EGan3xDfPYwRP_hpgAO
 <img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
-
-## JS Loops
 <img src="https://www.north-47.com/wp-content/uploads/2020/06/1_JA57AArvHLn3tulDxJKzEg.jpeg" width="1000"/>
-
-## JS Arrays
 <img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1000"/>
-
-## JS Events
 <img src="https://www.ateamindia.com/wp-content/uploads/2018/10/JavaScript-1.jpg" height="450" width="1070"/>
-
-## JS OOP
 <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3" width="1700"/>
 ![image](https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png)
-
-## JS Validations
 <img src="https://www.islamzatary.com/wp-content/uploads/2017/09/advanced_js.jpg" width="1070"/>
-
-## JS Validations
 <img src="https://cdn-media-1.freecodecamp.org/images/1*tBXQMulrsKL21K66SVQ5jA.png" width="1070"/>
-
-## JS Validations
 <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt2-light_1200x303.png?sfvrsn=cc305226_2" width="1070"/>
 <img src="https://becode.com.br/wp-content/uploads/2018/04/frameworks-js2-1.png" width="1070"/>
 <img src="https://miro.medium.com/max/2732/1*BPSx-c--z6r7tY29L19ukQ.png" width="1070"/>
@@ -1386,33 +1364,14 @@ document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
 <img src="https://cutewallpaper.org/21/javascript-wallpaper/JavaScript-Promises-JS.MD.png" width="1070"/>
 <img src="https://bloggeek.me/wp-content/uploads/2017/09/201709-javascript-king.jpg" width="1070"/>
 <img src="https://miro.medium.com/max/600/0*fPG6D58K9s_2l3kK.png" width="1070"/>
-
-
 https://miro.medium.com/max/921/1*T8OsgpwsHL8Lj6gGlyTOtw.png
-
-
-
-
 https://miro.medium.com/max/610/1*eSi3NuB9LTgO64VhWphnnw.png
 https://cdn-media-1.freecodecamp.org/images/1*ReeHV0eEsfmMskVUk1vVog.png
 https://es6.io/images/es6-sticker.png
-
-
-## JS Validations
 <img src="https://techonria.files.wordpress.com/2016/07/arrow.png?w=785" width="1070"/>
-
-## JS Validations
 <div align="center"><img src="https://onsen.io/blog/content/images/2015/Nov/es6-webcomponents.png"/></div>
-
-## EcmaScript 6 (ES6)
 <img src="https://media.vlpt.us/images/sangminnn/post/3b3e7fc8-d255-46df-92fb-71e91bcf2408/real%20es6.png" width="1700"/>
-
-## EcmaScript 6 (ES6)
 <img src="https://learnworthy.net/wp-content/uploads/2019/08/How-To-Learn-JavaScript-Quickly.jpg" width="1700"/>
-
-
-
-## jQuery Framework 
 <a href="https://jquery.com/"><img src="https://cdn1.vogel.de/kaNCYI0Lx-zrDezwq8BaF3cFGI8=/fit-in/1200x630/filters:format(png):quality(90)/images.vogel.de/vogelonline/bdb/1494700/1494776/original.jpg" width="1000"/></a>
 <p>Para ser mais preciso o jQuery é um Framework JavaScript para Front-end com uma grande facilidade de manipular o DOM e de código simples, muito usado para criar animações, eventos, chamadas AJAX e ainda cria plugins. Pode ser baixado no site oficial ou usado pelo <a href="">CDN</a> (<i>Content Delivery Network</i>), para isso basta copiar um dos códigos abaixo (escolha apenas uma versão) e colar no seu código HTML. Recomenda-se a versão 3 do CDN.</p>
 
