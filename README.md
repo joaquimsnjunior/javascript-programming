@@ -1103,7 +1103,7 @@ funcao = () => {
 tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
 
 ## 📜 Hierarquia de Objetos ⚽🏈
-<img src="https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png"/></div>
 
 
 
