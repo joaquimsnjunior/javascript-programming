@@ -1078,6 +1078,7 @@ funcao = () => {
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103493750-daf79000-4e11-11eb-981d-ac100ffc9b0e.jpg)
 
 ### Exemplo 3: retornando ao valor por padrão
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103493854-89033a00-4e12-11eb-9142-16e75a3a45f3.jpg)
 
 
 
