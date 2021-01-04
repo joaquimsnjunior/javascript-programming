@@ -1050,9 +1050,13 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 ## 🏹 Arrow Function 🤹
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103492529-5d7c5180-4e0a-11eb-8426-cda942129822.png"/></div>
+<p>Agora vamos conhecer outras maneiras de inserir funções no JavaScript. Com o <b>arrow function</b> a função possui uma forma bem mais enxuta de ser inserida com os arrows.</p>
 
-
-
+### Sintaxe (Função tradicional):
+<pre>function funcao() {
+   código;
+}
+</pre>
 
 
 
