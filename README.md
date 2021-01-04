@@ -1089,7 +1089,7 @@ funcao = () => {
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103537648-8a188380-4e73-11eb-8d72-7291abf3f473.jpg)
 
 ## 📜 JS Events 🤹🤡🎪
-<img src="https://www.ateamindia.com/wp-content/uploads/2018/10/JavaScript-1.jpg" height="450" width="1070"/>
+<img src="https://www.ateamindia.com/wp-content/uploads/2018/10/JavaScript-1.jpg"/>
 
 <hr>
 
