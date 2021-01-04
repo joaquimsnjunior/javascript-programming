@@ -1138,7 +1138,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <h1 align="center">Cap 16: 📜 Eventos 📙🎪</h1>
 <p>São fatos que ocorrem durante a execução do sistema, a partir dos quais o programador pode definir ações a serem realizadas pelo programa.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103578048-a852a380-4eb4-11eb-9d65-5fb88a47469a.jpg"/></div>
-
+<p>Um evento é gerado como resultado de uma ação: Um clique, um movimento do mouse, uma seleção de texto, o abandono da página etc.</p>
 
 
 
