@@ -1121,8 +1121,11 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <pre>nomeObjeto.método(argumento/ parâmetro)</pre>
 <p>Na sintaxe apresentada, <code>nomeObjeto</code> faz referência ao objeto a ser utilizado e o qual sofrerá uma ação do método, já método é o nome de identificação do método usado e entre parênteses (argumento/ parâmetro) é a expressão ou valor opcional que será usada para alterar sobre o objeto.</p>
 
-
-
+## 📜 Onde escrever um JavaScript? ✍️
+<p>Já aprendemos algumas formas de escrever o JavaScript anteriormente. No entanto, há uma outra forma para controlar bem os objetos!</p>
+<ol>
+  <li>Como evento de um elemento (IMG, A, INPUT etc):</li>
+</ol>
 
 
 
