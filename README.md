@@ -1098,7 +1098,8 @@ funcao = () => {
 
 <h1 align="center">Cap 15: 📜 JavaScript OOP ⚽</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png"/></div>
-
+<p>Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos (OOP), isto significa que todos os elementos de uma página da Web são
+tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
 
 
 
