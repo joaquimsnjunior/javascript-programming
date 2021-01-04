@@ -1116,10 +1116,10 @@ tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou fi
 <p>Cada objeto existente na manipulação do JavaScript possuem <b>propriedades</b> (características/ atributos). Exemplo, sabemos que um documento HTML possuem título e corpo, estas características do documento podemos chamar de propriedades que existem neste documento.
 
 A utilização de propriedades se dá acompanhada de seu objeto sendo separados por um ponto <code>.</code> apenas. Abaixo, a sintaxe de utilização de propriedades:</p>
-<pre>nomeDoObjeto<b>.</b>propriedade</pre>
+<pre>nomeObjeto<b>.</b>propriedade</pre>
 <p>Além das propriedades, os objetos podem conter <b>métodos</b> (ações/ verbos), que são funções prédefinidas pela linguagem JavaScript que irão executar determinada operação.</p>
-
-
+<pre>nomeObjeto.método(argumento/ parâmetro)</pre>
+<p>Na sintaxe apresentada, <code>nomeObjeto</code> faz referência ao objeto a ser utilizado e o qual sofrerá uma ação do método, já método é o nome de identificação do método usado e entre parênteses (argumento/ parâmetro) é a expressão ou valor opcional que será usada para alterar sobre o objeto.</p>
 
 
 
