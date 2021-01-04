@@ -1111,7 +1111,6 @@ tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou fi
   <li><code><b>window</b></code>: O objeto mais acima na hierarquia, contém propriedades que se aplicam a toda a janela. Há também um objeto desta classe para todas as "sub-janelas" de um documento com frames.</li>
   <li><code><b>location</b></code>: Contém as propriedades da URL atual.</li>
   <li><code><b>history</b></code>: Contém as propriedades das URLs visitadas anteriormente.</li>
-  <li><code><b>history</b></code>: Contém as propriedades das URLs visitadas anteriormente.</li>
   <li><code><b>document</b></code>: Contém as propriedades do documento contido na janela, tais como o seu conteúdo, título, cores, etc.</li>
 </ol>
 <p>Cada objeto existente na manipulação do JavaScript possuem propriedades (características/ atributos). Exemplo, sabemos que um documento HTML possuem título e corpo, estas características do documento podemos chamar de propriedades que existem neste documento.
