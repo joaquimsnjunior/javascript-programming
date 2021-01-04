@@ -86,6 +86,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-13--fun%C3%A7%C3%B5es-em-js-">📜 Funções em JS 🤹</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-14--procedural-javascript-">📜 Procedural JavaScript 📜</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-15--javascript-oop-">📜 JavaScript OOP ⚽</a></li>
+  <li>📜 Eventos 📙🎪</li>
   <li>📜 Validações em JavaScript ✅</li>
   <li>📜 Browser Object Model (BOM) 🧙‍♀️</li>
   <li>📜 Documento Object Model (DOM) 🧙‍♂️</li>
@@ -1132,8 +1133,9 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 </ol>
 
 ### 2° Solução: 📜 Num arquivo a ser importado 📒
+<hr>
 
-## 📜 Eventos 📙🎪
+<h1 align="center">Cap 13: 📜 Eventos 📙🎪</h1>
 <p>São fatos que ocorrem durante a execução do sistema, a partir dos quais o programador pode definir ações a serem realizadas pelo programa.</p>
 
 
