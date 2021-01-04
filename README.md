@@ -967,7 +967,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 ## Sintaxe:
 <pre>variável data = new Date();
-     data = getTime();</pre>
+   console.log(data.getTime());</pre>
 
 <p>O JS é ótimo para manipular o tempo através de seus métodos, os métodos adiante definem o tempo no JavaScript:</p>
 
