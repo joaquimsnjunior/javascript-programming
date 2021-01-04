@@ -1102,8 +1102,8 @@ funcao = () => {
 <p>Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos (OOP), isto significa que todos os elementos de uma página da Web são
 tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
 
-
-
+## 📜 Hierarquia de Objetos ⚽⚾🏀
+![Hierarquia de Objetos JS](https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png)
 
 
 
