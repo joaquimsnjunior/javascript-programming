@@ -1049,7 +1049,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103492479-ec3c9e80-4e09-11eb-92e6-638585d008f5.jpg)
 
 ## 🏹 Arrow Function 🤹
-
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/103492529-5d7c5180-4e0a-11eb-8426-cda942129822.png"/></div>
 
 
 
