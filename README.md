@@ -1045,6 +1045,11 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 ## Exemplo 4:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103492431-91a34280-4e09-11eb-88b2-35e526530318.jpg)
 
+## Exemplo 5:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103492479-ec3c9e80-4e09-11eb-92e6-638585d008f5.jpg)
+
+## 🏹 Arrow Function 🤹
+
 
 
 
