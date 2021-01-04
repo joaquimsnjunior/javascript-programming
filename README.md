@@ -1087,7 +1087,10 @@ funcao = () => {
   
 ## Exemplo 1:
 
+<hr>
 
+<h1 align="center">📜 Validações em JavaScript ✅</h1>
+<img src="https://www.islamzatary.com/wp-content/uploads/2017/09/advanced_js.jpg" height="410" width="1070"/>
 
 
 
