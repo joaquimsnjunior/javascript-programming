@@ -85,8 +85,8 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-12--dicion%C3%A1rios-em-js-">📜 Dicionários em JS 📖</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-13--fun%C3%A7%C3%B5es-em-js-">📜 Funções em JS 🤹</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-14--procedural-javascript-">📜 Procedural JavaScript 📜</a></li>
-  <li>📜 Validações em JavaScript ✅</li>
   <li>📜 JavaScript OOP ⚽</li>
+  <li>📜 Validações em JavaScript ✅</li>
   <li>📜 BOM (Browser Object Model) 🧙‍♀️</li>
   <li>📜 DOM (Documento Object Model) 🧙‍♂️</li>
   <li>📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</li>
@@ -1094,13 +1094,10 @@ funcao = () => {
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103537648-8a188380-4e73-11eb-8d72-7291abf3f473.jpg)
 
-## 📜 JS Events 🤹🤡🎪
-<img src="https://www.ateamindia.com/wp-content/uploads/2018/10/JavaScript-1.jpg"/>
-
 <hr>
 
-<h1 align="center">Cap 15: 📜 Validações em JavaScript ✅</h1>
-<img src="https://www.islamzatary.com/wp-content/uploads/2017/09/advanced_js.jpg" width="1070"/>
+<h1 align="center">Cap 15: 📜 JavaScript OOP ⚽</h1>
+<iv align="center"><img src="https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png"/></div>
 
 
 
@@ -1336,7 +1333,7 @@ document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
 ![image](https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png)
 
 ## JS Validations
-<img src="https://www.islamzatary.com/wp-content/uploads/2017/09/advanced_js.jpg" height="410" width="1070"/>
+<img src="https://www.islamzatary.com/wp-content/uploads/2017/09/advanced_js.jpg" width="1070"/>
 
 ## JS Validations
 <img src="https://cdn-media-1.freecodecamp.org/images/1*tBXQMulrsKL21K66SVQ5jA.png" width="1070"/>
