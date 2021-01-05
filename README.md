@@ -1176,6 +1176,11 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td>Tecla pressionada e liberada</td>
     <td>Todos os elementos</td>
   </tr>
+    <tr>
+    <td>onkeyup</td>
+    <td>Tecla liberada</td>
+    <td>Todos os elementos</td>
+  </tr>
   <tr>
     <td>onload</td>
     <td>Ocorre na carga do documento</td>
