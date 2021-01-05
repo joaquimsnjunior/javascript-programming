@@ -100,7 +100,7 @@
   <li>📜 [DOM]  🧙‍♂️⚗️</li>
   <li>📜 [DOM]  🧙‍♂️🦄</li>
   <li>📜 [DOM]  🧙‍♂️🧚</li>
-  <li>📜 [DOM]  🧙‍🪄</li>
+  <li>📜 [DOM]  🧙‍ 🪄</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
