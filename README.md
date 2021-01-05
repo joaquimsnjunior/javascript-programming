@@ -1161,7 +1161,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td><b>Função do evento</b></td>
     <td><b>Compatibilidade com as tags HTML</b></td>
   </tr>
-   <tr>
+   <tr border rules="rows"3>
     <td><b>Mouse Events</b></td>
   </tr>
   <tr>
