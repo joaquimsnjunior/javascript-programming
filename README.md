@@ -1148,7 +1148,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103591717-a9dd9500-4ecf-11eb-855a-fb88ffcd7f4b.jpg)
 ![Sem Título-12e2](https://user-images.githubusercontent.com/61624336/103591719-aa762b80-4ecf-11eb-822f-fcd9114180c2.jpg)
 
-### 📜 Lista de Eventos 🎪
+## 📜 Lista de Eventos 🎪
 <p>Funciona com quase todas as tags html, exceto: &lt;br&gt;, &lt;head&gt;, &lt;html&gt;, <script>, <style>, <title>.</p>
 <table>
   <tr>
@@ -1167,9 +1167,9 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td>Todos os elementos</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Todos os elementos</td>
+    <td>onload</td>
+    <td>Ocorre na carga do documento.</td>
+    <td>Só ocorre no &lt;body&gt; do documento</td>
   </tr>
 </table>
 
