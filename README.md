@@ -1168,8 +1168,13 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
   </tr>
   <tr>
     <td>onload</td>
-    <td>Ocorre na carga do documento.</td>
-    <td>Só ocorre no &lt;body&gt; do documento</td>
+    <td>Ocorre na carga do documento</td>
+    <td>&lt;body&gt;</td>
+  </tr>
+    <tr>
+    <td>onunload</td>
+    <td>Ocorre na descarga (saída) do documento</td>
+    <td>&lt;body&gt;</td>
   </tr>
 </table>
 
