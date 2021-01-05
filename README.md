@@ -1166,6 +1166,16 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td>Duplo clique com botão esquerdo do mouse</td>
     <td>Todos os elementos</td>
   </tr>
+    <tr>
+    <td>onkeydown</td>
+    <td>Tecla pressionada</td>
+    <td>Todos os elementos</td>
+  </tr>
+  <tr>
+    <td>onkeypress</td>
+    <td>Tecla pressionada e liberada</td>
+    <td>Todos os elementos</td>
+  </tr>
   <tr>
     <td>onload</td>
     <td>Ocorre na carga do documento</td>
