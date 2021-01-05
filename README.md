@@ -100,7 +100,7 @@
   <li>📜 [DOM]  🧙‍♂️⚗️</li>
   <li>📜 [DOM]  🧙‍♂️🦄</li>
   <li>📜 [DOM]  🧙‍♂️🧚</li>
-  <li>📜 [DOM]  🧙‍ 🪄</li>
+  <li>📜 [DOM]  🧙‍♂️🧝‍♂️</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
@@ -1595,6 +1595,6 @@ https://ian-says.com/articles/functional-javascript/thumbnail.png
 ## Node.js
 <img src="https://cdn1.vogel.de/unsafe/fit-in/1000x0/images.vogel.de/vogelonline/bdb/1368100/1368165/original.jpg"/>
 
-# Vanilla JS 📒📜🍦
+# Vanilla JS 📜🍦
 https://d399irh3pgqnz3.cloudfront.net/prod/imagine/course_video_poster_large/uploads/screencast/javascript/javascript-677.png
 -->
