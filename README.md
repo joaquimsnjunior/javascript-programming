@@ -1187,6 +1187,26 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td>Todos os elementos</td>
   </tr>
   <tr>
+    <td>onmouseup</td>
+    <td>Botão do mouse libertado</td>
+    <td>Todos os elementos</td>
+  </tr>
+  <tr>
+    <td>onmouseover</td>
+    <td>Mouse sobre o objeto</td>
+    <td>Todos os elementos</td>
+  </tr>
+  <tr>
+    <td>onmousemove</td>
+    <td>Mouse movido do objeto</td>
+    <td>Todos os elementos</td>
+  </tr>
+  <tr>
+    <td>onmouseout</td>
+    <td>Mouse saiu do objeto</td>
+    <td>Todos os elementos</td>
+  </tr>
+  <tr>
     <td>onload</td>
     <td>Ocorre na carga do documento</td>
     <td>&lt;body&gt;</td>
