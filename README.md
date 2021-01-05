@@ -1171,21 +1171,6 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td>Duplo clique com botão esquerdo do mouse</td>
     <td>Todos os elementos</td>
   </tr>
-    <tr>
-    <td>onkeydown</td>
-    <td>Tecla pressionada</td>
-    <td>Todos os elementos</td>
-  </tr>
-  <tr>
-    <td>onkeypress</td>
-    <td>Tecla pressionada e liberada</td>
-    <td>Todos os elementos</td>
-  </tr>
-    <tr>
-    <td>onkeyup</td>
-    <td>Tecla liberada</td>
-    <td>Todos os elementos</td>
-  </tr>
   <tr>
     <td>onmousedown</td>
     <td>Botão do mouse pressionado</td>
@@ -1209,6 +1194,21 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
   <tr>
     <td>onmouseout</td>
     <td>Mouse saiu do objeto</td>
+    <td>Todos os elementos</td>
+  </tr>
+      <tr>
+    <td>onkeydown</td>
+    <td>Tecla pressionada</td>
+    <td>Todos os elementos</td>
+  </tr>
+  <tr>
+    <td>onkeypress</td>
+    <td>Tecla pressionada e liberada</td>
+    <td>Todos os elementos</td>
+  </tr>
+    <tr>
+    <td>onkeyup</td>
+    <td>Tecla liberada</td>
     <td>Todos os elementos</td>
   </tr>
   <tr>
