@@ -1223,6 +1223,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
   </tr>
 </table>
 
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/103608061-32246000-4ef9-11eb-99c9-c64aa54ce655.jpg"/></div>
 
 
 
