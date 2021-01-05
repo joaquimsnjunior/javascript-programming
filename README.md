@@ -1171,10 +1171,15 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td>Ocorre na carga do documento</td>
     <td>&lt;body&gt;</td>
   </tr>
-    <tr>
+  <tr>
     <td>onunload</td>
     <td>Ocorre na descarga (saída) do documento</td>
     <td>&lt;body&gt;</td>
+  </tr>
+   <tr>
+    <td>onchange</td>
+    <td>Ocorre quando o objeto perde o foco e houve mudança de conteúdo</td>
+    <td>&lt;Text&gt;, &lt;Select&gt; e &lt;Textarea&gt;</td>
   </tr>
 </table>
 
