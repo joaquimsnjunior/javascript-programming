@@ -1182,6 +1182,11 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td>Todos os elementos</td>
   </tr>
   <tr>
+    <td>onmousedown</td>
+    <td>Botão do mouse pressionado</td>
+    <td>Todos os elementos</td>
+  </tr>
+  <tr>
     <td>onload</td>
     <td>Ocorre na carga do documento</td>
     <td>&lt;body&gt;</td>
