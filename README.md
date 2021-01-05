@@ -1153,8 +1153,8 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <table>
   <tr>
     <td><b>Evento</b></td>
-    <td><b>Função</b></td>
-    <td><b>Compatibilidade</b></td>
+    <td><b>Função do evento</b></td>
+    <td><b>Compatibilidade com as tags HTML</b></td>
   </tr>
   <tr>
     <td>onclick</td>
