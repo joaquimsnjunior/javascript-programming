@@ -87,7 +87,6 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-14--procedural-javascript-">📜 Procedural JavaScript 📜</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-15--javascript-oop-">📜 JavaScript OOP ⚽</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-">📜 Eventos 📙🎪</a></li>
-  <li>📜 Validações em JavaScript ✅</li>
   <li>📜 Browser Object Model (BOM) 🧙‍♀️</li>
   <li>📜 Documento Object Model (DOM) 🧙‍♂️</li>
   <li>📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</li>
@@ -101,6 +100,7 @@
   <li>📜 [DOM]  🧙‍♂️🦄</li>
   <li>📜 [DOM]  🧙‍♂️🧚</li>
   <li>📜 [DOM]  🧙‍♂️🧝‍♂️</li>
+  <li>📜 Validações em JavaScript ✅</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
