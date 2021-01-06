@@ -939,7 +939,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103469746-77089500-4d47-11eb-87b7-8e5f07697e0d.jpg)
 
-## 📜 Array Mod 🧺🗑️🛒
+## 🛒 Array Mod 🍎🍐🍊🍇
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103718412-6fdec280-4fa5-11eb-94c2-98a815ef78b4.jpg)
 
 <p>Existem alguns métodos e argumentos que mudam a funcionalidade de um array, tais como:</p>
@@ -964,7 +964,7 @@ A resposta para essa pergunta é com uma série de métodos que alteram os valor
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103482135-ba054f80-4dbd-11eb-9ca3-d78279efb6a9.jpg)
 
-### Tabela de métodos para os valores em JS
+### 🟨 Tabela de métodos para os valores em JS 💛
 <table>
     <tr>
       <td><b>Método</b></td>
@@ -1173,7 +1173,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103591717-a9dd9500-4ecf-11eb-855a-fb88ffcd7f4b.jpg)
 ![Sem Título-12e2](https://user-images.githubusercontent.com/61624336/103591719-aa762b80-4ecf-11eb-822f-fcd9114180c2.jpg)
 
-## 📜 Lista de Eventos 🎪
+## 📙 Lista de Eventos 🎪
 <p>Funciona com quase todas as tags html, exceto: &lt;br&gt;, &lt;head&gt;, &lt;html&gt;, <script>, <style>, <title>.</p>
 <table>
   <tr>
