@@ -1223,7 +1223,12 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td>Mouse saiu do objeto</td>
     <td>Todos os elementos</td>
   </tr>
-      <tr>
+   <tr>
+    <td>onwheel</td>
+    <td>Rolar (pra cima ou pra baixo) a roda do mouse sobre um elemento</td>
+    <td>Todos os elementos</td>
+  </tr> 
+  <tr>
     <td>onkeydown</td>
     <td>Tecla pressionada</td>
     <td>Todos os elementos</td>
