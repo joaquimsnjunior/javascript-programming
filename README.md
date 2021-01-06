@@ -1256,7 +1256,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
    <tr>
     <td>onchange</td>
     <td>Ocorre quando o objeto perde o foco e houve mudança de conteúdo</td>
-    <td>&lt;Text&gt;, &lt;Select&gt; e &lt;Textarea&gt;</td>
+    <td>&lt;text&gt;, &lt;select&gt; e &lt;textarea&gt;</td>
   </tr>
 </table>
 
