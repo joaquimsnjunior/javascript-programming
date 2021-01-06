@@ -998,7 +998,7 @@ console.log(data.getTime());</pre>
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103485348-66eac700-4dd4-11eb-86a3-f9999105e40f.jpg)
 
-### Tabela de métodos que definem o tempo no JS:
+## 🕒 Tabela de métodos que definem o tempo no JS: 📅
 <table>
   <tr>
     <td><b>Método</b></td>
