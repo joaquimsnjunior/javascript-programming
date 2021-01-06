@@ -966,6 +966,10 @@ A resposta para essa pergunta é com uma série de métodos que alteram os valor
 
 ### Tabela de métodos para os valores em JS
 <table>
+    <tr>
+      <td><b>Método</b></td>
+      <td><b>Função do método</b></td>
+  </tr>
   <tr>
   <td>replace("", "")</td>
   <td>muda a String selecionada por outra string informada</td>
@@ -998,7 +1002,7 @@ console.log(data.getTime());</pre>
 <table>
   <tr>
     <td><b>Método</b></td>
-    <td>Função do método</td>
+    <td><b>Função do método</b></td>
   </tr>
     <tr>
     <td>getDate()</td>
