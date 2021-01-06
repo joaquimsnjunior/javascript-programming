@@ -945,8 +945,8 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 <p>Existem alguns métodos e argumentos que mudam a funcionalidade de um array, tais como:</p>
 <table>
   <tr>
-    <td>método</td>
-    <td>função do método</td>
+    <td><b>Método</b></td>
+    <td><b>Função do método</b></td>
   </tr>
   <tr>
     <td>push</td>
@@ -996,6 +996,10 @@ console.log(data.getTime());</pre>
 
 ### Tabela de métodos que definem o tempo no JS:
 <table>
+  <tr>
+    <td><b>Método</b></td>
+    <td>Função do método</td>
+  </tr>
     <tr>
     <td>getDate()</td>
     <td>Define a data atual</td>
