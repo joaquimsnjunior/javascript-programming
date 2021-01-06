@@ -951,8 +951,32 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
     <td><b>Função do método</b></td>
   </tr>
   <tr>
-    <td>push</td>
+    <td>push("")</td>
     <td>Adiciona elemento</td>
+  </tr>
+  <tr>
+    <td>pop("")</td>
+    <td>Retira elemento</td>
+  </tr>
+  <tr>
+    <td>length()</td>
+    <td>Tamanho da lista ou n° de elementos</td>
+  </tr>
+  <tr>
+    <td>toString()</td>
+    <td>Mostra todos os itens da lista</td>
+  </tr>
+   <tr>
+    <td>join("")</td>
+    <td>Substitui elementos que separam a string</td>
+  </tr>
+  <tr>
+    <td>reverse()</td>
+    <td>Reverte</td>
+  </tr>
+  <tr>
+    <td>shift()</td>
+    <td>Remove o item</td>
   </tr>
 </table>
 <hr>
