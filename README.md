@@ -1099,7 +1099,7 @@ funcao = () => {
 }
 </pre>
 
-### Sintaxe (auto-exec function with arrowfunction)
+### Sintaxe (auto-exec function with Arrow Function)
 <pre>((x, y) => {
  console.log(x + y);
 })(10, 5);
@@ -1158,6 +1158,9 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 </ol>
 
 ### 2° Solução: 📜 Num arquivo a ser importado 📒
+<p>Aprenderemos mais sobre os eventos no próximo capítulo.</p>
+
+## 
 <hr>
 
 <h1 align="center">Cap 16: 📜 Eventos 📙🎪</h1>
