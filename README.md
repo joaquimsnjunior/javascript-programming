@@ -940,7 +940,17 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103469746-77089500-4d47-11eb-87b7-8e5f07697e0d.jpg)
 
 ## 📜 Array Mod 🧺🗑️🛒
-<p>Existem alguns atributos que mudam a funcionalidade de um array, tais como:</p>
+<p>Existem alguns métodos e argumentos que mudam a funcionalidade de um array, tais como:</p>
+<table>
+  <tr>
+    <td>método</td>
+    <td>função do método</td>
+  </tr>
+  <tr>
+    <td>push</td>
+    <td>Adiciona elemento</td>
+  </tr>
+</table>
 <hr>
 
 <h1 align="center">Cap 10: 📜 Valores em JS 💛</h1>
