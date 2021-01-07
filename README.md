@@ -1344,6 +1344,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O objeto <code>screen</code> serve para relatar informações sobre a tela ou resoluções.
   
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103902455-5179e380-50d9-11eb-8984-b99af8bde485.jpg)
 
 
 
