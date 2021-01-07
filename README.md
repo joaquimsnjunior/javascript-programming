@@ -1331,6 +1331,10 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ## 🧙‍♀️ Window 🪟
 <p>O objeto <code>window</code> está no topo do gráfico de árvore, pois contém propriedades que se aplicam em toda janela.</b>
 
+### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103841269-eba64100-5071-11eb-8e5c-6e1ac669edb7.jpg)
+
+### Exemplo 2:
 
 
 
