@@ -1323,7 +1323,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <hr>
 
 <h1 align="center">Cap 17: 📜 Browser Object Model (BOM) 🧙‍♀️</h1>
-
+<div align="center"><img src="https://cdn.splessons.com/wp-content/uploads/2016/03/javascript-bom-01-splessons-1.png"/></div>
 
 
 
