@@ -1329,7 +1329,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 Quando abrimos o navegador e carregamos uma página automaticamente é criado um objeto. Do mesmo modo como representa o gráfico acima. Agora vamos nos aprofundar mais nos objetos do BOM:</p>
 
 ## 🧙‍♀️ Window 🪟
-<p>O objeto <code>window</code> está no topo do gráfico de árvore, pois contém propriedades que se aplicam em toda janela.</b>
+<p>O objeto <code>window</code> está no topo do gráfico de árvore, pois contém propriedades que se aplicam em toda janela (<code>document</code>, <code>screen</code>, <code>navigator</code>, <code>history</code>, <code>location</code>, <code>frames[]</code>).</b>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103841269-eba64100-5071-11eb-8e5c-6e1ac669edb7.jpg)
@@ -1340,7 +1340,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 3:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103841618-c108b800-5072-11eb-8667-b1491e68cec8.jpg)
 
-
+## 🧙‍♀️ 
 
 
 
