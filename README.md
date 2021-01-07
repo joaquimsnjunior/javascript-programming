@@ -1341,7 +1341,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103841618-c108b800-5072-11eb-8667-b1491e68cec8.jpg)
 
 ## 🧙‍♀️ Screen 📺
-
+<p>O objeto <code>screen</code> serve para relatar informações sobre a tela ou resoluções.
+  
+### Exemplo 1:
 
 
 
