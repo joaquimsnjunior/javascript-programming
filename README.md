@@ -87,7 +87,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-14--procedural-javascript-">📜 Procedural JavaScript 📜</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-15--javascript-oop-">📜 JavaScript OOP ⚽</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-">📜 Eventos 📙🎪</a></li>
-  <li>📜 Browser Object Model (BOM) 🧙‍♀️</li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-17--browser-object-model-bom-%EF%B8%8F">📜 Browser Object Model (BOM) 🧙‍♀️</a></li>
   <li>📜 Documento Object Model (DOM) 🧙‍♂️</li>
   <li>📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</li>
   <li>📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</li>
