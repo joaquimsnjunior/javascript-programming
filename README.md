@@ -1289,7 +1289,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
   </tr>
   <tr>
     <td>onblur</td>
-    <td>Ocorre quando o objeto perde o foco e houve mudança de conteúdo</td>
+    <td>Quando um usuário sai de um campo de entrada</td>
     <td>&lt;text&gt;, &lt;select&gt; e &lt;textarea&gt;</td>
   </tr>
   <tr>
