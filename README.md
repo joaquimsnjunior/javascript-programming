@@ -1326,10 +1326,10 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <div align="center"><img src="https://cdn.splessons.com/wp-content/uploads/2016/03/javascript-bom-01-splessons-1.png"/></div>
 <p>Anteriormente, no capítulo 15 foi apresentado a <a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#-hierarquia-de-objetos-">hierarquia de objetos</a>, porém sem uma explicação bem aprofundada somente uma introdução rasa para informar mais sobre a ordem de objetos. Portanto, nesse capítulo e no 18 serão apresentados o <b>BOM</b> e o <b>DOM</b> que estão por trás da hierarquia de objetos. 
   
-Quando abrimos o navegador e carregamos uma página automaticamente é criado um objeto. Do mesmo modo como representa o gráfico acima.</p>
+Quando abrimos o navegador e carregamos uma página automaticamente é criado um objeto. Do mesmo modo como representa o gráfico acima. Agora vamos nos aprofundar mais nos objetos do BOM:</p>
 
-
-
+## 🧙‍♀️ Window 🪟
+<p>O objeto <code>window</code> está no topo do gráfico de árvore, pois contém propriedades que se aplicam em toda janela.</b>
 
 
 
