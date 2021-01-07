@@ -1302,6 +1302,10 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
     <td>Quando um input text é selecionado</td>
     <td>&lt;text&gt;, &lt;select&gt; e &lt;textarea&gt;</td>
   </tr>
+  <td>onreset</td>
+    <td>Quando o usuário clica no botão reset</td>
+    <td>&lt;text&gt;, &lt;select&gt; e &lt;textarea&gt;</td>
+  </tr>
   <tr>
     <td>onresize</td>
     <td>Quando a janela do navegador é redimensionada</td>
