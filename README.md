@@ -1324,7 +1324,9 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 
 <h1 align="center">Cap 17: 📜 Browser Object Model (BOM) 🧙‍♀️</h1>
 <div align="center"><img src="https://cdn.splessons.com/wp-content/uploads/2016/03/javascript-bom-01-splessons-1.png"/></div>
-<p>Quando abrimos o navegador e carregamos uma página automaticamente é criado um objeto. Do mesmo jeito como representa o gráfico acima.</p>
+<p>Anteriormente, no capítulo 15 foi apresentado a hierarquia de objetos, porém sem uma explicação bem aprofundada somente uma introdução rasa para informar mais sobre a ordem de objetos. Portanto, nesse capítulo e no 18 serão apresentados o <b>BOM</b> e o <b>DOM</b> que estão por trás da hierarquia de objetos. 
+  
+Quando abrimos o navegador e carregamos uma página automaticamente é criado um objeto. Do mesmo modo como representa o gráfico acima.</p>
 
 
 
