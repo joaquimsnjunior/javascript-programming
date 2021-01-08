@@ -1484,7 +1484,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <h1 align="center">Cap 20: 📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</h1> 
 
 ## 🧙‍♂️ [DOM] getElementsByTagName ✨
-<p>O método <code>getElementsByTagName</code> </p>
+<p>O método <code>getElementsByTagName</code> permite a inserção de mais elementos pelas tags do HTML. Esse método é similar ao <code>getElementsByClassName</code>.</p>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104055781-14dbe400-51ce-11eb-842c-9d3c3203376e.jpg)
