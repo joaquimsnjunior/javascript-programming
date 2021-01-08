@@ -1426,10 +1426,12 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
   
 <p>Dessa forma, <code>document.getElementById("largura").innerHTML</code>, mas ainda nosso comando não está finalizado, falta o conteúdo que iremos inserir, o mesmo que inserimos no console e na janela de alerta, só que nesse atributo é um pouco diferente dos demais, ele precisa do operador de atribuição de valor <code>=</code>.</p>
 
-<p>E assim, <code>document.getElementById("largura").innerHTML = screen.width;</code>.</p>
+<p>E assim, <code>document.getElementById("largura").innerHTML = screen.width;</code></p>
 
+<p>O último passo é abrir o documento no navegador.</p>
 
-
+<h1 align="center">Cap 18: 📜 Document Object Model (DOM) 🧙‍♂️</h1>
+<p></p>
 
 
 
