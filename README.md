@@ -1440,16 +1440,18 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <div align="center"><img src="https://miro.medium.com/max/740/1*Uedjd1Z-EMdhPgqYLlAjow.png"/></div>
 
-## Exemplo 1: Atributo write
+## 🧙‍♂️ [DOM] Atributo write ✍️
 <p>O atributo <code>write</code> serve para escrever um novo elemento no documento HTML.</p>
-  
+
+### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104043730-ff10f380-51ba-11eb-9877-f0d4e1d751b2.jpg)
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104043736-00dab700-51bb-11eb-8190-97dd471764d6.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104044235-caea0280-51bb-11eb-9c69-4f67bfbc2a7b.jpg)
 
-## Exemplo 2: Atributo lastModified
+## 🧙‍♂️ [DOM] Atributo lastModified 🕵️
 <p>O atributo <code>lastModified</code> serve para mostrar o período da última modificação do elemento.</p>
 
+### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048044-68940080-51c1-11eb-9837-91bea05f8547.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048338-d5a79600-51c1-11eb-92d8-61fed89e89ca.jpg)
 
