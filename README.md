@@ -1448,6 +1448,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104044235-caea0280-51bb-11eb-9c69-4f67bfbc2a7b.jpg)
 
 ## Exemplo 2: Atributo lastModified
+<p>O atributo <code>lastModified</code> serve para mostrar o período da última modificação do elemento.</p>
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048044-68940080-51c1-11eb-9837-91bea05f8547.jpg)
 
 <hr>
 
