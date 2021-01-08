@@ -1188,7 +1188,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 ### 2° Solução: 📜 Num arquivo a ser importado 📒
 <p>Aprenderemos mais sobre os eventos no próximo capítulo.</p>
 
-## 
+<p>Veremos melhor como funciona essa hierarquia de objetos e como utiliza-las em uma página, nos próximos capítulos.</p>
 <hr>
 
 <h1 align="center">Cap 16: 📜 Eventos 📙🎪</h1>
