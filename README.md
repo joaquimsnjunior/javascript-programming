@@ -1451,6 +1451,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O atributo <code>lastModified</code> serve para mostrar o período da última modificação do elemento.</p>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048044-68940080-51c1-11eb-9837-91bea05f8547.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048338-d5a79600-51c1-11eb-92d8-61fed89e89ca.jpg)
 
 <hr>
 
