@@ -1447,8 +1447,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104043736-00dab700-51bb-11eb-8190-97dd471764d6.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104044235-caea0280-51bb-11eb-9c69-4f67bfbc2a7b.jpg)
 
+<hr>
 
-
+<h1 align="center">Cap 19: 📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</h1> 
 
 
 
