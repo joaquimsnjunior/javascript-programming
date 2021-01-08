@@ -1385,9 +1385,10 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 3: Redirecionamento de endereços
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103963054-1e663d00-5137-11eb-985a-8f804862788f.jpg)
 
+## 🧙‍♀️ History 🏛️
+<p>O objeto <code>history</code> serve para manipular e relatar informações sobre o histórico de modificações, páginas anteriores ou páginas posteriores e entre outros.</p>
 
-
-
+### Exemplo 1:
 
 
 
