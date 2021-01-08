@@ -1393,10 +1393,14 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ### Exemplo 2:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103965538-aac72e80-513c-11eb-8a43-26870473f84c.jpg)
-
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103966281-56bd4980-513e-11eb-96be-c7d111c1947b.jpg)
 
-# 🧙‍♀️ BOM + DOM 🧙‍♂️
+## 🧙‍♀️ Document 🗂️
+<p>O objeto <code>document</code> serve para manipular qualquer tipo de documento exibido na janela, tais como o seu conteúdo, título, cores, etc.</p>
+
+### Exemplo 1:
+
+## 🧙‍♀️ BOM + DOM 🧙‍♂️
 <p>Já sabemos que BOM e DOM andam juntos para revelar, manipular ou invocar um determinado elemento através dos seus objetos. Vejamos um exemplo dessa união:</p>
 
 ### Exemplo 1:
