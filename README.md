@@ -1361,6 +1361,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103959950-d7287e00-512f-11eb-8f0a-6a701a08f070.jpg)
 
+### Exemplo 2:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103960056-1ce54680-5130-11eb-8a19-935547e7da48.jpg)
 
 
 
