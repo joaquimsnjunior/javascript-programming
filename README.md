@@ -1477,8 +1477,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ### Exemplo 2: Ordem de índices
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104053726-85810180-51ca-11eb-8762-3ad0c06046cc.jpg)
-
-### Exemplo 3:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104054013-0b04b180-51cb-11eb-8532-e3bb91892c55.jpg)
 
 <hr>
 
