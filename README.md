@@ -1432,6 +1432,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <hr>
 
 <h1 align="center">Cap 18: 📜 Document Object Model (DOM) 🧙‍♂️</h1>
+<img src="https://miro.medium.com/max/3392/1*mMmuOhNytgqP7lrU9HPTpw.jpeg"/>
+
 <p></p>
 
 
