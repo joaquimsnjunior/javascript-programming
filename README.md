@@ -1471,6 +1471,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O método <code>getElementsByClassName</code> diferente do <code>getElementById</code> nos permite a inserção de mais elementos pelo atributo HTML class.</p>
 
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104052254-3043f080-51c8-11eb-818b-bc891d6fdf9e.jpg)
 
 
 
