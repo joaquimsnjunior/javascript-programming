@@ -1320,6 +1320,8 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 
 ## Exemplo 1:
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103608061-32246000-4ef9-11eb-99c9-c64aa54ce655.jpg"/></div>
+
+## 🏋🏾‍♂️ Exercício: Troca de images por eventos
 <hr>
 
 <h1 align="center">Cap 17: 📜 Browser Object Model (BOM) 🧙‍♀️</h1>
