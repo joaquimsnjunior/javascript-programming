@@ -1450,6 +1450,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <hr>
 
 <h1 align="center">Cap 19: 📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</h1> 
+<p>O objeto <code>getElementById</code> permite a inserção do id para a execução de outros comandos.</p>
+
+## Exemplo 1:
 
 
 
