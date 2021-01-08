@@ -1389,6 +1389,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O objeto <code>history</code> serve para manipular e relatar informações sobre o histórico de modificações, páginas anteriores ou páginas posteriores e entre outros.</p>
 
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103965538-aac72e80-513c-11eb-8a43-26870473f84c.jpg)
 
 
 
