@@ -44,7 +44,7 @@
 [![Vuetify.js](https://img.shields.io/badge/-Vuetify-FFE800?style=for-the-badge&logo=Vuetify&logoColor=black)](https://github.com/IsaacAlves7/vue.js-programming)
 [![Ionic](https://img.shields.io/badge/-Ionic-FFE800?style=for-the-badge&logo=Ionic&logoColor=black)](https://github.com/IsaacAlves7/ionic-programming)
 [![Electron](https://img.shields.io/badge/-Electron-FFE800?style=for-the-badge&logo=Electron&logoColor=black)](https://github.com/IsaacAlves7/electron-programming)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-FFE800?style=for-the-badge&logo=TypeScript&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-FFE800?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
 [![ReactiveX](https://img.shields.io/badge/-ReactiveX-FFE800?style=for-the-badge&logo=ReactiveX&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-FFE800?style=for-the-badge&logo=Gatsby&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
 [![Gulp](https://img.shields.io/badge/-Gulp-FFE800?style=for-the-badge&logo=gulp&logoColor=black)](https://github.com/IsaacAlves7/gulp-programming)
@@ -1474,6 +1474,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104052254-3043f080-51c8-11eb-818b-bc891d6fdf9e.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104052466-89138900-51c8-11eb-9efb-0d3b8aaf9dec.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104052363-5f5a6200-51c8-11eb-9588-78bf5543d1f5.jpg)
+
+<hr>
 
 <h1 align="center">Cap 20: 📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</h1> 
 
