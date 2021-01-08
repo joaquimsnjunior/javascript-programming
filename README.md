@@ -1382,6 +1382,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103962672-45703f00-5136-11eb-8fac-9e1311340704.jpg)
 
 ### Exemplo 3: Redirecionamento de endereços
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103963054-1e663d00-5137-11eb-985a-8f804862788f.jpg)
 
 
 
