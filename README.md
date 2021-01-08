@@ -1408,11 +1408,11 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104027984-e991ce80-51a6-11eb-9f1e-5d6169402e77.jpg)
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104028100-134af580-51a7-11eb-9ccb-492b54770e3e.jpg)
 
-<p>Vamos entender como funciona esse exemplo da união do DOM com o BOM.</p>
+<p>Vamos entender como funciona esse exemplo da união do DOM com o BOM. Nosso objetivo é exibir a largura da janela por 3 formas, pelo console, pela janela de alerta e pela janela do navegador!</p>
 
 <p>Primeiro passo, é criado o elemento <code>&lt;div&gt;</code> no index.html, com o atributo <code>id=""</code> nomeado <b>largura</b> (&lt;div id="largura"&gt;&lt;/div&gt;), o elemento está completamente vazio, sem a existência de outros elementos dentro dele.</p>
 
-<p>Segundo passo, </p>
+<p>Segundo passo, é criado os comandos <code>console.log();</code> e inserido o objeto do BOM <code>screen.width</code> (console.log(screen.width);).</p>
 
 
 
