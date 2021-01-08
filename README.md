@@ -1460,15 +1460,15 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <h1 align="center">Cap 19: 📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</h1> 
 
 ## 🧙‍♂️ [DOM] getElementById 🔮
-<p>O objeto <code>getElementById</code> permite a inserção do id para a execução de outros comandos.</p>
+<p>O método <code>getElementById</code> permite a inserção do id para a execução de outros comandos.</p>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048649-59fa1900-51c2-11eb-85ac-8d21e1a836d1.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048991-ead0f480-51c2-11eb-8ae4-b39bdc2a70d1.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104049223-5f0b9800-51c3-11eb-9ebd-4562da09740f.jpg)
 
-
-
+## 🧙‍♂️ [DOM] getElementsByClassName 🔮
+<p>O método <code>getElementsByClassName</code></p>
 
 
 
