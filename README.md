@@ -1418,15 +1418,15 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <p>Segundo passo, é criado os comandos <code>console.log();</code> e inserido o objeto do BOM <code>screen.width</code> (console.log(screen.width);).</p>
 
-<p>Terceiro passo, é criado o comando <code>alert();</code> e inserido o objeto do BOM, novamente< <code>screen.width</code> (alert(screen.width);).</p>
+<p>Terceiro passo, é criado o comando <code>alert();</code> e inserido o objeto do BOM, novamente, <code>screen.width</code> (alert(screen.width);).</p>
 
-<p>Quarto passo, é criado o comando BOM/DOM <code>document</code>, em seguida, <code>getElementById()</code> esse objeto do DOM serve para pegar a referência do id selecionado no documento html, no caso "largura".</p>
+<p>Quarto passo, é criado o comando BOM/DOM <code>document</code>, em seguida, o método <code>getElementById()</code> esse objeto do DOM serve para pegar a referência do id selecionado no documento html, no caso "largura".</p>
 
 <p>Logo, <code>document.getElementById("largura")</code>, em seguida, adicionamos o atributo <code>innerHTML</code> que permite a inserção de qualquer elemento e tag html no documento HTML.</p> 
   
 <p>Dessa forma, <code>document.getElementById("largura").innerHTML</code>, mas ainda nosso comando não está finalizado, falta o conteúdo que iremos inserir, o mesmo que inserimos no console e na janela de alerta, só que nesse atributo é um pouco diferente dos demais, ele precisa do operador de atribuição de valor <code>=</code>.</p>
 
-<p>E assim, <code>document.getElementById("largura").innerHTML = screen.width;</code></p>
+<p>E assim finalizamos, <code>document.getElementById("largura").innerHTML = screen.width;</code></p>
 
 <p>O último passo é abrir o documento no navegador.</p>
 <hr>
@@ -1436,7 +1436,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <p>Essa é a estrutura do DOM (Document Object Model) que chamamos de "árvore DOM" pela semelhança com o formato da árvore ou raízes da árvore. O DOM também é um objeto do BOM e serve para manipular os elementos de uma página html, como links, divs, imagens, textos etc.</p>
 
-
+### Exemplo 1:
 
 
 
