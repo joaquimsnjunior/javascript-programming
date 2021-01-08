@@ -1401,7 +1401,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104027984-e991ce80-51a6-11eb-9f1e-5d6169402e77.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/104028100-134af580-51a7-11eb-9ccb-492b54770e3e.jpg)
 
+<p>Vamos entender como funciona essa união do DOM com o BOM.</p>
 
 
 
