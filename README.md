@@ -1600,7 +1600,6 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 
 
-
 <!--
 ![JS Functional Programming](https://user-images.githubusercontent.com/61624336/103607708-52075400-4ef8-11eb-9f07-39ee85636a67.jpg)
 ![Hierarquia de Objetos JS](https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png)
