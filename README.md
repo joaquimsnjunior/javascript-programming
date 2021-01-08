@@ -1396,7 +1396,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103966281-56bd4980-513e-11eb-96be-c7d111c1947b.jpg)
 
 ## 🧙‍♀️ Document 🗂️
-<p>O objeto <code>document</code> serve para manipular qualquer tipo de documento exibido na janela, tais como o seu conteúdo, título, cores, etc.</p>
+<p>O objeto <code>document</code> serve para manipular qualquer tipo de documento exibido na janela, tais como o seu conteúdo, título, cores, etc. Esse objeto faz parte do BOM e do DOM.</p>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104029209-7721ee00-51a8-11eb-8254-726db2dd2815.jpg)
@@ -1408,10 +1408,11 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104027984-e991ce80-51a6-11eb-9f1e-5d6169402e77.jpg)
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104028100-134af580-51a7-11eb-9ccb-492b54770e3e.jpg)
 
-<p>Vamos entender como funciona essa união do DOM com o BOM.</p>
+<p>Vamos entender como funciona esse exemplo da união do DOM com o BOM.</p>
 
+<p>Primeiro passo, é criado o elemento <code>&lt;div&gt;</code> no index.html, com o atributo <code>id=""</code> nomeado <b>largura</b>, o elemento está completamente vazio, sem a existência de outros elementos dentro dele.</p>
 
-
+<p>Segundo passo, </p>
 
 
 
