@@ -1429,6 +1429,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>E assim, <code>document.getElementById("largura").innerHTML = screen.width;</code></p>
 
 <p>O último passo é abrir o documento no navegador.</p>
+<hr>
 
 <h1 align="center">Cap 18: 📜 Document Object Model (DOM) 🧙‍♂️</h1>
 <p></p>
