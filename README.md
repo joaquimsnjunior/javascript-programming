@@ -1359,6 +1359,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O objeto <code>navigator</code> serve para relatar e manipular informações sobre o navegador.</p>
 
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103959950-d7287e00-512f-11eb-8f0a-6a701a08f070.jpg)
 
 
 
