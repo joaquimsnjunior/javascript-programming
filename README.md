@@ -1459,6 +1459,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O objeto <code>getElementById</code> permite a inserção do id para a execução de outros comandos.</p>
 
 ## Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048649-59fa1900-51c2-11eb-85ac-8d21e1a836d1.jpg)
 
 
 
