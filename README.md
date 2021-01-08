@@ -1438,6 +1438,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <p>Essa é a estrutura do DOM (Document Object Model) que chamamos de "árvore DOM" pela semelhança com o formato da árvore ou raízes da árvore. O DOM também é um objeto do BOM e serve para manipular os elementos de uma página html, como links, divs, imagens, textos etc.</p>
 
+<img src="https://miro.medium.com/max/740/1*Uedjd1Z-EMdhPgqYLlAjow.png"/>
+
 ### Exemplo 1:
 
 
