@@ -1337,7 +1337,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
   
 Quando abrimos o navegador e carregamos uma página automaticamente é criado um objeto. Do mesmo modo como representa o gráfico acima. Agora vamos nos aprofundar mais nos objetos do BOM:</p>
 
-## 🧙‍♀️ Window 🪟
+## 🧙‍♀️ [BOM] Window 🪟
 <p>O objeto <code>window</code> está no topo do gráfico de árvore, pois contém propriedades que se aplicam em toda janela (<code>document</code>, <code>screen</code>, <code>navigator</code>, <code>history</code>, <code>location</code>, <code>frames[]</code>, <code>event</code>, <code>packages</code>). Serve para manipular e relatar informações da janela, entre outras palavras, mesmo ele sendo omitido, ele manipula toda a interface!</b>
 
 ### Exemplo 1:
@@ -1349,7 +1349,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 3:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103841618-c108b800-5072-11eb-8667-b1491e68cec8.jpg)
 
-## 🧙‍♀️ Screen 📺
+## 🧙‍♀️ [BOM] Screen 📺
 <p>O objeto <code>screen</code> serve para relatar e manipular informações sobre a tela ou resoluções.</p>
   
 ### Exemplo 1:
@@ -1364,7 +1364,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 4:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103959630-fd015300-512e-11eb-95af-734809579b88.jpg)
 
-## 🧙‍♀️ Navigator 🌐
+## 🧙‍♀️ [BOM] Navigator 🌐
 <p>O objeto <code>navigator</code> serve para relatar e manipular informações sobre o navegador.</p>
 
 ### Exemplo 1:
@@ -1379,7 +1379,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 4:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103961260-e0671a00-5132-11eb-8ad4-77f07a7817c0.jpg)
 
-## 🧙‍♀️ Location 🏘️
+## 🧙‍♀️ [BOM] Location 🏘️
 <p>O objeto <code>location</code> serve para manipular e relatar informações sobre localizações de arquivos, endereços e entre outros.</p>
 
 ### Exemplo 1:
@@ -1391,7 +1391,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 3: Redirecionamento de endereços
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103963054-1e663d00-5137-11eb-985a-8f804862788f.jpg)
 
-## 🧙‍♀️ History 🏛️
+## 🧙‍♀️ [BOM] History 🏛️
 <p>O objeto <code>history</code> serve para manipular e relatar informações sobre o histórico de modificações, páginas anteriores ou páginas posteriores e entre outros.</p>
 
 ### Exemplo 1:
@@ -1401,7 +1401,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103965538-aac72e80-513c-11eb-8a43-26870473f84c.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103966281-56bd4980-513e-11eb-96be-c7d111c1947b.jpg)
 
-## 🧙‍♀️ Document 🗂️
+## 🧙‍♀️ [BOM] Document [DOM] 🧙‍♂️
 <p>O objeto <code>document</code> serve para manipular qualquer tipo de documento exibido na janela, tais como o seu conteúdo, título, cores, etc. Esse objeto faz parte do BOM e do DOM.</p>
 
 ### Exemplo 1:
@@ -1456,9 +1456,11 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <hr>
 
 <h1 align="center">Cap 19: 📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</h1> 
+
+## 🧙‍♂️ [DOM] getElementById 🔮
 <p>O objeto <code>getElementById</code> permite a inserção do id para a execução de outros comandos.</p>
 
-## Exemplo 1:
+### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048649-59fa1900-51c2-11eb-85ac-8d21e1a836d1.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048991-ead0f480-51c2-11eb-8ae4-b39bdc2a70d1.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104049223-5f0b9800-51c3-11eb-9ebd-4562da09740f.jpg)
