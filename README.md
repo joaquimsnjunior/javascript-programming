@@ -1379,7 +1379,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103961996-86ffea80-5134-11eb-910b-13257c01eae9.jpg)
 
 ### Exemplo 2:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/103962672-45703f00-5136-11eb-8fac-9e1311340704.jpg)
 
+### Exemplo 3: Redirecionamento de endereços
 
 
 
