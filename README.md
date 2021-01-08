@@ -1475,10 +1475,10 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104052466-89138900-51c8-11eb-9efb-0d3b8aaf9dec.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104052363-5f5a6200-51c8-11eb-9588-78bf5543d1f5.jpg)
 
-<hr>
-
 ### Exemplo 2: Ordem de índices
 
+
+<hr>
 
 <h1 align="center">Cap 20: 📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</h1> 
 
