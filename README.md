@@ -1468,15 +1468,16 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104049223-5f0b9800-51c3-11eb-9ebd-4562da09740f.jpg)
 
 ## 🧙‍♂️ [DOM] getElementsByClassName 🔮
-<p>O método <code>getElementsByClassName</code> diferente do <code>getElementById</code> nos permite a inserção de mais elementos pelo atributo HTML class.</p>
+<p>O método <code>getElementsByClassName</code> diferente do <code>getElementById</code> nos permite a inserção de mais elementos pelo, atributo HTML, class.</p>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104052254-3043f080-51c8-11eb-818b-bc891d6fdf9e.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104052466-89138900-51c8-11eb-9efb-0d3b8aaf9dec.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104052363-5f5a6200-51c8-11eb-9588-78bf5543d1f5.jpg)
 
+<h1 align="center">Cap 20: 📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</h1> 
 
-
+## 🧙‍♂️ [DOM] getElementByTagName ✨
 
 
 
