@@ -1400,6 +1400,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>Já sabemos que BOM e DOM andam juntos para revelar, manipular ou invocar um determinado elemento através dos seus objetos. Vejamos um exemplo dessa união:</p>
 
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104027984-e991ce80-51a6-11eb-9f1e-5d6169402e77.jpg)
 
 
 
