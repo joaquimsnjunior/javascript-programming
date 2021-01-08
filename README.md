@@ -1418,9 +1418,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <p>Segundo passo, é criado os comandos <code>console.log();</code> e inserido o objeto do BOM <code>screen.width</code> (console.log(screen.width);).</p>
 
+<p>Terceiro passo, é criado o comando <code>alert();</code> e inserido o objeto do BOM, novamente< <code>screen.width</code> (alert(screen.width);).</p>
 
-
-
+<p>Quarto passo, é criado o comando BOM/DOM <code>document</code>, em seguida, <code>getElementById()</code> esse objeto do DOM serve para pegar a referência do id selecionado no documento html, no caso "largura". Logo, <code>document.getElementById("largura")</code>, em seguida, adicionamos o atributo <code></code></p>
 
 
 
