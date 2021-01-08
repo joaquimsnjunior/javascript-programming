@@ -1483,7 +1483,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <h1 align="center">Cap 20: 📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</h1> 
 
-## 🧙‍♂️ [DOM] getElementByTagName ✨
+## 🧙‍♂️ [DOM] getElementsByTagName ✨
 
 
 
