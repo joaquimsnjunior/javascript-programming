@@ -1410,7 +1410,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <p>Vamos entender como funciona esse exemplo da união do DOM com o BOM.</p>
 
-<p>Primeiro passo, é criado o elemento <code>&lt;div&gt;</code> no index.html, com o atributo <code>id=""</code> nomeado <b>largura</b>, o elemento está completamente vazio, sem a existência de outros elementos dentro dele.</p>
+<p>Primeiro passo, é criado o elemento <code>&lt;div&gt;</code> no index.html, com o atributo <code>id=""</code> nomeado <b>largura</b> (&lt;div id="largura"&gt;&lt;/div&gt;), o elemento está completamente vazio, sem a existência de outros elementos dentro dele.</p>
 
 <p>Segundo passo, </p>
 
