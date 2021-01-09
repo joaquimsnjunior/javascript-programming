@@ -1509,6 +1509,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O atributo <code>innerHTML</code> permite a inserção de qualquer elemento e tag html no documento HTML.</p>
 
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104109399-37dcc580-52ac-11eb-90b9-6bde6562c39c.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104108874-2349fe80-52a7-11eb-8e3d-6f34be76d884.jpg)
 
 ### Exemplo 2:
