@@ -1410,7 +1410,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O objeto <code>document</code> serve para manipular qualquer tipo de documento exibido na janela, tais como o seu conteúdo, título, cores, etc. Esse objeto faz parte do BOM e do DOM.</p>
 
 ### Exemplo 1:
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/104029209-7721ee00-51a8-11eb-8254-726db2dd2815.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104108400-162b1080-52a3-11eb-817e-dea483ffeb6e.jpg)
 
 ## 🧙‍♀️ BOM + DOM 🧙‍♂️
 <p>Já sabemos que BOM e DOM andam juntos para revelar, manipular ou invocar um determinado elemento através dos seus objetos. Vejamos um exemplo dessa união:</p>
