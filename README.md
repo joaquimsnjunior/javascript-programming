@@ -1511,6 +1511,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104108874-2349fe80-52a7-11eb-8e3d-6f34be76d884.jpg)
 
+### Exemplo 2:
+
+
 ## 🧙‍♂️ [DOM] Atributo write ✍️
 <p>O atributo <code>write</code> serve para escrever um novo elemento no documento HTML.</p>
 
