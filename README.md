@@ -1514,7 +1514,6 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ### Exemplo 2:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104108934-8e93d080-52a7-11eb-8783-d8db0a19534a.jpg)
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/104110698-f3a3f200-52b8-11eb-912b-c23c25eaf0d5.jpg)
 
 ## 🧙‍♂️ [DOM] Atributo style 📘
 <p>O atributo <code>style</code> permite a inserção de estilo CSS do tipo inline.</p>
@@ -1525,6 +1524,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ## Exemplo 2:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104109257-d9631780-52aa-11eb-91f0-1c03d70783b5.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104110698-f3a3f200-52b8-11eb-912b-c23c25eaf0d5.jpg)
 
 ## Exemplo 3:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104109362-d4eb2e80-52ab-11eb-824f-40c71e5e662f.jpg)
