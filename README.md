@@ -105,9 +105,9 @@
   <li>📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️⚗️</li>
   <li>📜 [DOM] parentNode 🧙‍♂️🧪</li>
   <li>📜 [DOM] getAttribute, setAttribute e removeAttribute 🧙‍♂️⚔️</li>
-  <li>📜 [DOM]  🧙‍♂️🛡️</li>
-  <li>📜 [DOM]  🧙‍♂️🏰</li>
-  <li>📜 [DOM]  🧙‍♂️🦄</li>
+  <li>📜 [DOM] createTextNode e textContent 🧙‍♂️🛡️</li>
+  <li>📜 [DOM] children e insertBefore 🧙‍♂️🏰</li>
+  <li>📜 [DOM] replaceChild 🧙‍♂️🦄</li>
   <li>📜 [DOM]  🧙‍♂️🧚</li>
   <li>📜 [DOM]  🧙‍♂️🧝‍♂️</li>
   <li>📜 Validações em JavaScript ✅</li>
