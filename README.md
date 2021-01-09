@@ -92,7 +92,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-18--document-object-model-dom-%EF%B8%8F">📜 Document Object Model (DOM) 🧙‍♂️</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-19--dom-getelementbyid--getelementsbyclassname-%EF%B8%8F">📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-20--dom-getelementbytagname--queryselector-%EF%B8%8F">📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</a></li>
-  <li>📜 [DOM] querySelectorAll 🧙‍♂️🎇</li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-21--dom-queryselectorall-%EF%B8%8F">📜 [DOM] querySelectorAll 🧙‍♂️🎇</a></li>
   <li>📜 [DOM] createElement | appendChild / removeChild 🧙‍♂️💥</li>
   <li>📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</li>
   <li>📜 [DOM] childNodes 🧙‍♂️🥚</li>
