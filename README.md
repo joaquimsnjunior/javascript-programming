@@ -1514,13 +1514,13 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104094358-422c9e80-526f-11eb-81c4-82774a9dbb62.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104095612-91c29880-5276-11eb-9a4d-ca1452410d1a.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104100745-f92f1700-527b-11eb-90d7-e3e144458cab.jpg)
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/104100745-f92f1700-527b-11eb-90d7-e3e144458cab.jpg)
 
 <hr>
 
 <h1 align="center">Cap 21: 📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</h1>
 
-
+## 🧙‍♂️ innerHTML 🌬️
+<p>O atributo <code>innerHTML</code></p>
 
 
 
