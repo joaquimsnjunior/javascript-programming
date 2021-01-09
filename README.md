@@ -98,7 +98,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-19--dom-getelementbyid--getelementsbyclassname-%EF%B8%8F">📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-20--dom-getelementbytagname--queryselector-%EF%B8%8F">📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-21--dom-queryselectorall-%EF%B8%8F">📜 [DOM] querySelectorAll 🧙‍♂️🎇</a></li>
-  <li>📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-21--dom-innerhtml-style-e-atributos-%EF%B8%8F%EF%B8%8F">📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</a></li>
   <li>📜 [DOM] createElement | appendChild / removeChild 🧙‍♂️💥</li>
   <li>📜 [DOM] childNodes 🧙‍♂️🥚</li>
   <li>📜 [DOM]  🧙‍♂️🍄</li>
