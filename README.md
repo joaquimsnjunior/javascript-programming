@@ -1467,7 +1467,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104048991-ead0f480-51c2-11eb-8ae4-b39bdc2a70d1.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104049223-5f0b9800-51c3-11eb-9ebd-4562da09740f.jpg)
 
-## 🧙‍♂️ [DOM] getElementsByClassName 🔮
+## 🧙‍♂️ [DOM] getElementsByClassName 🔮🔮
 <p>O método <code>getElementsByClassName</code> diferente do <code>getElementById</code> nos permite a inserção de mais elementos pelo, atributo HTML, class.</p>
 
 ### Exemplo 1:
@@ -1483,7 +1483,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <h1 align="center">Cap 20: 📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</h1> 
 
-## 🧙‍♂️ [DOM] getElementsByTagName ✨
+## 🧙‍♂️ [DOM] getElementsByTagName ✨✨
 <p>O método <code>getElementsByTagName</code> permite a inserção de mais elementos pelas tags do HTML. Esse método é similar ao <code>getElementsByClassName</code>.</p>
 
 ### Exemplo 1:
