@@ -108,8 +108,8 @@
   <li>📜 [DOM] createTextNode e textContent 🧙‍♂️🛡️</li>
   <li>📜 [DOM] children e insertBefore 🧙‍♂️🏰</li>
   <li>📜 [DOM] replaceChild 🧙‍♂️🦄</li>
-  <li>📜 [DOM]  🧙‍♂️🧚</li>
-  <li>📜 [DOM]  🧙‍♂️🧝‍♂️</li>
+  <li>📜 [DOM] Promises 🧙‍♂️🧚</li>
+  <li>📜 [DOM] Async 🧙‍♂️🧝‍♂️</li>
   <li>📜 Validações em JavaScript ✅</li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
