@@ -1,5 +1,5 @@
 # It's a repository of JavaScript (JS) programming 📒📜🔢
-[![JavaScript](https://img.shields.io/badge/-JavaScript‍‍(JS)-000000?style=plastic&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/java-programming)
+[![JavaScript](https://img.shields.io/badge/-JavaScript‍‍(JS)-000000?style=social&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/java-programming)
 
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
 
