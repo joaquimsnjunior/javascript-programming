@@ -1495,6 +1495,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>o método <code>querySelector</code> retorna sempre o primeiro elemento que ele encontrar, ou seja, ele pode inserir pela tag, id e  class.</p> 
 
 ### Exemplo 1:
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/104083683-6f516080-521f-11eb-9ce3-97ba7fd6fadc.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104083690-72e4e780-521f-11eb-9eab-34cc69bef689.jpg)
 
 
 
