@@ -103,7 +103,7 @@
   <li>📜 [DOM] appendChild | removeChild 🧙‍♂️💥</li>
   <li>📜 [DOM] childNodes 🧙‍♂️🍄</li>
   <li>📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️⚗️</li>
-  <li>📜 [DOM] parentNode 🧙‍♂️🗡️</li>
+  <li>📜 [DOM] parentNode 🧙‍♂️🧪</li>
   <li>📜 [DOM] getAttribute, setAttribute e removeAttribute 🧙‍♂️⚔️</li>
   <li>📜 [DOM]  🧙‍♂️🛡️</li>
   <li>📜 [DOM]  🧙‍♂️🏰</li>
