@@ -99,12 +99,12 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-20--dom-getelementbytagname--queryselector-%EF%B8%8F">📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-21--dom-queryselectorall-%EF%B8%8F">📜 [DOM] querySelectorAll 🧙‍♂️🎇</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-21--dom-innerhtml-style-e-atributos-%EF%B8%8F%EF%B8%8F">📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</a></li>
-  <li>📜 [DOM] createElement | appendChild / removeChild 🧙‍♂️💥</li>
-  <li>📜 [DOM] childNodes 🧙‍♂️🥚</li>
-  <li>📜 [DOM]  🧙‍♂️🍄</li>
-  <li>📜 [DOM]  🧙‍♂️⚗️</li>
-  <li>📜 [DOM]  🧙‍♂️🗡️</li>
-  <li>📜 [DOM]  🧙‍♂️⚔️</li>
+  <li>📜 [DOM] createElement 🧙‍♂️🥚</li>
+  <li>📜 [DOM] appendChild | removeChild 🧙‍♂️💥</li>
+  <li>📜 [DOM] childNodes 🧙‍♂️🍄</li>
+  <li>📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️⚗️</li>
+  <li>📜 [DOM] parentNode 🧙‍♂️🗡️</li>
+  <li>📜 [DOM] getAttribute, setAttribute e removeAttribute 🧙‍♂️⚔️</li>
   <li>📜 [DOM]  🧙‍♂️🛡️</li>
   <li>📜 [DOM]  🧙‍♂️🏰</li>
   <li>📜 [DOM]  🧙‍♂️🦄</li>
