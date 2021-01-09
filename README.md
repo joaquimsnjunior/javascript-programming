@@ -1519,6 +1519,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O atributo <code>style</code> permite a inserção de estilo CSS do tipo inline.</p>
 
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104109399-37dcc580-52ac-11eb-90b9-6bde6562c39c.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104109190-38745c80-52aa-11eb-86c2-17016550646d.jpg)
 
 ## Exemplo 2:
