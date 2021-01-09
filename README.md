@@ -1522,6 +1522,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ## Exemplo 2:
 
+
 ## 🧙‍♂️ [DOM] Atributo write ✍️
 <p>O atributo <code>write</code> serve para escrever um novo elemento no documento HTML.</p>
 
