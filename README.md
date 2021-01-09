@@ -1514,6 +1514,12 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 2:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104108934-8e93d080-52a7-11eb-8783-d8db0a19534a.jpg)
 
+## 🧙‍♂️ [DOM] Atributo style 📘
+<p>O atributo <code>style</code> permite a inserção de estilo CSS do tipo inline.</p>
+
+### Exemplo 1:
+
+
 ## 🧙‍♂️ [DOM] Atributo write ✍️
 <p>O atributo <code>write</code> serve para escrever um novo elemento no documento HTML.</p>
 
