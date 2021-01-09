@@ -1506,7 +1506,10 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <h1 align="center">Cap 21: 📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</h1>
 
 ## 🧙‍♂️ [DOM] innerHTML 🌬️
-<p>O atributo <code>innerHTML</code></p>
+<p>O atributo <code>innerHTML</code> permite a inserção de qualquer elemento e tag html no documento HTML.</p>
+
+### Exemplo 1:
+
 
 ## 🧙‍♂️ [DOM] Atributo write ✍️
 <p>O atributo <code>write</code> serve para escrever um novo elemento no documento HTML.</p>
