@@ -1533,7 +1533,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104110698-f3a3f200-52b8-11eb-912b-c23c25eaf0d5.jpg)
 
 ## Exemplo 3:
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/104109362-d4eb2e80-52ab-11eb-824f-40c71e5e662f.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104111009-3a471b80-52bc-11eb-9e28-7d4ed975b4dd.jpg)
+
 
 ## 🧙‍♂️ [DOM] Atributo write ✍️
 <p>O atributo <code>write</code> serve para escrever um novo elemento no documento HTML.</p>
