@@ -1492,11 +1492,12 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104060690-0abde380-51d6-11eb-8f22-bfc7129c4ae1.jpg)
 
 ## 🧙‍♂️ [DOM] querySelector ✨
-<p>o método <code>querySelector</code> retorna sempre o primeiro elemento que ele encontrar, ou seja, ele pode inserir pela tag, id e  class.</p> 
+<p>o método <code>querySelector</code> retorna sempre o primeiro elemento que ele encontrar, ou seja, ele pode inserir pela tag, id e  class. No entanto, ele não retorna o <i><b>HTMLCOLLECTION</b></i>, ele serve somente para um elemento</p> 
 
 ### Exemplo 1:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104083683-6f516080-521f-11eb-9ce3-97ba7fd6fadc.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104083690-72e4e780-521f-11eb-9eab-34cc69bef689.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104083764-0f0eee80-5220-11eb-9c3c-45cd963f6625.jpg)
 
 
 
