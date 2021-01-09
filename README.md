@@ -1499,8 +1499,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104083690-72e4e780-521f-11eb-9eab-34cc69bef689.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104083764-0f0eee80-5220-11eb-9c3c-45cd963f6625.jpg)
 
+<hr>
 
-
+<h1 align="center">Cap 21: 📜 [DOM] querySelectorAll 🧙‍♂️🎇</h1>
 
 
 
