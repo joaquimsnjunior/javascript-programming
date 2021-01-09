@@ -47,7 +47,7 @@
 [![Vuetify.js](https://img.shields.io/badge/-Vuetify-FFE800?style=for-the-badge&logo=Vuetify&logoColor=black)](https://github.com/IsaacAlves7/vue.js-programming)
 [![Ionic](https://img.shields.io/badge/-Ionic-FFE800?style=for-the-badge&logo=Ionic&logoColor=black)](https://github.com/IsaacAlves7/ionic-programming)
 [![Electron](https://img.shields.io/badge/-Electron-FFE800?style=for-the-badge&logo=Electron&logoColor=black)](https://github.com/IsaacAlves7/electron-programming)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-FFE800?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-FFDD00?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
 [![ReactiveX](https://img.shields.io/badge/-ReactiveX-FFE800?style=for-the-badge&logo=ReactiveX&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-FFE800?style=for-the-badge&logo=Gatsby&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
 [![Gulp](https://img.shields.io/badge/-Gulp-FFE800?style=for-the-badge&logo=gulp&logoColor=black)](https://github.com/IsaacAlves7/gulp-programming)
