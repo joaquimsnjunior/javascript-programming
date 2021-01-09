@@ -1505,6 +1505,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O método <code>querySelectorAll</code> retorna uma lista de elementos presentes no documento (<i>NodeList</i>).</p>
 
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104094356-4062db00-526f-11eb-9183-4f62ee35746e.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/104094358-422c9e80-526f-11eb-81c4-82774a9dbb62.jpg)
 
 
 
