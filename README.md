@@ -1521,6 +1521,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104109190-38745c80-52aa-11eb-86c2-17016550646d.jpg)
 
 ## Exemplo 2:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104109257-d9631780-52aa-11eb-91f0-1c03d70783b5.jpg)
+
+## Exemplo 3:
 
 
 ## 🧙‍♂️ [DOM] Atributo write ✍️
