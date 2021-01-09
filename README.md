@@ -1492,7 +1492,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104060690-0abde380-51d6-11eb-8f22-bfc7129c4ae1.jpg)
 
 ## 🧙‍♂️ [DOM] querySelector ✨
-<p>o método <code>querySelector</code> retorna sempre o primeiro elemento que ele encontrar, ou seja, ele pode inserir pela tag, id e  class. No entanto, ele não retorna o <i><b>HTMLCOLLECTION</b></i>, ele serve somente para um elemento.</p> 
+<p>o método <code>querySelector</code> retorna sempre o primeiro elemento que ele encontrar, ou seja, ele pode inserir pela tag, id e  class. No entanto, ele não retorna o <i>HtmlCollection</i>, ele serve somente para um elemento.</p> 
 
 ### Exemplo 1:
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104083683-6f516080-521f-11eb-9ce3-97ba7fd6fadc.jpg)
@@ -1502,9 +1502,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <hr>
 
 <h1 align="center">Cap 21: 📜 [DOM] querySelectorAll 🧙‍♂️🎇</h1>
-<p>O método <code>querySelectorAll</code> </p>
+<p>O método <code>querySelectorAll</code> retorna uma lista de elementos presentes no documento (<i>NodeList</i>).</p>
 
-
+### Exemplo 1:
 
 
 
