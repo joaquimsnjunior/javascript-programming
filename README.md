@@ -176,9 +176,8 @@ O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no in
 ## 📜 jQuery ☄️
 
 ## 📜 Prototype 🧰
-<div align="center"><img src=""/></div>
-
-<p></p>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/104110669-acb5fc80-52b8-11eb-9b30-f8c820758751.jpg"/></div>
+<p>O Prototype é um framework JavaScript</p>
   
 ## 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
 <div align="center"><img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-ajax/sta-je-ajax.jpg"/></div>
