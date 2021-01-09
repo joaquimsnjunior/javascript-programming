@@ -1,6 +1,6 @@
 # It's a repository of JavaScript (JS) programming 📒📜🔢
-[![JavaScript](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](https://github.com/IsaacAlves7/html5-and-css3-programming)
-[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming)
+[![JavaScript](https://img.shields.io/badge/-.html-000000?style=social&logo=HTML5&logoColor=orangered)](https://github.com/IsaacAlves7/html5-and-css3-programming)
+[![JavaScript](https://img.shields.io/badge/-.js-000000?style=social&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming)
 [![JSON](https://img.shields.io/badge/-.json-000000?style=social&logo=JSON&logoColor=gray)](https://github.com/IsaacAlves7/json-programming)
 
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
