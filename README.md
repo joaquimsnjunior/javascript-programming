@@ -179,19 +179,6 @@ Baseando-se nessas especificações, outras linguagens também surgiram, como o 
 <p>Hoje em dia, quando você visita uma página e vê elementos interagindo com você, seja uma modal aparecendo, uma janelinha abrindo, uma resposta ao clique do mouse, etc, pode ter certeza que há um código JavaScript sendo executado ali.
   
 O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no início dos anos 2000, várias bibliotecas com o intuito de facilitar o uso do JavaScript surgiram, como <b>jQuery</b> e <b>Prototype</b>.
-
-## 📜 jQuery ☄️
-
-## 📜 Prototype 🧰
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/104110669-acb5fc80-52b8-11eb-9b30-f8c820758751.jpg"/></div>
-<p>Quando se trata de herança, o JavaScript tem somente um construtor: objetos. Cada objeto tem um link interno para um outro objeto chamado <b>prototype</b>. O prototype é baseado em protótipos e possui uma variável que é armazenada na referencial o <code>__proto__</code>, além de utilizar uma cadeia de objetos, como o objeto <b>constructor</b>. O prototype pode ser acessado no console do navegador, assim como a cadeia de protótipos.</p>
-
-### Exemplo 1:
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/104111592-6bc2e580-52c2-11eb-84e4-3d6b3d841a61.jpg)
-
-### 🧰 Cadeia de protótipos (Prototype chain) ⛓️
-<div align="center"><img src="https://www.sdlclabs.com/images/services/PrototypeJs.png"/><img src="https://user-images.githubusercontent.com/61624336/104111183-e0dfec00-52bd-11eb-8602-60813a7a3b18.png"/></div>
-<p>Nota-se que o <code>Object.prototype</code> é o único que não tem duas conexões, pois ele faz uma lista dos objetos inseridos. Esse objeto prototype também tem um atributo prototype, e assim por diante até o que o valor <code>null</code> seja encontrado como sendo o seu prototype <code>null</code> que, por definição, não tem prototype, e age como um link final nesta cadeia de protótipos (prototype chain).</p>
   
 ## 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
 <div align="center"><img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-ajax/sta-je-ajax.jpg"/></div>
@@ -1217,6 +1204,18 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 </ol>
 
 ### 2° Solução: 📜 Num arquivo a ser importado 📒
+
+## 📜 Prototype 🧰
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/104110669-acb5fc80-52b8-11eb-9b30-f8c820758751.jpg"/></div>
+<p>Quando se trata de herança, o JavaScript tem somente um construtor: objetos. Cada objeto tem um link interno para um outro objeto chamado <b>prototype</b>. O prototype é baseado em protótipos e possui uma variável que é armazenada na referencial o <code>__proto__</code>, além de utilizar uma cadeia de objetos, como o objeto <b>constructor</b>. O prototype pode ser acessado no console do navegador, assim como a cadeia de protótipos.</p>
+
+### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104111592-6bc2e580-52c2-11eb-84e4-3d6b3d841a61.jpg)
+
+### 🧰 Cadeia de protótipos (Prototype chain) ⛓️
+<div align="center"><img src="https://www.sdlclabs.com/images/services/PrototypeJs.png"/><img src="https://user-images.githubusercontent.com/61624336/104111183-e0dfec00-52bd-11eb-8602-60813a7a3b18.png"/></div>
+<p>Nota-se que o <code>Object.prototype</code> é o único que não tem duas conexões, pois ele faz uma lista dos objetos inseridos. Esse objeto prototype também tem um atributo prototype, e assim por diante até o que o valor <code>null</code> seja encontrado como sendo o seu prototype <code>null</code> que, por definição, não tem prototype, e age como um link final nesta cadeia de protótipos (prototype chain).</p>
+
 <p>Aprenderemos mais sobre os eventos no próximo capítulo.</p>
 
 <p>Veremos melhor como funciona essa hierarquia de objetos e como utiliza-las em uma página, nos próximos capítulos.</p>
