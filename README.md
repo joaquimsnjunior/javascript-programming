@@ -1522,7 +1522,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
-<h1 align="center">Cap 21: 📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</h1>
+<h1 align="center">Cap 22: 📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</h1>
 
 ## 🧙‍♂️ [DOM] innerHTML 🌬️
 <p>O atributo <code>innerHTML</code> permite a inserção de qualquer elemento e tag html no documento HTML.</p>
@@ -1571,7 +1571,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
-<h1 align="center">Cap 24: 📜 [DOM] createElement 🧙‍♂️🥚</h1>
+<h1 align="center">Cap 23: 📜 [DOM] createElement 🧙‍♂️🥚</h1>
 <p>O método <code>createElement</code> serve para criar elementos HTML.</p>
 
 ## Exemplo 1:
@@ -1584,7 +1584,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
-<h1 align="center">Cap 25: 📜 [DOM] appendChild | removeChild 🧙‍♂️💥</h1>
+<h1 align="center">Cap 24: 📜 [DOM] appendChild | removeChild 🧙‍♂️💥</h1>
 <p></p>
 
 
