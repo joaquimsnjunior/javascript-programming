@@ -1571,7 +1571,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
-<h1 align="center">📜 [DOM] createElement 🧙‍♂️🥚</h1>
+<h1 align="center">Cap 24: 📜 [DOM] createElement 🧙‍♂️🥚</h1>
 <p>O método <code>createElement</code> serve para criar elementos HTML.</p>
 
 ## Exemplo 1:
@@ -1584,7 +1584,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
-<h1 align="center">📜 [DOM] appendChild | removeChild 🧙‍♂️💥</h1>
+<h1 align="center">Cap 25: 📜 [DOM] appendChild | removeChild 🧙‍♂️💥</h1>
 <p></p>
 
 
