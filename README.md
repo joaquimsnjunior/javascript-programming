@@ -38,7 +38,7 @@
 [![Sass](https://img.shields.io/badge/-Sass-FFE800?style=for-the-badge&logo=Sass&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![SVG](https://img.shields.io/badge/-SVG-FFE800?style=for-the-badge&logo=SVG&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![GSAP](https://img.shields.io/badge/-GSAP-FFE800?style=for-the-badge&logo=GreenSock&logoColor=black)](https://github.com/IsaacAlves7/jQuery-programming)
-[![jQuery](https://img.shields.io/badge/-jQuery-FFE800?style=for-the-badge&logo=jQuery&logoColor=black)](https://github.com/IsaacAlves7/jQuery-programming
+[![jQuery](https://img.shields.io/badge/-jQuery-FFE800?style=for-the-badge&logo=jQuery&logoColor=black)](https://github.com/IsaacAlves7/jQuery-programming)
 [![JSON](https://img.shields.io/badge/-JSON-FFE953?style=for-the-badge&logo=JSON&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Node.js](https://img.shields.io/badge/-Node.js-FFE953?style=for-the-badge&logo=Node.js&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Babel.js](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
