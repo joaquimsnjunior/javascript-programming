@@ -180,7 +180,7 @@ O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no in
 <p>Quando se trata de herança, o JavaScript tem somente um construtor: objetos. Cada objeto tem um link interno para um outro objeto chamado <b>prototype</b>. O prototype é baseado em protótipos e possui uma variável que é armazenada na referencial o <code>__proto__</code>, além de utilizar uma cadeia de objetos, como o objeto <b>constructor</b>. O prototype pode ser acessado no console do navegador, assim como a cadeia de protótipos.</p>
 
 ### Exemplo 1:
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104111592-6bc2e580-52c2-11eb-84e4-3d6b3d841a61.jpg)
 
 ### 🧰 Cadeia de protótipos (Prototype chain) ⛓️
 <div align="center"><img src="https://www.sdlclabs.com/images/services/PrototypeJs.png"/><img src="https://user-images.githubusercontent.com/61624336/104111183-e0dfec00-52bd-11eb-8602-60813a7a3b18.png"/></div>
