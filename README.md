@@ -107,7 +107,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-21--dom-queryselectorall-%EF%B8%8F">📜 [DOM] querySelectorAll 🧙‍♂️🎇</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-21--dom-innerhtml-style-e-atributos-%EF%B8%8F%EF%B8%8F">📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#-dom-createelement-%EF%B8%8F">📜 [DOM] createElement 🧙‍♂️🥚</a></li>
-  <li>📜 [DOM] appendChild | removeChild 🧙‍♂️💥</li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming#-dom-appendchild--removechild-%EF%B8%8F">📜 [DOM] appendChild | removeChild 🧙‍♂️💥</a></li>
   <li>📜 [DOM] childNodes 🧙‍♂️🍄</li>
   <li>📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️⚗️</li>
   <li>📜 [DOM] parentNode 🧙‍♂️🧪</li>
