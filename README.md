@@ -3,7 +3,7 @@
 [![CSS3](https://img.shields.io/badge/-.css-000000?style=social&logo=CSS3&logoColor=1877F2)](https://github.com/IsaacAlves7/css3-programming)
 [![JavaScript](https://img.shields.io/badge/-.js-000000?style=social&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming)
 [![JSON](https://img.shields.io/badge/-.json-000000?style=social&logo=JSON&logoColor=gray)](https://github.com/IsaacAlves7/json-programming)
-[![Brave](https://img.shields.io/badge/-Browser‍‍console-fff?style=social&logo=Brave&logoColor=orangered)](#)
+[![Brave](https://img.shields.io/badge/-Console-fff?style=social&logo=Brave&logoColor=orangered)](#)
 
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
 
