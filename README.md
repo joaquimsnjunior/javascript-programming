@@ -1568,7 +1568,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <h1 align="center">📜 [DOM] createElement 🧙‍♂️🥚</h1>
 <p>O método <code>createElement</code> serve para criar elementos HTML.</p>
 
-
+## Exemplo 1:
 
 
 
