@@ -4,6 +4,9 @@
 [![JavaScript](https://img.shields.io/badge/-.js-000000?style=social&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming)
 [![JSON](https://img.shields.io/badge/-.json-000000?style=social&logo=JSON&logoColor=gray)](https://github.com/IsaacAlves7/json-programming)
 [![Brave](https://img.shields.io/badge/-Console-fff?style=social&logo=Brave&logoColor=orangered)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-fff?style=social&logo=Node.js&logoColor=339933)](#)
+[![NPM](https://img.shields.io/badge/-NPM-fff?style=social&logo=NPM&logoColor=CB3837)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=social&logo=MongoDB&logoColor=47A248)](#)
 
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
 
