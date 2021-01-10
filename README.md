@@ -177,8 +177,11 @@ O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no in
 
 ## 📜 Prototype 🧰
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/104110669-acb5fc80-52b8-11eb-9b30-f8c820758751.jpg"/></div>
-<p>O <b>Prototype</b> é um framework JavaScript que </p>
-  
+<p>Quando se trata de herança, o JavaScript tem somente um construtor: objetos. Cada objeto tem um link interno para um outro objeto chamado <b>prototype</b>. O prototype é baseado em protótipos e possui uma variável que é armazenada na referencial o <code>__proto__</code>, além de utilizar uma cadeia de objetos, como o objeto <b>constructor</b>.</p>
+
+### 🧰 Cadeia de protótipos (Prototype chains) ⛓️
+<div align="center"><img src="https://www.sdlclabs.com/images/services/PrototypeJs.png"/></div>
+
 ## 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
 <div align="center"><img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-ajax/sta-je-ajax.jpg"/></div>
 Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (Asynchronous JavaScript And XML), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
