@@ -1579,10 +1579,13 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104133809-aa10e100-5364-11eb-9ded-84021adf720f.jpg)
 
 ## Exemplo 2:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104134740-5acdaf00-536a-11eb-8604-a5682cb6221f.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/104134738-599c8200-536a-11eb-88bb-9e72c03c8145.jpg)
 
+<hr>
 
-
-
+<h1 align="center">📜 [DOM] appendChild | removeChild 🧙‍♂️💥</h1>
+<p></p>
 
 
 
