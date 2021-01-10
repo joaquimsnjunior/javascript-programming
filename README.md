@@ -7,6 +7,7 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-fff?style=social&logo=Node.js&logoColor=339933)](#)
 [![NPM](https://img.shields.io/badge/-NPM-fff?style=social&logo=NPM&logoColor=CB3837)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=social&logo=MongoDB&logoColor=47A248)](#)
+[![PostgreSQL](https://img.shields.io/badge/-.sql-fff?style=social&logo=Postgresql&logoColor=336791)](#)
 
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
 
