@@ -130,8 +130,7 @@
   <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 JSON 📋</li>
   <li>📜 AJAX 🔃</li>
-  <li>📜 Vanilla JavaScript 🍦</li>
-  <li>📜 jQuery Framework ☄️</li>
+  <li>📜 Vanilla JavaScript x jQuery Framework 🍦☄️</li>
   <li>📜 Node.js 🟩</li>
   <li>📜 MongoDB 🍃</li>
   <li>📜 Express 🌹</li>
