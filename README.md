@@ -13,7 +13,7 @@
 [![jQuery](https://img.shields.io/badge/-jQuery-fff?style=social&logo=jQuery&logoColor=blue)](#)
 [![TS](https://img.shields.io/badge/-.ts-fff?style=social&logo=TypeScript&logoColor=blue)](#)
 [![TSX](https://img.shields.io/badge/-.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
-[![React.js](https://img.shields.io/badge/-.jsx-fff?style=social&logo=React&logoColor=blue)](#)
+[![React.js](https://img.shields.io/badge/-.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
 [![ReactiveX](https://img.shields.io/badge/-.rx-fff?style=social&logo=ReactiveX&logoColor=B7178C)](#)
 
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
