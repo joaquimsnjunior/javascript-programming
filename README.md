@@ -113,7 +113,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-22--dom-innerhtml-style-e-atributos-%EF%B8%8F%EF%B8%8F">📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-23--dom-createelement-%EF%B8%8F">📜 [DOM] createElement 🧙‍♂️🥚</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-24--dom-appendchild--removechild-%EF%B8%8F">📜 [DOM] appendChild | removeChild 🧙‍♂️🐲💥</a></li>
-  <li><a href="">📜 [DOM] childNodes 🧙‍♂️👨‍👦‍👦</a></li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming#-dom-childnodes-%EF%B8%8F">📜 [DOM] childNodes 🧙‍♂️👨‍👦‍👦</a></li>
   <li>📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️⚗️</li>
   <li>📜 [DOM] parentNode 🧙‍♂️🧪</li>
   <li>📜 [DOM] getAttribute, setAttribute e removeAttribute 🧙‍♂️⚔️</li>
@@ -1609,7 +1609,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <hr>
 
 <h1 align="center">📜 [DOM] childNodes 🧙‍♂️👨‍👦‍👦</h1>
-<p>Como vimos anteriormente, o DOM possui uma grande árvore com todos os elementos de uma página HTML, então, é interessante relacionar essa mesma árvore com uma árvore geneológica na qual o DOM é o pai e todos os elementos a partir do document são filhos do DOM! No entanto, assim como na vida real, o DOM também tem primogênito e filho caçula.
+<p>Como vimos anteriormente, o DOM possui uma grande árvore com todos os elementos de uma página HTML, então, é interessante relacionar essa mesma árvore com uma árvore geneológica na qual o DOM é o pai e todos os elementos a partir do <code>document</code> são filhos do DOM! No entanto, assim como na vida real, o DOM também tem primogênito e filho caçula.
 
 ## Exemplo 1:
 
