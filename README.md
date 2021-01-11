@@ -1597,6 +1597,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104142226-65ec0380-5399-11eb-82f2-97c11635e4cb.jpg)
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104142228-671d3080-5399-11eb-8895-7508b834df15.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104142390-2d98f500-539a-11eb-8732-975f5dfc47a7.jpg)
 
 ## 📜 [DOM] removeChild 🧙‍♂️💥
 <p>O método <code>removeChild</code> serve para revelar a criação do elemento, <code>createElement</code>.</p>
