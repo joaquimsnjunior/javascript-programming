@@ -1,7 +1,5 @@
 # It's a repository of JavaScript (JS) programming 📒📜🔢
-[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
-[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 [![JSON](https://img.shields.io/badge/-list.json-000000?style=social&logo=JSON&logoColor=gray)](#)
 [![Brave](https://img.shields.io/badge/-Console-fff?style=social&logo=Brave&logoColor=orangered)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-fff?style=social&logo=Node.js&logoColor=339933)](#)
