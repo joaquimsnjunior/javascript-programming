@@ -94,7 +94,6 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-09--arrays-vetores-">📜 Arrays (Vetores) 🛒</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-10--valores-em-js-">📜 Valores em JS 💛</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-11--data-e-hor%C3%A1rio-em-js-">📜 Data e horário em JS 🕒📅</a></li>
-  <li>📜 Audio em JS 🔊🎵</li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-12--dicion%C3%A1rios-em-js-">📜 Dicionários em JS 📖</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-13--fun%C3%A7%C3%B5es-em-js-">📜 Funções em JS 🤹</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-14--procedural-javascript-">📜 Procedural JavaScript 📜</a></li>
@@ -107,7 +106,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-21--dom-queryselectorall-%EF%B8%8F">📜 [DOM] querySelectorAll 🧙‍♂️🎇</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-22--dom-innerhtml-style-e-atributos-%EF%B8%8F%EF%B8%8F">📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-23--dom-createelement-%EF%B8%8F">📜 [DOM] createElement 🧙‍♂️🥚</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming#-dom-appendchild--removechild-%EF%B8%8F">📜 [DOM] appendChild | removeChild 🧙‍♂️💥</a></li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-24--dom-appendchild--removechild-%EF%B8%8F">📜 [DOM] appendChild | removeChild 🧙‍♂️💥</a></li>
   <li>📜 [DOM] childNodes 🧙‍♂️🍄</li>
   <li>📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️⚗️</li>
   <li>📜 [DOM] parentNode 🧙‍♂️🧪</li>
@@ -117,6 +116,7 @@
   <li>📜 [DOM] replaceChild 🧙‍♂️🦄</li>
   <li>📜 [DOM] Promises 🧙‍♂️🧚</li>
   <li>📜 [DOM] Async 🧙‍♂️🧝‍♂️</li>
+  <li>📜 Audio em JS 🔊🎵</li>
   <li>📜 Validações em JavaScript ✅</li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
