@@ -8,6 +8,7 @@
 [![NPM](https://img.shields.io/badge/-NPM-fff?style=social&logo=NPM&logoColor=CB3837)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=social&logo=MongoDB&logoColor=47A248)](#)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=social&logo=Postgresql&logoColor=336791)](#)
+[![SQL](https://img.shields.io/badge/-.sql-fff?style=social&logo=MySQL&logoColor=336791)](#)
 [![Babel.js](https://img.shields.io/badge/-Babel.js-fff?style=social&logo=Babel&logoColor=yellow)](#)
 [![jQuery](https://img.shields.io/badge/-jQuery-fff?style=social&logo=jQuery&logoColor=blue)](#)
 [![TS](https://img.shields.io/badge/-.ts-fff?style=social&logo=TypeScript&logoColor=blue)](#)
