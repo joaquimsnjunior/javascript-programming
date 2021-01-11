@@ -112,9 +112,9 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-23--dom-createelement-%EF%B8%8F">📜 [DOM] createElement 🧙‍♂️🥚</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-24--dom-appendchild--removechild-%EF%B8%8F">📜 [DOM] appendChild | removeChild 🧙‍♂️🐲💥</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-25--dom-childnodes-%EF%B8%8F">📜 [DOM] childNodes 🧙‍♂️👨‍👦‍👦</a></li>
-  <li>📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️🩸</li>
-  <li>📜 [DOM] parentNode 🧙‍♂️🔬</li>
-  <li>📜 [DOM] getAttribute, setAttribute e removeAttribute 🧙‍♂️⚔️</li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-26--dom-nodename-nodetype-nodevalue-%EF%B8%8F">📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️🩸</a></li>
+  <li><a href="">📜 [DOM] parentNode 🧙‍♂️🔬</a></li>
+  <li><a href="">📜 [DOM] getAttribute, setAttribute e removeAttribute 🧙‍♂️⚔️</a></li>
   <li>📜 [DOM] createTextNode e textContent 🧙‍♂️🛡️</li>
   <li>📜 [DOM] children e insertBefore 🧙‍♂️🏰</li>
   <li>📜 [DOM] replaceChild 🧙‍♂️🦄</li>
