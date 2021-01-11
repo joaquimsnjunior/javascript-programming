@@ -1604,7 +1604,11 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104189577-9fecf200-53f9-11eb-8e34-15623fc41861.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104189852-02de8900-53fa-11eb-96dd-2f0c570d0bd4.jpg)
 
+<hr>
+
+<h1 align="center">📜 [DOM] childNodes 🧙‍♂️🍄</h1>
 
 
 
