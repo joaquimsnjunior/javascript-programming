@@ -15,6 +15,7 @@
 [![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
 [![ReactiveX](https://img.shields.io/badge/-main.rx-fff?style=social&logo=ReactiveX&logoColor=B7178C)](#)
+[![RESTful API](https://img.shields.io/badge/-RESTful-API-000000?style=social&logo=ReactOS&logoColor=1877F2)](https://github.com/IsaacAlves7/css3-programming)
 
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
 
