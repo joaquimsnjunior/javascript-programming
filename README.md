@@ -1632,10 +1632,11 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104220289-0ab02480-541e-11eb-8ee1-a914f987e0ba.jpg)
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/104220284-097ef780-541e-11eb-9fb3-2e7cf58d0ae3.jpg)
 
+<blockquote><b>Obs:</b> Quando o <i>NodeList</i> retornar <code>#text</code> saiba que são os caracteres indefinidos como espaços ou comentários!</blockquote>
 <hr>
 
 <h1 align="center">Cap 26: 📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️🩸</h1>
-
+<p></p>
 
 
 
