@@ -11,7 +11,7 @@
 [![Babel.js](https://img.shields.io/badge/-Babel.js-fff?style=social&logo=Babel&logoColor=yellow)](#)
 [![jQuery](https://img.shields.io/badge/-jQuery-fff?style=social&logo=jQuery&logoColor=blue)](#)
 [![TS](https://img.shields.io/badge/-.ts-fff?style=social&logo=TypeScript&logoColor=blue)](#)
-[![TS](https://img.shields.io/badge/-.ts-fff?style=social&logo=TypeScript&logoColor=blue)](#)
+[![TS](https://img.shields.io/badge/-.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
 [![React](https://img.shields.io/badge/-.rx-fff?style=social&logo=ReactiveX&logoColor=B7178C)](#)
 
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
