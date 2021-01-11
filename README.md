@@ -282,9 +282,10 @@ Próximo passo, execute o documento index.html. Resultado:</p>
 <p>Para acessar o console, pressione a tecla <b>F12</b> do seu teclado, você será redirecionado as ferramentas de desenvolvedor do seu navegador, vá até console, lá você poderá fazer alterações ou até programar.
 
 Nesse caso, para exibir resultados ou mensagens no console do navegador utilize o comando <code>console.log()</code>, ele possui uma função semelhante ao <code>alert</code>, porém somente exibe no console, enquanto o <code>alert</code> exibe ao usuário.</p>
-<div align="center">
-  
+
 [![Brave](https://img.shields.io/badge/-Console-fff?style=social&logo=Brave&logoColor=orangered)](#)
+
+<div align="center">
 
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/102270246-8ccf2b00-3efc-11eb-8654-99d6a6171eeb.jpg)
 
