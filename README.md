@@ -1622,9 +1622,10 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ## Exemplo 2:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104216904-6deb8800-5419-11eb-918c-10bc4fa68563.jpg)
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104220046-b3aa4f80-541d-11eb-91ae-e7c89597d029.jpg)
 
 ## Exemplo 3:
+
 <hr>
 
 
