@@ -1,8 +1,8 @@
 # It's a repository of JavaScript (JS) programming 📒📜🔢
-[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](https://github.com/IsaacAlves7/html5-and-css3-programming)
-[![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](https://github.com/IsaacAlves7/css3-programming)
-[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming)
-[![JSON](https://img.shields.io/badge/-list.json-000000?style=social&logo=JSON&logoColor=gray)](https://github.com/IsaacAlves7/json-programming)
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+[![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
+[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
+[![JSON](https://img.shields.io/badge/-list.json-000000?style=social&logo=JSON&logoColor=gray)](#)
 [![Brave](https://img.shields.io/badge/-Console-fff?style=social&logo=Brave&logoColor=orangered)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-fff?style=social&logo=Node.js&logoColor=339933)](#)
 [![NPM](https://img.shields.io/badge/-NPM-fff?style=social&logo=NPM&logoColor=CB3837)](#)
@@ -15,7 +15,7 @@
 [![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
 [![ReactiveX](https://img.shields.io/badge/-main.rx-fff?style=social&logo=ReactiveX&logoColor=B7178C)](#)
-[![RESTful API](https://img.shields.io/badge/-RESTful.API-000000?style=social&logo=ReactOS&logoColor=1877F2)](https://github.com/IsaacAlves7/css3-programming)
+[![RESTful API](https://img.shields.io/badge/-RESTful.API-000000?style=social&logo=ReactOS&logoColor=1877F2)](#)
 
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
 
