@@ -1614,7 +1614,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <hr>
 
 <h1 align="center">📜 [DOM] childNodes 🧙‍♂️👨‍👦‍👦</h1>
-<p>Como vimos anteriormente, o DOM possui uma grande árvore com todos os elementos de uma página HTML, então, é interessante relacionar essa mesma árvore com uma árvore geneológica na qual o DOM é o pai e todos os elementos a partir do <code>document</code> são filhos do DOM! No entanto, assim como na vida real, o DOM também tem primogênito e filho caçula.
+<p>Como vimos anteriormente, o DOM possui uma grande árvore com todos os elementos de uma página HTML, então, é interessante relacionar essa mesma árvore com uma árvore geneológica na qual o DOM é o pai e todos os elementos que descendem do <code>document</code> são filhos do DOM! No entanto, assim como na vida real, o DOM também tem primogênito e filho caçula.
 
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104216904-6deb8800-5419-11eb-918c-10bc4fa68563.jpg)
