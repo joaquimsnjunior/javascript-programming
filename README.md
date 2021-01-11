@@ -1590,9 +1590,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <hr>
 
 <h1 align="center">Cap 24: 📜 [DOM] appendChild | removeChild 🧙‍♂️💥</h1>
-<p></p>
+<p>O método <code>appendChild</code> serve para revelar a criação do elemento, <code>createElement</code>.</p>
 
-
+## Exemplo 1:
 
 
 
