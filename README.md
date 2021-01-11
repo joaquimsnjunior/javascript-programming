@@ -111,7 +111,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-22--dom-innerhtml-style-e-atributos-%EF%B8%8F%EF%B8%8F">📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-23--dom-createelement-%EF%B8%8F">📜 [DOM] createElement 🧙‍♂️🥚</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-24--dom-appendchild--removechild-%EF%B8%8F">📜 [DOM] appendChild | removeChild 🧙‍♂️🐲💥</a></li>
-  <li><a href="">📜 [DOM] childNodes 🧙‍♂️👨‍👦‍👦</a></li>
+  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-25--dom-childnodes-%EF%B8%8F">📜 [DOM] childNodes 🧙‍♂️👨‍👦‍👦</a></li>
   <li>📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️🩸</li>
   <li>📜 [DOM] parentNode 🧙‍♂️🔬</li>
   <li>📜 [DOM] getAttribute, setAttribute e removeAttribute 🧙‍♂️⚔️</li>
@@ -1634,7 +1634,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
-<h1 align="center">Cap 26: </h1>
+<h1 align="center">Cap 26: 📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️🩸</h1>
 
 
 
