@@ -262,10 +262,9 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 <blockquote><b>Obs:</b> Carrega o script primeiro antes do body, o que é mais ideal!</blockquote>
 
 ### 📜 Opcional (No arquivo) 📜
-[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
-
 <p> Outra maneira válida é criar um documento com a extensão <b>.js</b>, é separando ele e linkar-lo no documento HTML. A fonte do link pode ser chamada tanto no &lt;head&gt; como no &lt;body&gt;.</p>
 
+[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 ![Sem Título-3](https://user-images.githubusercontent.com/61624336/102267944-5e038580-3ef9-11eb-89bb-4191481918f6.jpg)
 
 <p>o comando <code>alert();</code> exibe uma janela pop-up no navegador que revela o conteúdo inserido dentro do parêntese, pode ser uma variável ou um texto (entre aspas).</p>
