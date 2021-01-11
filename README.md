@@ -115,9 +115,9 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-26--dom-nodename-nodetype-nodevalue-%EF%B8%8F">📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️🩸</a></li>
   <li><a href="">📜 [DOM] parentNode 🧙‍♂️🔬</a></li>
   <li><a href="">📜 [DOM] getAttribute, setAttribute e removeAttribute 🧙‍♂️⚔️</a></li>
-  <li>📜 [DOM] createTextNode e textContent 🧙‍♂️🛡️</li>
-  <li>📜 [DOM] children e insertBefore 🧙‍♂️🏰</li>
-  <li>📜 [DOM] replaceChild 🧙‍♂️🦄</li>
+  <li><a href="">📜 [DOM] createTextNode e textContent 🧙‍♂️🛡️</a></li>
+  <li><a href="">📜 [DOM] children e insertBefore 🧙‍♂️🏰</a></li>
+  <li><a href="">📜 [DOM] replaceChild 🧙‍♂️🦄</a></li>
   <li>📜 [DOM] Promises 🧙‍♂️🧚</li>
   <li>📜 [DOM] Async 🧙‍♂️🧝‍♂️</li>
   <li>📜 Audio em JS 🔊🎵</li>
