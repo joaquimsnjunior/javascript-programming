@@ -1625,6 +1625,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104220046-b3aa4f80-541d-11eb-91ae-e7c89597d029.jpg)
 
 ## Exemplo 3:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/104220289-0ab02480-541e-11eb-8ee1-a914f987e0ba.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/104220284-097ef780-541e-11eb-9fb3-2e7cf58d0ae3.jpg)
 
 <hr>
 
