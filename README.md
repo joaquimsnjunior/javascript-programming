@@ -252,9 +252,11 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 <p>Agora, existem duas maneiras de criar um documento JS:</p>
 
 ### 📜 No body 🥼
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/102247838-3dc6cd00-3edf-11eb-8302-f77de2b3348d.jpg)
 
 ### 📜 No head 🥽
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/102253843-a2d1f100-3ee6-11eb-9d1b-016921aae815.jpg)
 
 <blockquote><b>Obs:</b> Carrega o script primeiro antes do body, o que é mais ideal!</blockquote>
