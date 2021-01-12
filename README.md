@@ -1648,6 +1648,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <p>O atributo <code>nodeName</code> pega o nome do item pertencente ao <em>NodeList</em>.</p>
 
 ### Exemplo 1:
+![js](https://user-images.githubusercontent.com/61624336/104258122-af9e2200-545d-11eb-8b25-236825250ff7.jpg)
 
 
 
