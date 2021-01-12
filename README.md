@@ -427,14 +427,17 @@ Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase)
 O caractere de escape de barra invertida “\” torna caracteres especiais em caracteres de string:</p>
 
 ### \’ aspas simples
+[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102550356-78299900-409c-11eb-975c-9b1b491afdd8.jpg)
 
 <h3>\" aspas duplas</h3>
 
+[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 ![Sem Título-2](https://user-images.githubusercontent.com/61624336/102550361-79f35c80-409c-11eb-8b3d-b2864b43aa49.jpg)
 
 <h3>\\ barras invertidas</h3>
 
+[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102549993-d6a24780-409b-11eb-9814-fffb47e86f0f.jpg)
 
 <p>Outras seis sequências escapes são válidas em JavaScript:</p>
@@ -656,6 +659,7 @@ Em muitas linguagens de programação, como Java e C#, precisamos indicar qual o
 O JavaScript possui o que chamamos de "Inferência de Tipo". Nós não precisamos declarar o tipo da variável. Se passarmos um número para uma variável, o JavaScript já saberá que aquela variável será do tipo Number. Isso também ocorre em linguagens como PHP, Python, Ruby e C# (sim, o C# também aceita inferência de tipos). Nesse caso, dizemos que a linguagem possui uma "Tipagem Dinâmica". Além disso, as variáveis do JS se organizam de cima para baixo.
 
 ## 📥 Declarando e nomeando variáveis 🔤
+[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102696091-8ac1e080-420a-11eb-9553-477915979001.jpg)
 
 <blockquote><b>Obs:</b> O JS é <em>Case Sensitive</em>, ou seja, as letras maiúsculas e minúsculas fazem diferença na declaração de variáveis. Ademais, as variáveis no JS são declaradas no topo do código para baixo, por isso o valor é definido corretamente. Além disso, as variáveis não podem conter acentos ou espaços, para caracteres especiais somento o "$" e o "_", mas não são muito recomendados. Ademais, números são permitidos desde que sejam precedidos de uma ou mais letras.</blockquote>
