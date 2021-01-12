@@ -415,11 +415,13 @@ Hoje em dia também temos um novo tipo de string, que usa o acento grave (crase)
 </p>
 <p>Para descobrir o tamanho de uma string é usado a propriedade <b>length</b>:</p>
 
+[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102538561-30e6dc80-408b-11eb-8bae-1a59295efe0e.jpg)
 
 ## 👤 Escape de Caracteres 🔣
 <p>Como as strings são descritas entre aspas, o JavaScript não entenderá a string de fora delas.</p>
 
+[![JavaScript](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/102540262-87edb100-408d-11eb-9018-ff3681325d89.jpg)
 
 <p>A solução para resolver esse problema é com o uso de caractere de escape de barra invertida.
