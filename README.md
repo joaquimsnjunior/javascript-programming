@@ -1636,11 +1636,12 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <hr>
 
 <h1 align="center">Cap 26: 📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️🩸</h1>
-<p></p>
+<p>Já aprendemos sobre o atributo <code>childNodes</code> e o <em>NodeList</em>, portanto agora iremos aprender como pegar o nome, tipo e valor de um item pertencente ao <em>NodeList</em>.</p>
 
+## 🧙‍♂️ [DOM] nodeName 🩸
+<p>O <code>nodeName</code> pega o nome do item pertencente ao <em>NodeList</em>.</p>
 
-
-
+### Exemplo 1:
 
 
 
