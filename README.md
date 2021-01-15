@@ -1130,7 +1130,7 @@ console.log(data.getTime());</pre>
 <p>Note que para fazer a função executar, você precisa chama-la com os parênteses. Também é possível passar valores para a função acessar.</p>
 
 ## Exemplo 2:
-
+![ewr33r](https://user-images.githubusercontent.com/61624336/104746887-9f709600-572e-11eb-8b9d-ec08b0df6957.jpg)
 
 ## Exemplo 3:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491193-6405cb80-4e00-11eb-997a-a3d22e75d47a.jpg)
