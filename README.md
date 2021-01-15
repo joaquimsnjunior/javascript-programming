@@ -96,6 +96,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-07--estrutura-condicional-">📜 Estrutura condicional 👍👎</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-08--la%C3%A7os-de-repeti%C3%A7%C3%A3o-">📜 Laços de Repetição 🔁</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-09--arrays-vetores-">📜 Arrays (Vetores) 🛒</a></li>
+  <li><a href="">📜 Arrays (Matrizes) 🛒🛒🛒</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-10--valores-em-js-">📜 Valores em JS 💛</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-11--data-e-hor%C3%A1rio-em-js-">📜 Data e horário em JS 🕒📅</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-12--dicion%C3%A1rios-em-js-">📜 Dicionários em JS 📖</a></li>
