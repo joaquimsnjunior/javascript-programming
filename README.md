@@ -1130,19 +1130,22 @@ console.log(data.getTime());</pre>
 <p>Note que para fazer a função executar, você precisa chama-la com os parênteses. Também é possível passar valores para a função acessar.</p>
 
 ## Exemplo 2:
+
+
+## Exemplo 3:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491193-6405cb80-4e00-11eb-997a-a3d22e75d47a.jpg)
 
 <p>O <code>return</code> devolve um valor para a função.</p>
 
-## Exemplo 3:
+## Exemplo 4:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491947-56534480-4e06-11eb-9dfe-2bd57a0a8524.jpg)
 
 <blockquote><b>Curiosidade:</b> Caso você não coloque o <code>return</code>, por padrão as funções devolvem <code>undefined</code>.</blockquote>
 
-## Exemplo 4:
+## Exemplo 5:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103492431-91a34280-4e09-11eb-88b2-35e526530318.jpg)
 
-## Exemplo 5:
+## Exemplo 6:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103492479-ec3c9e80-4e09-11eb-92e6-638585d008f5.jpg)
 
 ## 🏹 Arrow Function 🤹
