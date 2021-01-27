@@ -1673,7 +1673,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 1:
 ![js](https://user-images.githubusercontent.com/61624336/104258122-af9e2200-545d-11eb-8b25-236825250ff7.jpg)
 
-
+<h1 align="center">📜 STDIN e STDOUT 🤸‍♂️</h1>
 
 
 
