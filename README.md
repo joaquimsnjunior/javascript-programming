@@ -122,7 +122,6 @@
   <li><a href="">📜 [DOM] replaceChild 🧙‍♂️🦄</a></li>
   <li>📜 [DOM] Promises 🧙‍♂️🧚</li>
   <li>📜 [DOM] Async 🧙‍♂️🧝‍♂️</li>
-  <li>📜 STDIN e STDOUT 🤸‍♂️</li>
   <li>📜 Audio em JS 🔊🎵</li>
   <li>📜 Validações em JavaScript ✅</li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
