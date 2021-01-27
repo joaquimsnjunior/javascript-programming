@@ -343,6 +343,42 @@ As linguagens hoje em dia nos fornecem várias funcionalidades que, com um simpl
 <blockquote><b>👍 Dica:</b> Curiosidade: 128+64+32+16+8+4+2+1 = 255. E se tivermos todos os campos "desligados", teremos o valor 0, o que nos dá um total de 256 possíveis valores. Você já deve ter visto esse número por aí no mundo da informática, não é mesmo? Como os antigos pendrives de 256MB, 512MB e 1024MB que é igual a 1GB.</blockquote>
 
 <blockquote><b>👍 Dica:</b> Veja que nessa cadeia há 8 números. 1 Byte é igual a 8 bits. Então temos aí 8 bits, que resultam em 1 Byte.</blockquote>
+
+<h2>📜 STDIN e STDOUT 🤸‍♂️</h2>
+<p>Todas as entradas e saída dos algoritmos são utilizados o <strong>STDIN</strong> e <strong>STDOUT</strong> de cada linguagem, abaixo tem algumas dicas de como utilizar cada STDIN e STDOUT de cada linguagem.
+  
+### JavaScript
+
+Em JavaScript as funções de STDIN e STDOUT respectivamente são <code>gets()</code> e <code>console.log</code>, a função gets é implementada internamente para auxiliar a entrada dos dados.
+
+#### Exemplo:
+<pre>
+let line = gets(); // Retorna a próxima linha de entrada
+console.log(line); // Imprime o dado
+</pre>
+
+### Java
+
+Em Java existe várias formas de implementar o STDIN e STDOUT recomendamos utilizar <code>BufferedReader</code> para o STDIN e o <code>System.out.println</code> para o STDOUT.
+
+#### Exemplo:
+<pre>
+BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+StringTokenizer st = new StringTokenizer(br.readLine()); // Lê a linha de entrada
+int a = Integer.parseInt(st.nextToken());
+System.out.println(a); // Imprime o dado
+</pre>
+
+### Python
+
+Em Python existe várias formas de implementar o STDIN e STDOUT recomendamos utilizar <code>sys.stdin.readline</code> para o STDIN e o <code>print</code> para o STDOUT.
+
+#### Exemplo:
+<pre>
+import sys
+a = int(sys.stdin.readline()) // Lê a linha de entrada
+print(a); // Imprime o dado
+</pre>
 <hr>
 
 <h1 align="center">Cap 03: 📜 Tipos Primitivos 🐵</h1>
@@ -1673,7 +1709,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 1:
 ![js](https://user-images.githubusercontent.com/61624336/104258122-af9e2200-545d-11eb-8b25-236825250ff7.jpg)
 
-<h1 align="center">📜 STDIN e STDOUT 🤸‍♂️</h1>
+<hr>
 
 
 
