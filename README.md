@@ -129,6 +129,7 @@
   <li>📜 [ES6] OOP 🪀</li>
   <li>📜 [ES6] Design Patterns 🌺</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
+  <li>📜 JavaScript Map 🗺️</li>
   <li>📜 JSON 📋</li>
   <li>📜 AJAX 🔃</li>
   <li>📜 Vanilla JavaScript x jQuery Framework 🍦☄️</li>
