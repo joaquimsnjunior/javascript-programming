@@ -1036,8 +1036,12 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
     <td>Retira elemento</td>
   </tr>
   <tr>
-    <td>length()</td>
-    <td>Tamanho da lista ou n° de elementos</td>
+    <td>length</td>
+    <td>Retorna o tamanho da lista ou n° de elementos</td>
+  </tr>
+  <tr>
+    <td>filter(function(currentValue, index, arr), thisValue)</td>
+    <td>Cria um array preenchida com todos os elementos do array que passam em um teste (fornecido como uma função)</td>
   </tr>
   <tr>
     <td>toString()</td>
