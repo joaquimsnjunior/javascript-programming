@@ -1022,7 +1022,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <p>Existem alguns métodos e argumentos que mudam a funcionalidade de um array, tais como:</p>
 
-### 🍎🍐 Tabela de Arrays mod 🍊🍇
+### .("🍎","🍐") Tabela de Arrays mod .("🍊","🍇")
 <table>
   <tr>
     <td><b>Método</b></td>
