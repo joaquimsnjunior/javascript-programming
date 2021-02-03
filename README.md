@@ -946,7 +946,7 @@ E se precisássemos alterar esse 100 para 1.000? Ou 1.000.000? Com um simples co
 
 <hr>
 
-<h1 align="center">Cap 09: 📜 Arrays (Vetores) 🛒</h1>
+<h1 align="center">Cap 09: 📜 Arrays [Vetores] 🛒</h1>
 <img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1070"/>
 <p>É uma lista ou coleção de dados que pode ser acessada por índice. Para criar um vetor vazio basta criar uma variável e atribuir <code>[ ]</code> a ela.</p>
 
@@ -1015,6 +1015,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103469746-77089500-4d47-11eb-87b7-8e5f07697e0d.jpg)
 
 ## 🛒 Outra forma de inserir um array "separadamente" [🍎] [🍐] [🍊] [🍇]
+
 
 ## 🛒 Array Mod [🍎🍐🍊🍇]
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103718412-6fdec280-4fa5-11eb-94c2-98a815ef78b4.jpg)
