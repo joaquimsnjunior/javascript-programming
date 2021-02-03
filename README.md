@@ -1014,7 +1014,9 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103469746-77089500-4d47-11eb-87b7-8e5f07697e0d.jpg)
 
-## 🛒 Array Mod 🍎🍐🍊🍇
+## 🛒 Outra forma de inserir um array "separadamente" [🍎] [🍐] [🍊] [🍇]
+
+## 🛒 Array Mod [🍎🍐🍊🍇]
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103718412-6fdec280-4fa5-11eb-94c2-98a815ef78b4.jpg)
 
 <p>Existem alguns métodos e argumentos que mudam a funcionalidade de um array, tais como:</p>
