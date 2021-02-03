@@ -1029,11 +1029,11 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
     <td><b>Função do método</b></td>
   </tr>
   <tr>
-    <td>push("")</td>
+    <td>push("value")</td>
     <td>Adiciona elemento</td>
   </tr>
   <tr>
-    <td>pop("")</td>
+    <td>pop("array value")</td>
     <td>Retira elemento</td>
   </tr>
   <tr>
@@ -1045,11 +1045,11 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
     <td>Cria um array preenchida com todos os elementos do array que passam em um teste (fornecido como uma função)</td>
   </tr>
   <tr>
-    <td>toString()</td>
+    <td>toString(Array)</td>
     <td>Mostra todos os itens da lista</td>
   </tr>
    <tr>
-    <td>join("")</td>
+    <td>join()</td>
     <td>Substitui elementos que separam a string</td>
   </tr>
   <tr>
@@ -1057,7 +1057,7 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
     <td>Reverte</td>
   </tr>
   <tr>
-    <td>shift()</td>
+    <td>shift("array value")</td>
     <td>Remove o item</td>
   </tr>
 </table>
