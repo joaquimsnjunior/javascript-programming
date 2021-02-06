@@ -205,8 +205,8 @@ O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript 
 Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
 ## 📜 Phaser 🎮🕹️
-<img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png">
-<p>O Phaser Engine</p>
+<a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
+<p>O Phaser é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
 
 ## 📜 A importância e a utilidade do JavaScript para o mundo 🏆
 <div align="center"><img src="https://www.mentorpitch.com/blog/wp-content/uploads/2016/02/Corporate-accelerators.jpg" width="407" height="367"/><img src="https://miro.medium.com/max/780/1*IivjRSnfzz6coQn8FcPp5A.jpeg" width="407" height="367"/></div>
