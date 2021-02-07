@@ -537,6 +537,8 @@ Os seguintes valores são considerados falsos no JavaScript:</p>
   <li>"" (string vazia).</li>
 </ul>
 <p>Qualquer outro valor é considerado true, até mesmo a String "false" e "0", pois não são Strings vazias.</p>
+
+### 🐵 Informando o tipo do valor primitivo na operação 🔢
 <hr>
 
 <h1 align="center">Cap 04: 📜 O que são operadores? ➗</h1>
