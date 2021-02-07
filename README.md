@@ -232,10 +232,10 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 <ul>
   <li>Websites;</li>
   <li>Aplicações Web;</li>
-  <li>Desenvolvimento de Jogos Eletrônicos;</li>
+  <li>Desenvolvimento de Jogos Eletrônicos (Videogames);</li>
+  <li>Animações</li>
   <li>Servidores;</li>  
   <li>Bancos de Dados;</li>
-  <li>Aplicativos Mobile;</li>
   <li>Sistemas Operacionais de SmartTvs;</li>
   <li>Automação de Tarefas;</li>
   <li>Automação de Testes;</li>
