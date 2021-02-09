@@ -1,4 +1,5 @@
 # It's a repository of JavaScript (JS) programming 📒📜🔢
+<!--
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 [![JSON](https://img.shields.io/badge/-package.json-000000?style=social&logo=JSON&logoColor=gray)](#)
 [![Brave](https://img.shields.io/badge/-Console-fff?style=social&logo=Brave&logoColor=orangered)](#)
@@ -14,7 +15,7 @@
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
 [![ReactiveX](https://img.shields.io/badge/-main.rx-fff?style=social&logo=ReactiveX&logoColor=B7178C)](#)
 [![RESTful API](https://img.shields.io/badge/-RESTful.API-000000?style=social&logo=ReactOS&logoColor=1877F2)](#)
-
+-->
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
 
 <a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/></a><br>
