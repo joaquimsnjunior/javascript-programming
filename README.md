@@ -1744,7 +1744,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107423823-9be8e880-6afb-11eb-9c6c-dc9d04fd916f.jpg)
 
-
+### Exemplo 2: Tratando objetos
 
 
 
