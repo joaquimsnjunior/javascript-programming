@@ -1739,7 +1739,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
-<h1 align="center">📜 Funções Hoisting 🏗️🤹</h1>
+<h1 align="center">📜 [ES6] Funções Hoisting 🏗️🤹</h1>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107423823-9be8e880-6afb-11eb-9c6c-dc9d04fd916f.jpg)
 
