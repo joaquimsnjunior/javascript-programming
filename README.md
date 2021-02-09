@@ -1253,6 +1253,9 @@ log('test');
 ### Exemplo 3: retornando ao valor por padrão
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103493854-89033a00-4e12-11eb-9142-16e75a3a45f3.jpg)
 
+### Exemplo 4:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107413609-b1581580-6aef-11eb-83eb-d0132956f567.jpg)
+
 <hr>
 
 <h1 align="center">Cap 14: 📜 Procedural JavaScript 📜</h1>
