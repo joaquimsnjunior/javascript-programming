@@ -1205,6 +1205,9 @@ console.log(data.getTime());</pre>
 ## Exemplo 6:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103492479-ec3c9e80-4e09-11eb-92e6-638585d008f5.jpg)
 
+## Exemplo 7:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107418551-91c3eb80-6af5-11eb-9635-fbebf2f958b0.jpg)
+
 ## 🏹 Arrow Function 🤹
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103492529-5d7c5180-4e0a-11eb-8426-cda942129822.png"/></div>
 <p>Agora vamos conhecer outras maneiras de inserir funções no JavaScript. Com o <b>arrow function</b> a função possui uma forma bem mais enxuta de ser inserida com os arrows. Elas são funções anônimas, ou seja, você só pode utiliza-las atribuindo a uma variável ou passando para outra função.</p>
