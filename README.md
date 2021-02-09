@@ -1179,7 +1179,7 @@ console.log(data.getTime());</pre>
 
 <h1 align="center">Cap 13: 📜 Funções em JS 🤹</h1>
 <div align="center"><img src="https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15687/comprehensive-guide-javascript-design-patterns-cf0c7c0e69d51d97044a8431da9175e3.png"/></div>
-<p>São utilizadas para criarmos uma sequência de operações para serem executadas.</p>
+<p>São utilizadas para criarmos uma sequência de operações para serem executadas. As funções no JavaScript são de Primeira Classe, ou seja, elas podem servir de parâmetros para outras funções.</p>
 
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491028-d9709c80-4dfe-11eb-9e25-7c50dd69fca2.jpg)
