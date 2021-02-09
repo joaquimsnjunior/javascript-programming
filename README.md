@@ -1739,7 +1739,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
-
+<h1 align="center">Funções Hoisting</h1>
 
 
 
