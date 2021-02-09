@@ -1256,6 +1256,10 @@ log('test');
 ### Exemplo 4:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107413609-b1581580-6aef-11eb-83eb-d0132956f567.jpg)
 
+### Exemplo 5: Sem parênteses e um argumento
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107415115-bae27d00-6af1-11eb-9295-594dcfd942c9.jpg)
+
+<blockquote><b>OBS:</b> Se for mais de um argumento, é obrigatório o uso de parênteses!</blockquote>
 <hr>
 
 <h1 align="center">Cap 14: 📜 Procedural JavaScript 📜</h1>
