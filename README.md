@@ -1755,6 +1755,43 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 4: 📜 Função setTimeout (Função do Browser)🤹⏰
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107451157-796bc500-6b25-11eb-8eeb-beb543ff7cae.jpg)
 
+### Outra forma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
