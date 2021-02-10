@@ -1752,7 +1752,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 3:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107449573-8fc45180-6b22-11eb-8ab9-0a000a939de2.jpg)
 
-### Exemplo 4: 📜 Função setTimeout 🤹⏰
+### Exemplo 4: 📜 Função setTimeout (Função do Browser)🤹⏰
 
 
 
