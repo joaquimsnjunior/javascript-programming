@@ -1759,6 +1759,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107456784-9d340880-6b2f-11eb-9dc2-53450ef09b21.jpg)
 
 ### Exemplo 6: 📜 Arrow function 🤹🏹
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107457270-8346f580-6b30-11eb-8795-301951a6c659.jpg)
 
 
 
