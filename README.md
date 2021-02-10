@@ -1752,13 +1752,13 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 3:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107449573-8fc45180-6b22-11eb-8ab9-0a000a939de2.jpg)
 
-### Exemplo 4: 📜 Função setTimeout (Função do Browser)🤹⏰
+### Exemplo 4: 📜 Função setTimeout (Função do Browser) 🤹⏰
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107451157-796bc500-6b25-11eb-8eeb-beb543ff7cae.jpg)
 
-### Outra forma
+### Exemplo 5: Outra forma "mais poluída" 📜🤢
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107456784-9d340880-6b2f-11eb-9dc2-53450ef09b21.jpg)
 
-
+### Exemplo 6: 📜 Arrow function 🤹🏹
 
 
 
