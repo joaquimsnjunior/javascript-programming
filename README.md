@@ -1749,6 +1749,10 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107432551-e6bc2d80-6b06-11eb-9273-6dad2973c0e1.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107449299-16c4fa00-6b22-11eb-825b-8c35f2ae3a0b.jpg)
 
+### Exemplo 3:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107449573-8fc45180-6b22-11eb-8ab9-0a000a939de2.jpg)
+
+### Exemplo 4: 📜 Função setTimeout 🤹⏰
 
 
 
