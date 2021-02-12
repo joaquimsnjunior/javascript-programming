@@ -1773,6 +1773,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ## Exemplo 3: Inserindo o valor no parâmetro da função
 ![12](https://user-images.githubusercontent.com/61624336/107807785-6cc6b700-6d47-11eb-987e-d45d04ad392f.jpg)
+![12](https://user-images.githubusercontent.com/61624336/107808122-da72e300-6d47-11eb-9998-fe7f41d73d9a.jpg)
 
 
 
