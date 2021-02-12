@@ -1782,7 +1782,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ## Exemplo 4: Poder de atribuição
 ![12](https://user-images.githubusercontent.com/61624336/107809900-97663f00-6d4a-11eb-93af-d9efb1690588.jpg)
 
-
+<blockquote><strong>OBS:</strong> A ordem dos argumentos importa na função, qualquer alteração no sentido da ordem pode ocasionar um erro na execução do código.</blockquote>
 
 
 
