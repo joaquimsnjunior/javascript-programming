@@ -1772,6 +1772,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![12](https://user-images.githubusercontent.com/61624336/107807013-55d39500-6d46-11eb-8d3d-3a9af3f8f521.jpg)
 
 ## Exemplo 3: Inserindo o valor no parâmetro da função
+![12](https://user-images.githubusercontent.com/61624336/107807785-6cc6b700-6d47-11eb-987e-d45d04ad392f.jpg)
 
 
 
