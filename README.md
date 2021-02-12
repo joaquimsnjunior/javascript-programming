@@ -1762,7 +1762,10 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107457270-8346f580-6b30-11eb-8795-301951a6c659.jpg)
 
 <h1 align="center">Cap: 📜 [ES6] Default Function Arguments 🛌🤹</h1>
+<p>Quando não atribuimos o segundo valor para a variável, atribuimos ele dentro da função, observe abaixo!</p>
 
+## Exemplo 1:
+![12](https://user-images.githubusercontent.com/61624336/107806090-19ec0000-6d45-11eb-8b81-ef25ee970c74.jpg)
 
 
 
