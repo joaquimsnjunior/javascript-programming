@@ -1771,7 +1771,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ## Exemplo 2: Validação de Tipo (com operador ternário)
 ![12](https://user-images.githubusercontent.com/61624336/107807013-55d39500-6d46-11eb-8d3d-3a9af3f8f521.jpg)
 
-
+## Exemplo 3: Inserindo o valor no parâmetro da função
 
 
 
