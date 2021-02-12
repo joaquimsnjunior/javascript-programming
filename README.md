@@ -1779,7 +1779,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![12](https://user-images.githubusercontent.com/61624336/107808122-da72e300-6d47-11eb-9998-fe7f41d73d9a.jpg)
 ![12](https://user-images.githubusercontent.com/61624336/107809428-d6e05b80-6d49-11eb-803a-7faa4f1e5d5c.jpg)
 
-
+## Exemplo 4: Poder de atribuição
 
 
 
