@@ -1790,6 +1790,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ## Exemplo 6:
 ![12](https://user-images.githubusercontent.com/61624336/107820477-9d175100-6d59-11eb-8403-1f78814ec417.jpg)
 
+<hr>
+
+<h1 align="center">Cap: 📜 [ES6] Enhanced Object Literals 🚪</h1>
 
 
 
