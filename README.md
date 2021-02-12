@@ -1761,6 +1761,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ### Exemplo 6: 📜 Arrow function 🤹🏹
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107457270-8346f580-6b30-11eb-8795-301951a6c659.jpg)
 
+<hr>
+
 <h1 align="center">Cap: 📜 [ES6] Default Function Arguments 🛌🤹</h1>
 <p>Quando não atribuimos o segundo valor para a variável, atribuimos ele dentro da função, observe abaixo!</p>
 
