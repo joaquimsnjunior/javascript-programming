@@ -1784,7 +1784,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <blockquote><strong>OBS:</strong> A ordem dos argumentos importa na função, qualquer alteração no sentido da ordem pode ocasionar um erro na execução do código.</blockquote>
 
-
+## Exemplo 5: Lazy evaluation
 
 
 
