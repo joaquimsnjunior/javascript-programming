@@ -1795,6 +1795,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <h1 align="center">Cap: 📜 [ES6] Enhanced Object Literals 🚪</h1>
 <p>A maneira clássica de escrever objetos literais é como o exemplo abaixo:</p>
 
+## Exemplo 1:
+![12](https://user-images.githubusercontent.com/61624336/107830786-592d4780-6d6b-11eb-8c24-e0e94809995b.jpg)
+
 
 
 
