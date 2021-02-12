@@ -1768,8 +1768,8 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ![12](https://user-images.githubusercontent.com/61624336/107806090-19ec0000-6d45-11eb-8b81-ef25ee970c74.jpg)
 ![12](https://user-images.githubusercontent.com/61624336/107806363-85ce6880-6d45-11eb-9a3f-2b8c3d7b2022.jpg)
 
-## Exemplo 2:
-
+## Exemplo 2: Validação de Tipo (com operador ternário)
+![12](https://user-images.githubusercontent.com/61624336/107807013-55d39500-6d46-11eb-8d3d-3a9af3f8f521.jpg)
 
 
 
