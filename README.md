@@ -1842,7 +1842,7 @@ A característica que permite podermos utilizar funções para definir valores d
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107861077-0f536880-6e22-11eb-97fd-8c6aeeb3c604.jpg)
 
 ### Exemplo 2:
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107861989-58a6b680-6e28-11eb-9887-03679ec3d5ca.jpg)
 
 <hr>
 
