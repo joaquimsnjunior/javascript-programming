@@ -1807,6 +1807,9 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 ## Exemplo 4:
 ![12](https://user-images.githubusercontent.com/61624336/107837290-f80f6f00-6d7e-11eb-8d69-3f6dc03a453f.jpg)
 
+## Exemplo 5:
+![12](https://user-images.githubusercontent.com/61624336/107837462-ad422700-6d7f-11eb-9162-b1b192f6e493.jpg)
+
 
 
 
