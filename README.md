@@ -1839,6 +1839,7 @@ A característica que permite podermos utilizar funções para definir valores d
 <p>Escreve com <code>...</code> antes do parâmetro e ele traz métodos de array para manipular os seus argumentos.</p>
 
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107861077-0f536880-6e22-11eb-97fd-8c6aeeb3c604.jpg)
 
 
 
