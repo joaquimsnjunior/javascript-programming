@@ -1741,7 +1741,6 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 <hr>
 
 <h1 align="center">Cap: 📜 [ES6] Funções Hoisting 🏗️🤹</h1>
-Não podemos criar funções construtoras usando arrow functions.
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107423823-9be8e880-6afb-11eb-9c6c-dc9d04fd916f.jpg)
@@ -1760,6 +1759,7 @@ Não podemos criar funções construtoras usando arrow functions.
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107456784-9d340880-6b2f-11eb-9dc2-53450ef09b21.jpg)
 
 ### Exemplo 6: 📜 Arrow function 🤹🏹
+Não podemos criar funções construtoras usando arrow functions.
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107457270-8346f580-6b30-11eb-8795-301951a6c659.jpg)
 
 <hr>
@@ -1786,6 +1786,7 @@ Não podemos criar funções construtoras usando arrow functions.
 <blockquote><strong>OBS:</strong> A ordem dos argumentos importa na função, qualquer alteração no sentido da ordem pode ocasionar um erro na execução do código.</blockquote>
 
 ## Exemplo 5: Lazy evaluation
+A característica que permite podermos utilizar funções para definir valores de um argumento e a mesma só será invocada quando o argumento for indefinido.
 ![12](https://user-images.githubusercontent.com/61624336/107815875-b8329280-6d52-11eb-9b29-7865fbcd28f4.jpg)
 
 ## Exemplo 6:
