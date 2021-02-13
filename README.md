@@ -1829,6 +1829,7 @@ A característica que permite podermos utilizar funções para definir valores d
 
 ## Exemplo 2: Função com vários argumentos (método antigo do ES6)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860550-956db000-6e1e-11eb-8b96-8860230d10d3.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860612-e67da400-6e1e-11eb-88ad-5ca7851216a3.jpg)
 
 
 
