@@ -1828,12 +1828,10 @@ A característica que permite podermos utilizar funções para definir valores d
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860456-2a23de00-6e1e-11eb-855e-32fda75ca282.jpg)
 
 ## Exemplo 2: Função com vários argumentos (método antigo do ES6)
-Suponhamos que precisamos fazer uma soma com muitos algarismos em um índice.
-
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860550-956db000-6e1e-11eb-8b96-8860230d10d3.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860612-e67da400-6e1e-11eb-88ad-5ca7851216a3.jpg)
 
-
+## Exemplo 3: Suponhamos que precisamos fazer uma soma com muitos algarismos em um índice.
 
 
 
