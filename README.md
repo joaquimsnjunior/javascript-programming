@@ -1821,6 +1821,7 @@ A característica que permite podermos utilizar funções para definir valores d
 
 <hr>
 
+<h1 align="center">Cap: 📜 [ES6] Aplicando conceitos de Rest, Spread Operator e destructing 🧵</h1>
 
 
 
