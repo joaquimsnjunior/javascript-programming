@@ -1799,13 +1799,13 @@ A característica que permite podermos utilizar funções para definir valores d
 <h1 align="center">Cap: 📜 [ES6] Enhanced Object Literals 🚪</h1>
 <p>A maneira clássica de escrever objetos literais é como o exemplo abaixo:</p>
 
-## Exemplo 1:
+### Exemplo 1:
 ![12](https://user-images.githubusercontent.com/61624336/107830786-592d4780-6d6b-11eb-8c24-e0e94809995b.jpg)
 
-## Exemplo 2:
+### Exemplo 2:
 ![12](https://user-images.githubusercontent.com/61624336/107836537-4cfdb600-6d7c-11eb-918d-737ba9c555a9.jpg)
 
-## Exemplo 3:
+### Exemplo 3:
 ![12](https://user-images.githubusercontent.com/61624336/107836713-da410a80-6d7c-11eb-8d41-3e8bf5816bcb.jpg)
 
 ## Exemplo 4:
@@ -1825,18 +1825,18 @@ A característica que permite podermos utilizar funções para definir valores d
 <h1 align="center">Cap: 📜 [ES6] Rest, Spread Operator e destructing 🧵</h1>
 <p>Observe a função abaixo:</p>
 
-## Exemplo 1: Função normal
+### Exemplo 1: Função normal
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860456-2a23de00-6e1e-11eb-855e-32fda75ca282.jpg)
 
-## Exemplo 2: Função com vários argumentos (método antigo do ES6)
+### Exemplo 2: Função com vários argumentos (método antigo do ES6)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860550-956db000-6e1e-11eb-8b96-8860230d10d3.jpg)
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860612-e67da400-6e1e-11eb-88ad-5ca7851216a3.jpg)
 
-## Exemplo 3: Suponhamos que precisamos fazer uma soma com muitos algarismos em um índice.
+### Exemplo 3: Suponhamos que precisamos fazer uma soma com muitos algarismos em um índice.
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860767-f2b63100-6e1f-11eb-87f2-1b868dc34e52.jpg)
 
-
-
+## Rest Operator
+<p>Escreve com <code>...</code> </p>
 
 
 
