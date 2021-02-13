@@ -1797,10 +1797,14 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ## Exemplo 1:
 ![12](https://user-images.githubusercontent.com/61624336/107830786-592d4780-6d6b-11eb-8c24-e0e94809995b.jpg)
+
+## Exemplo 2:
 ![12](https://user-images.githubusercontent.com/61624336/107836537-4cfdb600-6d7c-11eb-918d-737ba9c555a9.jpg)
+
+## Exemplo 3:
 ![12](https://user-images.githubusercontent.com/61624336/107836713-da410a80-6d7c-11eb-8d41-3e8bf5816bcb.jpg)
 
-
+## Exemplo 4:
 
 
 
