@@ -1788,6 +1788,7 @@ Não podemos criar funções construtoras usando arrow functions.
 
 ## Exemplo 5: Lazy evaluation
 A característica que permite podermos utilizar funções para definir valores de um argumento e a mesma só será invocada quando o argumento for indefinido.
+
 ![12](https://user-images.githubusercontent.com/61624336/107815875-b8329280-6d52-11eb-9b29-7865fbcd28f4.jpg)
 
 ## Exemplo 6:
@@ -1832,6 +1833,7 @@ A característica que permite podermos utilizar funções para definir valores d
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860612-e67da400-6e1e-11eb-88ad-5ca7851216a3.jpg)
 
 ## Exemplo 3: Suponhamos que precisamos fazer uma soma com muitos algarismos em um índice.
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860767-f2b63100-6e1f-11eb-87f2-1b868dc34e52.jpg)
 
 
 
