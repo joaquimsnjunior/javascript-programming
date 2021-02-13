@@ -1836,7 +1836,7 @@ A característica que permite podermos utilizar funções para definir valores d
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860767-f2b63100-6e1f-11eb-87f2-1b868dc34e52.jpg)
 
 ## Rest Operator
-<p>Escreve com <code>...</code> </p>
+<p>Escreve com <code>...</code> antes do parâmetro.</p>
 
 
 
