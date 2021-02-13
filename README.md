@@ -1825,8 +1825,9 @@ A característica que permite podermos utilizar funções para definir valores d
 <p>Observe a função abaixo:</p>
 
 ## Exemplo 1: Função normal
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107859809-cea42100-6e1a-11eb-8756-0f4a44b68646.jpg)
 
-
+## Exemplo 2: Função com vários argumentos (método antigo do ES6)
 
 
 
