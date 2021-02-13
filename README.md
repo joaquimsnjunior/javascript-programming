@@ -1844,6 +1844,8 @@ A característica que permite podermos utilizar funções para definir valores d
 ### Exemplo 2:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107861989-58a6b680-6e28-11eb-9887-03679ec3d5ca.jpg)
 
+### Exemplo 3: Ele pega parâmetros restantes na função transformando o Rest em um array
+
 <hr>
 
 
