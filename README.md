@@ -1854,7 +1854,11 @@ A característica que permite podermos utilizar funções para definir valores d
 
 ### Exemplo 4:
 <pre>
-  
+  function sum(...args) {
+    return args.reduce((acc, value) => acc + value, 0);
+}
+
+console.log(sum(5,5,5,2,3));
 </pre>
 <hr>
 
