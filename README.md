@@ -1873,7 +1873,7 @@ console.log(sum(5,5,5,2,3));
 </pre>
 
 ## Spread Operator
-<p>Escreve-se da mesma forma que o Rest Operator, porém seu funcionamento é diferente do Rest Operator. No sentido de que o Rest Operator pega todos os parâmetros da função e transforma em um array, no caso do Spread Operator ele pega todos os itens do array e transforma em parâmetro na segunda função.</p>
+<p>Escreve-se da mesma forma que o Rest Operator, porém seu funcionamento é diferente do Rest Operator. No sentido de que o Rest Operator pega todos os parâmetros da função e transforma em um array, no caso do Spread Operator ele pega todos os itens do array e transforma em parâmetro na segunda função. Ele pode ser usado em Strings, Arrays, Objetos e Objetos Iteráveis.</p>
 <hr>
 
 
