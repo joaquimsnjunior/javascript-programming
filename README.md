@@ -1852,6 +1852,10 @@ A característica que permite podermos utilizar funções para definir valores d
 ### Exemplo 3: Ele pega parâmetros restantes na função transformando o Rest em um array
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107862224-2b5b0800-6e2a-11eb-94ec-fed4235adfe9.jpg)
 
+### Exemplo 4:
+<pre>
+  
+</pre>
 <hr>
 
 
