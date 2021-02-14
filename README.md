@@ -1887,6 +1887,7 @@ Ele pode ser usado em Strings, Arrays, Objetos Literais e Objetos Iteráveis. S�
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107889507-d1257a00-6ef1-11eb-8e2a-907b708eb0df.jpg)
 
 ### Exemplo 4:
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/107890402-b524d700-6ef7-11eb-8e02-0a2dfccc1244.jpg)
 
 <hr>
 
