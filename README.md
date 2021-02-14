@@ -1878,6 +1878,9 @@ console.log(sum(5,5,5,2,3));
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107887976-9f5be580-6ee8-11eb-9cf6-3ce4ac782fcb.jpg)
 
+### Exemplo 2:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107888274-ff9f5700-6ee9-11eb-85f0-c80852a5a6e4.jpg)
+
 <hr>
 
 
