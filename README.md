@@ -393,6 +393,7 @@ print(a); // Imprime o dado
 
 ## Estilizando a saída dos dados com %c
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107866199-d381c880-6e4c-11eb-99a5-5294cb232106.jpg)
+![Sem Título-2](https://user-images.githubusercontent.com/61624336/107866364-d978a900-6e4e-11eb-9f38-48fe97352ec1.jpg)
 
 <hr>
 
