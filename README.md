@@ -1860,6 +1860,20 @@ A característica que permite podermos utilizar funções para definir valores d
 
 console.log(sum(5,5,5,2,3));
 </pre>
+
+### Exemplo 5: Integrar uma função com a outra
+<pre>
+const multiply = (...args) => args.reduce((acc, value)) => acc * value, 1)
+
+const sum = (...rest) => {
+   return multiply.apply(undefined, rest); // método apply serve para integrar uma função com a outra
+};
+
+console.log(sum(5,5,5,2,3));
+</pre>
+
+## Spread Operator
+<p>Escreve-se da mesma forma que o Rest Operator, porém seu funcionamento é diferente do Rest Operator. No sentido de que o Rest Operator pega todos os parâmetros da função e transforma em um array, no caso do Spread Operator ele pega todos os itens do array e transforma em parâmetro na segunda função.</p>
 <hr>
 
 
