@@ -1893,6 +1893,7 @@ Ele pode ser usado em Strings, Arrays, Objetos Literais e Objetos Iteráveis. S�
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107890742-421c6000-6ef9-11eb-842b-503c672612b6.jpg)
 
 ### Exemplo 6: Shallow Clone - um Subobjeto gerando um Spread 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107890903-3715ff80-6efa-11eb-96aa-9729858c47a4.jpg)
 
 <hr>
 
