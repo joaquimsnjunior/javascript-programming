@@ -390,6 +390,10 @@ import sys
 a = int(sys.stdin.readline()) // Lê a linha de entrada
 print(a); // Imprime o dado
 </pre>
+
+## Estilizando a saída dos dados com %c
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107866199-d381c880-6e4c-11eb-99a5-5294cb232106.jpg)
+
 <hr>
 
 <h1 align="center">Cap 03: 📜 Tipos Primitivos 🐵</h1>
