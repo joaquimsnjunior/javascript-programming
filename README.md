@@ -15,10 +15,11 @@
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
 [![ReactiveX](https://img.shields.io/badge/-main.rx-fff?style=social&logo=ReactiveX&logoColor=B7178C)](#)
 [![RESTful API](https://img.shields.io/badge/-RESTful.API-000000?style=social&logo=ReactOS&logoColor=1877F2)](#)
+
+<div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ionic_button_icon_151955.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/sass_button_icon_151921.png" height="47"></div>
 -->
 <p>I created this repository for my JavaScript Full-Stack development learning.</p>
 
-<div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ionic_button_icon_151955.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/sass_button_icon_151921.png" height="47"></div>
 <a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/></a><br>
 
 ## 🎒 Prerequisites and repositories 📚:
