@@ -1926,14 +1926,13 @@ A forma de combinar dois arrays utilizando spread operator: <code>[...arr1, ...a
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107992876-65f2ab00-6fb8-11eb-8e5b-25a5d4833225.jpg)
 
 ### Exemplo 9:
+destructuring assignement em um array (arr), atribuindo o valor do seu primeiro índice para uma constante teste? <code>const [ teste ] = arr;</code>
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107993011-b8cc6280-6fb8-11eb-90c1-855402953cad.jpg)
 
 ### Exemplo 10:
 É possível combinar default function arguments com destructuring? Sim, sempre que necessário podemos utilizar os dois, respeitando as regras de ambos.
  
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107993918-58d6bb80-6fba-11eb-95db-6ccf6906bc8d.jpg)
-
- destructuring assignement em um array (arr), atribuindo o valor do seu primeiro índice para uma constante teste? const [ teste ] = arr;
 
 <hr>
 
