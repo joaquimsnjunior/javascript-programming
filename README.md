@@ -1929,6 +1929,8 @@ A forma de combinar dois arrays utilizando spread operator: <code>[...arr1, ...a
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107993011-b8cc6280-6fb8-11eb-90c1-855402953cad.jpg)
 
 ### Exemplo 10:
+É possível combinar default function arguments com destructuring? Sim, sempre que necessário podemos utilizar os dois, respeitando as regras de ambos.
+ 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107993918-58d6bb80-6fba-11eb-95db-6ccf6906bc8d.jpg)
 
 <hr>
