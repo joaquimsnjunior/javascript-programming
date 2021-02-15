@@ -1746,7 +1746,7 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
-<h1 align="center">Cap: 📜 [ES6] Funções Hoisting 🏗️🤹</h1>
+<h1 align="center">Cap: 📜 [Advanced ES6] Funções Hoisting 🏗️🤹</h1>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107423823-9be8e880-6afb-11eb-9c6c-dc9d04fd916f.jpg)
@@ -1770,7 +1770,7 @@ Não podemos criar funções construtoras usando arrow functions.
 
 <hr>
 
-<h1 align="center">Cap: 📜 [ES6] Default Function Arguments 🛌🤹</h1>
+<h1 align="center">Cap: 📜 [Advanced ES6] Default Function Arguments 🛌🤹</h1>
 <p>Quando não atribuimos o segundo valor para a variável, atribuimos ele dentro da função, observe abaixo!</p>
 
 ## Exemplo 1:
@@ -1801,7 +1801,7 @@ A característica que permite podermos utilizar funções para definir valores d
 
 <hr>
 
-<h1 align="center">Cap: 📜 [ES6] Enhanced Object Literals 🚪</h1>
+<h1 align="center">Cap: 📜 [Advanced ES6] Enhanced Object Literals 🚪</h1>
 <p>A maneira clássica de escrever objetos literais é como o exemplo abaixo:</p>
 
 ### Exemplo 1:
@@ -1827,7 +1827,7 @@ A característica que permite podermos utilizar funções para definir valores d
 
 <hr>
 
-<h1 align="center">Cap: 📜 [ES6] Rest, Spread Operator e destructing 🧵</h1>
+<h1 align="center">Cap: 📜 [Advanced ES6] Rest, Spread Operator e destructing 🧵</h1>
 <p>Observe a função abaixo:</p>
 
 ### Exemplo 1: Função normal
@@ -1898,7 +1898,7 @@ A forma de combinar dois arrays utilizando spread operator: <code>[...arr1, ...a
 ### Exemplo 6: Shallow Clone - um Subobjeto gerando um Spread 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107890903-3715ff80-6efa-11eb-96aa-9729858c47a4.jpg)
 
-## Como usar Destructuring em ReactJS
+## Destructuring
 <p>Ao trabalhar com JavaScript, em vários cenários a gente acaba pegando partes de variáveis e atribuindo a outras variáveis. No entanto, quando alteramos a variável não alteramos o objeto diretamente. O destructuring pode ser usado em <b>nested objects</b> (objetos aninhados).</p>
 
 ### Exemplo 1: Destructuring Assignment
@@ -1936,7 +1936,7 @@ Como fazer um destructuring assignement em um array (arr), atribuindo o valor do
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107993918-58d6bb80-6fba-11eb-95db-6ccf6906bc8d.jpg)
 <hr>
 
-<h1 align="center">Cap: 📜 [ES6] Generators ⚗️</h1>
+<h1 align="center">Cap: 📜 [Advanced ES6] Generators ⚗️</h1>
 
 ## Symbols
 
