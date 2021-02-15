@@ -1939,6 +1939,11 @@ Como fazer um destructuring assignement em um array (arr), atribuindo o valor do
 <h1 align="center">Cap: 📜 [Advanced ES6] Generators ⚗️</h1>
 
 ## Symbols
+<p>Possui uma maneira de gerar um identificador único e a forma de gerar esse identificador é invocando o Symbol.</p>
+
+### Exemplo 1:
+
+<hr>
 
 ## Iterators
 
