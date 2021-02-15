@@ -1933,6 +1933,8 @@ A forma de combinar dois arrays utilizando spread operator: <code>[...arr1, ...a
  
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107993918-58d6bb80-6fba-11eb-95db-6ccf6906bc8d.jpg)
 
+ destructuring assignement em um array (arr), atribuindo o valor do seu primeiro índice para uma constante teste? const [ teste ] = arr;
+
 <hr>
 
 
