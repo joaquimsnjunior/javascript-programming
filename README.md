@@ -1923,6 +1923,7 @@ Ele pode ser usado em Strings, Arrays, Objetos Literais e Objetos Iteráveis. S�
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107992876-65f2ab00-6fb8-11eb-8e5b-25a5d4833225.jpg)
 
 ### Exemplo 9:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107993011-b8cc6280-6fb8-11eb-90c1-855402953cad.jpg)
 
 <hr>
 
