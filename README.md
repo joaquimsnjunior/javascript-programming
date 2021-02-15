@@ -1913,6 +1913,8 @@ Ele pode ser usado em Strings, Arrays, Objetos Literais e Objetos Iteráveis. S�
 ### Exemplo 5:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107987656-2d010900-6fad-11eb-9eb4-8285fb45b2d8.jpg)
 
+### Exemplo 6:
+
 <hr>
 
 
