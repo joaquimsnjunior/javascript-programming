@@ -1905,7 +1905,7 @@ Ele pode ser usado em Strings, Arrays, Objetos Literais e Objetos Iteráveis. S�
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107977872-9deaf580-6f9a-11eb-8095-1b8a6ec3f13f.jpg)
 
 ### Exemplo 3:
-
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/107981757-7a777900-6fa1-11eb-8dc2-dd87a46f9dbf.jpg)
 
 <hr>
 
