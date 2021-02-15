@@ -1944,9 +1944,8 @@ Como fazer um destructuring assignement em um array (arr), atribuindo o valor do
 
 ### Exemplo 1:
 
-<hr>
-
 ## Iterators
+<hr>
 
 
 
