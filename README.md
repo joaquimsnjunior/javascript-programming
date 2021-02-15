@@ -1916,6 +1916,8 @@ Ele pode ser usado em Strings, Arrays, Objetos Literais e Objetos Iteráveis. S�
 ### Exemplo 6:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107988292-730a9c80-6fae-11eb-8097-b1f5f4676e9c.jpg)
 
+### Exemplo 7:
+
 <hr>
 
 
