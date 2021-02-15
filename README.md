@@ -1934,9 +1934,13 @@ Como fazer um destructuring assignement em um array (arr), atribuindo o valor do
 É possível combinar default function arguments com destructuring? Sim, sempre que necessário podemos utilizar os dois, respeitando as regras de ambos.
  
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107993918-58d6bb80-6fba-11eb-95db-6ccf6906bc8d.jpg)
-
 <hr>
 
+<h1 align="center">Cap: 📜 [ES6] Generators ⚗️</h1>
+
+## Symbols
+
+## Iterators
 
 
 
