@@ -1841,7 +1841,8 @@ A característica que permite podermos utilizar funções para definir valores d
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107860767-f2b63100-6e1f-11eb-87f2-1b868dc34e52.jpg)
 
 ## Rest Operator
-<p>Escreve com <code>...</code> antes do parâmetro e ele traz métodos de array para manipular os seus argumentos.</p>
+<p>Escreve com <code>...</code> antes do parâmetro e ele traz métodos de array para manipular os seus argumentos. Quando o rest operator é utilizado nos argumentos de uma função, além da lista de argumentos, ele também traz os métodos e propriedades de array por ser uma instância de um array.
+</p>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107861077-0f536880-6e22-11eb-97fd-8c6aeeb3c604.jpg)
