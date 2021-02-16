@@ -1,4 +1,4 @@
-# 📜 It's a repository of JavaScript (JS) programming 📒🔢
+# <img src="https://emojis.slackmojis.com/emojis/images/1520330049/3616/js.png?1520330049" height="27"> It's a repository of JavaScript (JS) programming 📒🔢
 <!--
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 [![JSON](https://img.shields.io/badge/-package.json-000000?style=social&logo=JSON&logoColor=gray)](#)
