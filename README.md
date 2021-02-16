@@ -1948,6 +1948,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108003495-c17d6280-6fd1-11eb-8588-e5f4734f9e73.jpg)
 
 ### Exemplo 2:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/108004884-eb388880-6fd5-11eb-8f8a-1e0e22e1aeef.jpg)
 
 ## Iterators
 <hr>
