@@ -1985,9 +1985,10 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <h1 align="center">Cap: 📜 [Advanced ES6] Aprenda sobre Generators e onde utilizá-los ⚗️📖</h1>
 <p>Generators são funções com pausa e elas despausam valores através da interface de iteração.</p>
 
-### Exemplo 1:
+### Exemplo 1: Função normal
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108135713-5f873080-7097-11eb-952d-d8b58cbf49e6.jpg)
 
+### Exemplo 2: Função Generator
 
 
 
