@@ -1966,7 +1966,9 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <p>Você pode modificar o symbols com as suas propriedades.</p>
 
 ### Exemplo 1: Well known Symbols
+<pre>Symbol.</pre>
 
+### Exemplo 2: Symbol.iterator
 
 ## Iterators
 <hr>
