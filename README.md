@@ -1962,6 +1962,12 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 ### Exemplo 4: Gerando propriedade privada
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108078963-085c6e00-704d-11eb-8725-bd9ca4f9e0e1.jpg)
 
+## Propriedades do Symbols
+<p>Você pode modificar o symbols com as suas propriedades.</p>
+
+### Well known Symbols
+
+
 ## Iterators
 <hr>
 
