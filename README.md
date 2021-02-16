@@ -1943,6 +1943,7 @@ Como fazer um destructuring assignement em um array (arr), atribuindo o valor do
 <p>Possui uma maneira de gerar um identificador único e a forma de gerar esse identificador é invocando o Symbol.</p>
 
 ### Exemplo 1:
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/108003495-c17d6280-6fd1-11eb-8588-e5f4734f9e73.jpg)
 
 ## Iterators
 <hr>
