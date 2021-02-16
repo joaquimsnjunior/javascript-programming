@@ -1989,7 +1989,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108135713-5f873080-7097-11eb-952d-d8b58cbf49e6.jpg)
 
 ### Exemplo 2: Função Generator
-
+![image](https://user-images.githubusercontent.com/61624336/108136234-6c585400-7098-11eb-8b62-97c803e120f0.png)
 
 
 
