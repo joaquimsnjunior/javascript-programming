@@ -1969,6 +1969,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <pre>Symbol.</pre>
 
 ### Exemplo 2: Symbol.iterator
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/108110433-01942200-7072-11eb-82fc-0cb89d4bd139.jpg)
 
 ## Iterators
 <hr>
