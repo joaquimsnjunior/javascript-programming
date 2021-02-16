@@ -1747,6 +1747,11 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 <hr>
 
+<h1 align="center">Desmistificando map, filter e reduce</h1>
+<p></p>
+
+<hr>
+
 <h1 align="center">Cap: 📜 [Advanced ES6] Funções Hoisting 🏗️🤹</h1>
 
 ### Exemplo 1:
