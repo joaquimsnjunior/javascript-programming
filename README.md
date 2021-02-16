@@ -1965,7 +1965,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 ## Propriedades do Symbols
 <p>Você pode modificar o symbols com as suas propriedades.</p>
 
-### Well known Symbols
+### Exemplo 1: Well known Symbols
 
 
 ## Iterators
