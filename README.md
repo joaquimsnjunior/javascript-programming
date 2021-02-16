@@ -1959,6 +1959,8 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 ### Exemplo 3: Comparando identificação
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108005058-613cef80-6fd6-11eb-82fd-572cfe36ccca.jpg)
 
+### Exemplo 4: Gerando propriedade privada
+
 ## Iterators
 <hr>
 
