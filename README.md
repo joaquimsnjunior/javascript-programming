@@ -1950,6 +1950,8 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 ### Exemplo 2:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108004884-eb388880-6fd5-11eb-8f8a-1e0e22e1aeef.jpg)
 
+### Exemplo 3: Comparando identificação
+
 ## Iterators
 <hr>
 
