@@ -2003,7 +2003,9 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 ### Exemplo 6:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108269391-ac790e80-714c-11eb-8f4c-bb0d9b840eed.jpg)
 
+<hr>
 
+<h1 align="center">Cap: 📜 Aplicando conceitos Promises e Fetch </h1>
 
 
 
