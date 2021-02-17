@@ -1992,6 +1992,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108136352-ac1f3b80-7098-11eb-8bbc-f27b8b0d1fb7.jpg)
 
 ### Exemplo 3: Ordenando a função Generator
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/108256890-cf032b80-713c-11eb-923d-9198cf0917d3.jpg)
 
 
 
