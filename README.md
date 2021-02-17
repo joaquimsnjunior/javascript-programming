@@ -1995,6 +1995,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108256890-cf032b80-713c-11eb-923d-9198cf0917d3.jpg)
 
 ### Exemplo 4: 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/108260107-abda7b00-7140-11eb-9ae2-6225c4d1139d.jpg)
 
 
 
