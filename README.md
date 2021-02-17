@@ -2005,8 +2005,8 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 
 <hr>
 
-<h1 align="center">Cap: 📜 Aplicando conceitos Promises e Fetch </h1>
-
+<h1 align="center">Cap: 📜 Aplicando conceitos Promises e Fetch 🎫🎟️</h1>
+<p></p>
 
 
 
