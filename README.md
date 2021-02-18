@@ -2011,6 +2011,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <hr>
 
 <h1 align="center">Cap: 📜 Entendendo Promises de uma vez por todas 🎫</h1>
+<img src="https://miro.medium.com/max/1366/0*qd397CiUFnmsbH2H.png" height="100">
 <p></p>
 
 
