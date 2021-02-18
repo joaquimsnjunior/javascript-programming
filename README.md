@@ -2015,7 +2015,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <div align="center"><img src="https://miro.medium.com/max/1366/0*qd397CiUFnmsbH2H.png" height="170"></div>
 <p>Promises são um conceito essencial do JavaScript. Elas estão presentes em praticamente todo o ecossistema da linguagem.</p>
 
-
+## Código síncrono
 
 
 
