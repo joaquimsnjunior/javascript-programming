@@ -1472,6 +1472,11 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103964080-51a9cb80-5139-11eb-8a2b-f03f6be7fd2e.jpg"/></div>
 <hr>
 
+<h1 align="center">Cap: 📜 Desmistificando map, filter e reduce 🗺️🗾🗻</h1>
+<p></p>
+
+<hr>
+
 <h1 align="center">Cap: 📜 Entendendo Promises de uma vez por todas 🎫</h1>
 <div align="center"><a href="https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2"><img src="https://miro.medium.com/max/1366/0*qd397CiUFnmsbH2H.png" height="170" title="Read the Blog"></a></div>
 <p>Promises são um conceito essencial do JavaScript. Elas estão presentes em praticamente todo o ecossistema da linguagem e possui um fluxo assíncrono.</p>
@@ -1780,11 +1785,6 @@ Quando abrimos o navegador e carregamos uma página automaticamente é criado um
 
 ### Exemplo 1:
 ![js](https://user-images.githubusercontent.com/61624336/104258122-af9e2200-545d-11eb-8b25-236825250ff7.jpg)
-
-<hr>
-
-<h1 align="center">Desmistificando map, filter e reduce</h1>
-<p></p>
 
 <hr>
 
