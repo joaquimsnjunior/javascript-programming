@@ -2008,8 +2008,10 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <h1 align="center">Cap: 📜 Aplicando conceitos Promises e Fetch 🎫🎟️</h1>
 <p></p>
 
+<hr>
 
-
+<h1 align="center">Cap: 📜 Entendendo Promises de uma vez por todas 🎫</h1>
+<p></p>
 
 
 
