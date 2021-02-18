@@ -78,6 +78,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-6DB33F?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/default.asp)
 [![Css3](https://img.shields.io/badge/-CSS3-6DB33F?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 [![JS](https://img.shields.io/badge/-JavaScript-6DB33F?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.w3schools.com/js/DEFAULT.asp)
+[![JS](https://img.shields.io/badge/-Promisees-6DB33F?style=for-the-badge&logo=JavaScript&logoColor=white)](https://bevacqua.github.io/promisees/)
 [![JSON](https://img.shields.io/badge/-JSON-6DB33F?style=for-the-badge&logo=JSON&logoColor=white)](https://www.w3schools.com/js/js_json_intro.asp)
 [![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-343434?style=for-the-badge&logo=React&logoColor=lime)](https://www.nodestudio.com.br/)
 
