@@ -110,6 +110,8 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-14--procedural-javascript-">📜 Procedural JavaScript 📜</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-15--javascript-oop-">📜 JavaScript OOP ⚽</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-">📜 Eventos 📙🎪</a></li>
+  <li>📜 Desmistificando map, filter e reduce 📒</li>
+  <li>📜 Entendendo Promises de uma vez por todas 🎫</li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-17--browser-object-model-bom-%EF%B8%8F">📜 Browser Object Model (BOM) 🧙‍♀️</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-18--document-object-model-dom-%EF%B8%8F">📜 Document Object Model (DOM) 🧙‍♂️</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-19--dom-getelementbyid--getelementsbyclassname-%EF%B8%8F">📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</a></li>
@@ -127,14 +129,14 @@
   <li><a href="">📜 [DOM] replaceChild 🧙‍♂️🦄</a></li>
   <li>📜 [DOM] Promises 🧙‍♂️🧚</li>
   <li>📜 [DOM] Async 🧙‍♂️🧝‍♂️</li>
+  <li>📜 [DOM] Async 🧙‍♂️🗺️</li>
   <li>📜 Audio em JS 🔊🎵</li>
   <li>📜 Validações em JavaScript ✅</li>
   <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
   <li>📜 ECMAScript 6 (ES6) 📒</li>
-  <li>📜 Desmistificando map, filter e reduce 📒</li>
-  <li>📜 [ES6] Funções Hoisting 🏗️🤹</li>
-  <li>📜 [ES6] OOP 🪀</li>
-  <li>📜 [ES6] Design Patterns 🌺</li>
+  <li>📜 [Advanced ES6] Funções Hoisting 🏗️🤹</li>
+  <li>📜 [Advanced ES6] OOP 🪀</li>
+  <li>📜 [Advanced ES6] Design Patterns 🌺</li>
   <li>📜 Functional JavaScript <b>λ</b></li>
   <li>📜 JavaScript Map 🗺️</li>
   <li>📜 JSON 📋</li>
