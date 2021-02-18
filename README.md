@@ -2016,7 +2016,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <p>Promises são um conceito essencial do JavaScript. Elas estão presentes em praticamente todo o ecossistema da linguagem e possui um fluxo assíncrono.</p>
 
 ## Código síncrono
-
+<p>Pensamos de forma linear e sincronamente. A maioria das linguagens de programação trabalha de forma assíncrona, pois a maioria trabalha com internet.</p>
 
 
 
