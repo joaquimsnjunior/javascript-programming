@@ -2038,6 +2038,7 @@ De acordo com a imagem acima você precisa calcular o tempo, que no caso são 9s
 ## Promises no Node.js
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108413712-1b686d00-720a-11eb-8656-f5d9e6d3fe46.jpg)
 
+<p>Fez uma requisição e ela não vai terminar agora, vai demorar um pouco para essa requisição ser concluída</p>
 <hr>
 
 
