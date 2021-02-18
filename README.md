@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1520330049/3616/js.png?1520330049" height="27"> It's a repository of JavaScript (JS) programming 📒🔢
+# <img src="https://emojis.slackmojis.com/emojis/images/1520330049/3616/js.png?1520330049" height="27"> It's a repository of JavaScript (JS) programming 📜📒🔢
 <!--
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 [![JSON](https://img.shields.io/badge/-package.json-000000?style=social&logo=JSON&logoColor=gray)](#)
@@ -2012,7 +2012,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 
 <h1 align="center">Cap: 📜 Entendendo Promises de uma vez por todas 🎫</h1>
 <div align="center"><img src="https://miro.medium.com/max/1366/0*qd397CiUFnmsbH2H.png" height="170"></div>
-<p></p>
+<p>Promises são um conceito essencial do JavaScript. Elas estão presentes em praticamente todo o ecossistema da linguagem.</p>
 
 
 
