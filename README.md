@@ -1474,7 +1474,9 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 
 <h1 align="center">Cap: 📜 Desmistificando map, filter e reduce 🗺️🗾🗻</h1>
 <p></p>
+<hr>
 
+<h1 align="center">Cap: 📜 Como funciona o async/await 🦽🦼</h1>
 <hr>
 
 <h1 align="center">Cap: 📜 Entendendo Promises de uma vez por todas 🎫</h1>
