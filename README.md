@@ -1510,8 +1510,10 @@ De acordo com a imagem acima você precisa calcular o tempo, que no caso são 9s
   
 Quando a sua operação principal acabar, ela vai chamar a sua função de Callback, enquanto isso ela vai ficar tudo rodando na sua aplicação. Em casos de ler arquivos mais pesados, como de 2GB por exemplo, você não precisa parar o processamento inteiro para ler o arquivo inteiro e depois voltar, portanto isso é uma das grandes vantagens.</p>
 
-## 📜 Exemplo de requisição com Promises 🎫
+## 📜 Exemplo 1: Requisição com Promises (Asynchronous Reading) 🎫📖
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108542870-0c91c100-72c3-11eb-8cac-2552152dab53.jpg)
+
+## Exemplo 2: 
 
 <hr>
 
