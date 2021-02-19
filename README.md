@@ -1507,6 +1507,9 @@ De acordo com a imagem acima você precisa calcular o tempo, que no caso são 9s
 <p>Fez uma requisição e ela não vai terminar agora, vai demorar um pouco para essa requisição ser concluída. Ao realizar a requisição ela vai ser redirecionada ao Event Loop seu posicionamento principal e a Função de Callback. Logo em seguida vai registrar essa função de Callback em uma fila, essa função ficará registrada. 
   
 Quando a sua operação principal acabar, ela vai chamar a sua função de Callback, enquanto isso ela vai ficar tudo rodando na sua aplicação. Em casos de ler arquivos mais pesados, como de 2GB por exemplo, você não precisa parar o processamento inteiro para ler o arquivo inteiro e depois voltar, portanto isso é uma das grandes vantagens.</p>
+
+## 📜 Exemplo de requisição com Promises 🎫
+
 <hr>
 
 <h1 align="center">Cap 17: 📜 Browser Object Model (BOM) 🧙‍♀️</h1>
