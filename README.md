@@ -1513,7 +1513,7 @@ Quando a sua operação principal acabar, ela vai chamar a sua função de Callb
 ## 📜 Exemplo 1: Requisição com Promises (Asynchronous Reading) 🎫📖
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108542870-0c91c100-72c3-11eb-8cac-2552152dab53.jpg)
 
-## Exemplo 2: 
+## Exemplo 2: Ler estrofes de cada vez
 
 <hr>
 
