@@ -1515,7 +1515,7 @@ Quando a sua operação principal acabar, ela vai chamar a sua função de Callb
 
 ## Exemplo 2: Ler estrofes de cada vez
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108577334-70d27600-72ff-11eb-908b-5dc638abf445.jpg)
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/108577407-b3944e00-72ff-11eb-9e2a-cb49d391e4af.jpg)
+
 
 <hr>
 
