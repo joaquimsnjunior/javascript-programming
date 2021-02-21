@@ -1520,9 +1520,9 @@ Quando a sua operação principal acabar, ela vai chamar a sua função de Callb
 
 ## Exemplo 3: funções síncronas e função assíncrona
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108634904-bfe0ee00-745a-11eb-8112-c1d9d6434303.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/108634949-1a7a4a00-745b-11eb-8270-733a2a529a63.jpg)
 
 ## Exemplo 4: Função de Callback Assíncrona
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/108634949-1a7a4a00-745b-11eb-8270-733a2a529a63.jpg)
 
 <hr>
 
