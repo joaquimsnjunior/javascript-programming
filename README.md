@@ -1524,6 +1524,7 @@ Quando a sua operação principal acabar, ela vai chamar a sua função de Callb
 
 ## Exemplo 4: Função de Callback Assíncrona
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108637266-a777d000-7468-11eb-8d11-c0257fea5ab4.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/108637403-3684e800-7469-11eb-91ba-dc91bb88b202.jpg)
 
 <hr>
 
