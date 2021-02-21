@@ -1484,7 +1484,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <div align="center"><a href="https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2"><img src="https://miro.medium.com/max/1366/0*qd397CiUFnmsbH2H.png" height="170" title="Read the Blog"></a></div>
 <p>Promises são um conceito essencial do JavaScript. Elas estão presentes em praticamente todo o ecossistema da linguagem e possui um fluxo assíncrono.</p>
 
-## Código Síncrono
+## Código Síncrono 📘📕📗📙
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108409670-47352400-7205-11eb-9c42-680936e0b426.jpg)
 
 <p>Pensamos de forma linear e sincronamente. A maioria das linguagens de programação trabalha de forma assíncrona, pois a maioria trabalha com internet e quando fazemos requisições, e essas coisas são assíncronas.
@@ -1494,7 +1494,7 @@ De acordo com a imagem acima você precisa calcular o tempo, que no caso são 9s
 ## Promises
 <p>As promises são muito necessárias porque paralelalizam cada componente do site, ou seja, os arquivos HTML, CSS e JS funcionam de maneira paralela.</p>
 
-## Código Assíncrono
+## Código Assíncrono 📚
 - Requests HTTP
 - Leitura de arquivos
 - Acesso a serviço externo
@@ -1523,6 +1523,7 @@ Quando a sua operação principal acabar, ela vai chamar a sua função de Callb
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/108634949-1a7a4a00-745b-11eb-8270-733a2a529a63.jpg)
 
 ## Exemplo 4: Função de Callback Assíncrona
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/108637266-a777d000-7468-11eb-8d11-c0257fea5ab4.jpg)
 
 <hr>
 
