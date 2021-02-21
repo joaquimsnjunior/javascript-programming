@@ -111,6 +111,7 @@
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-15--javascript-oop-">📜 JavaScript OOP ⚽</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-">📜 Eventos 📙🎪</a></li>
   <li>📜 Desmistificando map, filter e reduce 🗺️🗾🗻</li>
+  <li>📜 Como funciona o async/await 🦽🦼</li>
   <li>📜 Entendendo Promises de uma vez por todas 🎫</li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-17--browser-object-model-bom-%EF%B8%8F">📜 Browser Object Model (BOM) 🧙‍♀️</a></li>
   <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-18--document-object-model-dom-%EF%B8%8F">📜 Document Object Model (DOM) 🧙‍♂️</a></li>
