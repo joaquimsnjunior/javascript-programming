@@ -1047,7 +1047,9 @@ No caso de um objeto com propriedades (variáveis), fazemos assim:
 
 <p>Existem alguns métodos e argumentos que mudam a funcionalidade de um array, tais como:</p>
 
-### .("🍎","🍐") Tabela de Arrays mod .("🍊","🍇")
+### .("🍎","🍐") Tabela de métodos de Arrays .("🍊","🍇")
+![JavaScript-Array-Methods](https://user-images.githubusercontent.com/61624336/112920823-1be50500-90e0-11eb-8adc-7d57c467aab7.jpg)
+
 <table>
   <tr>
     <td><b>Método</b></td>
