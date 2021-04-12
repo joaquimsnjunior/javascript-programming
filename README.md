@@ -88,68 +88,6 @@
   <li>https://developers.google.com/blockly</li>
   <li>https://br.codecombat.com/</li>
 </ul>
-
-## 📜 Main menu - Fundamentals about the JavaScript (JS) language 📜:
-<strong>All topics: </strong>
-<ol>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-01--the-history-of-javascript-js-">📜 The History of JavaScript (JS) 🔢</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-02--primeiros-comandos-com-javascript-%EF%B8%8F">📜 Primeiros comandos com JavaScript 🖥️</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-03--tipos-primitivos-">📜 Tipos Primitivos 🐵</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-04--o-que-s%C3%A3o-operadores-">📜 O que são operadores? ➗</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-05--o-que-s%C3%A3o-vari%C3%A1veis-">📜 O que são variáveis? 📥</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-06--escopo-">📜 Escopo 🏠🗾🌏</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-07--estrutura-condicional-">📜 Estrutura condicional 👍👎</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-08--la%C3%A7os-de-repeti%C3%A7%C3%A3o-">📜 Laços de Repetição 🔁</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-09--arrays-vetores-">📜 Arrays (Vetores) 🛒</a></li>
-  <li><a href="">📜 Arrays (Matrizes) 🛒🛒🛒</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-10--valores-em-js-">📜 Valores em JS 💛</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-11--data-e-hor%C3%A1rio-em-js-">📜 Data e horário em JS 🕒📅</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-12--dicion%C3%A1rios-em-js-">📜 Dicionários em JS 📖</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-13--fun%C3%A7%C3%B5es-em-js-">📜 Funções em JS 🤹</a></li>
-  <li><a href="">📜 JavaScript Modules 📤📥</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-14--procedural-javascript-">📜 Procedural JavaScript 📜</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-15--javascript-oop-">📜 JavaScript OOP ⚽</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-">📜 Eventos 📙🎪</a></li>
-  <li>📜 Desmistificando map, filter e reduce 🗺️🗾🗻</li>
-  <li>📜 Como funciona o async/await 🦽🦼</li>
-  <li>📜 Entendendo Promises de uma vez por todas 🎫</li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-17--browser-object-model-bom-%EF%B8%8F">📜 Browser Object Model (BOM) 🧙‍♀️</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-18--document-object-model-dom-%EF%B8%8F">📜 Document Object Model (DOM) 🧙‍♂️</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-19--dom-getelementbyid--getelementsbyclassname-%EF%B8%8F">📜 [DOM] getElementById | getElementsByClassName 🧙‍♂️🔮</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-20--dom-getelementbytagname--queryselector-%EF%B8%8F">📜 [DOM] getElementByTagName | querySelector 🧙‍♂️✨</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-21--dom-queryselectorall-%EF%B8%8F">📜 [DOM] querySelectorAll 🧙‍♂️🎇</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-22--dom-innerhtml-style-e-atributos-%EF%B8%8F%EF%B8%8F">📜 [DOM] innerHTML, Style e Atributos 🧙‍♂️🌬️</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-23--dom-createelement-%EF%B8%8F">📜 [DOM] createElement 🧙‍♂️🥚</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-24--dom-appendchild--removechild-%EF%B8%8F">📜 [DOM] appendChild | removeChild 🧙‍♂️🐲💥</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-25--dom-childnodes-%EF%B8%8F">📜 [DOM] childNodes 🧙‍♂️👨‍👦‍👦</a></li>
-  <li><a href="https://github.com/IsaacAlves7/javascript-programming#cap-26--dom-nodename-nodetype-nodevalue-%EF%B8%8F">📜 [DOM] nodeName, nodeType, nodeValue 🧙‍♂️🩸</a></li>
-  <li><a href="">📜 [DOM] parentNode 🧙‍♂️🔬</a></li>
-  <li><a href="">📜 [DOM] getAttribute, setAttribute e removeAttribute 🧙‍♂️⚔️</a></li>
-  <li><a href="">📜 [DOM] createTextNode e textContent 🧙‍♂️🛡️</a></li>
-  <li><a href="">📜 [DOM] children e insertBefore 🧙‍♂️🏰</a></li>
-  <li><a href="">📜 [DOM] replaceChild 🧙‍♂️🦄</a></li>
-  <li>📜 [DOM] Promises 🧙‍♂️🧚</li>
-  <li>📜 [DOM] Async 🧙‍♂️🧝‍♂️</li>
-  <li>📜 [DOM] Async 🧙‍♂️🗺️</li>
-  <li>📜 Audio em JS 🔊🎵</li>
-  <li>📜 Validações em JavaScript ✅</li>
-  <li>📜 Reactive programming JavaScript with ReactiveX 🐉⚡</li>
-  <li>📜 ECMAScript 6 (ES6) 📒</li>
-  <li>📜 [Advanced ES6] Funções Hoisting 🏗️🤹</li>
-  <li>📜 [Advanced ES6] OOP 🪀</li>
-  <li>📜 [Advanced ES6] Design Patterns 🌺</li>
-  <li>📜 Functional JavaScript <b>[λ]</b></li>
-  <li>📜 JavaScript Map 🗺️</li>
-  <li>📜 JSON 📋</li>
-  <li>📜 AJAX 🔃</li>
-  <li>📜 Vanilla JavaScript x jQuery Framework 🍦☄️</li>
-  <li>📜 Node.js 🟩</li>
-  <li>📜 MongoDB 🍃</li>
-  <li>📜 Express 🌹</li>
-  <li>📜 RESTful API x REST API 🔁</li>
-  <li>📜 Inteligência Artificial em JavaScript 🧠</li>
-  <li>📜 Tensorflow.js 🤖📚</li>
-</ol>
 <hr>
 <!--Parte do repositório de html5 e css3 development-->
 
