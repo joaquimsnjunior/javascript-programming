@@ -1185,6 +1185,10 @@ funcao = () => {
 })(10, 5);
 </pre>
 
+## Sintaxe (Immediatly invoked function expression with Arrow Function)
+<pre>(() => {
+})();</pre>
+
 ### Sintaxe (Anonymous Function)
 <pre>
 var log = function(value){
