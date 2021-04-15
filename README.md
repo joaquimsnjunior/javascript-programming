@@ -1187,6 +1187,7 @@ funcao = () => {
 
 ## Sintaxe (Immediatly invoked function expression with Arrow Function)
 <pre>(() => {
+  console.log('Hello, world!');
 })();</pre>
 
 ### Sintaxe (Anonymous Function)
