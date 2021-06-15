@@ -2007,6 +2007,11 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <h1 align="center">Cap: 📜 Aplicando conceitos Promises e Fetch 🎫🎟️</h1>
 <p></p>
 
+## 📜 Web Dev Stacks 🔋
+Iremos utilizar o **MERN** mais pra frente.
+
+![36ed3e0f-5344-4a7e-b807-e6104c6d63be](https://user-images.githubusercontent.com/61624336/117226732-ad384d00-adeb-11eb-8d91-e3ea47b6050b.jpg)
+
 <hr>
 
 # Dia do Programador
