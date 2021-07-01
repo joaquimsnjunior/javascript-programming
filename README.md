@@ -2008,7 +2008,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <p></p>
 
 ## 📜 Web Dev Stacks 🔋
-Iremos utilizar o **MERN** mais pra frente.
+Iremos utilizar todos! Mais pra frente.
 
 ![36ed3e0f-5344-4a7e-b807-e6104c6d63be](https://user-images.githubusercontent.com/61624336/117226732-ad384d00-adeb-11eb-8d91-e3ea47b6050b.jpg)
 
@@ -2020,9 +2020,10 @@ Iremos utilizar o **MERN** mais pra frente.
 ## NPM Save
 ![1_h-dSq3-RIeA_UT1UbXBc7Q](https://user-images.githubusercontent.com/61624336/113332204-3e9d3680-92f7-11eb-884f-60aa13222aca.png)
 
+# AWS - Amazon Web Services
 
-
-
+<img height="270" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg">
+<img height="270" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg">
 
 
 
