@@ -2022,8 +2022,8 @@ Iremos utilizar todos! Mais pra frente.
 
 # AWS - Amazon Web Services
 
-<img height="270" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg">
-<img height="270" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg">
+<img height="170" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg">
+<img height="170" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg">
 
 
 
