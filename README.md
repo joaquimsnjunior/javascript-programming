@@ -2024,7 +2024,7 @@ Iremos utilizar todos! Mais pra frente.
 
 <div align="center"><img height="170" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg">&nbsp;<img height="170" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"></div>
 
-
+Criada em 2006, a AWS é um provedor de serviços em nuvem que oferece serviços
 
 
 
