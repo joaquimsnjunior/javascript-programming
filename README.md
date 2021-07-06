@@ -155,8 +155,12 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 <a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
 <p>O Phaser é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
 
-## 📜 ProcessingJS 🤪
+## 📜 Processing.js 🤪
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Processing_Logo_Clipped.svg/180px-Processing_Logo_Clipped.svg.png"></div>
+
+**Processing.js** é uma porta JavaScript descontinuada de Processing, uma estrutura projetada para escrever visualizações, imagens e conteúdo interativo. Ele permite que os navegadores da web exibam animações, aplicativos visuais, jogos e outros conteúdos gráficos ricos sem a necessidade de um miniaplicativo Java ou plugin Flash.
+
+<blockquote>Um exemplo de aplicação feita com Processing.js são os emojis interativos e animados do Facebook, como o amei, grr, triste, haha, uau, like e um bônus.</blockquote>
 
 ## 📜 A importância e a utilidade do JavaScript para o mundo 🏆
 <div align="center"><img src="https://www.mentorpitch.com/blog/wp-content/uploads/2016/02/Corporate-accelerators.jpg" width="407" height="367"/><img src="https://miro.medium.com/max/780/1*IivjRSnfzz6coQn8FcPp5A.jpeg" width="407" height="367"/></div>
