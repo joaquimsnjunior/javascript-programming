@@ -64,7 +64,7 @@
 [![Gulp](https://img.shields.io/badge/-Gulp-FFE800?style=for-the-badge&logo=gulp&logoColor=black)](https://github.com/IsaacAlves7/gulp-programming)
 [![Webpack](https://img.shields.io/badge/-Webpack-FFE800?style=for-the-badge&logo=Webpack&logoColor=black)](https://github.com/IsaacAlves7/webpack-programming)
 [![Jest](https://img.shields.io/badge/-Jest-FFE800?style=for-the-badge&logo=Jest&logoColor=black)](https://github.com/IsaacAlves7/webpack-programming)
-[![Systems Architecture](https://img.shields.io/badge/-Systems‍‍Architecture-FFE800?style=for-the-badge&logo=ReactOS&logoColor=black)](https://github.com/IsaacAlves7/systems-architecture)
+[![DevOps](https://img.shields.io/badge/-‍‍DevOps-FFE800?style=for-the-badge&logo=ReactOS&logoColor=black)](https://github.com/IsaacAlves7/systems-architecture)
 
 ## 🔗 Links de Apoio 📚:
 [![Codepen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=CodePen&logoColor=white)]()
