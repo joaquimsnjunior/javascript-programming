@@ -2002,12 +2002,13 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 # Dia do Programador
 ![js](https://user-images.githubusercontent.com/61624336/112912839-edaaf980-90ce-11eb-9d72-9578fbfffbbf.jpg)
 
-## NPM Save
-![1_h-dSq3-RIeA_UT1UbXBc7Q](https://user-images.githubusercontent.com/61624336/113332204-3e9d3680-92f7-11eb-884f-60aa13222aca.png)
+<hr>
 
-<h1 align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="37"> Desenvolvimento back-end com Node.js 🟩</h1>
+<h1 align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="32"> Desenvolvimento back-end com Node.js 🟩</h1>
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div>
 
+## NPM Save
+![1_h-dSq3-RIeA_UT1UbXBc7Q](https://user-images.githubusercontent.com/61624336/113332204-3e9d3680-92f7-11eb-884f-60aa13222aca.png)
 
 
 
