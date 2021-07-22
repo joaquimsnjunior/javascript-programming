@@ -146,7 +146,7 @@ O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript 
   
 Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
-## 📜 Phaser 🎮🕹️
+## 📜 Phaser 🕹️
 <a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
 <p>O Phaser é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
 
@@ -2025,8 +2025,8 @@ Iremos utilizar todos! Mais pra frente.
 
 Criada em 2006, a AWS é um provedor de serviços em nuvem que oferece serviços
 
-
-
+<h1 align="center">🟩 Desenvolvimento back-end com Node.js 🟩</h1>
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div>
 
 
 
