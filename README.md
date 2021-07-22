@@ -1999,7 +1999,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <h1 align="center">Cap: 📜 Aplicando conceitos Promises e Fetch 🎫🎟️</h1>
 <p></p>
 
-# Dia do Programador
+# 📜 Dia do Programador 🎂
 ![js](https://user-images.githubusercontent.com/61624336/112912839-edaaf980-90ce-11eb-9d72-9578fbfffbbf.jpg)
 
 <hr>
