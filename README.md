@@ -29,6 +29,8 @@
   <li>Programming paradigms;</li>
   <li>HTML and CSS;</li>
   <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
+  <li>HTTP protocols (GET, POST, PUT, DELETE);</li>
+  <li>REST API;</li>
   <li>Desire to learn.</li>
 </ul>
 
