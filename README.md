@@ -2006,31 +2006,21 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 <h1 align="center">Cap: 📜 Aplicando conceitos Promises e Fetch 🎫🎟️</h1>
 <p></p>
 
-## 📜 Web Dev Stacks 🔋
-Iremos utilizar todos! Mais pra frente.
-
-![36ed3e0f-5344-4a7e-b807-e6104c6d63be](https://user-images.githubusercontent.com/61624336/117226732-ad384d00-adeb-11eb-8d91-e3ea47b6050b.jpg)
-
-<hr>
-
 # Dia do Programador
 ![js](https://user-images.githubusercontent.com/61624336/112912839-edaaf980-90ce-11eb-9d72-9578fbfffbbf.jpg)
 
 ## NPM Save
 ![1_h-dSq3-RIeA_UT1UbXBc7Q](https://user-images.githubusercontent.com/61624336/113332204-3e9d3680-92f7-11eb-884f-60aa13222aca.png)
 
-# AWS - Amazon Web Services
-
-<div align="center"><img height="170" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg">&nbsp;<img height="170" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"></div>
-
-Criada em 2006, a AWS é um provedor de serviços em nuvem que oferece serviços
-
 <h1 align="center">🟩 Desenvolvimento back-end com Node.js 🟩</h1>
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div>
 
+## 📜 Web Dev Stacks 🔋
+Iremos utilizar todos! Mais pra frente.
 
+![36ed3e0f-5344-4a7e-b807-e6104c6d63be](https://user-images.githubusercontent.com/61624336/117226732-ad384d00-adeb-11eb-8d91-e3ea47b6050b.jpg)
 
-
+<hr>
 
 
 
