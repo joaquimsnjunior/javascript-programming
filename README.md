@@ -316,7 +316,7 @@ Em Java existe várias formas de implementar o STDIN e STDOUT recomendamos utili
 
 #### Exemplo:
   
-```javascript
+```java
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 StringTokenizer st = new StringTokenizer(br.readLine()); // Lê a linha de entrada
 int a = Integer.parseInt(st.nextToken());
