@@ -304,33 +304,36 @@ As linguagens hoje em dia nos fornecem várias funcionalidades que, com um simpl
 Em JavaScript as funções de STDIN e STDOUT respectivamente são <code>gets()</code> e <code>console.log</code>, a função gets é implementada internamente para auxiliar a entrada dos dados.
 
 #### Exemplo:
-<pre>
+  
+```javascript
 let line = gets(); // Retorna a próxima linha de entrada
 console.log(line); // Imprime o dado
-</pre>
+```
 
 ### Java
 
 Em Java existe várias formas de implementar o STDIN e STDOUT recomendamos utilizar <code>BufferedReader</code> para o STDIN e o <code>System.out.println</code> para o STDOUT.
 
 #### Exemplo:
-<pre>
+  
+```javascript
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 StringTokenizer st = new StringTokenizer(br.readLine()); // Lê a linha de entrada
 int a = Integer.parseInt(st.nextToken());
 System.out.println(a); // Imprime o dado
-</pre>
+```
 
 ### Python
 
 Em Python existe várias formas de implementar o STDIN e STDOUT recomendamos utilizar <code>sys.stdin.readline</code> para o STDIN e o <code>print</code> para o STDOUT.
 
 #### Exemplo:
-<pre>
+  
+```python
 import sys
 a = int(sys.stdin.readline()) // Lê a linha de entrada
 print(a); // Imprime o dado
-</pre>
+```
 
 ## Estilizando a saída dos dados com %c
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/107866199-d381c880-6e4c-11eb-99a5-5294cb232106.jpg)
