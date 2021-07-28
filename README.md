@@ -1167,23 +1167,25 @@ console.log(data.getTime());</pre>
 <p>Agora vamos conhecer outras maneiras de inserir funções no JavaScript. Com o <b>arrow function</b> a função possui uma forma bem mais enxuta de ser inserida com os arrows. Elas são funções anônimas, ou seja, você só pode utiliza-las atribuindo a uma variável ou passando para outra função.</p>
 
 ### Sintaxe (Function):
-<pre>function funcao() {
+```javascript
+function funcao() {
    código;
 }
-</pre>
+```
 
 ### Sintaxe (Arrow Function)
-<pre>
+```javascript
 funcao = () => {
   código;
 }
-</pre>
+```
 
 ### Sintaxe (auto-exec function with Arrow Function)
-<pre>((x, y) => {
+```javascript
+((x, y) => {
  console.log(x + y);
 })(10, 5);
-</pre>
+```
 
 ## Sintaxe (Immediatly invoked function expression with Arrow Function)
 <pre>(() => {
