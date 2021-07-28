@@ -47,7 +47,7 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-FFE953?style=for-the-badge&logo=Node.js&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Babel.js](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![React.js](https://img.shields.io/badge/-React.js-FFE953?style=for-the-badge&logo=React&logoColor=black)](https://github.com/IsaacAlves7/react.js-programming)
-[![React Native](https://img.shields.io/badge/-React‍‍Native-FFE953?style=for-the-badge&logo=React&logoColor=black)](https://github.com/IsaacAlves7/react-native-programming)
+[![React Native](https://img.shields.io/badge/-React‍‍Native-FFE953?style=for-the-badge&logo=ProtonDB&logoColor=black)](https://github.com/IsaacAlves7/react-native-programming)
 [![Redux](https://img.shields.io/badge/-Redux-FFE800?style=for-the-badge&logo=Redux&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
 [![Angular](https://img.shields.io/badge/-Angular-FFE800?style=for-the-badge&logo=AngularJS&logoColor=black)](https://github.com/IsaacAlves7/angular.js-programming)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-FFE800?style=for-the-badge&logo=Vue.js&logoColor=black)](https://github.com/IsaacAlves7/vue.js-programming)
