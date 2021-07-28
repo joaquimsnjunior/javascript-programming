@@ -589,7 +589,10 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
   <li><b>&gt;</b> verifica se um valor é maior;</li>
 </ul>
 <p>Além de valores numéricos, podemos também comparar Strings, como:</b>
-<pre>"a" < "z".</pre>
+
+```javascript
+"a" < "z".
+```
 
 ## Concatenação de Strings (+)
 <p>O Operador "+" também tem outra função além de somar números: ele concatena Strings.</p>
