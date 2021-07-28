@@ -597,8 +597,12 @@ Se eu disser que o objeto é um <code>copo OU é verde</code> (a ordem não impo
 ## Concatenação de Strings (+)
 <p>O Operador "+" também tem outra função além de somar números: ele concatena Strings.</p>
 <p>Isso significa que podemos usá-lo para juntar duas ou mais Strings em uma só:</p>
-<pre>"Olá" + "" + "João";</pre>
-<pre>"Minha idade é" + 20;</pre>
+
+```
+"Olá" + "" + "João";
+"Minha idade é" + 20;
+```
+
 <p>No exemplo acima nós juntamos uma String com um cumprimento, uma String com um espaço vazio e uma String com um nome.</p>
 <p>Isso pode ser muito útil quando você possui um texto padrão para exibir e deve inserir dados do seu usuário, como o nome, no meio do texto.</p>
 
