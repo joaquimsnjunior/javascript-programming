@@ -149,6 +149,9 @@ O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de exe
 Para ter uma ideia do que é possível fazer com ele visite o site:
 - https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition
 
+## :electron: Electron :electron:
+ 
+ 
 ## 📜 Phaser 🕹️
 <a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
 <p>O <b>Phaser</b> é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
