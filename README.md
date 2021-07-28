@@ -144,6 +144,11 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 ## 🧭 Node Web-kit 🧭
 <div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://github.com/IsaacAlves7/javascript-programming/blob/master/node-webkit.svg" height="170"></a></div>
 
+O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de execução baseado em *Chromium* e *Node.js*, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
+
+Para ter uma ideia do que é possível fazer com ele visite o site:
+- https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition
+
 ## 📜 Phaser 🕹️
 <a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
 <p>O <b>Phaser</b> é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
