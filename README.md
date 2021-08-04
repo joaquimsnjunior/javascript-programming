@@ -58,7 +58,6 @@
 [![Gatsby](https://img.shields.io/badge/-Gatsby-FFE800?style=for-the-badge&logo=Gatsby&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
 [![Gulp](https://img.shields.io/badge/-Gulp-FFE800?style=for-the-badge&logo=gulp&logoColor=black)](https://github.com/IsaacAlves7/gulp-programming)
 [![Webpack](https://img.shields.io/badge/-Webpack-FFE800?style=for-the-badge&logo=Webpack&logoColor=black)](https://github.com/IsaacAlves7/webpack-programming)
-[![Jest](https://img.shields.io/badge/-Jest-FFE800?style=for-the-badge&logo=Jest&logoColor=black)](https://github.com/IsaacAlves7/webpack-programming)
 [![DevOps](https://img.shields.io/badge/-‍‍DevOps-FFE800?style=for-the-badge&logo=ReactOS&logoColor=black)](https://github.com/IsaacAlves7/systems-architecture)
 
 ## 🔗 Links de Apoio 📚:
