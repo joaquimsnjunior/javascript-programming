@@ -80,7 +80,7 @@
 <hr>
 <!--Parte do repositório de html5 e css3 development-->
 
-<h1 align="center">Cap 01: 📜 The History of JavaScript (JS) 🔢</h1>
+<h1 align="center">📜 The History of JavaScript (JS) 🔢</h1>
 <div align="left"><img src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png" width="1000"/></div><br>
 <p>Em maio de 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a>, que trabalhava na Netscape, desenvolveu uma linguagem de programação em apenas 10 dias. A linguagem era bem simples, com o intuito de atrair novos programadores para ela.
 
@@ -148,8 +148,7 @@ O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de exe
 Para ter uma ideia do que é possível fazer com ele visite o site:
 - https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition
 
-## :electron: Electron :electron:
- 
+## :electron: Electron :electron
  
 ## 📜 Phaser 🕹️
 <a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
@@ -199,7 +198,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 </ul>
 <hr>
 
-<div align="center"><h1>Cap 02: 📜 Primeiros comandos com JavaScript 🖥️</h1></div>
+<div align="center"><h1>📜 Primeiros comandos com JavaScript 🖥️</h1></div>
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 <p>Trabalhar com JavaScript é simples, não será necessário nenhuma ferramenta mirabolante ou difícil de conseguir. Basicamente iremos precisar de um editor de texto e de um navegador. Apesar de poder rodar JavaScript em outros locais, até mesmo no console, optaremos por utilizar o <a href="https://code.visualstudio.com/download">VSCode</a>, por ser um ambiente onde a maioria dos desenvolvedores já está familiarizado, seja por utilizar outras linguagens ou simplesmente por abrir um localhost no navegar na web (preview), e também por ser ter muitas ferramento para o desenvolvimento JavaScript.</p>
 <blockquote>👍 <b>Dica:</b> Caso já tenha familiaridade com editores de texto ou IDE’s mais robustas, sinta-se à vontade para utilizá-los, pois o JavaScript é independente do editor. Somente certifique-se de que o navegador utilizado lhe dará o devido suporte.</blockquote>
