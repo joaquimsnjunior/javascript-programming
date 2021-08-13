@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="27"> It's a repository of Node.js development 📜🟩
+#  &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="27">&nbsp; It's a repository of Node.js development 📜🟩
 
 ## 🟩 Node.js 🟩
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div>
