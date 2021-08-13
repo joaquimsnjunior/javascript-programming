@@ -1074,7 +1074,7 @@ A resposta para essa pergunta é com uma série de métodos que alteram os valor
 </table>
 <hr>
 
-<h1 align="center">Cap 11: 📜 Data e horário em JS 🕒📅</h1>
+<h1 align="center">📜 Data e horário em JS 🕒📅</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103482623-9bed1e80-4dc0-11eb-857a-2c188babf60d.png"/></div>
 <p>Toda linguagem de programação moderna possui contadores de tempo. Com o JavaScript não é diferente.</p>
 
@@ -1132,7 +1132,7 @@ console.log(data.getTime());</pre>
 </table>
 <hr>
 
-<h1 align="center">Cap 12: 📜 Dicionários em JS 📖</h1>
+<h1 align="center">📜 Dicionários em JS 📖</h1>
 <img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg"/>
 <p>Existe outra forma de inserir variáveis de uma só vez e chamar elas de uma vez, com os dicionários do JS que envolvem as variáveis entre <code>{ }</code>, veja o exemplo abaixo:</p>
 
@@ -1146,7 +1146,7 @@ console.log(data.getTime());</pre>
 
 <hr>
 
-<h1 align="center">Cap 13: 📜 Funções em JS 🤹</h1>
+<h1 align="center">📜 Funções em JS 🤹</h1>
 <div align="center"><img src="https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15687/comprehensive-guide-javascript-design-patterns-cf0c7c0e69d51d97044a8431da9175e3.png"/></div>
 <p>São utilizadas para criarmos uma sequência de operações para serem executadas. As funções no JavaScript são de Primeira Classe, ou seja, elas podem servir de parâmetros para outras funções.</p>
 
@@ -1241,7 +1241,7 @@ log('test');
 <blockquote><b>OBS:</b> Se for mais de um argumento, é obrigatório o uso de parênteses!</blockquote>
 <hr>
 
-<h1 align="center">Cap 14: 📜 Procedural JavaScript 📜</h1>
+<h1 align="center">📜 Procedural JavaScript 📜</h1>
 <div align="center"><img src="https://miro.medium.com/max/700/1*g_md6pY90xurj3j_ApaaLA.jpeg" width="1070"/></div>
 <p>Já que aprendemos todos os conceitos, funcionalidades e valores primordiais do JavaScript, está na hora de apresentar o primeiro paradigma da linguagem, a <b>procedural</b>. O JavaScript procedural funciona com todas as funcionalidades que já vimos de maneira organizada para a execução de um programa, vejamos o exemplo:
   
@@ -1250,7 +1250,7 @@ log('test');
 
 <hr>
 
-<h1 align="center">Cap 15: 📜 JavaScript OOP ⚽</h1>
+<h1 align="center">📜 JavaScript OOP ⚽</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png"/></div>
 <p>Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos (OOP), isto significa que todos os elementos de uma página da Web são
 tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
@@ -1301,7 +1301,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <p>Veremos melhor como funciona essa hierarquia de objetos e como utiliza-las em uma página, nos próximos capítulos.</p>
 <hr>
 
-<h1 align="center">Cap 16: 📜 Eventos 📙🎪</h1>
+<h1 align="center">📜 Eventos 📙🎪</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103578048-a852a380-4eb4-11eb-9d65-5fb88a47469a.jpg"/></div>
 <p>São fatos que ocorrem durante a execução do sistema, a partir dos quais o programador pode definir ações a serem realizadas pelo programa.</p>
 <p>Um evento é gerado como resultado de uma ação: Um clique, um movimento do mouse, uma seleção de texto, o abandono da página etc. A <b>associação</b> é realizada em HTML nos
@@ -1435,14 +1435,14 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103964080-51a9cb80-5139-11eb-8a2b-f03f6be7fd2e.jpg"/></div>
 <hr>
 
-<h1 align="center">Cap: 📜 Desmistificando map, filter e reduce 🗺️🗾🗻</h1>
+<h1 align="center">📜 Desmistificando map, filter e reduce 🗺️🗾🗻</h1>
 <p></p>
 <hr>
 
-<h1 align="center">Cap: 📜 Como funciona o async/await 🦽🦼</h1>
+<h1 align="center">📜 Como funciona o async/await 🦽🦼</h1>
 <hr>
 
-<h1 align="center">Cap: 📜 Entendendo Promises de uma vez por todas 🎫</h1>
+<h1 align="center">📜 Entendendo Promises de uma vez por todas 🎫</h1>
 <div align="center"><a href="https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2"><img src="https://miro.medium.com/max/1366/0*qd397CiUFnmsbH2H.png" height="170" title="Read the Blog"></a></div>
 <p>Promises são um conceito essencial do JavaScript. Elas estão presentes em praticamente todo o ecossistema da linguagem e possui um fluxo assíncrono.</p>
 
@@ -1490,7 +1490,7 @@ Quando a sua operação principal acabar, ela vai chamar a sua função de Callb
 
 <hr>
 
-<h1 align="center">Cap 17: 📜 Browser Object Model (BOM) 🧙‍♀️</h1>
+<h1 align="center">📜 Browser Object Model (BOM) 🧙‍♀️</h1>
 <div align="center"><img src="https://cdn.splessons.com/wp-content/uploads/2016/03/javascript-bom-01-splessons-1.png"/></div>
 <p>Anteriormente, no capítulo 15 foi apresentado a <a href="https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#-hierarquia-de-objetos-">hierarquia de objetos</a>, porém sem uma explicação bem aprofundada somente uma introdução rasa para informar mais sobre a ordem de objetos. Portanto, nesse capítulo e no 18 serão apresentados o <b>BOM</b> e o <b>DOM</b> que estão por trás da hierarquia de objetos. 
   
