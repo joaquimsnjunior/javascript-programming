@@ -1,5 +1,7 @@
 #  &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="27">&nbsp; It's a repository of Node.js development 📜🟩
 
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/node-js-banner.png" title="Site do Node.js"/></a></div><br \>
+
 ## 🟩 Node.js 🟩
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
