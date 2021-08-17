@@ -10,7 +10,7 @@
 Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
 <h1 align="center">🟩 Desenvolvimento back-end com Node.js 🟩</h1>
-<div align="center"><a href="https://coursework.vschool.io/content/images/2017/12/Image-result-for-node-modules-photo-banner.png"></a></div>
+<div align="center"><img src="https://coursework.vschool.io/content/images/2017/12/Image-result-for-node-modules-photo-banner.png"></div><br \>
 
 O **Node.js** é uma ferramenta para a execução de uma variedade de ambientes com JavaScript (JS). JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most popular programming language in the world. Node.js extends the creative potential of people with web development experience, enabling a new generation of developers to create servers, command-line tools, desktop apps, and even robots.
 
