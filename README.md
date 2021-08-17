@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of jQuery Framework Development 📜🔢
+# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of jQuery Development 📜🔢
 
 ## Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103491028-d9709c80-4dfe-11eb-9e25-7c50dd69fca2.jpg)
