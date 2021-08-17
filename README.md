@@ -2029,17 +2029,8 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 
 <hr>
 
-<h1 align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="27"> Desenvolvimento back-end com Node.js 🟩</h1>
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div>
-
-O **Node.js** é uma ferramenta para a execução de uma variedade de ambientes com JavaScript (JS). JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most popular programming language in the world. Node.js extends the creative potential of people with web development experience, enabling a new generation of developers to create servers, command-line tools, desktop apps, and even robots.
-
-
-## NPM Save
-![1_h-dSq3-RIeA_UT1UbXBc7Q](https://user-images.githubusercontent.com/61624336/113332204-3e9d3680-92f7-11eb-884f-60aa13222aca.png)
-
-
-
+## JS Modulos
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s---6YkRB3I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6nvkj71v011m7yr9xog1.png">
 
 ## 📜 Web Dev Stacks 🔋
 Iremos utilizar todos! Mais pra frente.
