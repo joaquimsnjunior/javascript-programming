@@ -1,6 +1,24 @@
 #  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="27">&nbsp; It's a repository of Node.js development 📜🟩
 
+<blockquote>I created this repository for my JavaScript Full-Stack development learning.</blockquote>
+
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/node-js-banner.png" title="Site do Node.js"/></a></div><br \>
+
+## 🎒 Prerequisites and repositories 📚:
+<ul>
+  <li>Good domains in English;</li>
+  <li>Programming logic;</li>
+  <li>Programming paradigms;</li>
+  <li>HTML and CSS;</li>
+  <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
+  <li>HTTP methods (GET, POST, PUT, DELETE);</li>
+  <li>REST API;</li>
+  <li>Desire to learn.</li>
+</ul>
+
+<blockquote><b>⚠️ WARNING</b>: It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
+
+<hr>
 
 ## 🟩 Node.js 🟩
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div><br \>
