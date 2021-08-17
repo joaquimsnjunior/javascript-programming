@@ -129,7 +129,7 @@ O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no in
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png"/></div>
 Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (<b>A</b>synchronous <b>J</b>avaScript <b>A</b>nd <b>X</b>ML), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
 
-## 🛳️ V8 ✈️
+## 🚘 V8 🚘
 <div align="center"><a href="https://v8.dev/"><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="270" title="Site do V8"/></a></div>
 <p>Em setembro de 2008 a Google lançou seu navegador, o Google Chrome. O Chrome tem um interpretador de JavaScript muito poderoso, o <a href="https://v8.dev/"><b>V8</b></a>. Esse nome é baseado no motor de combustão V8, que tem esse nome por ter 8 cilindros unidos na parte de baixo, formando um "V". São normalmente usados em automóveis de grande porte, embarcações marítimas, aeronáuticas, etc.
 
@@ -150,7 +150,7 @@ O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de exe
 Para ter uma ideia do que é possível fazer com ele visite o site:
 - https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition
 
-## :electron: Electron :electron
+## :electron: Electron :electron:
  
 ## 📜 Phaser 🕹️
 <a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
