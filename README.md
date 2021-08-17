@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of JavaScript BOM/DOM programming 📜🔢
+# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of JavaScript BOM/DOM 📜🔢
 
 <h1 align="center">📜 JavaScript OOP ⚽</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png"/></div>
