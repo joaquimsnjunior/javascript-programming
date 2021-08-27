@@ -46,6 +46,11 @@ Instale:
 npm install -g @vue/cli
 ```
 
+Rodar no servidor:
+```
+npm run serve
+```
+
 Crie o primeiro projeto:
 <pre>vue create my-project</pre>
 
