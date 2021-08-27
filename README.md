@@ -155,6 +155,9 @@ Vamos conhecer cada diretório e os arquivos:
 - **src** é onde guarda os nossos scripts editáveis para o projeto;
 - **public** é onde guarda as nossas páginas dinâmicas;
 
+### Erro de ELIFECYCLE
+- https://reactgo.com/npm-err-code-elifecycle/
+
 ## Como adicionar plugins?
 Para os arquivos de diretório insira o comando abaixo, para o UI tem como adicionar pela interface!
 <pre>vue add &lt;nome do plugin&gt;</pre>
