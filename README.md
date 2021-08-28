@@ -32,9 +32,14 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 
 #### Listando todos os pacotes instalados pelo NPM (local)
 ```
+npm list -g
+```
+
+<div align="center"><img src="https://i.stack.imgur.com/VQVGv.gif"></div><br \>
+
+```
 npm list -g --depth=0
 ```
-<div align="center"><img src="https://i.stack.imgur.com/VQVGv.gif"></div><br \>
 
 #### Removendo/ Desinstalando um pacote do NPM (local)
 ```
