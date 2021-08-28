@@ -30,10 +30,23 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 ## <img src="https://cdn.worldvectorlogo.com/logos/npm-2.svg" height="27"> npm <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="27">
 <div align="center"><a href="https://www.npmjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="177" title="Site do NPM"/></a></div><br \>
 
-#### Removendo/ Desinstalando um pacote do NPM (local na máquina)
+#### Listando todos os pacotes instalados pelo NPM (local)
+```
+npm list -g --depth=0
+```
+
+#### Removendo/ Desinstalando um pacote do NPM (local)
 ```
 npm -g uninstall <nome do pacote>
 ```
+
+
+
+
+
+
+
+
 
 ## Desenvolvimento back-end com Node.js
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" height="177" title="Site do Node.js"/></a></div><br \>
