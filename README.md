@@ -165,7 +165,7 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 <blockquote>Um exemplo de aplicação feita com Processing.js são os emojis interativos e animados do Facebook, como o amei, grr, triste, haha, uau, like e um bônus.</blockquote>
 
 # 📜 A importância e a utilidade do JavaScript para o mundo 🏆
-<div align="center"><img src="https://www.mentorpitch.com/blog/wp-content/uploads/2016/02/Corporate-accelerators.jpg" width="407" height="367"/><img src="https://miro.medium.com/max/780/1*IivjRSnfzz6coQn8FcPp5A.jpeg" width="407" height="367"/></div>
+<div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div>
 <p>Cada vez mais o JavaScript começou a ganhar mais força. Hoje em dia temos várias bibliotecas, frameworks, plugins, etc. O JavaScript não é mais só uma pequena ferramenta para criar interação em sites.
   
 Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais poder com a linguagem, como acesso à câmera e microfone, leitura e edição de arquivos, edição de som e imagem, envio de notificações, modelagem 3D, geolocalização, etc. Grandes empresas usam JavaScript, até mesmo no back-end, como:</p>
