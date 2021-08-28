@@ -1,1 +1,0 @@
-// Funções de Primeira Classe

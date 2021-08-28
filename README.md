@@ -1,396 +1,192 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of JavaScript (JS) programming 📜🔢
-<!--
-[![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
-[![JSON](https://img.shields.io/badge/-package.json-000000?style=social&logo=JSON&logoColor=gray)](#)
-[![Brave](https://img.shields.io/badge/-Console-fff?style=social&logo=Brave&logoColor=orangered)](#)
-[![Node.js](https://img.shields.io/badge/-Node.js-fff?style=social&logo=Node.js&logoColor=339933)](#)
-[![NPM](https://img.shields.io/badge/-NPM-fff?style=social&logo=NPM&logoColor=CB3837)](#)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=social&logo=MongoDB&logoColor=47A248)](#)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=social&logo=Postgresql&logoColor=336791)](#)
-[![SQL](https://img.shields.io/badge/-db.sql-fff?style=social&logo=MySQL&logoColor=336791)](#)
-[![Babel.js](https://img.shields.io/badge/-Babel.js-fff?style=social&logo=Babel&logoColor=yellow)](#)
-[![jQuery](https://img.shields.io/badge/-jQuery-fff?style=social&logo=jQuery&logoColor=blue)](#)
-[![TS](https://img.shields.io/badge/-main.ts-fff?style=social&logo=TypeScript&logoColor=blue)](#)
-[![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
-[![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
-[![ReactiveX](https://img.shields.io/badge/-main.rx-fff?style=social&logo=ReactiveX&logoColor=B7178C)](#)
-[![RESTful API](https://img.shields.io/badge/-RESTful.API-000000?style=social&logo=ReactOS&logoColor=1877F2)](#)
+# ⚛️ React Native Development 📲
+<p> It's a repository of React Native programming using Expo and CLI. Obs: É importante instalar cada um dos componentes apresentados e executar os códigos na sua própria máquina.</p>
 
-<div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ionic_button_icon_151955.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/sass_button_icon_151921.png" height="47"></div>
--->
-<blockquote>I created this repository for my JavaScript Full-Stack development learning.</blockquote>
+![pasted image 0](https://user-images.githubusercontent.com/61624336/114338867-53b16b00-9b2a-11eb-8303-c2ef83d2eaf9.png)
 
-<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/></a><br>
+<blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in React.js Framework development, if you want to learn about HTML5, CSS3 or other JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
-## 🎒 Prerequisites and repositories 📚:
-<ul>
-  <li>Good domains in English;</li>
-  <li>Programming logic;</li>
-  <li>Programming paradigms;</li>
-  <li>HTML and CSS;</li>
-  <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
-  <li>HTTP methods (GET, POST, PUT, DELETE);</li>
-  <li>REST API;</li>
-  <li>Desire to learn.</li>
-</ul>
-
-<blockquote><b>⚠️ WARNING</b>: It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
-
-[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-FFE800?style=for-the-badge&logo=HTML5&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![SQL](https://img.shields.io/badge/-Databases-FFE800?style=for-the-badge&logo=MySQL&logoColor=black)](https://github.com/IsaacAlves7/sql-language)
-[![PHP](https://img.shields.io/badge/-PHP-FFE800?style=for-the-badge&logo=PHP&logoColor=black)](https://github.com/IsaacAlves7/php-programming)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFE800?style=for-the-badge&logo=Bootstrap&logoColor=black)](https://github.com/IsaacAlves7/php-programming)
-[![Sass](https://img.shields.io/badge/-Sass-FFE800?style=for-the-badge&logo=Sass&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
-[![JSON](https://img.shields.io/badge/-JSON-FFE953?style=for-the-badge&logo=JSON&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Node.js](https://img.shields.io/badge/-Node.js-FFE953?style=for-the-badge&logo=Node.js&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
+[![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=GreenSock&logoColor=black)](https://github.com/IsaacAlves7/jQuery-programming)
+[![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Babel.js](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![React.js](https://img.shields.io/badge/-React.js-FFE953?style=for-the-badge&logo=React&logoColor=black)](https://github.com/IsaacAlves7/react.js-programming)
-[![React Native](https://img.shields.io/badge/-React‍‍Native-FFE953?style=for-the-badge&logo=ProtonDB&logoColor=black)](https://github.com/IsaacAlves7/react-native-programming)
-[![Redux](https://img.shields.io/badge/-Redux-FFE800?style=for-the-badge&logo=Redux&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
-[![Angular](https://img.shields.io/badge/-Angular-FFE800?style=for-the-badge&logo=AngularJS&logoColor=black)](https://github.com/IsaacAlves7/angular.js-programming)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-FFE800?style=for-the-badge&logo=Vue.js&logoColor=black)](https://github.com/IsaacAlves7/vue.js-programming)
-[![Ionic](https://img.shields.io/badge/-Ionic-FFE800?style=for-the-badge&logo=Ionic&logoColor=black)](https://github.com/IsaacAlves7/ionic-programming)
-[![Electron](https://img.shields.io/badge/-Electron-FFE800?style=for-the-badge&logo=Electron&logoColor=black)](https://github.com/IsaacAlves7/electron-programming)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-FFDD00?style=for-the-badge&logo=TypeScript&logoColor=000)](https://github.com/IsaacAlves7/typescript-programming)
-[![ReactiveX](https://img.shields.io/badge/-ReactiveX-FFE800?style=for-the-badge&logo=ReactiveX&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
-[![Gatsby](https://img.shields.io/badge/-Gatsby-FFE800?style=for-the-badge&logo=Gatsby&logoColor=black)](https://github.com/IsaacAlves7/typescript-programming)
-[![Gulp](https://img.shields.io/badge/-Gulp-FFE800?style=for-the-badge&logo=gulp&logoColor=black)](https://github.com/IsaacAlves7/gulp-programming)
-[![Webpack](https://img.shields.io/badge/-Webpack-FFE800?style=for-the-badge&logo=Webpack&logoColor=black)](https://github.com/IsaacAlves7/webpack-programming)
-[![DevOps](https://img.shields.io/badge/-‍‍DevOps-FFE800?style=for-the-badge&logo=ReactOS&logoColor=black)](https://github.com/IsaacAlves7/systems-architecture)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![React.js](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=React&logoColor=61DAFB)](https://github.com/IsaacAlves7/react.js-programming)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![Angular.js](https://img.shields.io/badge/-Angular.js-E23237?style=for-the-badge&logo=AngularJS&logoColor=white)](https://github.com/IsaacAlves7/angular.js-programming)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
+[![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white)](https://github.com/IsaacAlves7/ionic-programming)
+[![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)](https://github.com/IsaacAlves7/electron-programming)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![ReactiveX](https://img.shields.io/badge/-ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/IsaacAlves7/gulp-programming)
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
+[![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
 
-## 🔗 Links de Apoio 📚:
-[![Codepen](https://img.shields.io/badge/-Codepen-yellow?style=for-the-badge&logo=CodePen&logoColor=white)]()
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-yellow?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/learn/)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-yellow?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://pt.stackoverflow.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/default.asp)
-[![Css3](https://img.shields.io/badge/-CSS3-yellow?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/default.asp)
-[![JS](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.w3schools.com/js/DEFAULT.asp)
-[![JS](https://img.shields.io/badge/-Promisees-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://bevacqua.github.io/promisees/)
-[![JSON](https://img.shields.io/badge/-JSON-yellow?style=for-the-badge&logo=JSON&logoColor=white)](https://www.w3schools.com/js/js_json_intro.asp)
-[![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-yellow?style=for-the-badge&logo=React&logoColor=white)](https://www.nodestudio.com.br/)
+<hr>
+<div align="center"><img src="https://pacewisdom.com/img/services/react_native/logo_react_native.png"/></div>
+<h2>Pré-requisitos:</h2>
+<ol>
+  <li>Lógica de Programação;</li>
+  <li>HTML e CSS avançado;</li>
+  <li>JavaScript intermediário;</li>
+  <li>Node.js e npm;</li>
+  <li>Usar os S.Os: Mac OS ou Windows, mais recomendado o Mac Os pelo emulador IOS do Xcode;</li>
+  <li>Emulador Android ou IOS;</li>
+  <li>Instaladores de pacotes: Chocolatey (Windows) e Cocoapods (MacOS);</li>
+  <li>PC com mais de 4GB de memória RAM.</li>
+  <li>VSCode.</li>
+</ol>
+<hr>
+<h2>O que é React Native?</h2>
+<div align="center"><img src="https://www.vippng.com/png/full/400-4001856_react-native-development-react-native-logo-no-background.png" width="470"/></div>
+<p>É uma biblioteca (framework) front-end do <b>JavaScript</b>, desenvolvido pelo <b>Facebook</b>, cujo renderiza e constroi interfaces nativas para os sistemas operacionais Android e IOS, ou seja, ele renderiza componentes mobiles para cada uma das plataformas, em outras palavras ele cria aplicações híbridas para os dispositivos móveis. Sendo assim, é bem diferente do outro framework JavaScript bem conhecido, o <b>React.js</b>.</p>
 
-## 🧩 Para simulações de programação recomendo esses jogos educacionais ⚔️:
-<ul>
-  <li>https://www.code.org</li>
-  <li>https://developers.google.com/blockly</li>
-  <li>https://br.codecombat.com/</li>
-</ul>
+## React Native por debaixo dos panos
+<img src="https://i.imgur.com/FDIfCMQ.png"/>
+<img src="https://miro.medium.com/max/2052/1*QT7NIsR-X8_SKdtI7BTghw.png"/>
+
+
+<h2>Por que usar o React Native?</h2>
+<img src="https://s3.amazonaws.com/ckl-website-static/wp-content/uploads/2016/08/Banner_reactnative4.jpg"/>
+<p>É muito vantajoso criar aplicações para vários dispositivos e trazendo informações para muitas pessoas, pois estamos na era da mobilidade. Portanto, não é muito vantajoso lançar várias versões de apps para diferentes sistemas operacionais, pois a tipagem do código é diferente e o tempo de produção torna-se muito longo. Por exemplo, o <b>IOS</b> é desenvolvido em Objective-C e Swift, já o <b>Android</b> em Java e Kotlin, é vantajoso construir o mesmo aplicativo em diferentes linguagens ou uma única linguagem para esses sistemas operacionais? Claro que uma única linguagem para esses sistemas operacionais, pois aumenta a produtividade e diminui a exaustão dos profissionais.</p>
+<h2>Guia para instalar e configurar o React Native</h2>
+<img src="https://apiko.com/blog/content/images/2020/04/12-Apps-Using-React-Native-Explaining-Value-and-Popularity.jpg"/>
+<h3>Instruções em etapas:</h3>
+<ol>
+  <li>Instale o node.js</li>
+  <li>Instale o yarn:</li>
+  <pre>npm install -g yarn</pre>
+  <pre>yarn global add expo-cli</pre>
+  <pre>yarn global add react-native-cli</pre>
+  <li>Instale o React Native:</li><br>
+  <p><b>Cli</b> (versão completa, mais pesada e com mais recursos):</p>
+  <pre>npm install -g react-native-cli</pre>
+  <p><b>Expo Cli</b> (versão capsulada, mais leve e com menos recursos):</p>
+  <pre>npm install -g expo-cli</pre>
+  <li>Instale os emuladores e mantenha-os atualizados! Recomendo usar esses abaixo, pois as chances de darem erros são baixas já que foram criados para o desenvolvimento de softwares:</li>
+  <div align="center">
+  <a href="https://developer.android.com/studio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" height="300" title="Android Studio"/></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://qph.fs.quoracdn.net/main-qimg-ad35ee95282ed076837ec6631801b48a" height="300" title="Xcode"/></a>
+  </div>
+  <li>Instale as dependências:</li>
+  <b>Android:</b>
+  <ul>
+    <li>JDK8 e JRE</li>
+    <li>Android SDK</li>
+    <li>Android SDK Plataform</li>
+    <li>Performace (Intel Haxm)</li>
+    <li>Android Virtual Device - AVD x64_86 PlayStore</li>
+  </ul>
+    <b>IOS:</b>
+  <ul>
+    <li>instalar o Homebrew</li>
+    <li>Xcode</li>
+  </ul><br><br>
+
+  <li>Instale o Expo</li>
+  <div align="center"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/65/24/19/652419e4-053e-d24a-1850-da1073f092e6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" title="Expo"/></div>
+  <pre>yarn global add expo-cli</pre>
+  <pre>expo client:install:android</pre>
+  <pre>expo start</pre>
+</ol>
+
+## Primeiro Projeto com React Native (Expo)
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--H6L3JDpH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a"/>
+<p>Com tudo configurado corretamente acima e com tudo instalado, está na hora de começar o nosso primeiro projeto com o Expo, para isso é simples basta iniciar o emulador Android ou IOS (é importante deixar eles ligados para o projeto funcionar), após isso siga os comandos abaixo:</p>
+  <pre>expo init firstProject</pre>
+  <pre>cd firstProject</pre>
+  <pre>expo start</pre>
+<p>Logo, rodará o projeto criando a porta de localhost e abrindo uma janela do navegador com o controle do expo, onde você pode rodar nos emuladores android ou ios, no browser, ou até mesmo no próprio celular com o Qr Code. Como estamos utilizando o emulador android basta somente clicar em <b>run android</b>, dai com o Expo instalado na VM Android, o projeto se inicia.</p>
+<b>OBS: ctrl + m ou ⌘ + D = chacoalhada para o menu. ctrl + r = reload the application.</b>
 <hr>
 
-# 📜 The History of JavaScript (JS) 🔢
-<div align="left"><img src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png" width="1000"/></div><br>
-<p>Em maio de 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a>, que trabalhava na Netscape, desenvolveu uma linguagem de programação em apenas 10 dias. A linguagem era bem simples, com o intuito de atrair novos programadores para ela.
+## Primeiro Projeto com React Native (CLI)
+<img src="https://linkites.com/wp-content/uploads/2019/04/React-native-Banner.png"/>
+<p>Com tudo configurado corretamente acima e com tudo instalado, está na hora de começar o nosso primeiro projeto com o React Native (CLI), para isso é simples basta iniciar o emulador Android ou IOS (é importante deixar eles ligados para o projeto funcionar), após isso siga os comandos abaixo:</p>
+  <pre>react-native init firstProject</pre>
+  <pre>cd firstProject</pre>
+  <pre>react-native run-android</pre>
 
-O nome dessa linguagem inicialmente foi <b>Mocha</b>, que é o nome de um tipo de café. Logo esse nome foi alterado para <b>LiveScript</b>.
-Em maio de 1995 também estava surgindo uma nova linguagem de programação que prometia revolucionar o modo de programar: <b>Java</b>, da <em>Sun MicroSystems</em>. Seu objetivo era nos poupar do trabalho de programar para cada um dos sistemas operacionais. Escreva uma única vez, execute em qualquer lugar (<em>Write once, run anywhere.</em>). 
-
-<blockquote><b>Curiosidade:</b> O JavaScript foi lançado junto com a versão beta do Netscape 2.0.</blockquote>
-
-Para aproveitar o marketing, o LiveScript teve seu nome alterado para <b>JavaScript</b> em 4 de dezembro de 1995. Isso causou confusões que existem até hoje para quem está começando no mundo da programação, pois pela semelhança do nome, muitos pensam que é a mesma coisa, ou que o JavaScript é uma versão mais simples do Java. Porém, foi apenas uma jogada de Marketing.</p>
-
-<h1 align="center">📜 JavaScript (JS) Timeline 🕓</h1>
-
-![JS Timeline](https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg)
-
-# 📜 O que é JavaScript (JS)? 📜
-<div align="center"><img src="https://iconape.com/wp-content/png_logo_vector/javascript-js-logo.png" height="177"/></div><br \>
-
-<p>O <b>JavaScript</b> (JS) é uma linguagem de programação dinâmica, que é comumente utilizada como parte dos navegadores, criada para esse propósito, manipular elementos no HTML. Mas acabou crescendo, e atualmente podemos ver diversos ambientes que rodam JavaScript, além de desenvolver para os mais variados fins, como extensões para aplicações, desenvolvimento híbrido para desktop ou mobile e até mesmo códigos back-end. 
-
-Quando falamos de linguagens de programação, percebemos que estas se parecem como times de futebol, cada desenvolvedor gosta de uma e acredita na qualidade que ela oferece, mas nenhuma delas consegue assumir uma característica que JavaScript assumiu: a "onipresença" em aplicações. Amando ou odiando, ele está em todos os lugares, é difícil escapar. Uma linguagem que muitas vezes é julgada como simples brinquedo de front-end, criando firulas para os olhos de usuários leigos, na verdade, é uma grande ferramenta.
-A web atualmente está infestada de códigos JavaScript. Os recursos oferecidos por muitos dos sites que acessamos são controlados por ele, desde a mais simples interação com formulários, até mesmo grandes plataformas como Google Docs, foram desenvolvidas com base nos recursos dessa linguagem. Aprender esta linguagem se torna essencial, uma grande ferramenta para auxiliar o desenvolvimento.
-
-Além disso, a linguagem apresenta características incomuns à maioria dos desenvolvedores que estão acostumados com Java ou C#. O JavaScript não apresenta classes do mesmo modo que as outras linguagens e funções estão em todos os lugares, fazendo todos os serviços possíveis, desde criar novos objetos até retornarem novas funções.
-A linguagem apresenta uma sintaxe simples que facilita o aprendizado, mas também apresenta um comportamento diferenciado das demais, afinal, um objeto que pode ter atributos adicionados ou removidos em tempo de execução de forma simples não é algo comum ao dia a dia de desenvolvedores de outras linguagens.
-Essa simplicidade esconde o quão poderoso podemos tornar nosso desenvolvimento, e a primeira vista, muitos desenvolvedores olham e acreditam que a linguagem é defeituosa ou esquisita, mas não compreendem o real poder que se esconde por trás desta simplicidade.
-
-Por fim, que venha o JavaScript, uma linguagem flexível que consegue se aproximar de muitas outras, mas que em sua essência é completamente diferente. Sendo assim vamos aprender o que realmente ela tem a nos oferecer, e perceber quão poderosa ela pode se tornar dentro de nossas aplicações.
-
-Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos, isto significa que <b>todos os elementos de uma página da Web são tratados como objetos</b>. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
- 
-# 📜 ECMAScript (ES) 📒
-<div align="center"><img src="https://raw.githubusercontent.com/wingsuitist/ecmascript-logo/master/es-ecmascript-logo.png" height="177"/></div><br \>
-
-<p>Outro nome muito conhecido entre os desenvolvedores é o <b>ECMAScript (ES)</b>, derivado dos anos de 1996 e 1997 quando a organização European Computer Manufactures Association (ECMA) padronizou a linguagem, surgindo assim às versões de ECMAScript.
-
-Essa padronização define a estrutura da linguagem, seus comandos, como ela deve se comportar, etc. Baseando-se nessas especificações, os desenvolvedores dos navegadores sabem o que um interpretador de JavaScript deve ter e como deve responder aos comandos.
-Baseando-se nessas especificações, outras linguagens também surgiram, como o JScript, ActionScript e TypeScript.</p>
-<blockquote>👍 <b>Dica:</b> O nome JavaScript e ECMAScript definem a mesma linguagem, então podem ser usados livremente como sinônimos.</blockquote>
-
-# 📜 A presença do JavaScript atualmente ⚛️
-<div align="center"><img src="https://ionicframework.com/img/homepage/frameworks-1x.png" height="293"/></div>
-<p>Hoje em dia, quando você visita uma página e vê elementos interagindo com você, seja uma modal aparecendo, uma janelinha abrindo, uma resposta ao clique do mouse, etc, pode ter certeza que há um código JavaScript sendo executado ali.
+### Forçar o React Native a rodar uma versão específica
+  <pre>react-native init --version 0.55.4 firstProject</pre>
+  <pre>react-native -v</pre>
   
-O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no início dos anos 2000, várias bibliotecas com o intuito de facilitar o uso do JavaScript surgiram, como <b>jQuery</b> e <b>Prototype</b>.
-  
-# 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png"/></div><br \>
+## ⚛️📦 Conhecendo os pacotes do React Native (CLI)
+<p>Na pasta <b>android</b> ficam as configurações e o código nativo do android; Na pasta <b>ios</b> ficam as configurações e o código nativo do ios; Na pasta <b>node_modules</b> todas as dependências instaladas pelo npm.</p>
+<pre>
+<code>📂 android</code>
+<code>📂 ios</code>
+<code>📂 node_modules</code>
+</pre>
+<p></p>
 
-Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (<b>A</b>synchronous <b>J</b>avaScript <b>A</b>nd <b>X</b>ML), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
+## ⚛️📦 Conhecendo os pacotes do React Native (Expo)
+<p>Na pasta <b>node_modules</b> todas as dependências instaladas pelo npm; No arquivo <b>app.json</b> determina como a aplicação é definida para o usuário final; No arquivo <b>App.js</b> fica o código da aplicação; No arquivo <b>yarn.lock</b> é o cache das dependências;</p>
+<pre>
+<code>📂 .expo</code>
+<code>📂 .expo-shared</code>
+<code>📂 assets</code>
+<code>📂 node_modules</code>
+<code>🔸 .gitignore</code>
+<code>💼 app.json</code>
+<code>📜 App.js</code>
+<code>📜 babel.config.js</code>
+<code>💼 package.json</code>
+<code>🧶 yarn.lock</code>
+</pre>
 
-# 🚘 V8 🚘
-<div align="center"><a href="https://v8.dev/"><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="270" title="Site do V8"/></a></div><br \>
-
-<p>Em setembro de 2008 a Google lançou seu navegador, o Google Chrome. O Chrome tem um interpretador de JavaScript muito poderoso, o <a href="https://v8.dev/"><b>V8</b></a>. Esse nome é baseado no motor de combustão V8, que tem esse nome por ter 8 cilindros unidos na parte de baixo, formando um "V". São normalmente usados em automóveis de grande porte, embarcações marítimas, aeronáuticas, etc.
-
-O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.</p>
-
-
-# 🟩 Node.js 🟩
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div><br \>
-
-<p>Em 2009, <a href="https://github.com/ry">Ryan Dahl</a> desenvolveu o <b>Node.js</b>. O Node usa o V8 fora do navegador, e possui muitas outras funcionalidades que nos permite programar com JavaScript no lado do servidor. Com o Node foi possível a criação de coisas como automatizadores de tarefas e criação de servidores em JavaScript.
-  
-Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
-
-# 🧭 Node Web-kit 🧭
-<div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://github.com/IsaacAlves7/javascript-programming/blob/master/node-webkit.svg" height="170"></a></div><br \>
-
-O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de execução baseado em *Chromium* e *Node.js*, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
-
-Para ter uma ideia do que é possível fazer com ele visite o site:
-- https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition
-
-# :electron: Electron :electron:
-<div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://symbols.getvecta.com/stencil_79/35_electron.e9e192f1d7.svg" height="170"></a></div><br \>
+## Hello, World! - React Native (CLI)
+<img src="https://www.luiztools.com.br/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-06-a%CC%80s-19.32.22-1024x635.png"/>
+<pre>
+ <code><h3>📜 App.js</h3></code>
+ <code><p>import React, {Component} from "react";</p></code>
+ <code><p>import {Plataform, Stylesheet, Text, View} from "react-native";</p></code>
  
-# 📜 Phaser 🕹️
-<a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a><br \>
-
-<p>O <b>Phaser</b> é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
-
-# 📜 Processing.js 🤪
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Processing_Logo_Clipped.svg/180px-Processing_Logo_Clipped.svg.png"></div><br \>
-
-**Processing.js** é uma porta JavaScript descontinuada de Processing, uma estrutura projetada para escrever visualizações, imagens e conteúdo interativo. Ele permite que os navegadores da web exibam animações, aplicativos visuais, jogos e outros conteúdos gráficos ricos sem a necessidade de um miniaplicativo Java ou plugin Flash.
-
-<blockquote>Um exemplo de aplicação feita com Processing.js são os emojis interativos e animados do Facebook, como o amei, grr, triste, haha, uau, like e um bônus.</blockquote>
-
-# 📜 A importância e a utilidade do JavaScript para o mundo 🏆
-<div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div><br \>
-
-<p>Cada vez mais o JavaScript começou a ganhar mais força. Hoje em dia temos várias bibliotecas, frameworks, plugins, etc. O JavaScript não é mais só uma pequena ferramenta para criar interação em sites.
-  
-Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais poder com a linguagem, como acesso à câmera e microfone, leitura e edição de arquivos, edição de som e imagem, envio de notificações, modelagem 3D, geolocalização, etc. Grandes empresas usam JavaScript, até mesmo no back-end, como:</p>
-<ul>
-  <li>Google;</li>
-  <li>Microsoft;</li>
-  <li>IBM;</li>
-  <li>Netflix;</li>  
-  <li>Uber;</li>
-  <li>Paypal;</li>
-  <li>Linkedin;</li>
-  <li>New York Times;</li>
-  <li>Walmart;</li>
-  <li>Sony;</li>
-</ul>
-<p>Hoje ele é utilizado nos mais diversos lugares, como:</p>
-<ul>
-  <li>Websites;</li>
-  <li>Aplicações Web;</li>
-  <li>Desenvolvimento de Jogos Eletrônicos (Videogames);</li>
-  <li>Animações</li>
-  <li>Servidores;</li>  
-  <li>Bancos de Dados;</li>
-  <li>Sistemas Operacionais de SmartTvs;</li>
-  <li>Automação de Tarefas;</li>
-  <li>Automação de Testes;</li>
-  <li>Softwares Desktop;</li>
-  <li>Controle de Hardware;</li>  
-  <li>IoT - Internet das Coisas;</li>  
-  <li>Inteligência Artificial;</li>
-  <li>Desenvolvimento Mobile Multiplataforma (Apps Híbridos);</li>
-  <li>Plugins para programas, como Photoshop.</li>
-</ul>
-<hr>
-
-<!--
-![JS Functional Programming](https://user-images.githubusercontent.com/61624336/103607708-52075400-4ef8-11eb-9f07-39ee85636a67.jpg)
-![Hierarquia de Objetos JS](https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png)
-https://miro.medium.com/max/1436/0*ILZZpnli_R1FU3p4.gif
-document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
- https://lh3.googleusercontent.com/proxy/j0oeG2ZkrtKivG2T_lS5nTTacmzZuMrkM4uYHQpSZjAIAfutP62Ua3RS6H7GFDp7t0OGD9HRTpRt4oEA2l7PXPYKb4bmlTQlEeHtjAbeVDsYv6IvHvR_i6gEyO9gYGxhQPAHV0rZGuNhZHPaud0EGan3xDfPYwRP_hpgAO
-<img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
-<img src="https://www.north-47.com/wp-content/uploads/2020/06/1_JA57AArvHLn3tulDxJKzEg.jpeg" width="1000"/>
-<img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1000"/>
-<img src="https://www.ateamindia.com/wp-content/uploads/2018/10/JavaScript-1.jpg" height="450" width="1070"/>
-<img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3" width="1700"/>
-![image](https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png)
-<img src="https://www.islamzatary.com/wp-content/uploads/2017/09/advanced_js.jpg" width="1070"/>
-<img src="https://cdn-media-1.freecodecamp.org/images/1*tBXQMulrsKL21K66SVQ5jA.png" width="1070"/>
-<img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt2-light_1200x303.png?sfvrsn=cc305226_2" width="1070"/>
-<img src="https://becode.com.br/wp-content/uploads/2018/04/frameworks-js2-1.png" width="1070"/>
-<img src="https://miro.medium.com/max/2732/1*BPSx-c--z6r7tY29L19ukQ.png" width="1070"/>
-<img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/08/teste-de-performance-javascript.png" width="1070"/>
-<img src="https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/seleccionar-elementos-con-queryselector-t1.png" width="1070"/>
-<img src="https://www.desarrollolibre.net/public/images/example/javascript/portapapeles_javascript.png" width="1070"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtTR_qc3VZrY4xPzLStpmYDXLT66ZdqLPkYw&usqp=CAU" width="1070"/>
-<img src="https://cutewallpaper.org/21/javascript-wallpaper/JavaScript-Promises-JS.MD.png" width="1070"/>
-<img src="https://bloggeek.me/wp-content/uploads/2017/09/201709-javascript-king.jpg" width="1070"/>
-<img src="https://miro.medium.com/max/600/0*fPG6D58K9s_2l3kK.png" width="1070"/>
-https://miro.medium.com/max/921/1*T8OsgpwsHL8Lj6gGlyTOtw.png
-https://miro.medium.com/max/610/1*eSi3NuB9LTgO64VhWphnnw.png
-https://cdn-media-1.freecodecamp.org/images/1*ReeHV0eEsfmMskVUk1vVog.png
-https://es6.io/images/es6-sticker.png
-<img src="https://techonria.files.wordpress.com/2016/07/arrow.png?w=785" width="1070"/>
-<div align="center"><img src="https://onsen.io/blog/content/images/2015/Nov/es6-webcomponents.png"/></div>
-<img src="https://media.vlpt.us/images/sangminnn/post/3b3e7fc8-d255-46df-92fb-71e91bcf2408/real%20es6.png" width="1700"/>
-<img src="https://learnworthy.net/wp-content/uploads/2019/08/How-To-Learn-JavaScript-Quickly.jpg" width="1700"/>
-<a href="https://jquery.com/"><img src="https://cdn1.vogel.de/kaNCYI0Lx-zrDezwq8BaF3cFGI8=/fit-in/1200x630/filters:format(png):quality(90)/images.vogel.de/vogelonline/bdb/1494700/1494776/original.jpg" width="1000"/></a>
-https://blog.jscrambler.com/content/images/2016/12/iot_js-min.png
-https://www.20i.com/blog/wp-content/uploads/2020/10/I-love-JavaScript-1920x500.png
-https://www.loginradius.com/blog/async/static/bfdcec92226d9dd465af598836dd28a4/701ee/callback.jpg
-https://media.proglib.io/wp-uploads/2018/11/1_hLSiwh3HW9Pqw0M3gLEMOg.png
-https://miro.medium.com/max/653/1*wMZnVAEei1xbY1v6sAbYxQ.png
-https://d23cpcfk0ihnyh.cloudfront.net/blog/posts/1-20-2018-async-await/async-await.png
-https://twilio-cms-prod.s3.amazonaws.com/images/asyncawait.width-808.png
-https://miro.medium.com/max/1570/1*TWVs8hNCI7B7t2Y4tA-u1A.png
-https://images.idgesg.net/images/article/2018/04/iwan_05-100755063-orig.jpg
-https://miro.medium.com/max/1117/0*X7Z0k20cwHHi8UOI.png
-https://lh3.googleusercontent.com/proxy/jyBQYND60pqwD9ly0Halj3B8Xj0o86fZWi_PTpd2e3MGkM6YmH6_fuj4GoBZn83gARwttM3Be3z0ekcYr_BBL3-KGrwzhxsl12YsHs7P3MDGMvOKM2LOuUW1CIVZ1nFqpoCWjox7DPx_1g
-https://www.sevenstarwebsolutions.com/wp-content/uploads/2018/02/nodejs.jpg
-https://www.mobiloitte.com/images/node-js-banner.png
-https://skeps.com/api/blog/content/uploads/2019/10/Node-JS-Banner.png
-https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/node-js-banner.png
-https://viitorcloud.com/blog/wp-content/uploads/2018/06/Node-JS-App-Development-for-Business-cover.jpg
-https://www.anques.com/wp-content/uploads/2019/07/node_js.png
-https://daynilgroup.com/resources/images/nodejs_banner.png
-https://miro.medium.com/max/2732/1*LyZcwuLWv2FArOumCxobpA.png
-https://i.ytimg.com/vi/sCAR8ZPM6ew/maxresdefault.jpg
-https://i.ytimg.com/vi/PyKZMY-_TI8/hqdefault.jpg
-https://res.cloudinary.com/practicaldev/image/fetch/s--SnVNfIdj--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/etfxkw4syies3pt35tny.png
-https://ian-says.com/articles/functional-javascript/thumbnail.png
-<p>Para ser mais preciso o jQuery é um Framework JavaScript para Front-end com uma grande facilidade de manipular o DOM e de código simples, muito usado para criar animações, eventos, chamadas AJAX e ainda cria plugins. Pode ser baixado no site oficial ou usado pelo <a href="">CDN</a> (<i>Content Delivery Network</i>), para isso basta copiar um dos códigos abaixo (escolha apenas uma versão) e colar no seu código HTML. Recomenda-se a versão 3 do CDN.</p>
-
-### Modo de uso:
-<p>Pode-se usar os scripts tanto no &lt;head&gt; como no &lt;body&gt;.</p>
-
-<pre>
-<h2>📝 index.html</h2>
-<code>&lt;!Doctype html&gt;</code>
-<code>&lt;html&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;script src="jquery.js"&gt;&lt;/script&gt;</code>
-  <code>&lt;title&gt;jQuery&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-   <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
+ <code><p>export default class App extends Component {</code>
+  <code>}</p></code>
 </pre>
 
-### Preparando arquivos:
-<p>Começando pelo "index.html" para processar a página. O script "jquery.js" é a biblioteca, já o arquivo "main.js" é o script que iremos desenvolver a partir da biblioteca adicionada no projeto.</p>
-<pre>
-  <code>📝 index.html</span></code>
-  <code>📜 jquery.js</span></code>
-  <code>📜 main.js</code>
-</pre>
+## React Native Navigation
+<img src="https://6cro14eml0v2yuvyx3v5j11j-wpengine.netdna-ssl.com/wp-content/uploads/Build-a-messaging-app-using-react-native1.png"/>
+<p><b>Configurando a navegação:</b></p>
+<ol>
+  <li>Instale o react-navigation:</li>
+  <pre><code>yarn add react-navigation</code></pre>
+  <li>Exclua o App.js</li>
+</ol>
 
-## Primeiros Passos com o jQuery:
+## React Native
+<div align="center"><img src="https://metadesignsolutions.com/images/reactnative_banner.png" height="300"/></div>
 
-### Esconder mensagem
-<p>Veja como é fácil desenvolver com o Framework jQuery, pois foram utilizadas poucas linhas de código para esconder o título.</p>
+## React Native
+<div align="center"><img src="https://www.zibtek.com/assets/images/tech/bannerrightnative.png" height="300"/></div>
 
-<pre>
-<h2>📝 index.html</h2>
-<code>&lt;!Doctype html&gt;</code>
-<code>&lt;html&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;script src="jquery.js"&gt;&lt;/script&gt;</code>
-  <code>&lt;title&gt;Esconder mensagem&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
-   <code>&lt;button&gt;Esconder o título&lt;/button&gt;</code>
-   <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
+## React Native
+<div align="center"><img src="https://blog.sodio.tech/wp-content/uploads/2017/05/React.png"/></div>
 
-<pre>
- <h2>📜 main.js</h2>
- <code>$(document).ready(function(){
-  $('button').click(function(){
-   $('h1').hide();
-  });
- });</code>
- 
- <h3>Simplificando...</h3>
- <h2>📜 main.js</h2>
- <code>$(function(){
-  $('button').click(function(){
-   $('h1').hide();
-  });
- });</code>
-</pre>
+## React Native
+<div align="center"><img src="https://images.squarespace-cdn.com/content/v1/55c8e052e4b01bd89f02a45e/1452208562614-J8AFSSTSMN3DJ6Q798XX/ke17ZwdGBToddI8pDm48kE7xzgWkeVHhMSpwGz7q3y4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2du1iGr6rVFVouDCrC-EYDz_rjS4LofYkqCp0pRSzPi5Jm7cT0R_dexc_UL_zbpz6JQ/image-asset.jpeg?format=1000w"/></div>
 
-### Alterando o CSS
-<p>Da pra alterar o estilo do elemento.</p>
+## React Native
+<div align="center"><img src="https://graftonstudio.com/uploads/ReactJS-Banner.jpg"/></div>
 
-<pre>
-<h2>📜 main.js</h2>
-<code>$(function() { 
- $('button'.click(function(){
-  $('h1').css("color","red");
-   });
-  });</code>
-</pre>
+## React Native
+<div align="center"><img src="https://www.paragyte.com/img/React_Banner.png"/></div>
 
-### Mudando a cor individual
-<pre>
-<h2>📝 index.html</h2>
-<code>&lt;!Doctype html&gt;</code>
-<code>&lt;html&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;script src="jquery.js"&gt;&lt;/script&gt;</code>
-  <code>&lt;title&gt;Esconder mensagem&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
-   <code>&lt;h1 id="new_h1"&gt;Hello, World! Again!&lt;/h1&gt;</code>
-   <code>&lt;button&gt;Esconder o título&lt;/button&gt;</code>
-   <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
+## React Native
+<div align="center"><img src="https://akhilaariyachandra.com/static/7535b7cd9be3abaefd1ee294770652ba/e4796/banner.png"/></div>
 
-<pre>
-<h2>📜 main.js</h2>
-<code>$(function() { 
- $('button'.click(function(){
-  $('#new_h1').css("color","red");
-   });
-  });</code>
-</pre>
+## React Native
+<div align="center"><img src="https://www.mobiloitte.com/images/react-js-banner.png"/></div>
 
-### Efeito Fade (methods)
-<p></p>
-<pre><code>$('').fadeOut();</code></pre>
-<p></p>
-<pre><code>$('').delay(1000);</code></pre>
-<p></p>
-<pre><code>$('').fadeIn();</code></pre>
+## React Native
+<div align="center"><img src="https://images.ctfassets.net/x4we65bqi45q/79clZXZmtPwWzTux2YIlgn/a78c0f54e7e6369275eaac7e04933835/1_HSisLuifMO6KbLfPOKtLow.jpeg"/></div>
 
-### Gravando mensagens (methods)
-<p></p>
-<pre><code>$('mensagem').text("texto");</code></pre>
+## React Native + Redux
+<div align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9gdYdBU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Arn81KthOlgxpSJZ1RHVtTQ.png" height="300"/></div>
 
-### Declarações multiplas do CSS (methods)
-<p></p>
-<pre><code>.css({color:'red', border:'1px solid red', backgroundColor:'red'});</code></pre>
-
-### Adicionando e removendo Classes (methods)
-<p>Insira a classe no css e chame pelo js.</p>
-<pre><code>.addClass('.classe');</code></pre>
-<pre><code>.removeClass('.classe');</code></pre>
-
-## Node.js
-<img src="https://cdn1.vogel.de/unsafe/fit-in/1000x0/images.vogel.de/vogelonline/bdb/1368100/1368165/original.jpg"/>
-
-# Vanilla JS 📜🍦
-https://d399irh3pgqnz3.cloudfront.net/prod/imagine/course_video_poster_large/uploads/screencast/javascript/javascript-677.png
--->
+## React Native
+<div align="center"><img src="https://pbcdn1.podbean.com/imglogo/dir-logo/366516/366516_300x300.png" height="300"/></div>
