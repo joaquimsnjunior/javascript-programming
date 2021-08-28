@@ -78,7 +78,6 @@
   <li>https://br.codecombat.com/</li>
 </ul>
 <hr>
-<!--Parte do repositório de html5 e css3 development-->
 
 # 📜 The History of JavaScript (JS) 🔢
 <div align="left"><img src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png" width="1000"/></div><br>
@@ -87,7 +86,7 @@
 O nome dessa linguagem inicialmente foi <b>Mocha</b>, que é o nome de um tipo de café. Logo esse nome foi alterado para <b>LiveScript</b>.
 Em maio de 1995 também estava surgindo uma nova linguagem de programação que prometia revolucionar o modo de programar: <b>Java</b>, da <em>Sun MicroSystems</em>. Seu objetivo era nos poupar do trabalho de programar para cada um dos sistemas operacionais. Escreva uma única vez, execute em qualquer lugar (<em>Write once, run anywhere.</em>). 
 
-<blockquote>🔍 <b>Curiosidade:</b> O JavaScript foi lançado junto com a versão beta do Netscape 2.0.</blockquote>
+<blockquote><b>Curiosidade:</b> O JavaScript foi lançado junto com a versão beta do Netscape 2.0.</blockquote>
 
 Para aproveitar o marketing, o LiveScript teve seu nome alterado para <b>JavaScript</b> em 4 de dezembro de 1995. Isso causou confusões que existem até hoje para quem está começando no mundo da programação, pois pela semelhança do nome, muitos pensam que é a mesma coisa, ou que o JavaScript é uma versão mais simples do Java. Porém, foi apenas uma jogada de Marketing.</p>
 
@@ -126,24 +125,27 @@ Baseando-se nessas especificações, outras linguagens também surgiram, como o 
 O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no início dos anos 2000, várias bibliotecas com o intuito de facilitar o uso do JavaScript surgiram, como <b>jQuery</b> e <b>Prototype</b>.
   
 # 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png"/></div>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png"/></div><br \>
+
 Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (<b>A</b>synchronous <b>J</b>avaScript <b>A</b>nd <b>X</b>ML), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
 
 # 🚘 V8 🚘
-<div align="center"><a href="https://v8.dev/"><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="270" title="Site do V8"/></a></div>
+<div align="center"><a href="https://v8.dev/"><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="270" title="Site do V8"/></a></div><br \>
+
 <p>Em setembro de 2008 a Google lançou seu navegador, o Google Chrome. O Chrome tem um interpretador de JavaScript muito poderoso, o <a href="https://v8.dev/"><b>V8</b></a>. Esse nome é baseado no motor de combustão V8, que tem esse nome por ter 8 cilindros unidos na parte de baixo, formando um "V". São normalmente usados em automóveis de grande porte, embarcações marítimas, aeronáuticas, etc.
 
 O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.</p>
 
 
 # 🟩 Node.js 🟩
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div>
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div><br \>
+
 <p>Em 2009, <a href="https://github.com/ry">Ryan Dahl</a> desenvolveu o <b>Node.js</b>. O Node usa o V8 fora do navegador, e possui muitas outras funcionalidades que nos permite programar com JavaScript no lado do servidor. Com o Node foi possível a criação de coisas como automatizadores de tarefas e criação de servidores em JavaScript.
   
 Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
 # 🧭 Node Web-kit 🧭
-<div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://github.com/IsaacAlves7/javascript-programming/blob/master/node-webkit.svg" height="170"></a></div>
+<div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://github.com/IsaacAlves7/javascript-programming/blob/master/node-webkit.svg" height="170"></a></div><br \>
 
 O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de execução baseado em *Chromium* e *Node.js*, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
 
@@ -151,21 +153,23 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 - https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition
 
 # :electron: Electron :electron:
-<div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://symbols.getvecta.com/stencil_79/35_electron.e9e192f1d7.svg" height="170"></a></div>
+<div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://symbols.getvecta.com/stencil_79/35_electron.e9e192f1d7.svg" height="170"></a></div><br \>
  
 # 📜 Phaser 🕹️
-<a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
+<a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a><br \>
+
 <p>O <b>Phaser</b> é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
 
 # 📜 Processing.js 🤪
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Processing_Logo_Clipped.svg/180px-Processing_Logo_Clipped.svg.png"></div>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Processing_Logo_Clipped.svg/180px-Processing_Logo_Clipped.svg.png"></div><br \>
 
 **Processing.js** é uma porta JavaScript descontinuada de Processing, uma estrutura projetada para escrever visualizações, imagens e conteúdo interativo. Ele permite que os navegadores da web exibam animações, aplicativos visuais, jogos e outros conteúdos gráficos ricos sem a necessidade de um miniaplicativo Java ou plugin Flash.
 
 <blockquote>Um exemplo de aplicação feita com Processing.js são os emojis interativos e animados do Facebook, como o amei, grr, triste, haha, uau, like e um bônus.</blockquote>
 
 # 📜 A importância e a utilidade do JavaScript para o mundo 🏆
-<div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div>
+<div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div><br \>
+
 <p>Cada vez mais o JavaScript começou a ganhar mais força. Hoje em dia temos várias bibliotecas, frameworks, plugins, etc. O JavaScript não é mais só uma pequena ferramenta para criar interação em sites.
   
 Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais poder com a linguagem, como acesso à câmera e microfone, leitura e edição de arquivos, edição de som e imagem, envio de notificações, modelagem 3D, geolocalização, etc. Grandes empresas usam JavaScript, até mesmo no back-end, como:</p>
