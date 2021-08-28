@@ -37,8 +37,6 @@
 <blockquote><b>⚠️ WARNING</b>: It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-FFE800?style=for-the-badge&logo=HTML5&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Python](https://img.shields.io/badge/-Python-FFE800?style=for-the-badge&logo=Python&logoColor=black)](https://github.com/IsaacAlves7/python-programming)
-[![Java](https://img.shields.io/badge/-Java-FFE800?style=for-the-badge&logo=Java&logoColor=black)](https://github.com/IsaacAlves7/java-programming)
 [![SQL](https://img.shields.io/badge/-Databases-FFE800?style=for-the-badge&logo=MySQL&logoColor=black)](https://github.com/IsaacAlves7/sql-language)
 [![PHP](https://img.shields.io/badge/-PHP-FFE800?style=for-the-badge&logo=PHP&logoColor=black)](https://github.com/IsaacAlves7/php-programming)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFE800?style=for-the-badge&logo=Bootstrap&logoColor=black)](https://github.com/IsaacAlves7/php-programming)
