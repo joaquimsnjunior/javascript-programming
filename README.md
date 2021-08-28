@@ -24,9 +24,13 @@
 
 <p>É uma biblioteca (framework) front-end do <b>JavaScript</b>, desenvolvido pelo <b>Facebook</b>, cujo renderiza e constroi interfaces nativas para os sistemas operacionais Android e IOS, ou seja, ele renderiza componentes mobiles para cada uma das plataformas, em outras palavras ele cria aplicações híbridas para os dispositivos móveis. Sendo assim, é bem diferente do outro framework JavaScript bem conhecido, o <b>React.js</b>.</p>
 
-## Entendendo o React Native por debaixo dos panos
+## Entendendo como funciona o React Native por debaixo dos panos
+
+<img src="https://miro.medium.com/max/2052/1*QT7NIsR-X8_SKdtI7BTghw.png">
+
+Diferente de outros tipos de `.apk` para rodar no Android ou no iOS, o React Native roda nativamente no Sistema Operacional utilizando como base 
+
 <img src="https://i.imgur.com/FDIfCMQ.png"/>
-<img src="https://miro.medium.com/max/2052/1*QT7NIsR-X8_SKdtI7BTghw.png"/>
 
 
 <h2>Por que usar o React Native?</h2>
