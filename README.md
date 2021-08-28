@@ -34,6 +34,7 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 ```
 npm list -g --depth=0
 ```
+<div align="center"><img src="https://i.stack.imgur.com/VQVGv.gif"></div><br \>
 
 #### Removendo/ Desinstalando um pacote do NPM (local)
 ```
@@ -66,6 +67,11 @@ O **Node.js** é uma ferramenta para a execução de uma variedade de ambientes 
 
 ## Pug
 
+## Node.js
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://camo.githubusercontent.com/342d0b4d47c3c88c7542ddeb7bc8f7e4b6dbf8b496ca4f4f6c66a11659bbc180/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f66617669636f6e732f6170706c652d746f7563682d69636f6e2e706e67" height="177" title="Site do Node.js"/></a></div><br \>
+
+## Node.js
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.shopify.com/s/files/1/1527/3235/products/black_173x.png?v=1547235693" height="177" title="Site do Node.js"/></a></div><br \>
 
 <!--
 https://cdn.w3villa.com/production/assets/pages/node-js-57c10fe2cea98141c6989b648975744e.jpg
