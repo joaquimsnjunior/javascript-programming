@@ -39,7 +39,10 @@ npm list -g --depth=0
 ```
 npm -g uninstall <nome do pacote>
 ```
-
+#### NPM Save
+```
+npm install <pacote> --save
+```
 
 
 ## Express
