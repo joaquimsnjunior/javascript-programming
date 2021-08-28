@@ -1,4 +1,4 @@
-#  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="27">&nbsp; It's a repository of Node.js development 📜🟩
+#  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="27"> It's a repository of Node.js development 📜🟩
 
 <blockquote>I created this repository for my JavaScript Full-Stack development learning.</blockquote>
 
