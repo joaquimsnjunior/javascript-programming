@@ -1,5 +1,5 @@
 # <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" height="27"> It's a repository of React Native Development ⚛️📲
-<p> It's a repository of React Native programming using Expo and CLI. Obs: É importante instalar cada um dos componentes apresentados e executar os códigos na sua própria máquina.</p>
+<blockquote>It's a repository of React Native programming using Expo and React Native CLI.</blockquote>
 
 ![pasted image 0](https://user-images.githubusercontent.com/61624336/114338867-53b16b00-9b2a-11eb-8303-c2ef83d2eaf9.png)
 
