@@ -32,15 +32,20 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 
 
 ## Desenvolvimento back-end com Node.js
-<div align="center"><img src="https://coursework.vschool.io/content/images/2017/12/Image-result-for-node-modules-photo-banner.png"></div><br \>
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" height="177" title="Site do Node.js"/></a></div><br \>
 
 O **Node.js** é uma ferramenta para a execução de uma variedade de ambientes com JavaScript (JS). JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most popular programming language in the world. Node.js extends the creative potential of people with web development experience, enabling a new generation of developers to create servers, command-line tools, desktop apps, and even robots.
 
-## Node.js
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" height="177" title="Site do Node.js"/></a></div><br \>
+## Nodemon
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" height="177" title="Site do Node.js"/></a></div><br \>
 
-## NPM Save
+### NPM Save
 ![1_h-dSq3-RIeA_UT1UbXBc7Q](https://user-images.githubusercontent.com/61624336/113332204-3e9d3680-92f7-11eb-884f-60aa13222aca.png)
+
+## Node-Sass
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="177" title="Site do Node.js"/></a></div><br \>
+
+
 
 
 <!--
