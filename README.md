@@ -80,7 +80,7 @@
 <hr>
 <!--Parte do repositório de html5 e css3 development-->
 
-<h1 align="center">📜 The History of JavaScript (JS) 🔢</h1>
+# 📜 The History of JavaScript (JS) 🔢
 <div align="left"><img src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png" width="1000"/></div><br>
 <p>Em maio de 1995, <a href="https://github.com/BrendanEich">Brendan Eich</a>, que trabalhava na Netscape, desenvolveu uma linguagem de programação em apenas 10 dias. A linguagem era bem simples, com o intuito de atrair novos programadores para ela.
 
