@@ -94,7 +94,7 @@ Para aproveitar o marketing, o LiveScript teve seu nome alterado para <b>JavaScr
 ## 📜 JavaScript (JS) Timeline 🕓
 ![JS Timeline](https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg)
 
-## 📜 O que é JavaScript (JS)? 📜
+# 📜 O que é JavaScript (JS)? 📜
 <div align="center"><img src="https://iconape.com/wp-content/png_logo_vector/javascript-js-logo.png" height="177"/></div><br \>
 
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação dinâmica, que é comumente utilizada como parte dos navegadores, criada para esse propósito, manipular elementos no HTML. Mas acabou crescendo, e atualmente podemos ver diversos ambientes que rodam JavaScript, além de desenvolver para os mais variados fins, como extensões para aplicações, desenvolvimento híbrido para desktop ou mobile e até mesmo códigos back-end. 
@@ -110,7 +110,7 @@ Por fim, que venha o JavaScript, uma linguagem flexível que consegue se aproxim
 
 Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos, isto significa que <b>todos os elementos de uma página da Web são tratados como objetos</b>. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
  
-## 📜 ECMAScript (ES) 📒
+# 📜 ECMAScript (ES) 📒
 <div align="center"><img src="https://raw.githubusercontent.com/wingsuitist/ecmascript-logo/master/es-ecmascript-logo.png" height="177"/></div><br \>
 
 <p>Outro nome muito conhecido entre os desenvolvedores é o <b>ECMAScript (ES)</b>, derivado dos anos de 1996 e 1997 quando a organização European Computer Manufactures Association (ECMA) padronizou a linguagem, surgindo assim às versões de ECMAScript.
@@ -119,30 +119,30 @@ Essa padronização define a estrutura da linguagem, seus comandos, como ela dev
 Baseando-se nessas especificações, outras linguagens também surgiram, como o JScript, ActionScript e TypeScript.</p>
 <blockquote>👍 <b>Dica:</b> O nome JavaScript e ECMAScript definem a mesma linguagem, então podem ser usados livremente como sinônimos.</blockquote>
 
-## 📜 A presença do JavaScript atualmente ⚛️
+# 📜 A presença do JavaScript atualmente ⚛️
 <div align="center"><img src="https://blog.vulpi.com.br/wp-content/uploads/2018/03/JavaScript.png" width="370"/>&nbsp;&nbsp;<img src="https://ionicframework.com/img/homepage/frameworks-1x.png" height="293"/></div>
 <p>Hoje em dia, quando você visita uma página e vê elementos interagindo com você, seja uma modal aparecendo, uma janelinha abrindo, uma resposta ao clique do mouse, etc, pode ter certeza que há um código JavaScript sendo executado ali.
   
 O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no início dos anos 2000, várias bibliotecas com o intuito de facilitar o uso do JavaScript surgiram, como <b>jQuery</b> e <b>Prototype</b>.
   
-## 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
+# 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png"/></div>
 Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (<b>A</b>synchronous <b>J</b>avaScript <b>A</b>nd <b>X</b>ML), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
 
-## 🚘 V8 🚘
+# 🚘 V8 🚘
 <div align="center"><a href="https://v8.dev/"><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="270" title="Site do V8"/></a></div>
 <p>Em setembro de 2008 a Google lançou seu navegador, o Google Chrome. O Chrome tem um interpretador de JavaScript muito poderoso, o <a href="https://v8.dev/"><b>V8</b></a>. Esse nome é baseado no motor de combustão V8, que tem esse nome por ter 8 cilindros unidos na parte de baixo, formando um "V". São normalmente usados em automóveis de grande porte, embarcações marítimas, aeronáuticas, etc.
 
 O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.</p>
 
 
-## 🟩 Node.js 🟩
+# 🟩 Node.js 🟩
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div>
 <p>Em 2009, <a href="https://github.com/ry">Ryan Dahl</a> desenvolveu o <b>Node.js</b>. O Node usa o V8 fora do navegador, e possui muitas outras funcionalidades que nos permite programar com JavaScript no lado do servidor. Com o Node foi possível a criação de coisas como automatizadores de tarefas e criação de servidores em JavaScript.
   
 Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
-## 🧭 Node Web-kit 🧭
+# 🧭 Node Web-kit 🧭
 <div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://github.com/IsaacAlves7/javascript-programming/blob/master/node-webkit.svg" height="170"></a></div>
 
 O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de execução baseado em *Chromium* e *Node.js*, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
@@ -153,18 +153,18 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 ## :electron: Electron :electron:
 <div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://symbols.getvecta.com/stencil_79/35_electron.e9e192f1d7.svg" height="170"></a></div>
  
-## 📜 Phaser 🕹️
+# 📜 Phaser 🕹️
 <a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
 <p>O <b>Phaser</b> é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
 
-## 📜 Processing.js 🤪
+# 📜 Processing.js 🤪
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Processing_Logo_Clipped.svg/180px-Processing_Logo_Clipped.svg.png"></div>
 
 **Processing.js** é uma porta JavaScript descontinuada de Processing, uma estrutura projetada para escrever visualizações, imagens e conteúdo interativo. Ele permite que os navegadores da web exibam animações, aplicativos visuais, jogos e outros conteúdos gráficos ricos sem a necessidade de um miniaplicativo Java ou plugin Flash.
 
 <blockquote>Um exemplo de aplicação feita com Processing.js são os emojis interativos e animados do Facebook, como o amei, grr, triste, haha, uau, like e um bônus.</blockquote>
 
-## 📜 A importância e a utilidade do JavaScript para o mundo 🏆
+# 📜 A importância e a utilidade do JavaScript para o mundo 🏆
 <div align="center"><img src="https://www.mentorpitch.com/blog/wp-content/uploads/2016/02/Corporate-accelerators.jpg" width="407" height="367"/><img src="https://miro.medium.com/max/780/1*IivjRSnfzz6coQn8FcPp5A.jpeg" width="407" height="367"/></div>
 <p>Cada vez mais o JavaScript começou a ganhar mais força. Hoje em dia temos várias bibliotecas, frameworks, plugins, etc. O JavaScript não é mais só uma pequena ferramenta para criar interação em sites.
   
@@ -201,7 +201,7 @@ Hoje em dia temos cada vez mais funcionalidades que nos permite ter ainda mais p
 </ul>
 <hr>
 
-<div align="center"><h1>📜 Primeiros comandos com JavaScript 🖥️</h1></div>
+# 📜 Primeiros comandos com JavaScript 🖥️
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/>
 <p>Trabalhar com JavaScript é simples, não será necessário nenhuma ferramenta mirabolante ou difícil de conseguir. Basicamente iremos precisar de um editor de texto e de um navegador. Apesar de poder rodar JavaScript em outros locais, até mesmo no console, optaremos por utilizar o <a href="https://code.visualstudio.com/download">VSCode</a>, por ser um ambiente onde a maioria dos desenvolvedores já está familiarizado, seja por utilizar outras linguagens ou simplesmente por abrir um localhost no navegar na web (preview), e também por ser ter muitas ferramento para o desenvolvimento JavaScript.</p>
 <blockquote>👍 <b>Dica:</b> Caso já tenha familiaridade com editores de texto ou IDE’s mais robustas, sinta-se à vontade para utilizá-los, pois o JavaScript é independente do editor. Somente certifique-se de que o navegador utilizado lhe dará o devido suporte.</blockquote>
