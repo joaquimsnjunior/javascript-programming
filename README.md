@@ -58,13 +58,10 @@ O **Node.js** é uma ferramenta para a execução de uma variedade de ambientes 
 ## Nodemon
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" height="177" title="Site do Node.js"/></a></div><br \>
 
-### NPM Save
-![1_h-dSq3-RIeA_UT1UbXBc7Q](https://user-images.githubusercontent.com/61624336/113332204-3e9d3680-92f7-11eb-884f-60aa13222aca.png)
-
 ## Node-Sass
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="177" title="Site do Node.js"/></a></div><br \>
 
-
+## Pug
 
 
 <!--
