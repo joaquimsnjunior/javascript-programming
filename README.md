@@ -28,7 +28,7 @@
 
 <img src="https://miro.medium.com/max/2052/1*QT7NIsR-X8_SKdtI7BTghw.png">
 
-Diferente de outros tipos de `.apk` para rodar no Android ou no iOS, o React Native roda nativamente no Sistema Operacional utilizando como base 
+Diferente de outros tipos de `.apk` nativos para rodar no Android ou no iOS, o React Native roda de forma "híbrida" de forma nativa dentro do Sistema Operacional utilizando como base o JavaScript dentro do gerenciador de núcleos de processos do smartphone, tornando ele um apk nativo para a interface do dispositivo móvel.
 
 <img src="https://i.imgur.com/FDIfCMQ.png"/>
 
