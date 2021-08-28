@@ -5,8 +5,6 @@
 
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in React.js Framework development, if you want to learn about HTML5, CSS3 or other JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
-<hr>
-<div align="center"><img src="https://pacewisdom.com/img/services/react_native/logo_react_native.png"/></div>
 <h2>Pré-requisitos:</h2>
 <ol>
   <li>Lógica de Programação;</li>
@@ -20,11 +18,13 @@
   <li>VSCode.</li>
 </ol>
 <hr>
-<h2>O que é React Native?</h2>
-<div align="center"><img src="https://www.vippng.com/png/full/400-4001856_react-native-development-react-native-logo-no-background.png" width="470"/></div>
+
+# ⚛️ O que é React Native? 📲
+<div align="center"><img src="https://www.vippng.com/png/full/400-4001856_react-native-development-react-native-logo-no-background.png" width="470"/></div><br \>
+
 <p>É uma biblioteca (framework) front-end do <b>JavaScript</b>, desenvolvido pelo <b>Facebook</b>, cujo renderiza e constroi interfaces nativas para os sistemas operacionais Android e IOS, ou seja, ele renderiza componentes mobiles para cada uma das plataformas, em outras palavras ele cria aplicações híbridas para os dispositivos móveis. Sendo assim, é bem diferente do outro framework JavaScript bem conhecido, o <b>React.js</b>.</p>
 
-## React Native por debaixo dos panos
+## Entendendo o React Native por debaixo dos panos
 <img src="https://i.imgur.com/FDIfCMQ.png"/>
 <img src="https://miro.medium.com/max/2052/1*QT7NIsR-X8_SKdtI7BTghw.png"/>
 
