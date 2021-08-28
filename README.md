@@ -42,9 +42,11 @@ npm -g uninstall <nome do pacote>
 
 
 
+## Express
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
-
-
+## Socket.io
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
 
 
