@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of Async/ Await JS programming 📜🔢
+# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of Async/ Await JS 📜🔢
 
 <blockquote>I created this repository for my JavaScript Full-Stack development learning.</blockquote>
 
