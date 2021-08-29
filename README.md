@@ -18,7 +18,7 @@
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ionic_button_icon_151955.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/sass_button_icon_151921.png" height="47"></div>
 -->
-<blockquote>I created this repository for my JavaScript Full-Stack development learning.</blockquote>
+<blockquote>I created this repository for my Vanilla JavaScript (Imperative paradigm) learning.</blockquote>
 
 <a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/></a><br>
 
