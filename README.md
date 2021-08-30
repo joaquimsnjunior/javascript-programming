@@ -12,6 +12,9 @@ Essa padronização define a estrutura da linguagem, seus comandos, como ela dev
 Baseando-se nessas especificações, outras linguagens também surgiram, como o JScript, ActionScript e TypeScript.</p>
 <blockquote>👍 <b>Dica:</b> O nome JavaScript e ECMAScript definem a mesma linguagem, então podem ser usados livremente como sinônimos.</blockquote>
 
+## ECMAscript Versions
+<div align="center"><img src="https://i.morioh.com/2020/01/06/2b34e42c3159.jpg"></div><br \>
+
 # ES6
 <div align="center"><img src="https://devmaster.edu.vn/uploads/images/2019/10/devmaster-ES6-review.png" height="277"/></div><br \>
 
