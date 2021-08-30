@@ -25,6 +25,8 @@
 
 <p>É uma biblioteca (framework) front-end do <b>JavaScript</b>, desenvolvido pelo <b>Facebook</b>, cujo renderiza e constroi interfaces nativas para os sistemas operacionais Android e IOS, ou seja, ele renderiza componentes mobiles para cada uma das plataformas, em outras palavras ele cria aplicações híbridas para os dispositivos móveis. Sendo assim, é bem diferente do outro framework JavaScript bem conhecido, o <b>React.js</b>.</p>
 
+<div align="center"><img src="https://rococoindia.com/wp-content/uploads/2021/02/react-native-dev.png" height="377"></div>
+
 ## Entendendo como funciona o React Native por debaixo dos panos
 
 <img src="https://miro.medium.com/max/2052/1*QT7NIsR-X8_SKdtI7BTghw.png">
@@ -38,7 +40,8 @@ Diferente de outros tipos de `.apk` nativos para rodar no Android ou no iOS, o R
 <div align="center"><img src="https://shivlab.com/images/react_native_infographic.png" height="277"></div><br \>
 
 <p>É muito vantajoso criar aplicações para vários dispositivos e trazendo informações para muitas pessoas, pois estamos na era da mobilidade. Portanto, não é muito vantajoso lançar várias versões de apps para diferentes sistemas operacionais, pois a tipagem do código é diferente e o tempo de produção torna-se muito longo. Por exemplo, o <b>IOS</b> é desenvolvido em Objective-C e Swift, já o <b>Android</b> em Java e Kotlin, é vantajoso construir o mesmo aplicativo em diferentes linguagens ou uma única linguagem para esses sistemas operacionais? Claro que uma única linguagem para esses sistemas operacionais, pois aumenta a produtividade e diminui a exaustão dos profissionais.</p>
-<h2>Guia para instalar e configurar o React Native</h2>
+
+# Instalação e configuraração do React Native
 <img src="https://apiko.com/blog/content/images/2020/04/12-Apps-Using-React-Native-Explaining-Value-and-Popularity.jpg"/>
 <h3>Instruções em etapas:</h3>
 <ol>
