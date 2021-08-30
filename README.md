@@ -5,7 +5,7 @@
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" height="47"></div>
 -->
 
-<p>It's a repository of React.js programming.</p>
+<blockquote>It's a repository of React.js development (with <code>.jsx</code> and <code>.tsx</code>).</blockquote>
 
 <a href="https://github.com/IsaacAlves7/react.js-programming"><img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"/></a>
 
@@ -14,7 +14,8 @@
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-black?style=for-the-badge&logo=HTML5&logoColor=turquoise)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=turquoise)](https://github.com/IsaacAlves7/javascript-programming)
 
-![react_870x220_choose-the-right-javascript](https://user-images.githubusercontent.com/61624336/126890148-540656eb-a34f-4779-aaca-ceebc28d8620.jpg)
+# React.js
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/126890148-540656eb-a34f-4779-aaca-ceebc28d8620.jpg"></div>
 
 
 
