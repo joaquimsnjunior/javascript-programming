@@ -20,7 +20,8 @@
 <hr>
 
 # ⚛️ O que é React Native? 📲
-<div align="center"><img src="https://www.vippng.com/png/full/400-4001856_react-native-development-react-native-logo-no-background.png" width="470"/></div><br \>
+
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/131352203-c7781b9a-ef7d-4b8c-8254-bdafcef0bb6a.gif"></div><br \>
 
 <p>É uma biblioteca (framework) front-end do <b>JavaScript</b>, desenvolvido pelo <b>Facebook</b>, cujo renderiza e constroi interfaces nativas para os sistemas operacionais Android e IOS, ou seja, ele renderiza componentes mobiles para cada uma das plataformas, em outras palavras ele cria aplicações híbridas para os dispositivos móveis. Sendo assim, é bem diferente do outro framework JavaScript bem conhecido, o <b>React.js</b>.</p>
 
