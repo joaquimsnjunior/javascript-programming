@@ -201,19 +201,19 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></a></div><br \>
 
 # 📜 Angular 🅰️
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" height="277"></a></div><br \>
 
 # 📜 Vue ✌️
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" height="277"></a></div><br \>
 
 # 🧊 Webpack 🧊
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div><br \>
 
 # 🃏 Jest 🃏
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="277"></a></div><br \>
 
 # ⚫ Cypress ⚫
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/1ea257941935e0226b24329d2a2838beabed7ba2/public/logos/cypress.svg" height="277"></a></div><br \>
 
 # 🔵 Ionic 🔵
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
