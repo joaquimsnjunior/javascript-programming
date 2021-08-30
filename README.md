@@ -5,7 +5,8 @@
 <img src="https://miro.medium.com/max/3780/1*Bf17KrH3fJo09LTKHRYJcw.jpeg">
 
 # 📜 Entendendo Promises de uma vez por todas 🎫
-<div align="center"><a href="https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2"><img src="https://miro.medium.com/max/1366/0*qd397CiUFnmsbH2H.png" height="170" title="Read the Blog"></a></div><br \>
+<div align="center"><a href="https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2"><img src="https://miro.medium.com/max/1366/0*qd397CiUFnmsbH2H.png" height="277" title="Read the Blog"></a></div><br \>
+
 <p>Promises são um conceito essencial do JavaScript. Elas estão presentes em praticamente todo o ecossistema da linguagem e possui um fluxo assíncrono.</p>
 
 ## Código Síncrono
