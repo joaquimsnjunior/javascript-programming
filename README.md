@@ -27,7 +27,8 @@
   <li>Good domains in English;</li>
   <li>Programming logic;</li>
   <li>Programming paradigms;</li>
-  <li>HTML and CSS;</li>
+  <li>HTML, CSS, SVG, Sass, Bootstrap;</li>
+  <li>PHP and Node.js;</li>
   <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
   <li>HTTP methods (GET, POST, PUT, DELETE);</li>
   <li>REST API;</li>
