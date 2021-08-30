@@ -34,8 +34,9 @@ Diferente de outros tipos de `.apk` nativos para rodar no Android ou no iOS, o R
 <img src="https://i.imgur.com/FDIfCMQ.png"/>
 
 
-<h2>Por que usar o React Native?</h2>
-<img src="https://s3.amazonaws.com/ckl-website-static/wp-content/uploads/2016/08/Banner_reactnative4.jpg"/>
+## Por que usar o React Native?
+<div align="center"><img src="https://shivlab.com/images/react_native_infographic.png" height="277"></div>
+
 <p>É muito vantajoso criar aplicações para vários dispositivos e trazendo informações para muitas pessoas, pois estamos na era da mobilidade. Portanto, não é muito vantajoso lançar várias versões de apps para diferentes sistemas operacionais, pois a tipagem do código é diferente e o tempo de produção torna-se muito longo. Por exemplo, o <b>IOS</b> é desenvolvido em Objective-C e Swift, já o <b>Android</b> em Java e Kotlin, é vantajoso construir o mesmo aplicativo em diferentes linguagens ou uma única linguagem para esses sistemas operacionais? Claro que uma única linguagem para esses sistemas operacionais, pois aumenta a produtividade e diminui a exaustão dos profissionais.</p>
 <h2>Guia para instalar e configurar o React Native</h2>
 <img src="https://apiko.com/blog/content/images/2020/04/12-Apps-Using-React-Native-Explaining-Value-and-Popularity.jpg"/>
@@ -99,7 +100,7 @@ Diferente de outros tipos de `.apk` nativos para rodar no Android ou no iOS, o R
   <pre>react-native init --version 0.55.4 firstProject</pre>
   <pre>react-native -v</pre>
   
-## ⚛️📦 Conhecendo os pacotes do React Native (CLI)
+## Conhecendo os pacotes do React Native (CLI)
 <p>Na pasta <b>android</b> ficam as configurações e o código nativo do android; Na pasta <b>ios</b> ficam as configurações e o código nativo do ios; Na pasta <b>node_modules</b> todas as dependências instaladas pelo npm.</p>
 <pre>
 <code>📂 android</code>
@@ -108,7 +109,7 @@ Diferente de outros tipos de `.apk` nativos para rodar no Android ou no iOS, o R
 </pre>
 <p></p>
 
-## ⚛️📦 Conhecendo os pacotes do React Native (Expo)
+## Conhecendo os pacotes do React Native (Expo)
 <p>Na pasta <b>node_modules</b> todas as dependências instaladas pelo npm; No arquivo <b>app.json</b> determina como a aplicação é definida para o usuário final; No arquivo <b>App.js</b> fica o código da aplicação; No arquivo <b>yarn.lock</b> é o cache das dependências;</p>
 <pre>
 <code>📂 .expo</code>
@@ -134,7 +135,7 @@ Diferente de outros tipos de `.apk` nativos para rodar no Android ou no iOS, o R
   <code>}</p></code>
 </pre>
 
-## React Native Navigation
+# React Native Navigation
 <img src="https://6cro14eml0v2yuvyx3v5j11j-wpengine.netdna-ssl.com/wp-content/uploads/Build-a-messaging-app-using-react-native1.png"/>
 <p><b>Configurando a navegação:</b></p>
 <ol>
@@ -175,3 +176,4 @@ Diferente de outros tipos de `.apk` nativos para rodar no Android ou no iOS, o R
 
 ## React Native
 <div align="center"><img src="https://pbcdn1.podbean.com/imglogo/dir-logo/366516/366516_300x300.png" height="300"/></div>
+https://s3.amazonaws.com/ckl-website-static/wp-content/uploads/2016/08/Banner_reactnative4.jpg
