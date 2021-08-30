@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" height="27"> It's a repository of Angular development 📜🔢
+# <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" height="27"> It's a repository of Angular development 🅰️📕
 <!--
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 [![JSON](https://img.shields.io/badge/-package.json-000000?style=social&logo=JSON&logoColor=gray)](#)
