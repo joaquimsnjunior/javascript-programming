@@ -15,15 +15,26 @@ O termo "Vanilla", traduzido como "baunilha", nada mais é do que um sarcasmo pa
 
 E como estamos envolvendo o JavaScript puro, por que não utilizar esse branch pra se tratar do paradigma imperativo/ procedural da linguagem? Embora, ela ainda seja orientada a objetos e tudo dentro dela é considerado um objeto.
 
+# 🍦 Paradigmas de programação 🍦
+
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://user-images.githubusercontent.com/61624336/131275306-bf9c13fa-c430-4e42-8140-304659aafeec.png" title="Full-Stack JS Development"/></a></div><br>
 
 Com o paradigma imperativo iremos aprender sobre tipos de valores e dados, variáveis, arrays, matrizes, estruturas condicionais, loops e funções.
 
-# 🍦 🍦
+# 🍦 Paradigmas Imperativo/ Procedural 🍦
 <div align="center"><img src="https://javadesde0.com/wp-content/uploads/vanilla-js.png"></div>
 
-# 🍦 🍦
+## ECMAScript
+
+# 🍦 Paradigma Orientado a Objetos 🍦
 <div align="center"><img src="https://island-babygirl.netlify.app/static/vanilla-javascript-2020-12-21-a8fed159636cfdc69d52747b36274843.png" height="277"></div>
+
+## BOM/ DOM
+
+# 🍦 Paradigma Funcional 🍦
+<div align="center"><img src="https://www.webdesignemfoco.com/img/files/original/375024-curso-de-javascript-vanilla-l.jpg"></div>
+
+## Lambda
 <!--  
 
 -->
