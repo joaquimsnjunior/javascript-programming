@@ -19,7 +19,7 @@
 </ol>
 <hr>
 
-# ⚛️ O que é React Native? 📲
+# ⚛️ React Native 📲
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/131352203-c7781b9a-ef7d-4b8c-8254-bdafcef0bb6a.gif"></div><br \>
 
