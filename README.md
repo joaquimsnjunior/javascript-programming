@@ -4,12 +4,12 @@
 
 <div align="center"><img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/04/DOM-JAVASCRIPT.png"/></div><br \>
 
-<h1 align="center">📜 JavaScript OOP ⚽</h1>
+# 📜 JavaScript OOP ⚽
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png"/></div>
 <p>Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos (OOP), isto significa que todos os elementos de uma página da Web são
 tratados como objetos. Estes objetos são agrupados de acordo com seu tipo ou finalidade.</p>
 
-## 📜 Hierarquia de Objetos ⚽🏈
+## Hierarquia de Objetos
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png"/></div>
 <p>Seguindo a hierarquia de objetos da linguagem JavaScript, são criados os seguintes objetos ao ser carregada uma página:</p>
 <ol>
@@ -39,14 +39,14 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 
 ### 2° Solução: 📜 Num arquivo a ser importado 📒
 
-## 📜 Prototype 🧰
+# 📜 Prototype 🧰
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/104110669-acb5fc80-52b8-11eb-9b30-f8c820758751.jpg"/></div>
 <p>Quando se trata de herança, o JavaScript tem somente um construtor: objetos. Cada objeto tem um link interno para um outro objeto chamado <b>prototype</b>. O prototype é baseado em protótipos e possui uma variável que é armazenada na referencial o <code>__proto__</code>, além de utilizar uma cadeia de objetos, como o objeto <b>constructor</b>. O prototype pode ser acessado no console do navegador, assim como a cadeia de protótipos.</p>
 
 ### Exemplo 1:
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/104111592-6bc2e580-52c2-11eb-84e4-3d6b3d841a61.jpg)
 
-### 🧰 Cadeia de protótipos (Prototype chain) ⛓️
+## Cadeia de protótipos (Prototype chain)
 <div align="center"><img src="https://www.sdlclabs.com/images/services/PrototypeJs.png"/><img src="https://user-images.githubusercontent.com/61624336/104111183-e0dfec00-52bd-11eb-8602-60813a7a3b18.png"/></div>
 <p>Nota-se que o <code>Object.prototype</code> é o único que não tem duas conexões, pois ele faz uma lista dos objetos inseridos. Esse objeto prototype também tem um atributo prototype, e assim por diante até o que o valor <code>null</code> seja encontrado como sendo o seu prototype <code>null</code> que, por definição, não tem prototype, e age como um link final nesta cadeia de protótipos (prototype chain).</p>
 
@@ -55,7 +55,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 <p>Veremos melhor como funciona essa hierarquia de objetos e como utiliza-las em uma página, nos próximos capítulos.</p>
 <hr>
 
-<h1 align="center">📜 Eventos 📙🎪</h1>
+# 📜 Eventos 🎪
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103578048-a852a380-4eb4-11eb-9d65-5fb88a47469a.jpg"/></div>
 <p>São fatos que ocorrem durante a execução do sistema, a partir dos quais o programador pode definir ações a serem realizadas pelo programa.</p>
 <p>Um evento é gerado como resultado de uma ação: Um clique, um movimento do mouse, uma seleção de texto, o abandono da página etc. A <b>associação</b> é realizada em HTML nos
@@ -68,7 +68,7 @@ A utilização de propriedades se dá acompanhada de seu objeto sendo separados 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/103591717-a9dd9500-4ecf-11eb-855a-fb88ffcd7f4b.jpg)
 ![Sem Título-12e2](https://user-images.githubusercontent.com/61624336/103591719-aa762b80-4ecf-11eb-822f-fcd9114180c2.jpg)
 
-## 📙 Lista de Eventos 🎪
+## Lista de Eventos
 <p>Funciona com quase todas as tags html, exceto: &lt;br&gt;, &lt;head&gt;, &lt;html&gt;, <script>, <style>, <title>.</p>
 <table>
   <tr>
