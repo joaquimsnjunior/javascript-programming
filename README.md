@@ -130,26 +130,26 @@ Baseando-se nessas especificações, outras linguagens também surgiram, como o 
 O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no início dos anos 2000, várias bibliotecas com o intuito de facilitar o uso do JavaScript surgiram, como <b>jQuery</b> e <b>Prototype</b>.
   
 # 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png"/></div><br \>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png" height="277"/></div><br \>
 
 Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (<b>A</b>synchronous <b>J</b>avaScript <b>A</b>nd <b>X</b>ML), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
 
 # 🚘 V8 🚘
-<div align="center"><a href="https://v8.dev/"><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="270" title="Site do V8"/></a></div><br \>
+<div align="center"><a href="https://v8.dev/"><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="277" title="Site do V8"/></a></div><br \>
 
 <p>Em setembro de 2008 a Google lançou seu navegador, o Google Chrome. O Chrome tem um interpretador de JavaScript muito poderoso, o <a href="https://v8.dev/"><b>V8</b></a>. Esse nome é baseado no motor de combustão V8, que tem esse nome por ter 8 cilindros unidos na parte de baixo, formando um "V". São normalmente usados em automóveis de grande porte, embarcações marítimas, aeronáuticas, etc.
 
 O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.</p>
 
 # 🟩 Node.js 🟩
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div><br \>
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="277" title="Site do Node.js"/></a></div><br \>
 
 <p>Em 2009, <a href="https://github.com/ry">Ryan Dahl</a> desenvolveu o <b>Node.js</b>. O Node usa o V8 fora do navegador, e possui muitas outras funcionalidades que nos permite programar com JavaScript no lado do servidor. Com o Node foi possível a criação de coisas como automatizadores de tarefas e criação de servidores em JavaScript.
   
 Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
 # 🧭 NW.js 🧭
-<div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://github.com/IsaacAlves7/javascript-programming/blob/master/node-webkit.svg" height="170"></a></div><br \>
+<div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://github.com/IsaacAlves7/javascript-programming/blob/master/node-webkit.svg" height="277"></a></div><br \>
 
 O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de execução baseado em *Chromium* e *Node.js*, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
 
@@ -179,7 +179,7 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 <p>O <b>Phaser</b> é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
 
 # 📜 Processing.js 🤪
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Processing_Logo_Clipped.svg/180px-Processing_Logo_Clipped.svg.png"></div><br \>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Processing_Logo_Clipped.svg/180px-Processing_Logo_Clipped.svg.png" height="277"></div><br \>
 
 **Processing.js** é uma porta JavaScript descontinuada de Processing, uma estrutura projetada para escrever visualizações, imagens e conteúdo interativo. Ele permite que os navegadores da web exibam animações, aplicativos visuais, jogos e outros conteúdos gráficos ricos sem a necessidade de um miniaplicativo Java ou plugin Flash.
 
@@ -190,6 +190,15 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 
 # 📜 Browserify 🧙‍♂️ 
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/browserify-icon.svg" height="277"></a></div><br \>
+
+# 📜 Grunt 🐗
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/grunt.svg" height="277"></a></div><br \>
+
+# 📜 Babel 🏙️
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" height="277"></a></div><br \>
+
+# 📜 Flow ⚡
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/flow.svg" height="277"></a></div><br \>
 
 # 📜 TypeScript (TS) 🟦
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://symbols.getvecta.com/stencil_25/85_typescript.2ab2b3dcfe.svg" height="277"></a></div><br \>
