@@ -203,9 +203,10 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 # ⚫ Cypress ⚫
 
 # 🔵 Ionic 🔵
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
 
 # ⚛️ React Native 📲
-<div align="center"><a href="" height="277" title="Site do V8"/></a></div><br \>
+<div align="center"><img href="https://cdn.worldvectorlogo.com/logos/react-1.svg" height="277" ></div><br \>
 
 # 📜 A importância do JavaScript para o mundo 🏆
 <div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div><br \>
