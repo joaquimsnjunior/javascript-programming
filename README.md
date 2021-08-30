@@ -80,3 +80,6 @@
 
 # Angular
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.keycdn.com/img/blog/angular-banner.png"></a></div><br>
+
+# Angular
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://js.devexpress.com/Content/ImagesNew/Overview/angular-banner.png"></a></div><br>
