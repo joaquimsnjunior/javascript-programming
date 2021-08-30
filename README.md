@@ -36,8 +36,11 @@
 # Redux Saga
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" height="277"></div>
 
+# Gatsby.js
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" height="277"></div>
 
-
+# Next.js
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="277"></div>
 
 
 
