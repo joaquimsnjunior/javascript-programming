@@ -78,6 +78,9 @@ O **Node.js** é uma ferramenta para a execução de uma variedade de ambientes 
 ## Node.js
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.shopify.com/s/files/1/1527/3235/products/black_173x.png?v=1547235693" height="177" title="Site do Node.js"/></a></div><br \>
 
+## Node.js
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/qbjmyufgm7kms8hqqjpq.jpg"></a></div><br \>
+
 <!--
 https://cdn.w3villa.com/production/assets/pages/node-js-57c10fe2cea98141c6989b648975744e.jpg
 https://www.mobiloitte.com/images/node-js-banner.png
