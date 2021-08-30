@@ -15,19 +15,19 @@ Baseando-se nessas especificações, outras linguagens também surgiram, como o 
 ## ECMAScript Versions
 <div align="center"><img src="https://i.morioh.com/2020/01/06/2b34e42c3159.jpg"></div><br \>
 
-### ES6
+## ES6
 <div align="center"><img src="https://devmaster.edu.vn/uploads/images/2019/10/devmaster-ES6-review.png" height="277"/></div><br \>
 
-### ES7 
+## ES7 
 <div align="center"><img src="https://miro.medium.com/max/1838/1*JhDw7yiwv5YOJIncUhCXQg.png" height="277"/></div><br \>
 
-### ES8
+## ES8
 <div align="center"><img src="https://cdn-media-1.freecodecamp.org/images/k4f95BDjIaGWgQO0FeQoIBfur1su20MEMBNk"></div><br \>
 
-### ES12
+## ES12
 <div align="center"><img src="https://miro.medium.com/max/1400/1*QRyy7n9T0sYPTa4XMkmJvQ.png"  height="277"></div><br \>
 
-### ES 2021
+## ES 2021
 <div align="center"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1601047978/nfofaimprgcqzz2ldddv.png"></div><br \>
 
 # ES6 - ECMAScript 6 (2015)
