@@ -22,7 +22,7 @@ Baseando-se nessas especificações, outras linguagens também surgiram, como o 
 <div align="center"><img src="https://miro.medium.com/max/1838/1*JhDw7yiwv5YOJIncUhCXQg.png" height="277"/></div><br \>
 
 # ES8
-<div align="center"><img src="https://cdn-media-1.freecodecamp.org/images/k4f95BDjIaGWgQO0FeQoIBfur1su20MEMBNk" height="277"/></div><br \>
+<div align="center"><img src="https://cdn-media-1.freecodecamp.org/images/k4f95BDjIaGWgQO0FeQoIBfur1su20MEMBNk"></div><br \>
 
 # 📜 [Advanced ES6] Default Function Arguments 🤹
 <p>Quando não atribuimos o segundo valor para a variável, atribuimos ele dentro da função, observe abaixo!</p>
