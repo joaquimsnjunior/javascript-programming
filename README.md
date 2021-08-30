@@ -171,6 +171,9 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 
 <blockquote>Um exemplo de aplicação feita com Processing.js são os emojis interativos e animados do Facebook, como o amei, grr, triste, haha, uau, like e um bônus.</blockquote>
 
+# 📜 jQuery ☄️
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" height="277"></div><br \>
+
 # 📜 TypeScript (TS) 🟦
 
 # 📜 React.js ⚛️
