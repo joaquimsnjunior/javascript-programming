@@ -174,9 +174,9 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 
 # 📜 Vue ✌️
 
-# Webpack
+# 🧊 Webpack 🧊
 
-# Jest
+# 🃏 Jest 🃏
 
 # Cypress
 
