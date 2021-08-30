@@ -188,25 +188,38 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 # 📜 jQuery ☄️
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" height="277"></div><br \>
 
+# 📜 Browserify 🧙‍♂️ 
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/browserify-icon.svg" height="277"></a></div><br \>
+
 # 📜 TypeScript (TS) 🟦
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
+
+# 📜 ESLint 🟪
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="277"></a></div><br \>
 
 # 📜 React.js ⚛️
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></a></div><br \>
 
 # 📜 Angular 🅰️
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
 
 # 📜 Vue ✌️
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
 
 # 🧊 Webpack 🧊
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
 
 # 🃏 Jest 🃏
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
 
 # ⚫ Cypress ⚫
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
 
 # 🔵 Ionic 🔵
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
 
 # ⚛️ React Native 📲
-<div align="center"><img href="https://cdn.worldvectorlogo.com/logos/react-1.svg" height="277" ></div><br \>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="277"></div><br \>
 
 # 📜 A importância do JavaScript para o mundo 🏆
 <div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div><br \>
