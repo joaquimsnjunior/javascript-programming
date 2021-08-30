@@ -19,6 +19,11 @@ E como estamos envolvendo o JavaScript puro, por que não utilizar esse branch p
 
 Com o paradigma imperativo iremos aprender sobre tipos de valores e dados, variáveis, arrays, matrizes, estruturas condicionais, loops e funções.
 
+# 🍦 🍦
+<div align="center"><img src="https://javadesde0.com/wp-content/uploads/vanilla-js.png"></div>
+
+# 🍦 🍦
+<div align="center"><img src="https://island-babygirl.netlify.app/static/vanilla-javascript-2020-12-21-a8fed159636cfdc69d52747b36274843.png" height="277"></div>
 <!--  
 
 -->
