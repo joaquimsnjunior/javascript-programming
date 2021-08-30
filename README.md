@@ -65,6 +65,3 @@
 
 ## Angular.js
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="277"></a></div><br>
-
-## Angular
-<div align="center"><img src="https://tkit.dev/static/acb6875910b73e84cdb3cd35e54505c5/655be/angular-cogs.jpg"></div>
