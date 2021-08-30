@@ -178,11 +178,11 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 
 # 🃏 Jest 🃏
 
-# Cypress
+# ⚫ Cypress ⚫
 
-# Ionic
+# 🔵 Ionic 🔵
 
-# React Native
+# ⚛️ React Native 📲
 
 # 📜 A importância do JavaScript para o mundo 🏆
 <div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div><br \>
