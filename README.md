@@ -1304,7 +1304,7 @@ O valor do Symbol não é texto, uma String, não é um número e etc. Ele é ú
 
 <hr>
 
-
+<img src="https://devsamurai.com.br/wp-content/uploads/2019/08/you-dont-know-js.png">
 
 
 
