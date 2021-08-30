@@ -14,6 +14,8 @@
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-black?style=for-the-badge&logo=HTML5&logoColor=turquoise)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=turquoise)](https://github.com/IsaacAlves7/javascript-programming)
 
+<hr>
+
 # React.js
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/126890148-540656eb-a34f-4779-aaca-ceebc28d8620.jpg"></div>
 
