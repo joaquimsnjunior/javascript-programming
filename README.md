@@ -23,7 +23,7 @@
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></div>
 
 # React Hook
-<div align="center"><img src="https://bluebits.dev/wp-content/uploads/2021/06/1_kEPCQNY4dwVyaFuLEwJcNQ.png"></div>
+<div align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--joa9_6zs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pijec5h1113okhw4orba.png"></div>
 
 <div align="center"><img src="https://miro.medium.com/max/1166/1*fQefaOBmMkqfdpvphCEdVw.png" height="277"></div>
 
