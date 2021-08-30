@@ -77,3 +77,6 @@
 
 # Angular
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.infragistics.com/community/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-09-43/2766.dev_2D00_tools_2D00_ignite_2D00_ui_2D00_angular_2D00_shield_2D00_8b.jpg"></a></div><br>
+
+# Angular
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.keycdn.com/img/blog/angular-banner.png"></a></div><br>
