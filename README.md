@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of ECMAScript (ES) programming 📜🔢
+# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of ECMAScript (ES) 📜🔢
 <img src="https://cdn.acodez.in/wp-content/uploads/2020/01/banner-2.jpg">
 
 <hr>
