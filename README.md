@@ -83,3 +83,6 @@
 
 # Angular
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://js.devexpress.com/Content/ImagesNew/Overview/angular-banner.png"></a></div><br>
+
+# Angular
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://miro.medium.com/max/2760/1*7NCqo6LqDutZBPozM6b2Dw.png"></a></div><br>
