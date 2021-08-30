@@ -1,5 +1,7 @@
 # <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of JavaScript BOM/DOM 📜🔢
 
+<div align="center"><img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/04/DOM-JAVASCRIPT.png"/></div><br \>
+
 <h1 align="center">📜 JavaScript OOP ⚽</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/103486053-b5e72b00-4dd9-11eb-86bc-a7fca5cf664f.png"/></div>
 <p>Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação orientada a objetos (OOP), isto significa que todos os elementos de uma página da Web são
