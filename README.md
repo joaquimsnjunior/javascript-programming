@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of Angular development 📜🔢
+# <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" height="27"> It's a repository of Angular development 📜🔢
 <!--
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 [![JSON](https://img.shields.io/badge/-package.json-000000?style=social&logo=JSON&logoColor=gray)](#)
@@ -18,9 +18,9 @@
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ionic_button_icon_151955.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/sass_button_icon_151921.png" height="47"></div>
 -->
-<blockquote>I created this repository for my JavaScript Full-Stack development learning.</blockquote>
+<blockquote>I created this repository for my Angular Full-Stack development learning.</blockquote>
 
-<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/></a><br>
+<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/angulart2_light_1200x303.png?sfvrsn=1acd8091_0" title="Full-Stack JS Development"/></a><br>
 
 ## 🎒 Prerequisites and repositories 📚:
 <ul>
