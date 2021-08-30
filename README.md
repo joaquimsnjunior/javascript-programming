@@ -153,11 +153,25 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 
 O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de execução baseado em *Chromium* e *Node.js*, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
 
+Foi construído no Centro de tecnologia de código aberto da Intel combinando a estrutura Node.js. com um mecanismo Chromium (anteriormente conhecido como **Webkit**).
+
+Graças à combinação Node.js e Chromium, você pode criar um aplicativo que não apenas carrega um site local em uma janela de aplicativo, mas também se conecta ao sistema operacional por meio da API JavaScript. Esta solução permite controlar parâmetros como dimensões da janela, barra de ferramentas e itens de menu , além de fornecer acesso aos arquivos do computador local.
+
+O NW.js não tem opinião e oferece a liberdade de escolher estruturas e bibliotecas que você deseja usar em um projeto. Permite chamar os módulos Node.js. diretamente do DOM, suporta todos os recursos do navegador, fornece proteção de fonte JavaScript e está disponível no Linux, Mac OS e Windows.
+
 Para ter uma ideia do que é possível fazer com ele visite o site:
 - https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition
 
 # :electron:  Electron  :electron:
 <div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://symbols.getvecta.com/stencil_79/35_electron.e9e192f1d7.svg" height="170"></a></div><br \>
+
+O **Electron** é um framework de código aberto criada inicialmente pelo editor _GitHub for Atom_ em 2013. Essa biblioteca permite criar aplicativos GUI de desktop com tecnologias da web como JavaScript, HTML e CSS.
+
+A vantagem significativa dessa solução é que não há necessidade de um desenvolvedor web JavaScript aprender novas tecnologias ou idiomas para criar um aplicativo de desktop. O aplicativo Electron geralmente reutiliza a lógica comercial, o design e a estrutura geral de um aplicativo Web. É uma ótima maneira de economizar tempo e dinheiro no lado comercial e de desenvolvimento.
+
+Se você é um desenvolvedor de JavaScript, precisará aprender algumas coisas relativamente simples sobre como o Electron funciona e sua API. Provavelmente, você poderá configurar seu primeiro aplicativo de desktop Electron em apenas alguns dias.
+
+O elétron é uma tecnologia madura com uma comunidade em crescimento e, portanto, cria um ótimo ambiente de produção. Graças à renderização da interface do usuário do mecanismo Chromium, você obtém acesso a ferramentas como Developer Tools e Storage Access.
  
 # 📜 Phaser 🕹️
 <div align="center"><a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" height="277"></a></div><br \>
