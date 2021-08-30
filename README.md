@@ -1,8 +1,8 @@
 # <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of AJAX programming 📜🔢
 
-<blockquote>I created this repository for my JavaScript Full-Stack development learning.</blockquote>
+<blockquote>I created this repository for my AJAX development learning.</blockquote>
 
-<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" title="Full-Stack JS Development"/></a><br>
+<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/08/AJAX.png" title="Full-Stack JS Development"/></a><br>
 
 ## 📜 JavaScript (JS) Timeline 🕓
 ![JS Timeline](https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg)
