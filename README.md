@@ -35,9 +35,9 @@
   <li>Desire to learn.</li>
 </ul>
 
-<div align="center"><img src="https://miro.medium.com/max/1000/1*jIpGVmlwSQmb0QiI8TpmPg.png"></div><br>
-
 <blockquote><b>⚠️ WARNING</b>: It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
+
+<div align="center"><img src="https://miro.medium.com/max/1000/1*jIpGVmlwSQmb0QiI8TpmPg.png"></div><br>
 
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-FFE800?style=for-the-badge&logo=HTML5&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![SQL](https://img.shields.io/badge/-Databases-FFE800?style=for-the-badge&logo=MySQL&logoColor=black)](https://github.com/IsaacAlves7/sql-language)
@@ -188,6 +188,7 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 # 🔵 Ionic 🔵
 
 # ⚛️ React Native 📲
+<div align="center"><a href="" height="277" title="Site do V8"/></a></div><br \>
 
 # 📜 A importância do JavaScript para o mundo 🏆
 <div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div><br \>
