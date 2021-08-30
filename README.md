@@ -1,5 +1,7 @@
 # <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of JavaScript BOM/DOM 📜🔢
 
+<blockquote>It's a repository of Vanilla JavaScript focused in BOM/DOM manipulation with many practical projects!</blockquote>
+
 <div align="center"><img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/04/DOM-JAVASCRIPT.png"/></div><br \>
 
 <h1 align="center">📜 JavaScript OOP ⚽</h1>
