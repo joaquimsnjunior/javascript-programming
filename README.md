@@ -115,6 +115,9 @@ Diferente da linguagem HTML, a linguagem JavaScript corresponde à programação
 
 Essa padronização define a estrutura da linguagem, seus comandos, como ela deve se comportar, etc. Baseando-se nessas especificações, os desenvolvedores dos navegadores sabem o que um interpretador de JavaScript deve ter e como deve responder aos comandos.
 Baseando-se nessas especificações, outras linguagens também surgiram, como o JScript, ActionScript e TypeScript.</p>
+
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/131336732-e61cc335-927e-4ba5-86be-624d5619a1f7.png" height="177"/></div><br \>
+
 <blockquote>👍 <b>Dica:</b> O nome JavaScript e ECMAScript definem a mesma linguagem, então podem ser usados livremente como sinônimos.</blockquote>
 
 # 📜 A presença do JavaScript atualmente ⚛️
@@ -135,7 +138,6 @@ Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usav
 
 O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.</p>
 
-
 # 🟩 Node.js 🟩
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
@@ -155,7 +157,7 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 <div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://symbols.getvecta.com/stencil_79/35_electron.e9e192f1d7.svg" height="170"></a></div><br \>
  
 # 📜 Phaser 🕹️
-<a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a><br \>
+<a href="https://phaser.io/"><img src="https://www.mundojs.com.br/wp-content/uploads/2019/11/phaserjs.png" title="Acesse o site do Phaser"></a>
 
 <p>O <b>Phaser</b> é um dos maiores pacotes de criação de games (Engine) de JavaScript. Existem outras Engines que também compilam o JavaScript como a Unity, Construct 2 e 3 ou Game Maker, porém isso fica a gosto do desenvolvedor, use aquela que você mais se familiariza!</p>
 
@@ -165,6 +167,22 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 **Processing.js** é uma porta JavaScript descontinuada de Processing, uma estrutura projetada para escrever visualizações, imagens e conteúdo interativo. Ele permite que os navegadores da web exibam animações, aplicativos visuais, jogos e outros conteúdos gráficos ricos sem a necessidade de um miniaplicativo Java ou plugin Flash.
 
 <blockquote>Um exemplo de aplicação feita com Processing.js são os emojis interativos e animados do Facebook, como o amei, grr, triste, haha, uau, like e um bônus.</blockquote>
+
+# 📜 React.js ⚛️
+
+# 📜 Angular 🅰️
+
+# 📜 Vue ✌️
+
+# Webpack
+
+# Jest
+
+# Cypress
+
+# Ionic
+
+# React Native
 
 # 📜 A importância do JavaScript para o mundo 🏆
 <div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div><br \>
