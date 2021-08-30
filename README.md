@@ -86,3 +86,9 @@
 
 # Angular
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://miro.medium.com/max/2760/1*7NCqo6LqDutZBPozM6b2Dw.png"></a></div><br>
+
+# Angular
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.biz4solutions.com/wp-content/uploads/2019/12/angularjs-app-development-app-banner.jpg"></a></div><br>
+
+# Angular
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://g2evolution.co.in/img/servicesimgs/AngularJS-Development%20Banner.png"></a></div><br>
