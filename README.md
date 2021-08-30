@@ -58,23 +58,6 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-FFE800?style=for-the-badge&logo=Webpack&logoColor=black)](https://github.com/IsaacAlves7/webpack-programming)
 [![DevOps](https://img.shields.io/badge/-‍‍DevOps-FFE800?style=for-the-badge&logo=ReactOS&logoColor=black)](https://github.com/IsaacAlves7/systems-architecture)
 
-## 🔗 Links de Apoio 📚:
-[![Codepen](https://img.shields.io/badge/-Codepen-yellow?style=for-the-badge&logo=CodePen&logoColor=white)]()
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-yellow?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/learn/)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-yellow?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://pt.stackoverflow.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/default.asp)
-[![Css3](https://img.shields.io/badge/-CSS3-yellow?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/default.asp)
-[![JS](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.w3schools.com/js/DEFAULT.asp)
-[![JS](https://img.shields.io/badge/-Promisees-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://bevacqua.github.io/promisees/)
-[![JSON](https://img.shields.io/badge/-JSON-yellow?style=for-the-badge&logo=JSON&logoColor=white)](https://www.w3schools.com/js/js_json_intro.asp)
-[![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-yellow?style=for-the-badge&logo=React&logoColor=white)](https://www.nodestudio.com.br/)
-
-## 🧩 Para simulações de programação recomendo esses jogos educacionais ⚔️:
-<ul>
-  <li>https://www.code.org</li>
-  <li>https://developers.google.com/blockly</li>
-  <li>https://br.codecombat.com/</li>
-</ul>
 <hr>
 
 <a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/angulart2_light_1200x303.png?sfvrsn=1acd8091_0"></a><br>
