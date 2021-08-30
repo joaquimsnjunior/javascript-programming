@@ -163,7 +163,7 @@ Para ter uma ideia do que é possível fazer com ele visite o site:
 - https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition
 
 # :electron:  Electron  :electron:
-<div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://symbols.getvecta.com/stencil_79/35_electron.e9e192f1d7.svg" height="170"></a></div><br \>
+<div align="center"><a href=""/><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" height="277"></a></div><br \>
 
 O **Electron** é um framework de código aberto criada inicialmente pelo editor _GitHub for Atom_ em 2013. Essa biblioteca permite criar aplicativos GUI de desktop com tecnologias da web como JavaScript, HTML e CSS.
 
@@ -186,13 +186,13 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 <blockquote>Um exemplo de aplicação feita com Processing.js são os emojis interativos e animados do Facebook, como o amei, grr, triste, haha, uau, like e um bônus.</blockquote>
 
 # 📜 jQuery ☄️
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" height="277"></div><br \>
+<div align="center"><img src="https://symbols.getvecta.com/stencil_85/42_jquery-vertical.11b0fadcac.svg" height="277"></div><br \>
 
 # 📜 Browserify 🧙‍♂️ 
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/browserify-icon.svg" height="277"></a></div><br \>
 
 # 📜 TypeScript (TS) 🟦
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://symbols.getvecta.com/stencil_25/85_typescript.2ab2b3dcfe.svg" height="277"></a></div><br \>
 
 # 📜 ESLint 🟪
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="277"></a></div><br \>
@@ -215,7 +215,10 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 # ⚫ Cypress ⚫
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/1ea257941935e0226b24329d2a2838beabed7ba2/public/logos/cypress.svg" height="277"></a></div><br \>
 
-# 🔵 Ionic 🔵
+# 🤖 Cordova 📲
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" height="277"></a></div><br \>
+
+# 🔵 Ionic 📲
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
 
 # ⚛️ React Native 📲
