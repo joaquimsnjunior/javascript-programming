@@ -60,5 +60,9 @@
 
 <hr>
 
-<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/angulart2_light_1200x303.png?sfvrsn=1acd8091_0"></a><br>
+# 🅰️ Angular 📕
+<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" height="277"></a><br>
+
+## Angular.js
+<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="277"></a><br>
 
