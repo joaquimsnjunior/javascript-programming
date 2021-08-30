@@ -1,5 +1,8 @@
 # <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of JavaScript (JS) programming 📜🔢
- 
+<img src="https://cdn.acodez.in/wp-content/uploads/2020/01/banner-2.jpg">
+
+<hr>
+
 ## 📜 ECMAScript (ES) 📒
 <div align="center"><img src="https://raw.githubusercontent.com/wingsuitist/ecmascript-logo/master/es-ecmascript-logo.png" height="177"/></div><br \>
 
