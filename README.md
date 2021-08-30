@@ -153,7 +153,7 @@ O **Node Web-Kit**, ou simplesmente **NW.js** é uma aplicação em tempo de exe
 Para ter uma ideia do que é possível fazer com ele visite o site:
 - https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition
 
-# :electron: Electron :electron:
+# :electron:  Electron  :electron:
 <div align="center"><a href="" height="270" title="Site do Node-Webkite"/><img src="https://symbols.getvecta.com/stencil_79/35_electron.e9e192f1d7.svg" height="170"></a></div><br \>
  
 # 📜 Phaser 🕹️
