@@ -230,7 +230,7 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 # ⚫ Cypress ⚫
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/1ea257941935e0226b24329d2a2838beabed7ba2/public/logos/cypress.svg" height="277"></a></div><br \>
 
-# 🤖 Cordova 📲
+# 🤖 Apache Cordova 📲
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" height="277"></a></div><br \>
 
 # 🔵 Ionic 📲
