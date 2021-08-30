@@ -65,3 +65,15 @@
 
 ## Angular.js
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="277"></a></div><br>
+
+# Angular
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://thewebpatriot.com/wp-content/uploads/2020/01/AngularJS-Development-Banner.jpg"></a></div><br>
+
+# Angular
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://ben-solutions.com/wp-content/uploads/2017/03/Angular-js-Development-company.png"></a></div><br>
+
+# Angular
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://devonblog.com/wp-content/uploads/2019/03/angular.jpg"></a></div><br>
+
+# Angular
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.infragistics.com/community/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-09-43/2766.dev_2D00_tools_2D00_ignite_2D00_ui_2D00_angular_2D00_shield_2D00_8b.jpg"></a></div><br>
