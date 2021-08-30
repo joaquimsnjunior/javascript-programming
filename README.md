@@ -13,6 +13,9 @@
 
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-black?style=for-the-badge&logo=HTML5&logoColor=61DAFB)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=61DAFB)](https://github.com/IsaacAlves7/javascript-programming)
+[![Node](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js&logoColor=61DAFB)](https://github.com/IsaacAlves7/javascript-programming)
+[![Node](https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logo=ProtonDB&logoColor=61DAFB)](https://github.com/IsaacAlves7/javascript-programming)
+[![Node](https://img.shields.io/badge/-Ionic-black?style=for-the-badge&logo=Ionic&logoColor=61DAFB)](https://github.com/IsaacAlves7/javascript-programming)
 
 <hr>
 
@@ -27,6 +30,11 @@
 # React.js
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/126890148-540656eb-a34f-4779-aaca-ceebc28d8620.jpg"></div>
 
+# Redux
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="277"></div>
+
+# Redux Saga
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" height="277"></div>
 
 
 
