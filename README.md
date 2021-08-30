@@ -11,16 +11,19 @@
 
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in React.js Framework development, if you want to learn about HTML5, CSS3 or other JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
-[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-black?style=for-the-badge&logo=HTML5&logoColor=turquoise)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=turquoise)](https://github.com/IsaacAlves7/javascript-programming)
+[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-black?style=for-the-badge&logo=HTML5&logoColor=61DAFB)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=61DAFB)](https://github.com/IsaacAlves7/javascript-programming)
 
 <hr>
 
 # React.js
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></div>
+
+# React Hook
+<div align="center"><img src="https://bluebits.dev/wp-content/uploads/2021/06/1_kEPCQNY4dwVyaFuLEwJcNQ.png"></div>
+
+# React.js
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/126890148-540656eb-a34f-4779-aaca-ceebc28d8620.jpg"></div>
-
-
-
 
 
 
