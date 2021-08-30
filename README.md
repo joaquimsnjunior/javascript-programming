@@ -35,6 +35,10 @@ Com o paradigma imperativo iremos aprender sobre tipos de valores e dados, variÃ
 <div align="center"><img src="https://www.webdesignemfoco.com/img/files/original/375024-curso-de-javascript-vanilla-l.jpg"></div>
 
 ## Lambda
+
+# ğŸ¦
+<div align="center"><img src=""></div>
+
 <!--  
 
 -->
