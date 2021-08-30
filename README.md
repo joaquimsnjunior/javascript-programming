@@ -5,7 +5,7 @@
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" height="47"></div>
 -->
 
-<blockquote>It's a repository of React.js development (with <code>.jsx</code> and <code>.tsx</code>).</blockquote>
+<blockquote>It's a repository of React.js development (with <code>.jsx</code> and <code>.tsx</code>)!</blockquote>
 
 <a href="https://github.com/IsaacAlves7/react.js-programming"><img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"/></a>
 
