@@ -24,6 +24,13 @@ Baseando-se nessas especificações, outras linguagens também surgiram, como o 
 # ES8
 <div align="center"><img src="https://cdn-media-1.freecodecamp.org/images/k4f95BDjIaGWgQO0FeQoIBfur1su20MEMBNk"></div><br \>
 
+# ES12
+<div align="center"><img src="https://miro.medium.com/max/1400/1*QRyy7n9T0sYPTa4XMkmJvQ.png"></div><br \>
+
+# ES 2021
+<div align="center"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1601047978/nfofaimprgcqzz2ldddv.png"></div><br \>
+
+
 # 📜 [Advanced ES6] Default Function Arguments 🤹
 <p>Quando não atribuimos o segundo valor para a variável, atribuimos ele dentro da função, observe abaixo!</p>
 
