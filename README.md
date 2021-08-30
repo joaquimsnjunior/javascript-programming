@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of AJAX programming 📜🔢
+# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"> It's a repository of AJAX programming 📜🔃🔢
 
 <blockquote>I created this repository for my AJAX development learning.</blockquote>
 
