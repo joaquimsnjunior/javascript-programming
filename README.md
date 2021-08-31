@@ -79,6 +79,11 @@ npm install express
 
 O **Node.js** é uma ferramenta para a execução de uma variedade de ambientes com JavaScript (JS). JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most popular programming language in the world. Node.js extends the creative potential of people with web development experience, enabling a new generation of developers to create servers, command-line tools, desktop apps, and even robots.
 
+```
+npm install express
+node index.js
+```
+
 ## Nodemon
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" height="177" title="Site do Node.js"/></a></div><br \>
 
