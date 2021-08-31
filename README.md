@@ -61,17 +61,17 @@ npm install <pacote> --save
 ```
 
 
-# Express
+# <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="27"> Express 🟩
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
 ```npm
 npm install express
 ```
 
-# Socket.io
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" height="270" title="Site do Node.js"/></a></div><br \>
+# <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" height="27"> Socket.io 🟩
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
-# Meteor.js
+# <img src="https://www.vectorlogo.zone/logos/meteor/meteor-icon.svg" height="27"> Meteor.js 🟩
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/meteor-5.svg" height="277" title="Site do Node.js"/></a></div><br \>
 
 ## Desenvolvimento back-end com Node.js
