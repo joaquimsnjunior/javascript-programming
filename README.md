@@ -34,7 +34,7 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 
 ### Linux
 ```
-sudo apt-get install nodejs
+sudo apt install nodejs
 ```
 
 ## <img src="https://cdn.worldvectorlogo.com/logos/npm-2.svg" height="27"> npm <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="27">
