@@ -27,6 +27,16 @@
   
 Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
+## Instalação do Node.js
+
+### Windows
+- https://nodejs.org/en/
+
+### Linux
+```
+sudo apt-get install nodejs
+```
+
 ## <img src="https://cdn.worldvectorlogo.com/logos/npm-2.svg" height="27"> npm <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="27">
 <div align="center"><a href="https://www.npmjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="177" title="Site do NPM"/></a></div><br \>
 
@@ -53,6 +63,10 @@ npm install <pacote> --save
 
 ## Express
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="270" title="Site do Node.js"/></a></div><br \>
+
+```npm
+npm install express
+```
 
 ## Socket.io
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" height="270" title="Site do Node.js"/></a></div><br \>
