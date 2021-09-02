@@ -11,6 +11,7 @@
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![JS](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/IsaacAlves7/javascript-programming)
 [![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react.js-programming)
+[![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/IsaacAlves7/react.js-programming)
 
 <hr>
 
