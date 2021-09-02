@@ -1,8 +1,8 @@
 # It's a repository of TypeScript (TS) programming 📘📜🔢
-[![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=React&logoColor=blue)](#)
-[![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
+<!-- [![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=React&logoColor=blue)](#)
+[![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#) -->
 
-<p>I created this repository for my TypeScript Full-Stack Development learning.</p>
+<blockquote>I created this repository for my TypeScript Full-Stack Development learning.</blockquote>
 
 <img src="https://pantheon.io/sites/default/files/field/image/TypeScriptImage.jpeg" width="1070"/>
 
