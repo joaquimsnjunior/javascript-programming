@@ -191,6 +191,9 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 # 📜 Browserify 🧙‍♂️ 
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/browserify-icon.svg" height="277"></a></div><br \>
 
+# 📜 Require.js 🎯 
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://symbols.getvecta.com/stencil_25/72_requirejs.ba7439ae4b.svg" height="277"></a></div><br \>
+
 # 📜 Puppeteer 🧸
 <div align="center"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" height="277"></div><br \>
 
