@@ -97,7 +97,7 @@ O **NPM** (**N**ode **P**ackage **M**anager)
 npm list -g
 ```
 
-<div align="center"><img src="https://i.stack.imgur.com/VQVGv.gif">&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="307"></div><br \>
+<div align="center"><img src="https://i.stack.imgur.com/VQVGv.gif">&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="377"></div><br \>
 
 ```
 npm list -g --depth=0
