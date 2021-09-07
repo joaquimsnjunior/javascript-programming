@@ -18,6 +18,13 @@
 
 <blockquote><b>⚠️ WARNING</b>: It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
+[![Node.js](https://img.shields.io/badge/-Rocketseat-7E4DD2?style=for-the-badge&logo=Node.js&logoColor=339933)](https://www.youtube.com/watch?v=DiXbJL3iWVs)
+[![Node.js](https://img.shields.io/badge/-Rocketseat-7E4DD2?style=for-the-badge&logo=Node.js&logoColor=green)](https://www.youtube.com/watch?v=DiXbJL3iWVs)
+[![Node.js](https://img.shields.io/badge/-Rocketseat-7E4DD2?style=for-the-badge&logo=Node.js&logoColor=green)](https://www.youtube.com/watch?v=DiXbJL3iWVs)
+[![Node.js](https://img.shields.io/badge/-Rocketseat-7E4DD2?style=for-the-badge&logo=Node.js&logoColor=green)](https://www.youtube.com/watch?v=DiXbJL3iWVs)
+[![Node.js](https://img.shields.io/badge/-Rocketseat-7E4DD2?style=for-the-badge&logo=Node.js&logoColor=green)](https://www.youtube.com/watch?v=DiXbJL3iWVs)
+[![Node.js](https://img.shields.io/badge/-Rocketseat-7E4DD2?style=for-the-badge&logo=Node.js&logoColor=green)](https://www.youtube.com/watch?v=DiXbJL3iWVs)
+
 <hr>
 
 # 🚘 V8 🚘
