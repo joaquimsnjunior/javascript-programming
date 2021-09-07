@@ -80,6 +80,9 @@ npm install express
 # <img src="https://www.vectorlogo.zone/logos/meteor/meteor-icon.svg" height="27"> Meteor.js 🟩
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/meteor-5.svg" height="277" title="Site do Node.js"/></a></div><br \>
 
+# <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg" height="27"> Adonis.js 🟩
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" height="277" title="Site do Node.js"/></a></div><br \>
+
 ## Desenvolvimento back-end com Node.js
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" height="177" title="Site do Node.js"/></a></div><br \>
 
