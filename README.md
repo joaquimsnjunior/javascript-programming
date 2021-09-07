@@ -242,6 +242,14 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 # ⚛️ React Native 📲
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="277"></div><br \>
 
+<hr>
+
+# 📜 Bibliotecas JavaScript 📚
+
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/132415637-d7c1319c-847f-48b3-a9d6-71437a18be07.png" height="277"></div>
+
+<hr>
+
 # 📜 A importância do JavaScript para o mundo 🏆
 <div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div><br \>
 
