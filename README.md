@@ -43,7 +43,7 @@ Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.
 sudo apt install nodejs
 ```
 
-## <img src="https://cdn.worldvectorlogo.com/logos/npm-2.svg" height="27"> npm <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="27">
+# 📦 npm 📦
 <div align="center"><a href="https://www.npmjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="177" title="Site do NPM"/></a></div><br \>
 
 #### Listando todos os pacotes instalados pelo NPM (local)
