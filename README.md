@@ -27,9 +27,12 @@
 
 <hr>
 
-# 🚘 V8 🚘
+# 🚘 V8 Engine 🚘
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://v8.dev/_img/v8-outline.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
+Em setembro de 2008 a Google lançou seu navegador, o **Google Chrome**. O Chrome tem um interpretador/motor (engine) de JavaScript muito poderoso, o **V8**. Esse nome é baseado no motor de combustão V8, que tem esse nome por ter 8 cilindros unidos na parte de baixo, formando um "V". São normalmente usados em automóveis de grande porte, embarcações marítimas, aeronáuticas, etc.
+
+O V8 "compila" o JavaScript, mas por trás ele executa a linguagem **C++**. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.
 
 # 🟩 Node.js 🟩
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div><br \>
