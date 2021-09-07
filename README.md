@@ -77,6 +77,8 @@ Porque usar o Node.js?
 ## Instalação do Node.js
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://dicasdejavascript.com.br/images/instalacao-nodejs-windows/instalador-nodejs-01-tela-boas-vindas.png" height="270" title="Site do Node.js"/></a></div><br \>
 
+Sempre recomendo que instale a versão LTS.
+
 ### Windows
 - https://nodejs.org/en/
 
@@ -90,14 +92,16 @@ sudo apt install nodejs
 # 📦 npm - Node Package Manager 📦
 <div align="center"><a href="https://www.npmjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="177" title="Site do NPM"/></a></div><br \>
 
-O **NPM** (**N**ode **P**ackage **M**anager)
+O **NPM** (**N**ode **P**ackage **M**anager) é o gerenciador de pacotes do Node.js, mesmo sendo o gerenciador ele também é independente do Node.js. É através do NPM que podemos instalar a bibliotecas do Node para desenvolver qualquer tipo de aplicação.
+
+
 
 #### Listando todos os pacotes instalados pelo NPM (local)
 ```
 npm list -g
 ```
 
-<div align="center"><img src="https://i.stack.imgur.com/VQVGv.gif">&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="347"></div><br \>
+<div align="center"><img src="https://i.stack.imgur.com/VQVGv.gif">&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="307"></div><br \>
 
 ```
 npm list -g --depth=0
@@ -131,7 +135,7 @@ npm install express
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" height="277" title="Site do Node.js"/></a></div><br \>
 
 ## Desenvolvimento back-end com Node.js
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" height="177" title="Site do Node.js"/></a></div><br \>
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" height="197" title="Site do Node.js"/></a></div><br \>
 
 O **Node.js** é uma ferramenta para a execução de uma variedade de ambientes com JavaScript (JS). JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most popular programming language in the world. Node.js extends the creative potential of people with web development experience, enabling a new generation of developers to create servers, command-line tools, desktop apps, and even robots.
 
