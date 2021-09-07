@@ -71,9 +71,11 @@ Porque usar o Node.js?
 - Tem um dos melhores ecossistemas do mundo;
 - Muito utilizado pelas empresas, com as melhores vagas no mercado;
 - Processa bem mais rápido que o PHP no servidor (PHP faz 120.000 requisições por segundo, o Node.js consegue receber mais de 1.000.000 por segundo);
+- Muitas bibliotecas feitas com o Node.js e o JavaScript;
 - Posso utilizar a linguagem JavaScript tanto pro back-end quanto pro front-end, não preciso de outras linguagens para isso! Uma só já basta.
 
 ## Instalação do Node.js
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://dicasdejavascript.com.br/images/instalacao-nodejs-windows/instalador-nodejs-01-tela-boas-vindas.png" height="270" title="Site do Node.js"/></a></div><br \>
 
 ### Windows
 - https://nodejs.org/en/
