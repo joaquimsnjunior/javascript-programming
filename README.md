@@ -41,10 +41,23 @@ O V8 "compila" o JavaScript, mas por trás ele executa a linguagem **C++**. Assi
   
 Empresas grandes começaram a migrar de linguagens como Ruby e Java para o Node.js, como é o caso do PayPal, Yahoo!, eBay, Linkedin e Trello. Todas elas afirmam que conseguiram desenvolver em menos tempo, com menos linhas de códigos e que seus sistemas agora possuem um melhor desempenho.</p>
 
-<blockquote>Lembrando, o <b>Node.js</b> não é uma linguagem de programação ou framework ou biblioteca, mas sim um interpretador da linguagem de programação JavaScript que roda fora dos navegadores.</blockquote>
+<blockquote>Lembrando, o <b>Node.js</b> não é uma linguagem de programação ou framework ou biblioteca, mas sim um <b>interpretador</b> da linguagem de programação JavaScript que roda fora dos navegadores.</blockquote>
 
-Antigamente, o JavaScript foi feito apenas para rodar na interface/ cliente dos navegadores. Então, com a chegada do Node.js permitiu que rodasse a linguagem no lado do servidor.
+Antigamente, o JavaScript foi feito apenas para rodar na interface/ cliente dos navegadores (preso apenas no Front-End e estático). Então, com a chegada do Node.js permitiu que rodasse a linguagem no lado do servidor para criar qualquer tipo de aplicação, não somente web, mas qualquer outro tipo de aplicação.
 
+Com o Node.js conseguimos criar:
+
+- Páginas interativas e dinâmicas;
+- Jogos eletrônicos;
+- Animações;
+- Aplicações para desktop;
+- Aplicações de linha de comando;
+- Aplicativos móveis;
+- Aplicações back-end;
+- Aplicações Web;
+- IA - Inteligência Artificial;
+- Conexão com banco de dados;
+- Integração entre sistemas;
 
 
 ## Instalação do Node.js
