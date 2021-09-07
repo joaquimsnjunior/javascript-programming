@@ -58,7 +58,19 @@ Com o Node.js conseguimos criar:
 - IA - Inteligência Artificial;
 - Conexão com banco de dados;
 - Integração entre sistemas;
+- Sistemas de pagamento;
+- Redes Sociais;
+- Apps de Streaming, como a Netflix;
 
+Porque usar o Node.js?
+
+- Muito leve;
+- Muito rápido;
+- Alta escalabilidade;
+- Utiliza o JavaScript (Uma linguagem rápida em runtime);
+- Tem um dos melhores ecossistemas do mundo;
+- Muito utilizado pelas empresas, com as melhores vagas no mercado;
+- Processa bem mais rápido que o PHP no servidor (PHP faz 120.000 requisições por segundo, o Node.js consegue receber mais de 1.000.000 por segundo);
 
 ## Instalação do Node.js
 
