@@ -101,7 +101,7 @@ O **NPM** (**N**ode **P**ackage **M**anager) é o gerenciador de pacotes do Node
 npm list -g
 ```
 
-<div align="center"><img src="https://i.stack.imgur.com/VQVGv.gif">&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="337"></div><br \>
+<div align="center"><img src="https://i.stack.imgur.com/VQVGv.gif">&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="347"></div><br \>
 
 ```
 npm list -g --depth=0
