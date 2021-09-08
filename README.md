@@ -147,6 +147,7 @@ if(mostrarSite){ // Se mostrarSite
 }
 ```
 
+Ele printou de ordem decrescente e não printou o `mostrarSite`, pois só printaria se fosse verdadeiro e, no caso, a variável foi declarada como falsa. Ou seja, o site não existe no escopo, somente na variável!
 
 # <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="27"> Express ⬜
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="270" title="Site do Node.js"/></a></div><br \>
