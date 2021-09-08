@@ -127,11 +127,25 @@ console.log(Hello, World)
 
 Ele exibirá no console do seu terminal, utilize o comando:
 
+#### Startar a aplicação no console do terminal
 ```
 node app.js
 ```
 
+Vamos fazer um código mais elaborado!
 
+```javascript
+var mostrarSite = false;
+const site = "www.isaacalves7.com";
+
+console.log("Hello, World!");
+console.log("Meu nome é Isaac");
+console.log("Estou aprendendo Node.js");
+
+if(mostrarSite){ // Se mostrarSite
+   console.log(site); // Printe o site   
+}
+```
 
 
 # <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="27"> Express ⬜
