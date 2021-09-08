@@ -9,7 +9,7 @@
   <li>Good domains in English;</li>
   <li>Programming logic;</li>
   <li>Programming paradigms;</li>
-  <li>HTML and CSS;</li>
+  <li>HTML, CSS and JS;</li>
   <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
   <li>All HTTP methods (GET, POST, PUT, DELETE, OPTIONS, HEAD, PATCH);</li>
   <li>REST API;</li>
