@@ -116,8 +116,7 @@ npm -g uninstall <nome do pacote>
 npm install <pacote> --save
 ```
 
-
-# Hello, World - Node.js
+## Hello, World - Node.js
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://camo.githubusercontent.com/342d0b4d47c3c88c7542ddeb7bc8f7e4b6dbf8b496ca4f4f6c66a11659bbc180/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f66617669636f6e732f6170706c652d746f7563682d69636f6e2e706e67" height="177" title="Site do Node.js"/></a></div><br \>
 
 Crie uma pasta e lá crie o script `App.js` e escreva o seguinte comando:
@@ -126,7 +125,13 @@ Crie uma pasta e lá crie o script `App.js` e escreva o seguinte comando:
 console.log(Hello, World)
 ```
 
-Ele exibirá no console do seu terminal!
+Ele exibirá no console do seu terminal, utilize o comando:
+
+```
+node app.js
+```
+
+
 
 
 # <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="27"> Express ⬜
