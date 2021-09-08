@@ -89,7 +89,7 @@ No diretório do usuário (root):
 sudo apt install nodejs
 ```
 
-# 📦 npm - Node Package Manager 📦
+# 📦 NPM - Node Package Manager 📦
 <div align="center"><a href="https://www.npmjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="177" title="Site do NPM"/></a></div><br \>
 
 O **NPM** (**N**ode **P**ackage **M**anager) é o gerenciador de pacotes do Node.js, mesmo sendo o gerenciador ele também é independente do Node.js. É através do NPM que podemos instalar a bibliotecas do Node para desenvolver qualquer tipo de aplicação.
@@ -164,7 +164,6 @@ node index.js
 <!--
 https://cdn.w3villa.com/production/assets/pages/node-js-57c10fe2cea98141c6989b648975744e.jpg
 https://www.mobiloitte.com/images/node-js-banner.png
-https://www.luiztools.com.br/wp-content/uploads/2020/08/nodejs.jpg
 https://jonathas.com/images/posts/cover-nodejs.jpg
 https://miro.medium.com/max/1000/1*fsseXIPGEhwmg6kfgXyIjA.jpeg
 https://docs.microsoft.com/pt-br/learn/achievements/create-nodejs-project-dependencies-social.png
@@ -175,7 +174,6 @@ https://blog.rocketseat.com.br/content/images/2018/12/nodejs-express-sequelize.p
 ![Hierarquia de Objetos JS](https://user-images.githubusercontent.com/61624336/103469686-b2569400-4d46-11eb-88fb-d615916b17c2.png)
 https://miro.medium.com/max/1436/0*ILZZpnli_R1FU3p4.gif
 document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
- https://lh3.googleusercontent.com/proxy/j0oeG2ZkrtKivG2T_lS5nTTacmzZuMrkM4uYHQpSZjAIAfutP62Ua3RS6H7GFDp7t0OGD9HRTpRt4oEA2l7PXPYKb4bmlTQlEeHtjAbeVDsYv6IvHvR_i6gEyO9gYGxhQPAHV0rZGuNhZHPaud0EGan3xDfPYwRP_hpgAO
 <img src="https://miro.medium.com/max/925/1*dax3Mf7KuL1rQ5-RKjN6_A.png" width="1000"/>
 <img src="https://www.north-47.com/wp-content/uploads/2020/06/1_JA57AArvHLn3tulDxJKzEg.jpeg" width="1000"/>
 <img src="https://miro.medium.com/max/816/0*jJba103A-9xmpTYq.jpg" width="1000"/>
@@ -226,137 +224,3 @@ https://i.ytimg.com/vi/sCAR8ZPM6ew/maxresdefault.jpg
 https://i.ytimg.com/vi/PyKZMY-_TI8/hqdefault.jpg
 https://res.cloudinary.com/practicaldev/image/fetch/s--SnVNfIdj--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/etfxkw4syies3pt35tny.png
 https://ian-says.com/articles/functional-javascript/thumbnail.png
-<p>Para ser mais preciso o jQuery é um Framework JavaScript para Front-end com uma grande facilidade de manipular o DOM e de código simples, muito usado para criar animações, eventos, chamadas AJAX e ainda cria plugins. Pode ser baixado no site oficial ou usado pelo <a href="">CDN</a> (<i>Content Delivery Network</i>), para isso basta copiar um dos códigos abaixo (escolha apenas uma versão) e colar no seu código HTML. Recomenda-se a versão 3 do CDN.</p>
-
-### Modo de uso:
-<p>Pode-se usar os scripts tanto no &lt;head&gt; como no &lt;body&gt;.</p>
-
-<pre>
-<h2>📝 index.html</h2>
-<code>&lt;!Doctype html&gt;</code>
-<code>&lt;html&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;script src="jquery.js"&gt;&lt;/script&gt;</code>
-  <code>&lt;title&gt;jQuery&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-   <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
-
-### Preparando arquivos:
-<p>Começando pelo "index.html" para processar a página. O script "jquery.js" é a biblioteca, já o arquivo "main.js" é o script que iremos desenvolver a partir da biblioteca adicionada no projeto.</p>
-<pre>
-  <code>📝 index.html</span></code>
-  <code>📜 jquery.js</span></code>
-  <code>📜 main.js</code>
-</pre>
-
-## Primeiros Passos com o jQuery:
-
-### Esconder mensagem
-<p>Veja como é fácil desenvolver com o Framework jQuery, pois foram utilizadas poucas linhas de código para esconder o título.</p>
-
-<pre>
-<h2>📝 index.html</h2>
-<code>&lt;!Doctype html&gt;</code>
-<code>&lt;html&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;script src="jquery.js"&gt;&lt;/script&gt;</code>
-  <code>&lt;title&gt;Esconder mensagem&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
-   <code>&lt;button&gt;Esconder o título&lt;/button&gt;</code>
-   <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
-
-<pre>
- <h2>📜 main.js</h2>
- <code>$(document).ready(function(){
-  $('button').click(function(){
-   $('h1').hide();
-  });
- });</code>
- 
- <h3>Simplificando...</h3>
- <h2>📜 main.js</h2>
- <code>$(function(){
-  $('button').click(function(){
-   $('h1').hide();
-  });
- });</code>
-</pre>
-
-### Alterando o CSS
-<p>Da pra alterar o estilo do elemento.</p>
-
-<pre>
-<h2>📜 main.js</h2>
-<code>$(function() { 
- $('button'.click(function(){
-  $('h1').css("color","red");
-   });
-  });</code>
-</pre>
-
-### Mudando a cor individual
-<pre>
-<h2>📝 index.html</h2>
-<code>&lt;!Doctype html&gt;</code>
-<code>&lt;html&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;script src="jquery.js"&gt;&lt;/script&gt;</code>
-  <code>&lt;title&gt;Esconder mensagem&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
-   <code>&lt;h1 id="new_h1"&gt;Hello, World! Again!&lt;/h1&gt;</code>
-   <code>&lt;button&gt;Esconder o título&lt;/button&gt;</code>
-   <code>&lt;script src="main.js"&gt;&lt;/script&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
-
-<pre>
-<h2>📜 main.js</h2>
-<code>$(function() { 
- $('button'.click(function(){
-  $('#new_h1').css("color","red");
-   });
-  });</code>
-</pre>
-
-### Efeito Fade (methods)
-<p></p>
-<pre><code>$('').fadeOut();</code></pre>
-<p></p>
-<pre><code>$('').delay(1000);</code></pre>
-<p></p>
-<pre><code>$('').fadeIn();</code></pre>
-
-### Gravando mensagens (methods)
-<p></p>
-<pre><code>$('mensagem').text("texto");</code></pre>
-
-### Declarações multiplas do CSS (methods)
-<p></p>
-<pre><code>.css({color:'red', border:'1px solid red', backgroundColor:'red'});</code></pre>
-
-### Adicionando e removendo Classes (methods)
-<p>Insira a classe no css e chame pelo js.</p>
-<pre><code>.addClass('.classe');</code></pre>
-<pre><code>.removeClass('.classe');</code></pre>
-
-## Node.js
-<img src="https://cdn1.vogel.de/unsafe/fit-in/1000x0/images.vogel.de/vogelonline/bdb/1368100/1368165/original.jpg"/>
-
-# Vanilla JS 📜🍦
-https://d399irh3pgqnz3.cloudfront.net/prod/imagine/course_video_poster_large/uploads/screencast/javascript/javascript-677.png
--->
