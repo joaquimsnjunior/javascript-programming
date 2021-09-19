@@ -251,6 +251,18 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 
 <hr>
 
+# JavaScript no Docker
+
+<hr>
+
+# JavaScript em Cloud Computing
+
+## Node.js AWS SDK
+<div align="center"><img src="" height="277"><img src="https://symbols.getvecta.com/stencil_22/9_nodejs.29834badea.svg" height="277"></div>
+
+
+<hr>
+
 # 📜 A importância do JavaScript para o mundo 🏆
 <div align="center"><img src="https://miro.medium.com/max/1838/1*vtfzxhOGnwplI0FxxWwItQ.jpeg"/></div><br \>
 
