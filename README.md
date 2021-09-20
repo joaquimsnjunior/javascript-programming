@@ -258,7 +258,7 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 # JavaScript em Cloud Computing
 
 ## Node.js AWS SDK
-<div align="center"><img src="" height="277"><img src="https://symbols.getvecta.com/stencil_22/9_nodejs.29834badea.svg" height="277"></div>
+<div align="center"><img src="https://symbols.getvecta.com/stencil_22/9_nodejs.29834badea.svg" height="277"></div>
 
 
 <hr>
