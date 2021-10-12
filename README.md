@@ -217,6 +217,9 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # 📜 ESLint 🟪
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="277"></a></div><br \>
 
+# 📜 Ember 🐹
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/ember-tomster.svg" height="277"></a></div><br \>
+
 # 📜 React.js ⚛️
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></a></div><br \>
 
