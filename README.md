@@ -265,6 +265,10 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # 📜 Chai 🍵
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/chai.svg" height="277"></div><br \>
 
+
+# 📜 js-bin 🗑️
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/js-bin-1.svg" height="277"></div><br \>
+
 <hr>
 
 # 📜 Bibliotecas JavaScript 📚
