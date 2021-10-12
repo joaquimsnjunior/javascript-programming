@@ -220,6 +220,12 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # 📜 React.js ⚛️
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></a></div><br \>
 
+# 📜 Next.js ⚛️
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="277"></a></div><br \>
+
+# 📜 Redux ⚛️
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="277"></a></div><br \>
+
 # 📜 Angular 🅰️
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" height="277"></a></div><br \>
 
@@ -246,6 +252,9 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 
 # 🦕 Deno ⚫
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/deno-1.svg" height="277"></div><br \>
+
+# 🟣 Gatsby 🟣
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" height="277"></div><br \>
 
 # 🟣 Gatsby 🟣
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" height="277"></div><br \>
