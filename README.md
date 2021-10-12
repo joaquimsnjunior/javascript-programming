@@ -244,6 +244,9 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # ⚛️ React Native 📲
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="277"></div><br \>
 
+# 🦕 Deno ⚫
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/deno-1.svg" height="277"></div><br \>
+
 <hr>
 
 # 📜 Bibliotecas JavaScript 📚
