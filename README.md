@@ -232,31 +232,34 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # 📜 Vue ✌️
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" height="277"></a></div><br \>
 
-# 🧊 Webpack 🧊
+# 📜 Webpack 🧊
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div><br \>
 
-# 🃏 Jest 🃏
+# 📜 Jest 🃏
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="277"></a></div><br \>
 
-# ⚫ Cypress ⚫
+# 📜 Cypress ⚫
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/1ea257941935e0226b24329d2a2838beabed7ba2/public/logos/cypress.svg" height="277"></a></div><br \>
 
-# 🤖 Apache Cordova 📲
+# 📜 Apache Cordova 🤖📲
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" height="277"></a></div><br \>
 
-# 🔵 Ionic 📲
+# 📜 Ionic 🔵📲
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="277"></a></div><br \>
 
-# ⚛️ React Native 📲
+# 📜 React Native ⚛️📲
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="277"></div><br \>
 
-# 🦕 Deno ⚫
+# 🦕 Deno 🦕
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/deno-1.svg" height="277"></div><br \>
 
-# 🟣 Gatsby 🟣
+# 📜 Gatsby 🟣
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" height="277"></div><br \>
 
-# 🟣 Gatsby 🟣
+# 📜 Mocha ☕
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" height="277"></div><br \>
+
+# 📜 Chai 🍵
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" height="277"></div><br \>
 
 <hr>
