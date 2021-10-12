@@ -226,6 +226,9 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # 📜 Redux ⚛️
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="277"></a></div><br \>
 
+# 📜 Angular.js 🛡️
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="277"></a></div><br \>
+
 # 📜 Angular 🅰️
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" height="277"></a></div><br \>
 
