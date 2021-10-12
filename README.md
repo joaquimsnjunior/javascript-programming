@@ -256,6 +256,9 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # 📜 Gatsby 🟣
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" height="277"></div><br \>
 
+# 📜 Nest JS 🟣
+<div align="center"><img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" height="277"></div><br \>
+
 # 📜 Mocha ☕
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" height="277"></div><br \>
 
