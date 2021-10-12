@@ -247,6 +247,9 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # 🦕 Deno ⚫
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/deno-1.svg" height="277"></div><br \>
 
+# 🟣 Gatsby 🟣
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" height="277"></div><br \>
+
 <hr>
 
 # 📜 Bibliotecas JavaScript 📚
