@@ -175,6 +175,9 @@ npm install express
 node index.js
 ```
 
+# pg-promise API
+- http://vitaly-t.github.io/pg-promise/
+
 ## Nodemon
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" height="177" title="Site do Node.js"/></a></div><br \>
 
