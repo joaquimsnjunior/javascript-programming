@@ -9,10 +9,9 @@
   <li>Good domains in English;</li>
   <li>Programming logic;</li>
   <li>Programming paradigms;</li>
-  <li>HTML, CSS and JS;</li>
-  <li>Databases, Relational Algebra, SQL language and No-SQL;</li>
-  <li>All HTTP methods (GET, POST, PUT, DELETE, OPTIONS, HEAD, PATCH);</li>
-  <li>REST API;</li>
+  <li>Front-end: HTML, CSS, JS and Frameworks;</li>
+  <li>Databases, SQL language and No-SQL;</li>
+  <li>All HTTP methods and APIs;</li>
   <li>Desire to learn.</li>
 </ul>
 
