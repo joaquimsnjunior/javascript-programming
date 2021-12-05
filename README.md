@@ -210,7 +210,7 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/flow.svg" height="277"></a></div><br \>
 
 # 📜 TypeScript (TS) 🟦
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://symbols.getvecta.com/stencil_25/85_typescript.2ab2b3dcfe.svg" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://symbols.getvecta.com/stencil_25/85_typescript.cb2d7326fa.svg" height="277"></a></div><br \>
 
 # 📜 ESLint 🟪
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="277"></a></div><br \>
