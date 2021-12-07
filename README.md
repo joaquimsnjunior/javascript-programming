@@ -128,7 +128,7 @@ Baseando-se nessas especificações, outras linguagens também surgiram, como o 
 O JavaScript ainda era um pouco complicado de se usar antigamente. Então, no início dos anos 2000, várias bibliotecas com o intuito de facilitar o uso do JavaScript surgiram, como <b>jQuery</b> e <b>Prototype</b>.
   
 # 🔃 AJAX (Asynchronous JavaScript And XML) 🔃
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png" height="277"/></div><br \>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" height="277"/></div><br \>
 
 Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usava uma técnica chamada <b>AJAX</b> (<b>A</b>synchronous <b>J</b>avaScript <b>A</b>nd <b>X</b>ML), a qual permite enviar e receber dados de um servidor sem ter que recarregar a página inteira, apenas os dados são trafegados e então são inseridos no meio do HTML.</b>
 
@@ -140,7 +140,7 @@ Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usav
 O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.</p>
 
 # 🟩 Node.js 🟩
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" height="277" title="Site do Node.js"/></a></div><br \>
+<div align="center"><a href="https://nodejs.org/en/"><img src="" height="277" title="Site do Node.js"/></a></div><br \>
 
 <p>Em 2009, <a href="https://github.com/ry">Ryan Dahl</a> desenvolveu o <b>Node.js</b>. O Node usa o V8 fora do navegador, e possui muitas outras funcionalidades que nos permite programar com JavaScript no lado do servidor. Com o Node foi possível a criação de coisas como automatizadores de tarefas e criação de servidores em JavaScript.
   
@@ -239,6 +239,9 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # 📜 Webpack 🧊
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div><br \>
 
+# 📜 Gulp 🥤
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://symbols.getvecta.com/stencil_25/32_gulp.9db342974c.svg" height="277"></a></div><br \>
+
 # 📜 Jest 🃏
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="277"></a></div><br \>
 
@@ -268,7 +271,6 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 
 # 📜 Chai 🍵
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/chai.svg" height="277"></div><br \>
-
 
 # 📜 js-bin 🗑️
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/js-bin-1.svg" height="277"></div><br \>
