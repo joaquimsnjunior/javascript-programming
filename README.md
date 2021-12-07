@@ -292,7 +292,7 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 <div align="center"><img src="" height="277"></div>
 
 # JavaScript na AWS - Amazon Web Services
-<div align="center"><img src="https://symbols.getvecta.com/stencil_22/9_nodejs.29834badea.svg" height="277"></div>
+<div align="center"><img src="" height="277"></div>
 
 <hr>
 
