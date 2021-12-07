@@ -140,7 +140,7 @@ Em 2004 começaram a aparecer aplicações web, como o Gmail da Google. Ele usav
 O V8 "compila" o JavaScript, mas por trás ele executa C++. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.</p>
 
 # 🟩 Node.js 🟩
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="277" title="Site do Node.js"/></a></div><br \>
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" height="277" title="Site do Node.js"/></a></div><br \>
 
 <p>Em 2009, <a href="https://github.com/ry">Ryan Dahl</a> desenvolveu o <b>Node.js</b>. O Node usa o V8 fora do navegador, e possui muitas outras funcionalidades que nos permite programar com JavaScript no lado do servidor. Com o Node foi possível a criação de coisas como automatizadores de tarefas e criação de servidores em JavaScript.
   
@@ -184,7 +184,7 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 <blockquote>Um exemplo de aplicação feita com Processing.js são os emojis interativos e animados do Facebook, como o amei, grr, triste, haha, uau, like e um bônus.</blockquote>
 
 # 📜 jQuery ☄️
-<div align="center"><img src="https://symbols.getvecta.com/stencil_85/42_jquery-vertical.11b0fadcac.svg" height="277"></div><br \>
+<div align="center"><img src="https://symbols.getvecta.com/stencil_85/42_jquery-vertical.b4cafb2753.svg" height="277"></div><br \>
 
 Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com uma grande facilidade de manipular o DOM e de código simples, muito usado para criar animações, eventos, chamadas AJAX e ainda cria plugins. Pode ser baixado no site oficial ou usado pelo <a href="">CDN</a> (<i>Content Delivery Network</i>), para isso basta copiar um dos códigos abaixo (escolha apenas uma versão) e colar no seu código HTML. Recomenda-se a versão 3 do CDN.
 
