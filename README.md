@@ -233,8 +233,12 @@ Para ser mais preciso o **jQuery** é um Framework JavaScript para Front-end com
 # 📜 Angular 🅰️
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" height="277"></a></div><br \>
 
-# 📜 Vue ✌️
+# 📜 Vue.js ✌️
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" height="277"></a></div><br \>
+
+<p>O <b>Vue.js</b> é um framework JavaScript progressivo, você consegue utilizar ele em conjunto com outros frameworks ou com uma aplicação de grande porte, cujo o Vue.js entrega a melhor performance. 
+  
+Foi criada por <a href="https://github.com/yyx990803">Evan You</a> (Google) em 2013 / 2014. Possui uma renderização declarativa e composição de componentes. As versões do Framework possuem nomes de Animes.</p>
 
 # 📜 Webpack 🧊
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div><br \>
