@@ -19,13 +19,15 @@
 
 <hr>
 
-# ⚛️ React.js 📘
+# ⚛️ React.js :atom_symbol:
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></div>
 
+**Entrada (Input)**:
 ```javascript
 npx create-react-app reactjs-project
 ```
 
+**Saída (Output)**:
 <pre>
 Need to install the following packages:
   create-react-app
