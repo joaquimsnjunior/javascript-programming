@@ -22,6 +22,10 @@
 # ⚛️ React.js 📘
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></div>
 
+```javascript
+npx create-react-app reactjs
+```
+
 # React Hook
 <div align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--joa9_6zs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pijec5h1113okhw4orba.png"></div>
 
