@@ -1,8 +1,8 @@
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/node-js-banner.png" title="Site do Node.js"/></a></div>
+
 #  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="27"> It's a repository of Node.js development 📜🟩
 
 <blockquote>I created this repository for my JavaScript Full-Stack development learning.</blockquote>
-
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/node-js-banner.png" title="Site do Node.js"/></a></div>
 
 ## 🎒 Prerequisites and repositories 📚:
 <ul>
