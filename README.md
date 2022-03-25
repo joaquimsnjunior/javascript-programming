@@ -26,14 +26,14 @@
 
 <hr>
 
-# 🚘 V8 Engine 🚘
+# 🚘 V8 Engine
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Chrome_icon_%28September_2014%29.svg" height="270" title="Site do Node.js"/><img src="https://cdn.worldvectorlogo.com/logos/v8-5.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
 Em setembro de 2008 a Google lançou seu navegador, o **Google Chrome**. O Chrome tem um interpretador/motor (engine) de JavaScript muito poderoso, o **V8**. Esse nome é baseado no motor de combustão V8, que tem esse nome por ter 8 cilindros unidos na parte de baixo, formando um "V". São normalmente usados em automóveis de grande porte, embarcações marítimas, aeronáuticas, etc.
 
 O V8 "compila" o JavaScript, mas por trás ele executa a linguagem **C++**. Assim, o JavaScript ganhou muita velocidade, próximo a um código binário compilado.
 
-# 🟩 Node.js 🟩
+# 🟩 Node.js
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
 <p>Em 2009, <a href="https://github.com/ry">Ryan Dahl</a> desenvolveu o <b>Node.js</b>. O Node usa o <a href=""><b>V8</b></a> (A engine/ motor do Google Chrome) fora do navegador, e possui muitas outras funcionalidades que nos permite programar com JavaScript no lado do servidor. Com o Node foi possível a criação de coisas como automatizadores de tarefas e criação de servidores em JavaScript.
@@ -116,7 +116,7 @@ npm install <pacote> --save
 ```
 
 ## Hello, World - Node.js
-<div align="center"><a href="https://nodejs.org/en/"><img src="https://camo.githubusercontent.com/342d0b4d47c3c88c7542ddeb7bc8f7e4b6dbf8b496ca4f4f6c66a11659bbc180/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f66617669636f6e732f6170706c652d746f7563682d69636f6e2e706e67" height="177" title="Site do Node.js"/></a></div><br \>
+<div align="center"><a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/61624336/160043697-22c1186b-d7e5-44f1-9e14-cce2d3368eff.png" height="177" title="Site do Node.js"/></a></div><br \>
 
 Crie uma pasta e lá crie o script `App.js` e escreva o seguinte comando:
 
