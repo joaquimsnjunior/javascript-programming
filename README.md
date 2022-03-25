@@ -88,7 +88,7 @@ No diretório do usuário (root):
 sudo apt install nodejs
 ```
 
-# 📦 NPM - Node Package Manager 📦
+# 📦 NPM - Node Package Manager
 <div align="center"><a href="https://www.npmjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="177" title="Site do NPM"/></a></div><br \>
 
 O **NPM** (**N**ode **P**ackage **M**anager) é o gerenciador de pacotes do Node.js, mesmo sendo o gerenciador ele também é independente do Node.js. É através do NPM que podemos instalar a bibliotecas do Node para desenvolver qualquer tipo de aplicação.
@@ -156,15 +156,15 @@ Ele printou de ordem decrescente e não printou o `mostrarSite`, pois só printa
 npm install express
 ```
 
-# <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" height="27"> Socket.io 🔲
+# 🔲 Socket.io
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" height="270" title="Site do Node.js"/></a></div><br \>
 
 The **Socket.io** is an awesome library that provides a real-time event-driven connection between a client and server relying on Websockets and other protocols and approaches to guarantee the real-time capability and performance boost when it comes to handling thousands of socket connections and load balancing it on multiple servers.
 
-# <img src="https://www.vectorlogo.zone/logos/meteor/meteor-icon.svg" height="27"> Meteor.js 🟥
+# 🟥 Meteor.js
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/meteor-5.svg" height="277" title="Site do Node.js"/></a></div><br \>
 
-# <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg" height="27"> Adonis.js 🟪
+# 🟪 Adonis.js
 <div align="center"><a href="https://nodejs.org/en/"><img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" height="277" title="Site do Node.js"/></a></div><br \>
 
 ## Desenvolvimento back-end com Node.js
