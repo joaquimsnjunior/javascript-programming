@@ -23,7 +23,7 @@ Foi criada em 2011 por <a href="https://github.com/jordwalke">Jordan Walke</a> n
 
 O **React.js** trabalha muito com componentização para criação de interfaces, como se fossem pequenas caixinhas e consegue trabalhar em conjunto com outros frameworks JavaScript ou outras linguagens de programação, isso é claro, tomando o devido cuidado você consegue utilizar sem problemas.
 
-
+Ele possui um paradigma de linguagem de programação declarativa, ou seja, o React.js só está preocupado apenas com o que é exibido na interface do usuário.
 
 # Criando a primeira aplicação com React.js
 **Entrada (Input)**:
