@@ -36,7 +36,7 @@ Além disso, pode ser utilizado em qualquer lugar, como interfaces para celulare
 ```
 cd react-app
 npm init
-npm install --save react@17.0.2 react-dom@17.0.2 @react-scripts
+npm install --save react@17.0.2 react-dom@17.0.2 react-scripts@17.0.2
 ```
 
 # Criando a primeira aplicação com React.js
