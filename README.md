@@ -10,7 +10,7 @@
 <blockquote>It's a repository of React.js development (with <code>.jsx</code> and <code>.tsx</code>)!</blockquote>
 
 # ⚛️ React.js
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></div>
+<div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></a></div>
 
 O **React.js** é uma biblioteca/ framework do JavaScript (JS), muito usada dentre as demais, para criar interfaces de usuário.
 
