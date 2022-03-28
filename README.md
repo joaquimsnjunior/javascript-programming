@@ -21,7 +21,7 @@ Foi criada em 2011 por <a href="https://github.com/jordwalke">Jordan Walke</a> n
 - 2015 - React Native usada para criar aplicações mobile híbridas para iOS e Android
 - 2015 - UWP (Universal Windows Plataform) usado para criar aplicações Desktop
 
-
+O React.js trabalha muito com componentização para criação de interfaces, como se fossem pequenas caixinhas.
 
 # Criando a primeira aplicação com React.js
 **Entrada (Input)**:
