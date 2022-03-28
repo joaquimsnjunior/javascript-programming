@@ -12,7 +12,9 @@
 # ⚛️ React.js
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></div>
 
-O **React.js** é uma biblioteca/ framework do JavaScript (JS) para criar interfaces de usuário.
+O **React.js** é uma biblioteca/ framework do JavaScript (JS), muito usada dentre as demais, para criar interfaces de usuário.
+
+Foi criada em 2011 por <a href="https://github.com/jordwalke">Jordan Walke</a> no Facebook, sendo baseado no **XHP**, um framework para criação de HTML no PHP.
 
 **Entrada (Input)**:
 ```javascript
