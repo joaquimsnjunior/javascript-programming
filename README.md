@@ -32,6 +32,13 @@ Além disso, pode ser utilizado em qualquer lugar, como interfaces para celulare
 - React Scripts
 - Task Runners e Bundler Sizers
 
+# Aprendendo a configurar a primeira aplicação
+```
+cd react-app
+npm init
+npm install --save react@17.0.2 react-dom@17.0.2 @react-scripts
+```
+
 # Criando a primeira aplicação com React.js
 **Entrada (Input)**:
 ```javascript
