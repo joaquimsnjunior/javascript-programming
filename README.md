@@ -25,7 +25,7 @@ O **React.js** trabalha muito com componentização para criação de interfaces
 
 Ele possui um paradigma de linguagem de programação declarativa, ou seja, o React.js só está preocupado apenas com o que é exibido na interface do usuário.
 
-Além disso, pode ser utilizado em qualquer lugar, como interfaces para celulares, criação de PWA, criação de Front-End.
+Além disso, pode ser utilizado em qualquer lugar, como interfaces para celulares, criação de PWA, criação de Front-End com outros frameworks e linguagens, server-side render ou Next.js.
 
 # Criando a primeira aplicação com React.js
 **Entrada (Input)**:
