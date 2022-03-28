@@ -16,6 +16,7 @@ O **React.js** é uma biblioteca/ framework do JavaScript (JS), muito usada dent
 
 Foi criada em 2011 por <a href="https://github.com/jordwalke">Jordan Walke</a> no Facebook, sendo baseado no **XHP**, um framework para criação de HTML no PHP.
 
+# Criando a primeira aplicação com React.js
 **Entrada (Input)**:
 ```javascript
 npx create-react-app reactjs-project
