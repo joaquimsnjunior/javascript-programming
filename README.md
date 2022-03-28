@@ -27,6 +27,11 @@ Ele possui um paradigma de linguagem de programação declarativa, ou seja, o Re
 
 Além disso, pode ser utilizado em qualquer lugar, como interfaces para celulares, criação de PWA, criação de Front-End com outros frameworks e linguagens, server-side render ou Next.js.
 
+## Configuração do React.js
+- React Create App
+- React Scripts
+- Task Runners e Bundler Sizers
+
 # Criando a primeira aplicação com React.js
 **Entrada (Input)**:
 ```javascript
