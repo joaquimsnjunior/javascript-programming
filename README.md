@@ -11,8 +11,10 @@
 
 <hr>
 
-# ⚛️ React.js :atom_symbol:
+# ⚛️ React.js
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></div>
+
+
 
 **Entrada (Input)**:
 ```javascript
