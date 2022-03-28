@@ -1,6 +1,6 @@
 <a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"/></a>
 
-# <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="27"> It's a repository of React development ⚛️📘
+# <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="27"> It's a repository of React development ⚛️
 <!--
 [![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
@@ -12,7 +12,7 @@
 # ⚛️ React.js
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></a></div>
 
-O **React.js** é uma biblioteca/ framework do JavaScript (JS), muito usada dentre as demais, para criar aplicações web de interfaces para usuário.
+O **React.js** é uma biblioteca e não framework JavaScript (JS), muito usada dentre as demais, para criar aplicações web de interfaces para usuário.
 
 Foi criada em 2011 por <a href="https://github.com/jordwalke">Jordan Walke</a> no Facebook, sendo baseado no **XHP**, um framework para criação de HTML no PHP. Ele foi utilizado no mural de notícias do Facebook.
 
@@ -20,6 +20,8 @@ Foi criada em 2011 por <a href="https://github.com/jordwalke">Jordan Walke</a> n
 - 2013 - Anúncio para liberação OpenSource na JSConf US
 - 2015 - React Native usada para criar aplicações mobile híbridas para iOS e Android
 - 2015 - UWP (Universal Windows Plataform) usado para criar aplicações Desktop
+
+
 
 # Criando a primeira aplicação com React.js
 **Entrada (Input)**:
