@@ -1,4 +1,4 @@
-<a href="https://github.com/IsaacAlves7/react.js-programming"><img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"/></a>
+<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"/></a>
 
 # <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="27"> It's a repository of React development ⚛️📘
 <!--
