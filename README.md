@@ -10,7 +10,7 @@ https://miro.medium.com/max/3600/1*y7PmXVFDQFW7CoganneS4w.png
 https://king.host/blog/wp-content/uploads/2018/05/2018-05-08-img-blog-node-socket-vue-1024x576.png
 -->
 
-# ✌️ O que é o Vue.js? 📜
+# ✌️ Vue.js 📜
 
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" height="170"></div><br \>
 
