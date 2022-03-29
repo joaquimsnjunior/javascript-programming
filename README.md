@@ -36,10 +36,12 @@ Além disso, pode ser utilizado em qualquer lugar, como interfaces para celulare
 ```
 cd react-app
 npm init
-npm i react
+npm i react react-dom react-scripts
 ```
 
 Com o comando `npm init` podemos iniciar e configurar o arquivo `package.json`, que é responsável pela instalação de pacotes ou módulos da aplicação e também sobre o processo de boot dela.
+
+Se você não estiver usando o NPM, mas sim o Yarn, não tem problema, isso é a gosto.
 
 # Criando um template de aplicação com React.js
 ```javascript
