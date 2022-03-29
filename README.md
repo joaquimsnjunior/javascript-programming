@@ -279,12 +279,20 @@ Foi criada por <a href="https://github.com/yyx990803">Evan You</a> (Google) em 2
 
 # JavaScript no Docker
 
+# JavaScript no Kubernetes
+
 <hr>
 
 # JavaScript em Cloud Computing
 <div align="center"><img src="" height="277"></div>
 
 # JavaScript na AWS - Amazon Web Services
+<div align="center"><img src="" height="277"></div>
+
+# JavaScript na AZ - Microsoft Azure
+<div align="center"><img src="" height="277"></div>
+
+# JavaScript na GCP - Google Cloud Plataform
 <div align="center"><img src="" height="277"></div>
 
 <hr>
