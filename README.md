@@ -118,7 +118,7 @@ Happy hacking!
 <div align="center"><img src="https://miro.medium.com/max/1166/1*fQefaOBmMkqfdpvphCEdVw.png" height="277"></div>
 
 # React.js
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/126890148-540656eb-a34f-4779-aaca-ceebc28d8620.jpg"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/126890148-540656eb-a34f-4779-aaca-ceebc28d8620.jpg" width="100%"></div>
 
 # Redux
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="277"></div>
