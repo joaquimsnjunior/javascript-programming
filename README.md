@@ -63,6 +63,8 @@ const element = <h1>Hello, world!</h1>
 
 O React.js não separa as tecnologias colocando marcação em arquivos separados, mas sim separa conceitos e mantém o código pouco acoplado chamando-os de **componentes**.
 
+Não é obrigatório a utilização do JSX. Ele é um **Sintax Suggar** para `React.createElement`.
+
 # Criando um template de aplicação com React.js
 ```javascript
 npx create-react-app reactjs-project
