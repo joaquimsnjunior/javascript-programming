@@ -21,7 +21,7 @@ Foi criada em 2011 por <a href="https://github.com/jordwalke">Jordan Walke</a> n
 - 2015 - **React Native** usada para criar aplicações mobile híbridas para iOS e Android
 - 2015 - **UWP** (Universal Windows Plataform) usado para criar aplicações Desktop
 
-<div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://icon-library.com/images/react-icon/react-icon-0.jpg" height="277"></a></div><br \>
+<div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://icon-library.com/images/react-icon/react-icon-0.jpg" height="277"></a></div>
 
 O **React.js** trabalha muito com componentização para criação de interfaces, ou seja, ele é **baseado em componentes** como se fossem pequenas caixinhas e consegue trabalhar em conjunto com outros frameworks JavaScript, como jQuery, Vue.js ou Angular, ou outras linguagens de programação como Ruby, PHP, Python etc..., isso é claro, tomando o devido cuidado, dependendo de qual for o caso do projeto ou caso de uso, você consegue utilizar sem problema algum.
 
@@ -148,6 +148,52 @@ function App() {
 
 const rootElement = document.getElementById("root")
 ReactDOM.render(element2, rootElement)
+```
+
+O valor impresso será o `element2` devido o nó.
+
+```
+import React, {Fragment} from "react"
+import ReactDOM from "react-dom"
+import "./index.css"
+
+const element = 'Isaac Alves'
+const element2 = <h1>Hello, World!</h1>
+
+function App() {
+  return (
+    <Fragment>
+        {element}
+        {element2}
+    </Fragment>
+  )
+}
+
+const rootElement = document.getElementById("root")
+ReactDOM.render(element2, rootElement)
+```
+
+Existe um elemento chamado `Fragment` que cancela os nós. Para imprimir os dois elementos desse componente `App()` basta inserir:
+
+```
+import React, {Fragment} from "react"
+import ReactDOM from "react-dom"
+import "./index.css"
+
+const element = 'Isaac Alves'
+const element2 = <h1>Hello, World!</h1>
+
+function App() {
+  return (
+    <div>
+        {element}
+        {element2}
+    </div>
+  )
+}
+
+const rootElement = document.getElementById("root")
+ReactDOM.render(<App />, rootElement)
 ```
 
 ---
