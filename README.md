@@ -53,6 +53,14 @@ Após criar o `package.json`, o segundo comando irá instalar o React.js juntame
 > 
 > Com isso, você ficará somente com o `package.json` que é responsável por administrar os pacotes e a inicialização da sua aplicação. Note que em `dependences` possui todas as dependências ainda lá, então, você só precisa rodar o comando `npm install` para que as dependências sejam instaladas novamente.
 
+## O que é JSX?
+O JSX não é um arquivo HTML e nem uma string!
+
+### Sintaxe do JSX
+```
+const element = <h1>Hello, world!</h1>
+```
+
 # Criando um template de aplicação com React.js
 ```javascript
 npx create-react-app reactjs-project
