@@ -56,7 +56,7 @@ Após criar o `package.json`, o segundo comando irá instalar o React.js juntame
 ## O que é JSX?
 <div align="center"><img src="https://daniel-vinicius.gallerycdn.vsassets.io/extensions/daniel-vinicius/code-snipptes-reactjs-pt-br/0.5.0/1610479284868/Microsoft.VisualStudio.Services.Icons.Default" height="177"></div><br \>
 
-O **JSX** não é um arquivo HTML e nem uma string! Foi uma linguagem de marcação criada para poder utilizar a linguagem de marcação **XML** e a linguagem de programação **JavaScript** no seu código-fonte.
+O **JSX** não é um arquivo HTML e nem uma string! Foi uma linguagem de marcação criada para poder utilizar a linguagem de marcação **XML** e a linguagem de programação **JavaScript** no seu código-fonte. Não necessariamente ele precisa estar em um arquivo com extensão `.jsx`, mas sim em um `.html`, `.js` e etc.
 
 ### Sintaxe do JSX
 ```javascript
@@ -69,7 +69,25 @@ Não é obrigatório a utilização do JSX. Ele é um **Sintax Suggar** para `Re
 
 ### Babel.js
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" height="177"></div><br \>
-O browser não interpreta o JSX, para isso é necessário um transpilador para que a aplicação possa entender o código. O mais utilizado é o Babel.
+O browser não interpreta o JSX, para isso é necessário um transpilador para que a aplicação possa entender o código. O mais utilizado é o **Babel**.
+
+### Criando o primeiro JSX no `index.js`
+```javascript
+import React from "react"
+import ReactDOM from "react-dom"
+import "./styles.css"
+
+function primeiroJSX() {
+   return (
+     <div>
+     Isaac A Pinheiro
+     </div>
+   )
+}
+
+const rootElement = document.getElementById("root")
+ReactDOM.render(<App/>, rootElement)
+```
 
 # Criando um template de aplicação com React.js
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" height="277"></a></div>
