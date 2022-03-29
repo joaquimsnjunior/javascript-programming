@@ -61,7 +61,7 @@ O **JSX** não é um arquivo HTML e nem uma string! Foi uma linguagem de marcaç
 const element = <h1>Hello, world!</h1>
 ```
 
-
+O React.js não separa as tecnologias colocando marcação em arquivos separados, mas sim separa conceitos e mantém o código pouco acoplado chamando-os de **componentes**.
 
 # Criando um template de aplicação com React.js
 ```javascript
