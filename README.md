@@ -34,14 +34,17 @@ Além disso, pode ser utilizado em qualquer lugar, como interfaces para celulare
 
 # Aprendendo a configurar a primeira aplicação
 ```
-cd react-app
+mkdir react-app
+cd react-app/
 npm init
 npm i react react-dom react-scripts
 ```
 
 Com o comando `npm init` podemos iniciar e configurar o arquivo `package.json`, que é responsável pela instalação de pacotes ou módulos da aplicação e também sobre o processo de boot dela.
 
-Se você não estiver usando o NPM, mas sim o Yarn, não tem problema, isso é a gosto.
+> Se você não estiver usando o **NPM** como package manager, mas sim o **Yarn**, não tem problema, isso é a gosto!
+
+Após criar o `package.json`, o segundo comando irá instalar o React.js juntamente com o DOM e scripts para o melhor aproveitamento da biblioteca, note que irá surgir o `package-lock.json` e a pasta `.node_modules`, isso comprova que o módulo da biblioteca foi instalado corretamente na pasta.
 
 # Criando um template de aplicação com React.js
 ```javascript
