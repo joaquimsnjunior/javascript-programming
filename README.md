@@ -132,11 +132,23 @@ import React from "react"
 import ReactDOM from "react-dom"
 import "./index.css"
 
-const element = ''
+const element = 'Isaac Alves'
+const element2 = <h1>Hello, World!</h1>
+
+function App() {
+  return (
+    <div>
+        {element}
+        {element2}
+    </div>
+  )
+}
 
 const rootElement = document.getElementById("root")
-ReactDOM.render(element, rootElement)
+ReactDOM.render(element2, rootElement)
 ```
+
+---
 
 # Criando um template de aplicação com React.js
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" height="277"></a></div>
