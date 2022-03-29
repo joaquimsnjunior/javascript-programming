@@ -53,6 +53,21 @@ Após criar o `package.json`, o segundo comando irá instalar o React.js juntame
 > 
 > Com isso, você ficará somente com o `package.json` que é responsável por administrar os pacotes e a inicialização da sua aplicação. Note que em `dependences` possui todas as dependências ainda lá, então, você só precisa rodar o comando `npm install` para que as dependências sejam instaladas novamente.
 
+## Iniciando a aplicação
+```
+cd react-app
+npm run start
+```
+ou
+```
+cd react-app
+npm start
+```
+
+A porta padrão para acessar a aplicação é a `3000`, caso tenha outro tipo de aplicação utilizando a mesma porta, recomendo finalizar, pois pode ocasionar conflitos de porta.
+
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/160663182-300647e6-65ee-49cb-ae03-0e4f2bb7abf0.jpg"></div>
+
 ## O que é JSX?
 <div align="center"><img src="https://daniel-vinicius.gallerycdn.vsassets.io/extensions/daniel-vinicius/code-snipptes-reactjs-pt-br/0.5.0/1610479284868/Microsoft.VisualStudio.Services.Icons.Default" height="177"></div><br \>
 
