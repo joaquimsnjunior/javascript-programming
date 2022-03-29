@@ -128,7 +128,8 @@ Happy hacking!
 # Next.js
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="277"></div>
 
-
+# GraphQL
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" height="277"></div>
 
 
 
