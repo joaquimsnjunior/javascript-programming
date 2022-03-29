@@ -93,6 +93,10 @@ import React from "react"
 import ReactDOM from "react-dom"
 import "./index.css"
 
+function sum(a, b) {
+   return a + b;
+}
+
 function primeiroJSX() {
    return (
      <div>
@@ -105,6 +109,7 @@ const App = () => {
    return (
      <div className="App">
        {primeiroJSX()}
+       {sum()}
      </div>
    )
 }
