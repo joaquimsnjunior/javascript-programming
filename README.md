@@ -39,6 +39,8 @@ npm init
 npm install --save react@17.0.2 react-dom@17.0.2 react-scripts@17.0.2
 ```
 
+Com o comando `npm init` podemos iniciar e configurar o arquivo `package.json`, que é responsável pela instalação de pacotes ou módulos da aplicação e também sobre o processo de boot dela.
+
 # Criando a primeira aplicação com React.js
 **Entrada (Input)**:
 ```javascript
