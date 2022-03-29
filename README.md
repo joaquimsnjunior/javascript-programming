@@ -76,12 +76,12 @@ O browser não interpreta o JSX, para isso é necessário um transpilador para q
 ```javascript
 import React from "react"
 import ReactDOM from "react-dom"
-import "./styles.css"
+import "./index.css"
 
 function primeiroJSX() {
    return (
      <div>
-     Isaac A Pinheiro
+     Isaac Alves Pinheiro - Renderizando o meu nome com JSX - React.js
      </div>
    )
 }
