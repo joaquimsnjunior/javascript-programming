@@ -99,7 +99,7 @@ function sum(a, b) {
 
 function primeiroJSX() {
    return (
-     <div>
+     <div className="texto__verde">
      Isaac Alves Pinheiro - Renderizando o meu nome com JSX - React.js
      <h1>Soma:{sum(40, 30)}</h1>
      </div>
@@ -120,7 +120,9 @@ ReactDOM.render(<App/>, rootElement)
 
 Precisa ser criado uma função JavaScript com o elemento `return()`, para retornar essa função, e dentro dele os elementos (tags) HTML para a manipulação do DOM.
 
-Podemos utilizar o HTML5, CSS3 e o JavaScript no JSX (O trio-ternura estático), assim como também pré-processadores como **Sass** ou bibliotecas de estilo como **styled-components** o qual permite você usar o poder do CSS dentro do JavaScript.
+Podemos utilizar o HTML5, CSS3 e o JavaScript no JSX (O trio-ternura e outros elementos estáticos), assim como também pré-processadores como **Sass** ou bibliotecas de estilo como **styled-components** o qual permite você usar o poder do CSS dentro do JavaScript, abrindo um leque de infinitas possibilidades para a estilização da sua aplicação web.
+
+No React.js, é mais comum chamar uma classe HTML5 e CSS3 de `className=''` isso faz o compilador entender que é uma classe para ambos os lados, tanto pro lado estático quanto para o dinâmico.
 
 # Criando um template de aplicação com React.js
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" height="277"></a></div>
