@@ -21,7 +21,7 @@ Foi criada em 2011 por <a href="https://github.com/jordwalke">Jordan Walke</a> n
 - 2015 - **React Native** usada para criar aplicações mobile híbridas para iOS e Android
 - 2015 - **UWP** (Universal Windows Plataform) usado para criar aplicações Desktop
 
-O **React.js** trabalha muito com componentização para criação de interfaces, ou seja, ele é **baseado em componentes** como se fossem pequenas caixinhas e consegue trabalhar em conjunto com outros frameworks JavaScript ou outras linguagens de programação, isso é claro, tomando o devido cuidado você consegue utilizar sem problemas.
+O **React.js** trabalha muito com componentização para criação de interfaces, ou seja, ele é **baseado em componentes** como se fossem pequenas caixinhas e consegue trabalhar em conjunto com outros frameworks JavaScript, como jQuery, Vue.js ou Angular, ou outras linguagens de programação como Ruby, PHP, Python etc..., isso é claro, tomando o devido cuidado, dependendo de qual for o caso do projeto ou caso de uso, você consegue utilizar sem problema algum.
 
 Ele possui um paradigma de linguagem de programação declarativa, ou seja, o React.js só está preocupado apenas com o que é exibido na interface do usuário.
 
