@@ -67,6 +67,10 @@ O React.js não separa as tecnologias colocando marcação em arquivos separados
 
 Não é obrigatório a utilização do JSX. Ele é um **Sintax Suggar** para `React.createElement`.
 
+### Babel.js
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" height="177"></div><br \>
+O browser não interpreta o JSX, para isso é necessário um transpilador para que a aplicação possa entender o código. O mais utilizado é o Babel.
+
 # Criando um template de aplicação com React.js
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" height="277"></a></div>
 
