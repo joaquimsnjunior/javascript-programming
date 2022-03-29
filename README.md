@@ -1,4 +1,4 @@
-<a href="https://github.com/IsaacAlves7/vue.js-programming"><img src="https://miro.medium.com/max/3600/1*y7PmXVFDQFW7CoganneS4w.png"/></a>
+<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://miro.medium.com/max/3600/1*y7PmXVFDQFW7CoganneS4w.png"/></a>
 
 # <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" height="22"> It's a repository of Vue.js development ✌️📜
 
