@@ -173,7 +173,7 @@ const rootElement = document.getElementById("root")
 ReactDOM.render(element2, rootElement)
 ```
 
-Existe um elemento chamado `Fragment` que cancela os nós. Para imprimir os dois elementos desse componente `App()`, ou seja, o componente inteiro basta inserir `<App />`:
+Existe um elemento chamado `Fragment` que cancela os nós. Para imprimir os dois elementos desse componente `App()`, ou seja o componente inteiro, basta inserir `<App />`:
 
 ```javascript
 import React, {Fragment} from "react"
