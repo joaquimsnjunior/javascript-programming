@@ -101,6 +101,7 @@ function primeiroJSX() {
    return (
      <div>
      Isaac Alves Pinheiro - Renderizando o meu nome com JSX - React.js
+     <h1>Soma:{sum(40, 30)}</h1>
      </div>
    )
 }
@@ -109,7 +110,6 @@ const App = () => {
    return (
      <div className="App">
        {primeiroJSX()}
-       {sum()}
      </div>
    )
 }
