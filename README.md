@@ -222,8 +222,6 @@ Happy hacking!
 Veja mais como criar uma aplicação em **React.js**: [Criar um Web App com React](https://github.com/facebook/create-react-app).
 
 # React Hook
-<!-- <div align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--joa9_6zs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pijec5h1113okhw4orba.png"></div>
- -->
 <div align="center"><img src="https://miro.medium.com/max/1166/1*fQefaOBmMkqfdpvphCEdVw.png" height="277"></div>
 
 # React.js
@@ -244,6 +242,8 @@ Veja mais como criar uma aplicação em **React.js**: [Criar um Web App com Reac
 # GraphQL
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" height="277"></div>
 
+# Apollo GraphQL
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" height="277"></div>
 
 
 
