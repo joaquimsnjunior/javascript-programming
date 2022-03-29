@@ -1,7 +1,8 @@
+<a href="https://github.com/IsaacAlves7/vue.js-programming"><img src="https://miro.medium.com/max/3600/1*y7PmXVFDQFW7CoganneS4w.png"/></a>
+
 # <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" height="22"> It's a repository of Vue.js development ✌️📜
 
 <blockquote>I created this repository for my Vue.js development learning</blockquote>
-<a href="https://github.com/IsaacAlves7/vue.js-programming"><img src="https://miro.medium.com/max/3600/1*y7PmXVFDQFW7CoganneS4w.png"/></a>
 <!--
 https://d3smn0u2zr7yfv.cloudfront.net/uploads/article/main_image/225/primary_mini-head.png
 https://mdbootstrap.com/img/Marketing/general/vue-presentation-wide.png
