@@ -152,7 +152,7 @@ ReactDOM.render(element2, rootElement)
 
 O valor impresso será o `element2` devido o nó.
 
-```
+```javascript
 import React, {Fragment} from "react"
 import ReactDOM from "react-dom"
 import "./index.css"
@@ -175,7 +175,7 @@ ReactDOM.render(element2, rootElement)
 
 Existe um elemento chamado `Fragment` que cancela os nós. Para imprimir os dois elementos desse componente `App()`, ou seja, o componente inteiro basta inserir `<App />`:
 
-```
+```javascript
 import React, {Fragment} from "react"
 import ReactDOM from "react-dom"
 import "./index.css"
