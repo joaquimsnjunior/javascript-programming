@@ -77,7 +77,7 @@ Para aproveitar o marketing, o LiveScript teve seu nome alterado para <b>JavaScr
 
 <img src="https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg" width="100%"/>
 
-# 📜 O que é JavaScript (JS)? 📜
+# 📜 JavaScript (JS) 📜
 <div align="center"><img src="https://iconape.com/wp-content/png_logo_vector/javascript-js-logo.png" height="177"/></div><br \>
 
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação dinâmica, que é comumente utilizada como parte dos navegadores, criada para esse propósito, manipular elementos no HTML. Mas acabou crescendo, e atualmente podemos ver diversos ambientes que rodam JavaScript, além de desenvolver para os mais variados fins, como extensões para aplicações, desenvolvimento híbrido para desktop ou mobile e até mesmo códigos back-end. 
