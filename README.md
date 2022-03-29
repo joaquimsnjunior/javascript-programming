@@ -127,6 +127,10 @@ No React.js, é mais comum chamar uma classe HTML5 e CSS3 de `className=''` isso
 ## Renderização de elementos
 A **renderização** do React.js é feita em **nós raíz** , o React.js "pensa" em como a interface deve estar a cada momento ao invés de alterá-la com o tempo, o que faz ter ganho de performance e evita uma série de erros.
 
+```javascript
+
+```
+
 # Criando um template de aplicação com React.js
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" height="277"></a></div>
 
