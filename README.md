@@ -69,6 +69,7 @@ Não é obrigatório a utilização do JSX. Ele é um **Sintax Suggar** para `Re
 
 ### Babel.js
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" height="177"></div><br \>
+
 O browser não interpreta o JSX, para isso é necessário um transpilador para que a aplicação possa entender o código. O mais utilizado é o **Babel**.
 
 ### Criando o primeiro JSX no `index.js`
