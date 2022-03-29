@@ -54,6 +54,8 @@ Após criar o `package.json`, o segundo comando irá instalar o React.js juntame
 > Com isso, você ficará somente com o `package.json` que é responsável por administrar os pacotes e a inicialização da sua aplicação. Note que em `dependences` possui todas as dependências ainda lá, então, você só precisa rodar o comando `npm install` para que as dependências sejam instaladas novamente.
 
 ## O que é JSX?
+<div align="center"><a href="https://www.droptica.com/sites/droptica.com/files/media/image/react.png" height="177"></a></div><br \>
+
 O **JSX** não é um arquivo HTML e nem uma string! Foi uma linguagem de marcação criada para poder utilizar a linguagem de marcação **XML** e a linguagem de programação **JavaScript** no seu código-fonte.
 
 ### Sintaxe do JSX
@@ -66,6 +68,8 @@ O React.js não separa as tecnologias colocando marcação em arquivos separados
 Não é obrigatório a utilização do JSX. Ele é um **Sintax Suggar** para `React.createElement`.
 
 # Criando um template de aplicação com React.js
+<div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" height="277"></a></div>
+
 ```javascript
 npx create-react-app reactjs-project
 ```
