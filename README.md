@@ -74,7 +74,7 @@ Não é obrigatório a utilização do JSX. Ele é um **Sintax Suggar** para `Re
 npx create-react-app reactjs-project
 ```
 
-**Saída (Output)**:
+<details><summary><b title="(click to open)">Saída (Output)</b></summary>
 <pre>
 Need to install the following packages:
   create-react-app
@@ -134,6 +134,7 @@ We suggest that you begin by typing:
 
 Happy hacking!
 </pre>
+</details>
 
 # React Hook
 <!-- <div align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--joa9_6zs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pijec5h1113okhw4orba.png"></div>
