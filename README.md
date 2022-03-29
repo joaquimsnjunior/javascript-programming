@@ -120,6 +120,8 @@ ReactDOM.render(<App/>, rootElement)
 
 Precisa ser criado uma função JavaScript com o elemento `return()`, para retornar essa função, e dentro dele os elementos (tags) HTML para a manipulação do DOM.
 
+Podemos utilizar o HTML5, CSS3 e o JavaScript no JSX (O trio-ternura estático), assim como também pré-processadores como **Sass** ou bibliotecas de estilo como **styled-components** o qual permite você usar o poder do CSS dentro do JavaScript.
+
 # Criando um template de aplicação com React.js
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg" height="277"></a></div>
 
