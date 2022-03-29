@@ -75,7 +75,7 @@ Para aproveitar o marketing, o LiveScript teve seu nome alterado para <b>JavaScr
 
 <h1 align="center">📜 JavaScript (JS) Timeline 🕰️</h1>
 
-![JS Timeline](https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg)
+<img src="https://user-images.githubusercontent.com/61624336/102109990-697c8100-3e13-11eb-92c1-9f04c4a5edb5.jpg" width="100%"/>
 
 # 📜 O que é JavaScript (JS)? 📜
 <div align="center"><img src="https://iconape.com/wp-content/png_logo_vector/javascript-js-logo.png" height="177"/></div><br \>
