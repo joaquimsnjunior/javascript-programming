@@ -184,6 +184,8 @@ Happy hacking!
 </pre>
 </details>
 
+Veja mais como criar uma aplicação em **React.js**: [Create React App](https://github.com/facebook/create-react-app).
+
 # React Hook
 <!-- <div align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--joa9_6zs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pijec5h1113okhw4orba.png"></div>
  -->
