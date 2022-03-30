@@ -236,6 +236,8 @@ Foi criada por <a href="https://github.com/yyx990803">Evan You</a> (Google) em 2
 # 📜 Webpack 🧊
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div><br \>
 
+O **Webpack** é um empacotador que pega módulos com dependências e cria conteúdos estáticos.
+
 # 📜 Gulp 🥤
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://symbols.getvecta.com/stencil_25/32_gulp.9db342974c.svg" height="277"></a></div><br \>
 
