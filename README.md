@@ -274,6 +274,7 @@ const rootElement = document.getElementById("root")
 ReactDOM.render(<App />, rootElement)
 ```
 
+### `ComponenteA.jsx`
 ```jsx
 import React from "react"
 
@@ -286,6 +287,7 @@ function ComponenteA() {
 export default ComponenteA
 ```
 
+### `ComponenteB.jsx`
 ```jsx
 import React from "react"
 
