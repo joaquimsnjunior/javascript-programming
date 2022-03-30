@@ -419,7 +419,15 @@ E com todos esses itens, que fazem parte do ecossistema do React, conseguimos af
 # Webpack
 <div align="center"><a href="https://webpack.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div>
 
-O **webpack** é um **module bundler** (um empacotador de módulos para aplicações JS). Gerar bundler que será utilizado no HTML, em ES5.
+O **webpack** é um **module bundler** (um empacotador de módulos para aplicações JS). Gerar _bundler_ que será utilizado no HTML, em ES5.
+
+Tem suporte:
+- Fontes;
+- CSS;
+- Imagens;
+- HTML;
+- JS;
+- Plugins.
 
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" height="277"></a></div>
 
