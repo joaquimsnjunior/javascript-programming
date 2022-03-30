@@ -362,17 +362,21 @@ constructor(props) {
     }
   }
   
-  const alterarCopo() {
-    
+  alterarCopo = () => {
+     this.setState({
+       copo: 'refrigerante'
+     })
+     
+     // this.state.copo = 'refrigerante'
   }
   
   render() {
-    const {clock} = this.state
+    const {clock, copo} = this.state
     
     return (
       <div>
          <h1>{clock}</h1>
-         <button onClick={alterarCopo()}>{copo}</button>
+         <button onClick={() => this.alterarCopo()}>{copo}</button>
       </div>
     )
   }
