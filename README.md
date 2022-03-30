@@ -266,7 +266,7 @@ function App() {
       <Button onClick={() => soma(20, 50)} name='Clique para somar'/>
       <ComponentA>
         <ComponentB>
-          <Button onClick={() => soma(30, 40)} name='Clique para somar'/>
+          <Button onClick={() => soma(30, 40)} name='Clique para somar também'/>
         </ComponentB>
       </ComponentA>
     </div>
@@ -303,7 +303,35 @@ function ComponenteB() {
 export default ComponenteB
 ```
 
-Dessa forma, irá renderizar somente o `ComponenteA`.
+Dessa forma, irá renderizar somente o `ComponenteA`. No React.js ele só irá renderizar o efeito de hierarquia de componentes pela propriedade `children`, dessa forma ficará, `props.children`. Vamos ver isso na prática:
+
+### `ComponenteA.jsx`
+```jsx
+import React from "react"
+
+function ComponenteA() {
+  return (
+    <div>Componente A
+      <div>{props.children}</div>
+    </div>
+  )
+}
+
+export default ComponenteA
+```
+
+### `ComponenteB.jsx`
+```jsx
+import React from "react"
+
+function ComponenteB(props) {
+  return (
+    <div>Componente B {props.children} </div>
+  )
+}
+
+export default ComponenteB
+```
 
 ---
 
