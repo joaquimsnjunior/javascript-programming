@@ -231,8 +231,6 @@ Desde então, tornou-se uma cadeia de ferramentas que permite aos desenvolvedore
 
 <p>O <b>Vue.js</b> é um framework JavaScript progressivo, você consegue utilizar ele em conjunto com outros frameworks ou com uma aplicação de grande porte, cujo o Vue.js entrega a melhor performance. 
   
-Foi criada por <a href="https://github.com/yyx990803">Evan You</a> (Google) em 2013 / 2014. Possui uma renderização declarativa e composição de componentes. As versões do Framework possuem nomes de Animes.</p>
-
 # 📜 Webpack 🧊
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div><br \>
 
