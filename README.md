@@ -505,7 +505,10 @@ npm i @babel/core babel-loader @babel/present-env @babel/preset-react --save-dev
 
 > Caso dê erro pela sintaxe da instalação, instale elas individualmente, exemplo: 
 > - `npm i @babel/core --save-dev`
-> - `npm i babel-loader`
+> - `npm i babel-loader --save-dev`
+> 
+> O comando `--save-dev` significa para salvar o pacote na área de `"devDependencies"` no `package.json`.
+
 
 # ESLint
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="277"></a></div>
