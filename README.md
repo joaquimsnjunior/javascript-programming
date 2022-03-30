@@ -417,7 +417,9 @@ Como foi dito, o React.js é uma biblioteca e pode ser usado em diversos ecossis
 E com todos esses itens, que fazem parte do ecossistema do React, conseguimos afirmar que é possível sim criar aplicações completas usando o React.
 
 # Webpack
-<div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div><br \>
+<div align="center"><a href="https://webpack.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div><br \>
+
+O **webpack** é um **module bundler** (um empacotador de módulos para aplicações JS). Gerar bundler que será utilizado no HTML, em ES5.
 
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" height="277"></a></div><br \>
 
