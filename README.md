@@ -1,6 +1,9 @@
 <a href="https://github.com/IsaacAlves7/javascript-programming/tree/React.js"><img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif" width="100%"/></a>
 
-# <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="27"> It's a repository of React development ⚛️
+# <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="24"> It's a repository of React development ⚛️
+
+<blockquote>It's a repository of React.js development (with <code>.jsx</code> and <code>.tsx</code>)!</blockquote>
+
 <!--
 [![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
@@ -9,7 +12,7 @@
 ## Leia mais sobre o React.js:
 - https://medium.com/tableless/o-guia-completo-do-react-e-o-seu-ecossistema-b31a10ecd84f
 
-<blockquote>It's a repository of React.js development (with <code>.jsx</code> and <code>.tsx</code>)!</blockquote>
+---
 
 # ⚛️ React.js 📜
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="277"></a></div>
