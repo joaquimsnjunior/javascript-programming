@@ -242,8 +242,61 @@ function Button(props) {
 export default Button;
 ```
 
-Tudo o que passar para um componente você precisa inserir o `props` nele.
+Tudo o que passar para um componente você precisa inserir o `props` nele. 
 
+Além disso, eu posso definir quantos componentes eu quiser:
+
+```javascript
+import React from "react"
+import ReactDOM from "react-dom"
+import Button from "./Button"
+import "./index.css"
+
+function soma(a, b) {
+  alert(a + b);
+}
+
+function App() {
+  return (
+    <div className='App'>
+      Hello, World!
+      <Button onClick={() => soma(20, 50)} name='Clique para somar'/>
+      <ComponentA>
+        <ComponentB>
+          <Button onClick={() => soma(30, 40)} name='Clique para somar'/>
+        </ComponentB>
+      </ComponentA>
+    </div>
+  )
+}
+
+const rootElement = document.getElementById("root")
+ReactDOM.render(<App />, rootElement)
+```
+
+```jsx
+import React from "react"
+
+function ComponenteA() {
+  return (
+    <h2>Componente A</h2>
+  )
+}
+
+export default ComponenteA
+```
+
+```jsx
+import React from "react"
+
+function ComponenteB() {
+  return (
+    <h2>Componente B</h2>
+  )
+}
+
+export default ComponenteB
+```
 ---
 
 # Criando um template de aplicação com React.js
