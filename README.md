@@ -73,7 +73,7 @@ A porta padrão para acessar a aplicação é a `3000`, caso tenha outro tipo de
 ## O que é JSX?
 <div align="center"><img src="https://daniel-vinicius.gallerycdn.vsassets.io/extensions/daniel-vinicius/code-snipptes-reactjs-pt-br/0.5.0/1610479284868/Microsoft.VisualStudio.Services.Icons.Default" height="177"></div><br \>
 
-O **JSX** não é um arquivo HTML e nem uma string! Foi uma linguagem de marcação criada para poder utilizar a linguagem de marcação **XML** e a linguagem de programação **JavaScript** no seu código-fonte. Não necessariamente ele precisa estar em um arquivo com extensão `.jsx`, mas sim em um `.html`, `.js` e etc.
+O **JSX** não é um arquivo HTML e nem uma string! Foi uma linguagem de marcação criada para poder utilizar a linguagem de marcação **XML** e a linguagem de programação **JavaScript** no seu código-fonte. Não necessariamente ele precisa estar em um arquivo com extensão `.jsx`, mas pode sim estar em um arquivo `.html`, `.js` e etc, porém ele possui um volume menor em arquivos `.jsx` comparado com o demais.
 
 ### Sintaxe do JSX
 ```javascript
@@ -199,10 +199,11 @@ ReactDOM.render(<App />, rootElement)
 ## Componentização e Props
 Os componentes podem trabalhar de duas formas, **Função** ou **Classe**, lembrando que o JavaScript não trabalha diretamente com classes como a linguagem Java ou C#, mas sim **protótipos**.
 
+### `index.js`
 ```javascript
 import React, {Fragment} from "react"
 import ReactDOM from "react-dom"
-import Button from ""
+import Button from "./Button"
 import "./index.css"
 
 function soma() {
@@ -221,6 +222,26 @@ function App() {
 const rootElement = document.getElementById("root")
 ReactDOM.render(<App />, rootElement)
 ```
+
+### `Button.jsx`
+```
+import React, {Fragment} from "react";
+
+function Button(props) { 
+  
+  const { name, onClick } = props // (ES6) Desestruturação pela variável e pegar o parâmetro dela
+  // É a mesma coisa que fazer const name = props.name
+  // Como o onClick é um componente, ele vai receber o Callback e enviar o callback
+  
+  return (
+    <button onClick={onClick}>{name}</button>
+  )
+}
+
+export default Button;
+```
+
+Tudo o que passar para um componente você precisa inserir o `props` nele
 
 ---
 
