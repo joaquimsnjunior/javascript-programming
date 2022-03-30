@@ -448,9 +448,25 @@ Os principais conceitos do Webpack:
 ```
 npm i -D webpack webpack-cli
 ```
+
+Depois de instalar, crie um arquivo na pasta do projeto chamado: `webpack.config.js`:
+
+```javascript
+const path = require('path');
+
+module.exports = {
+    entry: './src/index.js',
+    output: {
+        path: path.resolve(__dirname, 'dist'),
+        filename: 'bundle.js'
+    }
+}
+```
+
 ```
 "build": "webpack --mode production"
 ```
+
 ```
 npm i @babel/core babel-loader @babel/present-env @babel/preset-react --save-dev
 ```
