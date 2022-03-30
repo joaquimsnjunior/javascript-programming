@@ -250,6 +250,8 @@ Além disso, eu posso definir quantos componentes eu quiser:
 import React from "react"
 import ReactDOM from "react-dom"
 import Button from "./Button"
+import ComponenteA from "./ComponenteA"
+import ComponenteB from "./ComponenteB"
 import "./index.css"
 
 function soma(a, b) {
