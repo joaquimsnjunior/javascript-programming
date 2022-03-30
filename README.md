@@ -452,6 +452,7 @@ npm i -D webpack webpack-cli
 
 Depois de instalar, crie um arquivo na pasta do projeto chamado: `webpack.config.js`:
 
+#### `webpack.config.js`
 ```javascript
 const path = require('path');
 
@@ -464,7 +465,14 @@ module.exports = {
 }
 ```
 
-Nós temos uma variável const `path` que é referente ao caminho do Webpack e uma exportação de módulos `module.exports` com o `entry` (ponto de entrada do Webpack) apontando para o `index.js`, o arquivo inicial do nosso projeto, e em `output` temos o path com o nome do diretório, que no caso é `dist`, se tratando do diretório do projeto final da aplicação, mas também pode ser `build` ou qualquer nome a seu critério. Além disso, também tem o `filename` que é o nome do bundle no quando chegar ao resultado final da aplicação, o nome dele também fica a critério.
+Nós temos uma variável const `path` que é referente ao caminho do Webpack e uma exportação de módulos `module.exports` com o `entry` (ponto de entrada do Webpack) apontando para o `index.js`, o arquivo inicial do nosso projeto, e em `output`, ou seja temos entrada e saída do nosso bundler, temos o path com o nome do diretório, que no caso é `dist`, se tratando do diretório do projeto final da aplicação, mas também pode ser `build` ou qualquer nome a seu critério. 
+
+Além disso, também tem o `filename` que é o nome do bundle para que quando chegar ao resultado final da aplicação ele seja nomeado com esse nome de arquivo, o nome dele também fica a critério.
+
+#### `index.js`
+```javascript
+console.log('Hello, world!');
+```
 
 ```
 "build": "webpack --mode production"
