@@ -346,6 +346,44 @@ O ReactJS possui 4 estados:
 
 Nenhum componente pai ou filho devem saber se outro componente possui estado ou não. O estado é apenas local ao componente e caso seja necessário enviar algum atributo para outro então é feito via props.
 
+```javascript
+import React, {Component} from "react"
+import ReactDOM from "react-dom"
+import "./index.css"
+
+class App extends Component {
+
+constructor(props) {
+  super(props)
+  
+  this.state = { // protótipo de classe para o state
+    clock: 1000,
+    copo: 'água'
+    }
+  }
+  
+  const alterarCopo() {
+    
+  }
+  
+  render() {
+    const {clock} = this.state
+    
+    return (
+      <div>
+         <h1>{clock}</h1>
+         <button onClick={alterarCopo()}>{copo}</button>
+      </div>
+    )
+  }
+}
+
+const rootElement = document.getElementById("root")
+ReactDOM.render(<App />, rootElement)
+```
+
+
+
 ---
 
 # Criando um template de aplicação com React.js
