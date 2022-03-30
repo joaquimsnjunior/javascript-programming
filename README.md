@@ -301,6 +301,9 @@ function ComponenteB() {
 
 export default ComponenteB
 ```
+
+Dessa forma, irá renderizar somente o `ComponenteA`.
+
 ---
 
 # Criando um template de aplicação com React.js
