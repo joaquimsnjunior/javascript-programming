@@ -333,6 +333,11 @@ function ComponenteB(props) {
 export default ComponenteB
 ```
 
+# Ecossistema do React.js
+
+## Estado e ciclo de vida
+
+
 ---
 
 # Criando um template de aplicação com React.js
