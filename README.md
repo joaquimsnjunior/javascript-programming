@@ -342,6 +342,8 @@ O ReactJS possui 4 estados:
 - Atualização
 - Desmontagem
 
+<img src="https://miro.medium.com/max/1400/1*sn-ftowp0_VVRbeUAFECMA.png" width='100%'/>
+
 ---
 
 # Criando um template de aplicação com React.js
