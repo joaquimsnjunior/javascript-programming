@@ -22,7 +22,7 @@
 -->
 <blockquote>I created this repository for my JavaScript Full-Stack development learning.</blockquote>
 
-## 🎒 Prerequisites and repositories 📚:
+## Prerequisites and repositories:
 <ul>
   <li>Good domains in English;</li>
   <li>Programming logic;</li>
@@ -234,7 +234,7 @@ Desde então, tornou-se uma cadeia de ferramentas que permite aos desenvolvedore
 # 📜 Webpack 🧊
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div><br \>
 
-O **Webpack** é um empacotador que pega módulos com dependências e cria conteúdos estáticos.
+O **Webpack** é um empacotador que pega módulos com dependências e cria conteúdos estáticos para produção.
 
 # 📜 Gulp 🥤
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://symbols.getvecta.com/stencil_25/32_gulp.9db342974c.svg" height="277"></a></div><br \>
