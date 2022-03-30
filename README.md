@@ -438,12 +438,22 @@ Os principais conceitos do Webpack:
 - **Loaders** - É para permitir que o Webpack gerencie arquivos não são JavaScript.
 - **Plugins** - Plugins podem ser utilizados para otimização de pacotes, minificação, injeção de scripts e muito mais.
 - **Mode** - Utilizados para abordagem de configuração zero. É possível configurar módulos como **production**, **development** ou **none**.
+
   - **Production** trás otimizações internas.
   - **Development** é executado com três plugins: UglifyJsPlugin, ModuleConcatenationPlugin e NoEmitOnErrorsPlugin.
 
-
-
+### Criação do arquivo `webpack.config.js`
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://miro.medium.com/max/994/1*BxSBCuP7IRFz4pZCSVBxlQ.png" height="277"></a></div>
+
+```
+npm i -D webpack webpack-cli
+```
+```
+"build": "webpack --mode production"
+```
+```
+npm i @babel/core babel-loader @babel/present-env @babel/preset-react --save-dev
+```
 
 # ESLint
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="277"></a></div>
