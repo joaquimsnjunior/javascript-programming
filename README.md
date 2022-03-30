@@ -444,6 +444,7 @@ Os principais conceitos do Webpack:
 - **Mode** - Utilizados para abordagem de configuração zero. É possível configurar módulos como **production**, **development** ou **none**.
 
   - **Production** trás otimizações internas.
+  
   - **Development** é executado com três plugins: **UglifyJsPlugin**, **ModuleConcatenationPlugin** e **NoEmitOnErrorsPlugin**.
 
 ### Criação do arquivo `webpack.config.js`
