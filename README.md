@@ -406,6 +406,9 @@ ReactDOM.render(<App />, rootElement)
 
 Como foi dito, o React.js é uma biblioteca e pode ser usado em diversos ecossistemas
 
+# Webpack
+<div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div>
+
 ---
 
 # Criando um template de aplicação com React.js
