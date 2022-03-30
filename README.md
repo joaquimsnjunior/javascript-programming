@@ -6,6 +6,8 @@
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" height="47"></div>
 -->
+## Leia mais sobre o React.js:
+- https://medium.com/tableless/o-guia-completo-do-react-e-o-seu-ecossistema-b31a10ecd84f
 
 <blockquote>It's a repository of React.js development (with <code>.jsx</code> and <code>.tsx</code>)!</blockquote>
 
@@ -24,7 +26,6 @@ Foi criada em 2011 por <a href="https://github.com/jordwalke">Jordan Walke</a> n
 - 2015 - **UWP** (Universal Windows Plataform) usado para criar aplicações Desktop
 
 O **React.js** trabalha muito com componentização para criação de interfaces, ou seja, ele é **baseado em componentes** como se fossem pequenas caixinhas e consegue trabalhar em conjunto com outros frameworks JavaScript, como jQuery, Vue.js ou Angular, ou outras linguagens de programação como Ruby, PHP, Python etc..., isso é claro, tomando o devido cuidado, dependendo de qual for o caso do projeto ou caso de uso, você consegue utilizar sem problema algum.
-
 
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://icon-library.com/images/react-icon/react-icon-0.jpg" height="277"></a></div>
 
@@ -462,6 +463,8 @@ module.exports = {
     }
 }
 ```
+
+Nós temos uma variável const `path` que é referente ao caminho do Webpack e uma exportação de módulos `module.exports` com o `entry` (ponto de entrada do Webpack) apontando para o `index.js`, o arquivo inicial do nosso projeto, e em `output` temos o path com o nome do diretório, que no caso é `dist`, se tratando do diretório do projeto final da aplicação, mas também pode ser `build` ou qualquer nome a seu critério. Além disso, também tem o `filename` que é o nome do bundle no quando chegar ao resultado final da aplicação, o nome dele também fica a critério.
 
 ```
 "build": "webpack --mode production"
