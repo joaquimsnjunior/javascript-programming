@@ -201,20 +201,20 @@ Os componentes podem trabalhar de duas formas, **Função** ou **Classe**, lembr
 
 ### `index.js`
 ```javascript
-import React, {Fragment} from "react"
+import React from "react"
 import ReactDOM from "react-dom"
 import Button from "./Button"
 import "./index.css"
 
-function soma() {
-  
+function soma(a, b) {
+  alert(a + b);
 }
 
 function App() {
-  
   return (
-    <div className='App'>]
+    <div className='App'>
       Hello, World!
+      <Button onClick={() => soma(20, 50)} name='Clique para somar'/>
     </div>
   )
 }
@@ -222,16 +222,17 @@ function App() {
 const rootElement = document.getElementById("root")
 ReactDOM.render(<App />, rootElement)
 ```
+Vamos importar um componente de botão com o arquivo `Button.jsx` e esse irá fazer uma exportação padrão pra quem quiser acessá-lo através do `import`, no nosso caso será no `index.js`
 
 ### `Button.jsx`
 ```jsx
-import React, {Fragment} from "react";
+import React from "react";
 
 function Button(props) { 
   
   const { name, onClick } = props // (ES6) Desestruturação pela variável e pegar o parâmetro dela
   // É a mesma coisa que fazer const name = props.name
-  // Como o onClick é um componente, ele vai receber o Callback e enviar o callback
+  // Como o onClick é um componente, ele vai receber o Callback e enviar o Callback para o mesmo
   
   return (
     <button onClick={onClick}>{name}</button>
@@ -241,7 +242,7 @@ function Button(props) {
 export default Button;
 ```
 
-Tudo o que passar para um componente você precisa inserir o `props` nele
+Tudo o que passar para um componente você precisa inserir o `props` nele.
 
 ---
 
