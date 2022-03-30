@@ -344,6 +344,8 @@ O ReactJS possui 4 estados:
 
 <img src="https://miro.medium.com/max/1400/1*sn-ftowp0_VVRbeUAFECMA.png" width='100%'/>
 
+Nenhum componente pai ou filho devem saber se outro componente possui estado ou não. O estado é apenas local ao componente e caso seja necessário enviar algum atributo para outro então é feito via props.
+
 ---
 
 # Criando um template de aplicação com React.js
