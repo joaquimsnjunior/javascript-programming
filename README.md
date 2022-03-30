@@ -224,7 +224,7 @@ ReactDOM.render(<App />, rootElement)
 ```
 
 ### `Button.jsx`
-```
+```jsx
 import React, {Fragment} from "react";
 
 function Button(props) { 
