@@ -444,7 +444,7 @@ Os principais conceitos do Webpack:
 - **Mode** - Utilizados para abordagem de configuração zero. É possível configurar módulos como **production**, **development** ou **none**.
 
   - **Production** trás otimizações internas.
-  - **Development** é executado com três plugins: UglifyJsPlugin, ModuleConcatenationPlugin e NoEmitOnErrorsPlugin.
+  - **Development** é executado com três plugins: **UglifyJsPlugin**, **ModuleConcatenationPlugin** e **NoEmitOnErrorsPlugin**.
 
 ### Criação do arquivo `webpack.config.js`
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://miro.medium.com/max/994/1*BxSBCuP7IRFz4pZCSVBxlQ.png" height="277"></a></div>
@@ -477,22 +477,25 @@ Além disso, também tem o `filename` que é o nome do bundle para que quando ch
 console.log('Hello, world!');
 ```
 
+#### `package.json`
+```
+"build": "webpack --mode production"
+```
+
 #### Terminal
 ```
 npm run build
 ```
 
-Com isso ele vai gerar o nosso build com a pasta `./dist/`, que é a mesma que foi colocada no output do `webpack.config.js`, e dentro dela o arquivo `bundler.js` minificado com uma linha de script.
+Com isso ele vai gerar o nosso build com a pasta `./dist/`, que é a mesma que foi definida no output do `webpack.config.js`, e dentro dela o arquivo `bundler.js` minificado com uma linha de script.
 
 ```
 node dist/bundler.js
 ```
 
-<pre>Hello, World!</pre>
+> O script está funcionando!
 
-```
-"build": "webpack --mode production"
-```
+<pre>Hello, World!</pre>
 
 ```
 npm i @babel/core babel-loader @babel/present-env @babel/preset-react --save-dev
