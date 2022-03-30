@@ -122,7 +122,9 @@ ReactDOM.render(<App/>, rootElement)
 
 Precisa ser criado uma função JavaScript com o elemento `return()`, para retornar essa função, e dentro dele os elementos (tags) HTML para a manipulação do DOM.
 
-Podemos utilizar o HTML5, CSS3 e o JavaScript no JSX (O trio-ternura e outros elementos estáticos), assim como também pré-processadores como **Sass** ou bibliotecas de estilo como **styled-components** o qual permite você usar o poder do CSS dentro do JavaScript, abrindo um leque de infinitas possibilidades para a estilização da sua aplicação web.
+<div align="center"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="177"></div><br \>
+
+Podemos utilizar o HTML5, CSS3 e o JavaScript no JSX (O trio-ternura e outros elementos estáticos), assim como também pré-processadores como **Sass**, frameworks front-end como Bootstrap ou Material-UI e bibliotecas de estilo como **styled-components** o qual permite você usar o poder do CSS dentro do JavaScript, abrindo um leque de infinitas possibilidades para a estilização da sua aplicação web.
 
 No React.js, é mais comum chamar uma classe HTML5 e CSS3 de `className=''` isso faz o compilador entender que é uma classe para ambos os lados, tanto pro lado estático quanto para o dinâmico.
 
@@ -188,6 +190,32 @@ function App() {
     <div>
         {element}
         {element2}
+    </div>
+  )
+}
+
+const rootElement = document.getElementById("root")
+ReactDOM.render(<App />, rootElement)
+```
+
+## Componentização e Props
+Os componentes podem trabalhar de duas formas, **Função** ou **Classe**, lembrando que o JavaScript não trabalha diretamente com classes como a linguagem Java ou C#, mas sim **protótipos**.
+
+```javascript
+import React, {Fragment} from "react"
+import ReactDOM from "react-dom"
+import Button from ""
+import "./index.css"
+
+function soma() {
+  
+}
+
+function App() {
+  
+  return (
+    <div className='App'>]
+      Hello, World!
     </div>
   )
 }
