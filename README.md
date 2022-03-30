@@ -336,7 +336,11 @@ export default ComponenteB
 # Ecossistema do React.js
 
 ## Estado e ciclo de vida
-
+O ReactJS possui 4 estados:
+- Inicialização
+- Montagem
+- Atualização
+- Desmontagem
 
 ---
 
