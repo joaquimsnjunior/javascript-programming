@@ -193,7 +193,9 @@ O elétron é uma tecnologia madura com uma comunidade em crescimento e, portant
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/grunt.svg" height="277"></a></div><br \>
 
 # 📜 Babel 🏙️
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" height="277"></a></div>
+
+O **Babel.js** um famoso transpilador JavaScript, muito utilizado na linguagem pelas suas bibliotecas e frameworks.
 
 # 📜 Flow ⚡
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://cdn.worldvectorlogo.com/logos/flow.svg" height="277"></a></div><br \>
