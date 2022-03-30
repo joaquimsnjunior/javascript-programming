@@ -463,7 +463,7 @@ module.exports = {
     entry: './src/index.js',
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'bundle.js'
+        filename: 'bundler.js'
     }
 }
 ```
@@ -476,6 +476,19 @@ Além disso, também tem o `filename` que é o nome do bundle para que quando ch
 ```javascript
 console.log('Hello, world!');
 ```
+
+#### Terminal
+```
+npm run build
+```
+
+Com isso ele vai gerar o nosso build com a pasta `./dist/`, que é a mesma que foi colocada no output do `webpack.config.js`, e dentro dela o arquivo `bundler.js` minificado com uma linha de script.
+
+```
+node dist/bundler.js
+```
+
+<pre>Hello, World!</pre>
 
 ```
 "build": "webpack --mode production"
