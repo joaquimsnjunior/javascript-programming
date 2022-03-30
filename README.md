@@ -419,9 +419,9 @@ E com todos esses itens, que fazem parte do ecossistema do React, conseguimos af
 # Webpack
 <div align="center"><a href="https://webpack.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="277"></a></div>
 
-O **webpack** é um **module bundler** (um empacotador de módulos para aplicações JS). Gerar _bundler_ que será utilizado no HTML, em ES5.
+O **webpack** é um **module bundler** (um empacotador de módulos para aplicações JS). Gerar _bundler_ (empacotador) que será utilizado no HTML, em ES5.
 
-Tem suporte:
+Tem suporte a:
 - Fontes;
 - CSS;
 - Imagens;
@@ -430,11 +430,13 @@ Tem suporte:
 - Plugins.
 
 ## Configuração do Webpack
-<div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" height="277"></a></div>
+<div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" height="277"></a></div><br \>
 
 Os principais conceitos do Webpack:
-- **Entry** - Utilizando grafo, o Webpack precisa de um ponto de entrada para buscar todos os módulos e dependências.
-- **Output** - É para determinar quais são os bundlers que o Webpack irá emitir. 
+- **Entry** - Utilizando _grafo_, o Webpack precisa de um ponto de entrada para buscar todos os módulos e dependências.
+- **Output** - É para determinar quais são os bundlers que o Webpack irá emitir.
+- **Loaders** - É para permitir que o Webpack gerencie arquivos não são JavaScript.
+- **Plugins** - Plugins podem ser utilizados para otimização de pacotes, minificação, injeção de scripts e muito mais.
 
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://miro.medium.com/max/994/1*BxSBCuP7IRFz4pZCSVBxlQ.png" height="277"></a></div>
 
