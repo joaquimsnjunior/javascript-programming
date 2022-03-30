@@ -298,6 +298,9 @@ Veja mais como criar uma aplicação em **React.js**: [Criar um Web App com Reac
 # React Router
 <div align="center"><img src="https://logowiki.net/uploads/logo/r/react-router.svg" height="277"></div><br \>
 
+# Material-UI
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" height="277"></div><br \>
+
 # Styled-components
 <div align="center"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="277"></div><br \>
 
