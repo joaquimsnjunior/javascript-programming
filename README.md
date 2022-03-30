@@ -333,8 +333,6 @@ function ComponenteB(props) {
 export default ComponenteB
 ```
 
-# Ecossistema do React.js
-
 ## Estado e ciclo de vida
 O ReactJS possui 4 estados:
 - Inicialização
@@ -344,7 +342,7 @@ O ReactJS possui 4 estados:
 
 <img src="https://miro.medium.com/max/1400/1*sn-ftowp0_VVRbeUAFECMA.png" width='100%'/>
 
-Nenhum componente pai ou filho devem saber se outro componente possui estado ou não. O estado é apenas local ao componente e caso seja necessário enviar algum atributo para outro então é feito via props.
+Nenhum componente pai ou filho devem saber se outro componente possui estado ou não. O estado é apenas local ao componente e caso seja necessário enviar algum atributo para outro então é feito via `props`.
 
 ```javascript
 import React, {Component} from "react"
@@ -360,6 +358,14 @@ constructor(props) {
     clock: 1000,
     copo: 'água'
     }
+  }
+  
+  componentDidMount() {
+    window.setTimeout(() => {
+      this.setState({
+        copo: 'suco'
+      })
+    }, 3000)
   }
   
   alterarCopo = () => {
@@ -386,7 +392,17 @@ const rootElement = document.getElementById("root")
 ReactDOM.render(<App />, rootElement)
 ```
 
+## Ecossistema do React.js
+ - React Router;
+ - Redux;
+ - Material-UI;
+ - Ant-Design;
+ - Storybook;
+ - Gatsby;
+ - Jest;
+ - React i18n Next;
 
+Como foi dito, o React.js é uma biblioteca e pode ser usado em diversos ecossistemas
 
 ---
 
