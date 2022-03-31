@@ -9,7 +9,7 @@
 <hr>
 
 # 📜 Vanilla JavaScript 🍦
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://i.etsystatic.com/13517909/r/il/e028cc/1802571151/il_fullxfull.1802571151_kie1.jpg" title="Full-Stack JS Development" width="100%"></a></div>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://i.etsystatic.com/13517909/r/il/e028cc/1802571151/il_fullxfull.1802571151_kie1.jpg" title="Full-Stack JS Development" width="27%"></a></div>
 
 O termo "Vanilla", traduzido como "baunilha", nada mais é do que um sarcasmo para o **JavaScript puro**. Ou seja, muitos podem achar que se trata de uma biblioteca, pacote, módulo ou framework, mas não...é o bom e velho JavaScript.
 
@@ -17,7 +17,7 @@ E como estamos envolvendo o JavaScript puro, por que não utilizar esse branch p
 
 # 📜 Paradigmas de programação 🍦🏵️
 
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://user-images.githubusercontent.com/61624336/131275306-bf9c13fa-c430-4e42-8140-304659aafeec.png" width="1700"/></a></div><br>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://user-images.githubusercontent.com/61624336/131275306-bf9c13fa-c430-4e42-8140-304659aafeec.png" width="100%"/></a></div><br>
 
 Com o paradigma imperativo iremos aprender sobre tipos de valores e dados, variáveis, arrays, matrizes, estruturas condicionais, loops e funções.
 
