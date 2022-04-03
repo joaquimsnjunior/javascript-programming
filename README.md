@@ -557,6 +557,15 @@ ReactDOM.render(<App />, document.getElementById("app"));
 </html>
 ```
 
+#### `.babelrc`
+```babel
+{
+"present": [
+   "@babel/present-env"
+  ]
+}
+```
+
 # ESLint
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="277"></a></div>
 
