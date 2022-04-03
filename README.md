@@ -542,7 +542,7 @@ ReactDOM.render(<App />, document.getElementById("app"));
 ```
 
 #### `index.html`
-```javascript
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
