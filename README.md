@@ -509,7 +509,7 @@ npm i @babel/core babel-loader @babel/present-env @babel/preset-react --save-dev
 > 
 > O comando `--save-dev` significa para salvar o pacote na área de `"devDependencies"` no `package.json`.
 
-#### Configurando o webpack (`webpack.config.js`)
+#### `webpack.config.js`
 ```javascript
 const path = require('path');
 
@@ -531,6 +531,30 @@ module.exports = {
       ]
    },
 }
+```
+
+#### `index.js`
+```javascript
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+ReactDOM.render(<App />, document.getElementById("app"));
+```
+
+#### `index.html`
+```javascript
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>webpack 4 + Babel</title>
+  </head>
+  
+  <body>
+    <div id="app"></div>
+  </body>
+  
+</html>
 ```
 
 # ESLint
