@@ -509,7 +509,29 @@ npm i @babel/core babel-loader @babel/present-env @babel/preset-react --save-dev
 > 
 > O comando `--save-dev` significa para salvar o pacote na área de `"devDependencies"` no `package.json`.
 
+#### Configurando o webpack (`webpack.config.js`)
+```javascript
+const path = require('path');
 
+module.exports = {
+    entry: './src/index.js',
+    output: {
+        path: path.resolve(__dirname, 'dist'),
+        filename: 'bundler.js'
+    },
+    module: {
+      rules: [
+        {
+          test: /\.(js|jsx)$/,
+          exclude: /node_modules/,
+          use: {
+            loader: "babel-loader"
+          }
+        }
+      ]
+   },
+}
+```
 
 # ESLint
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="277"></a></div>
