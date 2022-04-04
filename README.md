@@ -499,6 +499,8 @@ node dist/bundler.js
 <pre>Hello, World!</pre>
 
 #### Utilizando o Webpack com Babel.js para transpilar o ES6 para ES5 com React.js
+![images](https://user-images.githubusercontent.com/61624336/161461421-2ae48a60-8925-4b48-94da-65cb3192a446.png)
+
 ```
 npm i @babel/core babel-loader @babel/present-env @babel/preset-react --save-dev
 ```
