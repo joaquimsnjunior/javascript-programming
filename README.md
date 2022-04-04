@@ -565,10 +565,18 @@ Para poder fazer com que o **webpack funcione juntamente com o Babel**, vai ser 
 ```babel
 {
 "present": [
-   "@babel/present-env"
+   "@babel/preset-env",
+   "@babel/preset-react"
   ]
 }
 ```
+
+```
+npm i react react-dom
+npm i -D babel-present-react
+```
+
+
 
 # ESLint
 <div align="center"><a href="https://pt-br.reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="277"></a></div>
